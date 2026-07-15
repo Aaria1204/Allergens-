@@ -1,0 +1,1770 @@
+restaurant_name,dish_name,allergens,guidance_tier,cross_contact
+886,Pickled Cucumber Salad,none flagged,No allergens flagged,unknown
+886,Crispy Silken Tofu,none flagged,No allergens flagged,unknown
+886,Hot and Sour Soup,none flagged,No allergens flagged,unknown
+886,Three Cup Chicken,"gluten (likely, medium)",Could modify,unknown
+886,Peashoots with Tofu Skin,none flagged,No allergens flagged,unknown
+886,Tomato and Egg,none flagged,No allergens flagged,unknown
+886,Sacha Black Pepper Beef,"gluten (likely, medium)",Could modify,unknown
+886,Loofah Garlic Stir Fry,"gluten (likely, high)",Flagged,unknown
+886,Fly's Head,"gluten (likely, medium)",Could modify,unknown
+886,Lo Ba Beng,"peanut (declared); gluten (likely, medium)",Flagged,unknown
+886,Beef Noodle Soup,gluten (declared),Flagged,unknown
+886,Dry Beef Noodles,"gluten (likely, high)",Flagged,unknown
+886,Lily Flemming Fried Rice,none flagged,No allergens flagged,unknown
+886,Sesame Noodles (Hot or Cold),"peanut (declared); gluten (likely, high)",Flagged,unknown
+886,Notorious TFC Sandwich,"gluten (likely, high)",Flagged,unknown
+886,Scallion Pancake Beef Wrap,"gluten (likely, high)",Flagged,unknown
+886,Koshihikari White Rice,none flagged,No allergens flagged,unknown
+886,Honey Glazed Popcorn Chicken,"gluten (likely, high)",Flagged,unknown
+886,Taiwanese Sausage,"gluten (likely, medium)",Could modify,unknown
+886,Shaky Fries,none flagged,Unknown,unknown
+886,886 Chili Sauce,none flagged,Unknown,unknown
+886,886 Chili Caramel Popcorn,none flagged,Unknown,unknown
+886,886 Shot Glass,none flagged,Unknown,unknown
+886,"Beer (Taiwan Beer Can/Bottle, Flavored, Seasonal Draft)","gluten (likely, medium)",Could modify,unknown
+886,"Wine (Seasonal Red, White, Orange)",none flagged,No allergens flagged,unknown
+886,"Sake & Soju (Shirokabe Sake, Jinro Soju, Sake Bomb, Baijiu Kaiju)",none flagged,Unknown,unknown
+886,"Cocktails (Pink Venom, Mojito)",none flagged,Unknown,unknown
+886,"Highballs (Whisky Soda, Taiwan Tea, Whiskey Winter Melon)",none flagged,Unknown,unknown
+886,"Shots (Whisky, Vodka, Tequila, Mezcal, Rum, Gin, Baijou)",none flagged,Unknown,unknown
+886,"Bombs & Spritz (Flavored Oolong Tea Spritz, Mango/Passionfruit/Lychee Spritz)",none flagged,No allergens flagged,unknown
+886,"Non-Alcoholic Beverages (Sarsaparilla, Guava Juice, Oolong/Winter Melon/Hot Tea)",none flagged,No allergens flagged,unknown
+Alison,Mushroom Croquettes,"gluten (likely, high)",Flagged,unknown
+Alison,Cheese Croquettes,"gluten (likely, high)",Flagged,unknown
+Alison,Manchego & Arugula,tree nut (declared),Flagged,unknown
+Alison,Five Onion Soup,"gluten (likely, high)",Flagged,unknown
+Baohaus,Chairman Bao,"peanut (declared); gluten (likely, high)",Flagged,unknown
+Baohaus,Birdhaus Bao,"peanut (declared); gluten (likely, high)",Flagged,unknown
+Baohaus,Mumbo Bird Bao,"peanut (declared); gluten (likely, high)",Flagged,unknown
+Baohaus,Mumbo Tofu Bao,"peanut (declared); gluten (likely, high)",Flagged,unknown
+Baohaus,Prime Brisket Bao,"peanut (declared); gluten (likely, high)",Flagged,unknown
+Baohaus,Gundagai Lamb Bao,"peanut (declared); gluten (likely, high)",Flagged,unknown
+Baohaus,Crispy Duck Bao,"peanut (declared); gluten (likely, high)",Flagged,unknown
+Baohaus,Linda's #1 Tuna Tataki,none flagged,Unknown,unknown
+Baohaus,Pork Tyrone,none flagged,Unknown,unknown
+Baohaus,Mumbo Fried Cauliflower,"gluten (likely, medium)",Could modify,unknown
+Baohaus,Smoked & Pickled Slaw w/ 3 Peppers,none flagged,No allergens flagged,unknown
+Baohaus,Schmaltzy Snow Pea Shoots,none flagged,No allergens flagged,unknown
+Baohaus,Oyster Sauce Eggplant,"gluten (likely, medium)",Could modify,unknown
+Baohaus,Heirloom Tomato & Eggs,none flagged,No allergens flagged,unknown
+Baohaus,Iberico Pork & Soy Sauce Pickles,"gluten (likely, medium)",Could modify,unknown
+Baohaus,"Spicy Preserved Radish, Baby Anchovy & Peanut Stir Fry",peanut (declared),Flagged,unknown
+Baohaus,Thrice Cooked Iberico Pork,none flagged,Unknown,unknown
+Baohaus,Prime Brisket w/ Sacha & 3 Peppers,"peanut (likely, low); gluten (likely, medium)",Could modify,unknown
+Baohaus,Ma Po Tofu w/ Brunoise Iberico Pork,"gluten (likely, medium)",Could modify,unknown
+Baohaus,Kosher Vegetarian Crispy Soy Bean Ma Po Tofu,"gluten (likely, medium)",Could modify,unknown
+Baohaus,Kung Pao Chicken Thighs,"peanut (likely, high); gluten (likely, medium)",Flagged,unknown
+Baohaus,Haus Fried Rice,"gluten (likely, medium)",Could modify,unknown
+Baohaus,Ha Ha Grey Sole Fried Whole or Smoked & Shvitz'd,"gluten (likely, medium)",Could modify,unknown
+Baohaus,Oil Poached Mumbo Halibut with Soy Bean Crisp,"gluten (likely, low)",Could modify,unknown
+Baohaus,Szechuan Roasted Lamb Shoulder,none flagged,No allergens flagged,unknown
+Baohaus,Hakka Style Iberico Pork Belly,none flagged,No allergens flagged,unknown
+Baohaus,Roasted Duck Leg w/ Pickled Mustard Greens,none flagged,No allergens flagged,unknown
+Baohaus,Fried Hake Bao,"peanut (declared); gluten (likely, high)",Flagged,unknown
+Baohaus,Crispy Duck Bao,"peanut (declared); gluten (likely, high)",Flagged,unknown
+Baohaus,Chairman Bao,"peanut (declared); gluten (likely, high)",Flagged,unknown
+Baohaus,Birdhaus Bao,"peanut (declared); gluten (likely, high)",Flagged,unknown
+Baohaus,Mumbo Bird Bao,"peanut (declared); gluten (likely, high)",Flagged,unknown
+Baohaus,Mumbo Eggplant Bao,"peanut (declared); gluten (likely, high)",Flagged,unknown
+Baohaus,Taiwanese Chicharron,"gluten (likely, medium)",Could modify,unknown
+Baohaus,Silk Road Fritto Misto,"gluten (likely, high)",Flagged,unknown
+Baohaus,Mumbo Fried Cauliflower,"gluten (likely, medium)",Could modify,unknown
+Baohaus,Smoked & Pickled Slaw w/ 3 Peppers,none flagged,No allergens flagged,unknown
+Baohaus,Green Tomato & Cucumber Summer Salad,none flagged,No allergens flagged,unknown
+Baohaus,Junghwa (Korean-Chinese) Eggplant,"gluten (likely, medium)",Could modify,unknown
+Baohaus,Taiwanese Prime Beef Noodle Soup,"gluten (likely, high)",Flagged,unknown
+Baohaus,Creamy Fermented Chili Orecchiette All'Assassina,"gluten (likely, high)",Flagged,unknown
+Baohaus,Whole Grilled Squid w/ Ink Lo Mein,"gluten (likely, high)",Flagged,unknown
+Baohaus,Ma Po Gnocchi w/ Iberico Pork & Torched Mozzarella,"gluten (likely, high)",Flagged,unknown
+Baohaus,Peanut Sesame Noodles w/ Chicken,"peanut (declared); gluten (likely, high)",Flagged,unknown
+Baohaus,Linda's #1 Tuna T-Bone Steak,none flagged,Unknown,unknown
+Baohaus,Freaked Out Chicken Thigh Parmesan,"gluten (likely, high)",Flagged,unknown
+Baohaus,Happy Accident Mumbo Hake w/ Soy Bean Crisp,"gluten (likely, low)",Could modify,unknown
+Baohaus,Hand Cut Prime Delmonico Steak w/ Beijing Peanut Chimichurri,peanut (declared),Flagged,unknown
+Baohaus,"Wine (by glass/bottle, all listings)",none flagged,No allergens flagged,unknown
+Baohaus,"Draught Beer (Guinness, Killsboro Chelita, Allagash White, Talea Sun Up Hazy IPA, Threes Gold Rice Lager, Downeast Cider, Lagunitas IPA)","gluten (likely, medium)",Could modify,unknown
+Baohaus,"Bottles & Cans (Taiwan Gold Medal, Taiwan Mango/Lychee, Taihu Lemon Sawa, Miller High Life)","gluten (likely, medium)",Could modify,unknown
+Baohaus,"Zero Proof (Hey Song Sasparilla, Wang Lao Ji Sweet Tea, Apple Sidra, Iced Tea or Lemonade, Coke/Diet Coke/Sprite)",none flagged,No allergens flagged,unknown
+Baohaus,"Sangrias & Cocktails (Lychee White Wine, Watermelon Red Wine, Blood Orange Mimosa, Paper Lantern, Szex on the Beach, Lemon Spritz, John Daly, Glacier Freeze)",none flagged,No allergens flagged,unknown
+Birria LES,Texas Garlic Toast - Birria,"gluten (likely, high)",Flagged,unknown
+Birria LES,Loaded Nachos - Beef Birria,none flagged,No allergens flagged,unknown
+Birria LES,Loaded Nachos - Chicken Birria,none flagged,No allergens flagged,unknown
+Birria LES,Loaded Papa's Beef,none flagged,No allergens flagged,unknown
+Birria LES,Consomé Con Dumplings - Beef Birria,"gluten (likely, high)",Flagged,unknown
+Birria LES,Loaded Papa's - Surf & Turf,none flagged,No allergens flagged,unknown
+Birria LES,Esquites,none flagged,No allergens flagged,unknown
+Birria LES,Beef Taco with Cheese (1 Taco),none flagged,No allergens flagged,unknown
+Birria LES,Chicken Taco (1 Taco),none flagged,No allergens flagged,unknown
+Birria LES,Consomé,none flagged,No allergens flagged,unknown
+Birria LES,Al Pastor Taco,none flagged,No allergens flagged,unknown
+Birria LES,Loaded Nachos - Shrimp,none flagged,No allergens flagged,unknown
+Birria LES,Beef Taco (1 Taco),none flagged,No allergens flagged,unknown
+Birria LES,Empanada - Beef Birria,"gluten (likely, high)",Flagged,unknown
+Birria LES,Shrimp Taco (1 Taco),none flagged,No allergens flagged,unknown
+Birria LES,Dumplings - Beef Birria,"gluten (likely, high)",Flagged,unknown
+Birria LES,Flan,none flagged,No allergens flagged,unknown
+Birria LES,Beef Mulitas,none flagged,No allergens flagged,unknown
+Birria LES,Loaded Nachos - Surf & Turf,none flagged,No allergens flagged,unknown
+Birria LES,Dumplings - Shrimp,"gluten (likely, high)",Flagged,unknown
+Birria LES,Surf & Turf - Beef & Shrimp Taco (1 Taco),none flagged,No allergens flagged,unknown
+Birria LES,Chicken Tostadas,none flagged,No allergens flagged,unknown
+Birria LES,Chicken Taco with Cheese (1 Taco),none flagged,No allergens flagged,unknown
+Birria LES,Empanada - Chicken Birria,"gluten (likely, high)",Flagged,unknown
+Birria LES,Consomé Con Linguine,"gluten (likely, high)",Flagged,unknown
+Bungalow,Banarasi Puri,gluten (declared),Flagged,unknown
+Bungalow,Smoked Sweet Potato Chaat,gluten (declared),Flagged,unknown
+Bungalow,Cauliflower 101,none flagged,No allergens flagged,unknown
+Bungalow,Achari Stuffed Paneer,none flagged,No allergens flagged,unknown
+Bungalow,Yogurt Kabab,gluten (declared),Flagged,unknown
+Bungalow,Malwani Fish Tikka,none flagged,No allergens flagged,unknown
+Bungalow,Nilgiri Tandoori Prawns,none flagged,No allergens flagged,unknown
+Bungalow,Anarkali Chicken,tree nut (declared),Flagged,unknown
+Bungalow,Ammi's Lamb Chops,tree nut (declared),Flagged,unknown
+Bungalow,Spice Roasted Pineapple,"tree nut (likely, low)",Could modify,unknown
+Bungalow,Eggplant Bharta,none flagged,No allergens flagged,unknown
+Bungalow,Stuffed Okra,peanut (declared); tree nut (declared),Flagged,unknown
+Bungalow,Pudina Aloo,none flagged,No allergens flagged,unknown
+Bungalow,Paneer Lazeez,tree nut (declared),Flagged,unknown
+Bungalow,Alleppey Shrimp Curry,"peanut (declared); tree nut (likely, low)",Flagged,unknown
+Bungalow,Chicken Amritsari,tree nut (declared),Flagged,unknown
+Bungalow,Railway Chicken Curry,none flagged,No allergens flagged,unknown
+Bungalow,Chicken Biryani,none flagged,No allergens flagged,unknown
+Bungalow,Rajasthani Pulled Lamb,none flagged,No allergens flagged,unknown
+Bungalow,Lamb Tellicherry Fry,"tree nut (likely, low)",Could modify,unknown
+Bungalow,Plain / Butter Tandoori Roti,gluten (declared),Flagged,unknown
+Bungalow,Mint Laccha Paratha,gluten (declared),Flagged,unknown
+Bungalow,Farmers Sattu Roti,gluten (declared),Flagged,unknown
+Bungalow,Plain / Butter Naan,gluten (declared),Flagged,unknown
+Bungalow,Garlic Naan,gluten (declared),Flagged,unknown
+Bungalow,Five Cheese Kulcha,gluten (declared),Flagged,unknown
+Bungalow,Daal Bungalow,none flagged,No allergens flagged,unknown
+Bungalow,Old Delhi Chole,none flagged,No allergens flagged,unknown
+Bungalow,Cucumber Raita,none flagged,No allergens flagged,unknown
+Bungalow,Steamed Basmati Rice,none flagged,No allergens flagged,unknown
+Bungalow,Rose Kulfi Falooda,"tree nut (declared); gluten (likely, low)",Flagged,unknown
+Bungalow,Molten Chocolate Cake,gluten (declared),Flagged,unknown
+Bungalow,Mango Three Way,none flagged,No allergens flagged,unknown
+Butter Smashburgers,Single House Burger,"gluten (likely, high)",Flagged,unknown
+Butter Smashburgers,Double House Burger,"gluten (likely, high)",Flagged,unknown
+Butter Smashburgers,Truffle Burger,"gluten (likely, high)",Flagged,unknown
+Butter Smashburgers,Fried Chicken Sandwich,"gluten (likely, high)",Flagged,unknown
+Butter Smashburgers,Veggie Burger,"gluten (likely, high)",Flagged,unknown
+Butter Smashburgers,Regular Fries,none flagged,No allergens flagged,unknown
+Butter Smashburgers,Cheese Fries,none flagged,No allergens flagged,unknown
+Butter Smashburgers,Truffle Fries,none flagged,No allergens flagged,unknown
+Butter Smashburgers,Caramel Sundae,"gluten (likely, high)",Flagged,unknown
+Butter Smashburgers,Chocolate Sundae,"gluten (likely, high)",Flagged,unknown
+Butter Smashburgers,Strawberry Sundae,"gluten (likely, high)",Flagged,unknown
+Butter Smashburgers,Homemade Cookie,"gluten (likely, high)",Flagged,unknown
+Butter Smashburgers,"Milkshakes (Vanilla, Strawberry, Chocolate)",none flagged,No allergens flagged,unknown
+Butter Smashburgers,Single Combo,"gluten (likely, high)",Flagged,unknown
+Butter Smashburgers,Truffle Combo,"gluten (likely, high)",Flagged,unknown
+Butter Smashburgers,Double Combo,"gluten (likely, high)",Flagged,unknown
+Butter Smashburgers,Chicken Combo,"gluten (likely, high)",Flagged,unknown
+Butter Smashburgers,Veggie Combo,"gluten (likely, high)",Flagged,unknown
+Butter Smashburgers,Honey Mustard Chicken Sandwich (July Monthly Special),none flagged,Unknown,unknown
+Café Maud,Mauds Scone,"gluten (likely, high)",Flagged,unknown
+Café Maud,Breakfast Bowl,"gluten (likely, high)",Flagged,unknown
+Café Maud,Eggs Benedict,"gluten (likely, high)",Flagged,unknown
+Café Maud,Elote Avocado Toast,"gluten (likely, high)",Flagged,unknown
+Café Maud,New York Bagel,"gluten (likely, high)",Flagged,unknown
+Café Maud,Açaí Bowl,"gluten (likely, medium); tree nut (likely, low)",Could modify,unknown
+Café Maud,Lemon Ricotta Pancakes,"gluten (likely, high)",Flagged,unknown
+Café Maud,Sunrise Oats Bowl,"gluten (likely, medium)",Could modify,unknown
+Café Maud,Breakfast Burrito,"gluten (likely, high)",Flagged,unknown
+Café Maud,Chia Yoghurt Power Bowl,"gluten (likely, medium); tree nut (likely, low)",Could modify,unknown
+Café Maud,Steak & Eggs,none flagged,No allergens flagged,unknown
+Café Maud,Breakfast Platter,"gluten (likely, high)",Flagged,unknown
+Café Maud,Bowl Of Fries,none flagged,Unknown,unknown
+Café Maud,Avocado,none flagged,Unknown,unknown
+Café Maud,Thick Cut Bacon,none flagged,Unknown,unknown
+Café Maud,Chicken Sausage,"gluten (likely, medium)",Could modify,unknown
+Café Maud,Sourdough Bread,"gluten (likely, high)",Flagged,unknown
+Café Maud,Crispy Rice Spicy Tuna,"gluten (likely, medium)",Could modify,unknown
+Café Maud,Garlic & Parmesan Flatbread,"gluten (likely, high)",Flagged,unknown
+Café Maud,Chicken Lollipops,"gluten (likely, medium)",Could modify,unknown
+Café Maud,"Steamed Chicken Dumplings, Buffalo Style","gluten (likely, high)",Flagged,unknown
+Café Maud,Whipped Roasted Eggplant,"gluten (likely, high)",Flagged,unknown
+Café Maud,Yellowtail Crudo,none flagged,No allergens flagged,unknown
+Café Maud,Sweet & Sour Chicken Bites,"gluten (likely, high)",Flagged,unknown
+Café Maud,Shrimp Ceviche,none flagged,No allergens flagged,unknown
+Café Maud,Pesto & Prosciutto Panuzzo,"gluten (likely, high); tree nut (likely, medium)",Flagged,unknown
+Café Maud,Crispy Goat Cheese Bowl,"gluten (likely, medium)",Could modify,unknown
+Café Maud,Grilled Chicken Wrap,"gluten (likely, high)",Flagged,unknown
+Café Maud,Beet Salad,tree nut (declared),Flagged,unknown
+Café Maud,The Rhymers Club Salad,"gluten (likely, high)",Flagged,unknown
+Café Maud,Malibu Bowl,"gluten (likely, medium)",Could modify,unknown
+Café Maud,Mexican Bowl,none flagged,No allergens flagged,unknown
+Café Maud,Soppressata,"gluten (likely, high)",Flagged,unknown
+Café Maud,Burrata,"gluten (likely, high)",Flagged,unknown
+Café Maud,Crushed Tomato,"gluten (likely, high)",Flagged,unknown
+Café Maud,Bianca,"gluten (likely, high)",Flagged,unknown
+Café Maud,The Fun Guy,"gluten (likely, high)",Flagged,unknown
+Café Maud,Sweet & Salty,"gluten (likely, high)",Flagged,unknown
+Café Maud,Smash Burger,"gluten (likely, high)",Flagged,unknown
+Café Maud,Southern Fried Chicken Sandwich,"gluten (likely, high)",Flagged,unknown
+Café Maud,Chicken Caesar Schnitzel,"gluten (likely, high)",Flagged,unknown
+Café Maud,Short Rib Fried Rice,"gluten (likely, medium)",Could modify,unknown
+Café Maud,Steak Frites,none flagged,No allergens flagged,unknown
+Café Maud,Pesto Rigatoni,"tree nut (declared); gluten (likely, high)",Flagged,unknown
+Café Maud,Short Rib Ragu,"gluten (likely, high)",Flagged,unknown
+Café Maud,Chocolate Mousse,tree nut (declared),Flagged,unknown
+Café Maud,Key Lime Pie,"gluten (likely, high)",Flagged,unknown
+Café Maud,Deep Fried Oreo,"gluten (likely, high)",Flagged,unknown
+Cafe Mogador,Hummus,none flagged,Unknown,unknown
+Cafe Mogador,Falafel and Tahini,"gluten (likely, medium)",Could modify,unknown
+Cafe Mogador,Marinated Beets,none flagged,Unknown,unknown
+Cafe Mogador,Labne with Za'atar,none flagged,Unknown,unknown
+Cafe Mogador,Matbucha,none flagged,No allergens flagged,unknown
+Cafe Mogador,Roasted Eggplant and Tahini,none flagged,No allergens flagged,unknown
+Cafe Mogador,Babaganoush,none flagged,Unknown,unknown
+Cafe Mogador,Spicy Carrots,none flagged,Unknown,unknown
+Cafe Mogador,Tabouli,"gluten (likely, high)",Flagged,unknown
+Cafe Mogador,Olives and Pickles,none flagged,Unknown,unknown
+Cafe Mogador,Cucumber Yogurt,none flagged,Unknown,unknown
+Cafe Mogador,Pita (served with all Mezze),gluten (declared),Flagged,unknown
+Cafe Mogador,Hummus Platter,"gluten (likely, low)",Could modify,unknown
+Cafe Mogador,Seared Halloumi Cheese,gluten (declared),Flagged,unknown
+Cafe Mogador,Greek Salad,gluten (declared),Flagged,unknown
+Cafe Mogador,Salmon Niçoise Salad,none flagged,No allergens flagged,unknown
+Cafe Mogador,Mogador Couscous,gluten (declared),Flagged,unknown
+Cafe Mogador,Moroccan Tagine - Chicken,"gluten (likely, low)",Could modify,unknown
+Cafe Mogador,Moroccan Tagine - Lamb Shank,"gluten (likely, low)",Could modify,unknown
+Cafe Mogador,Kefta Kebab (From the Grill),none flagged,No allergens flagged,unknown
+Cafe Mogador,Chicken Kebab (From the Grill),none flagged,No allergens flagged,unknown
+Cafe Mogador,Bastilla,gluten (declared); tree nut (declared),Flagged,unknown
+Cafe Mogador,Soup of the Day,none flagged,No allergens flagged,unknown
+Cafe Mogador,Mixed Grill,none flagged,Unknown,unknown
+Cafe Mogador,Merguez Sausage (Main),none flagged,Unknown,unknown
+Cafe Mogador,"Couscous with chickpeas, raisins, onions",gluten (declared),Flagged,unknown
+Cafe Mogador,Herbed Basmati Rice,none flagged,Unknown,unknown
+Cafe Mogador,Green Salad with marinated beets,none flagged,No allergens flagged,unknown
+Cafe Mogador,Fries with harissa ketchup,none flagged,No allergens flagged,unknown
+Cafe Mogador,Za'atar Fries with harissa ketchup,gluten (declared),Flagged,unknown
+Cafe Mogador,Harissa / Schug / Amba / Harissa Aioli,none flagged,No allergens flagged,unknown
+Cafe Mogador,Moroccan Sauce,none flagged,No allergens flagged,unknown
+Cafe Mogador,Moroccan Eggs,gluten (declared),Flagged,unknown
+Cafe Mogador,Country Breakfast,gluten (declared),Flagged,unknown
+Cafe Mogador,Buttermilk Pancakes,"gluten (likely, high)",Flagged,unknown
+Cafe Mogador,Halloumi Eggs,gluten (declared),Flagged,unknown
+Cafe Mogador,Middle Eastern Breakfast,gluten (declared),Flagged,unknown
+Cafe Mogador,French Toast,"gluten (likely, high)",Flagged,unknown
+Cafe Mogador,Falafel Sandwich,"gluten (likely, medium)",Could modify,unknown
+Cafe Mogador,Sabich (roasted eggplant),"gluten (likely, medium)",Could modify,unknown
+Cafe Mogador,Seared Salmon Cake,gluten (declared),Flagged,unknown
+Cafe Mogador,Chicken Kebab Sandwich,"gluten (likely, medium)",Could modify,unknown
+Cafe Mogador,Merguez Sausage Sandwich,"gluten (likely, medium)",Could modify,unknown
+Cafe Mogador,Kefta Kebab Sandwich,"gluten (likely, medium)",Could modify,unknown
+Cafe Mogador,Mogador Smash Burger,gluten (declared),Flagged,unknown
+Cafe Mogador,Peroni / Back Home IPA / Casablanca Moroccan Lager / Persian Blue Lager / Duvel,"gluten (likely, medium)",Could modify,unknown
+Cello's Pizzeria,Plain Pizza,"gluten (likely, high)",Flagged,unknown
+Cello's Pizzeria,Pepperoni Pizza,"gluten (likely, high)",Flagged,unknown
+Cello's Pizzeria,Burrata Pizza,"gluten (likely, high)",Flagged,unknown
+Cello's Pizzeria,Chicory Pizza,"gluten (likely, high)",Flagged,unknown
+Cello's Pizzeria,Margherita Pizza,"gluten (likely, high)",Flagged,unknown
+Cello's Pizzeria,Vodka Pizza,"gluten (likely, high)",Flagged,unknown
+Cello's Pizzeria,White Pizza,"gluten (likely, high)",Flagged,unknown
+Cello's Pizzeria,Pepperoni & Jalapeno Pizza,"gluten (likely, high)",Flagged,unknown
+Cello's Pizzeria,Tomato Pizza,"gluten (likely, high)",Flagged,unknown
+Cello's Pizzeria,Square Pizza,"gluten (likely, high)",Flagged,unknown
+Cello's Pizzeria,Square Pepperoni Pizza,"gluten (likely, high)",Flagged,unknown
+Cello's Pizzeria,Caesar Salad,none flagged,No allergens flagged,unknown
+Cello's Pizzeria,House Salad,none flagged,No allergens flagged,unknown
+Cello's Pizzeria,Antipasti Salad,none flagged,No allergens flagged,unknown
+Cello's Pizzeria,"Canned Soda (Coke, Diet Coke, Sprite, Root Beer, Club Soda)",none flagged,No allergens flagged,unknown
+Cello's Pizzeria,Mexican Coke,none flagged,No allergens flagged,unknown
+Cello's Pizzeria,Water,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Wine Soaked Chicken 竹林花雕醉鸡,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Sliced Poached Chicken 白斩鸡,"gluten (likely, medium)",Could modify,unknown
+CHELI MANHATTAN 浙里,Hangzhou Braised Half Duck 杭州酱鸭,none flagged,Unknown,unknown
+CHELI MANHATTAN 浙里,Crispy Smoked Fish 桂花熏鱼,none flagged,Unknown,unknown
+CHELI MANHATTAN 浙里,Braised Abalone & Calamari 苏杭卤鱿鲍,none flagged,Unknown,unknown
+CHELI MANHATTAN 浙里,Sweet & Sour Pork Riblets 糖醋小排,none flagged,Unknown,unknown
+CHELI MANHATTAN 浙里,Sixi Kaofu 四喜烤麸,gluten (declared),Flagged,unknown
+CHELI MANHATTAN 浙里,Spicy Sliced Pork Kidney 麻味腰片,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,'Vegetarian Goose' 灵隐素烧鹅,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Wine Soaked Blue Crab 秋菊花雕醉蟹,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Osmanthus Chinese Yam 桂花山药,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Pork Soup Dumplings 鲜肉小笼,"gluten (likely, high)",Flagged,unknown
+CHELI MANHATTAN 浙里,Crab Meat Pork Soup Dumplings 蟹粉小笼,"gluten (likely, high)",Flagged,unknown
+CHELI MANHATTAN 浙里,Black Truffle Pork Soup Dumplings 黑松露小笼,"gluten (likely, high)",Flagged,unknown
+CHELI MANHATTAN 浙里,Chinese Crispy Lava 黑色流沙酥,"gluten (likely, high)",Flagged,unknown
+CHELI MANHATTAN 浙里,Pan Fried Wontons 油煎馄饨,"gluten (likely, high)",Flagged,unknown
+CHELI MANHATTAN 浙里,Black Swan Durian Crisps 古道水乡品三酥,"gluten (likely, medium)",Could modify,unknown
+CHELI MANHATTAN 浙里,Song Dynasty Steamed Buns 古法米酿馒头,"gluten (likely, medium)",Could modify,unknown
+CHELI MANHATTAN 浙里,Brown Sugar Sticky Rice Rolls 红糖麻糍,peanut (declared),Flagged,unknown
+CHELI MANHATTAN 浙里,Matcha Milky Rice Cakes 抹茶奶沙糯米糕,none flagged,Unknown,unknown
+CHELI MANHATTAN 浙里,Stuffed Red Dates 心太软,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Osmanthus Rice Cakes 桂花拉糕,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Steamed Dungeness Crab 蛋羹蟹粉蒸大蟹,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Fried Ribbonfish 香煎带鱼,"gluten (likely, medium)",Could modify,unknown
+CHELI MANHATTAN 浙里,Qianlong's Favorite Fish Head 乾隆鱼头,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Steamed Yellow Croaker 花雕酒酿蒸黄鱼,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Garlic Shredded Eel 响油鳝丝,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Hot Stone Spicy Chicken & Pork Intestine 鲜椒石锅肥肠鸡,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Sweet & Sour Fish Fillet 松子鱼片,"tree nut (declared); gluten (likely, medium)",Flagged,unknown
+CHELI MANHATTAN 浙里,Crispy Duck 西塘古法香酥鸭,"gluten (likely, medium)",Could modify,unknown
+CHELI MANHATTAN 浙里,Kung Pao Chicken 宫保鸡丁,"peanut (declared); gluten (likely, medium)",Flagged,unknown
+CHELI MANHATTAN 浙里,Shanghai Style Mao Xue Wang 本帮毛血旺,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Salted Ham & Bamboo Shoot Stew 鸡汁杭三鲜,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Stir-Fried Spicy Lobster 香辣龙虾,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Green Chili Shredded Beef 小椒牛肉丝,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Nine-Spice Rabbit 九香兔肉,none flagged,Unknown,unknown
+CHELI MANHATTAN 浙里,Tangerine Crab Meat & Steamed Egg 橙香蟹粉蒸蛋,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Uni Tofu Stew 海胆豆腐,none flagged,Unknown,unknown
+CHELI MANHATTAN 浙里,Pickled Cabbage Fish Stew 浙里也有酸菜鱼,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Hunan Stir Fried Spicy Beef 湘西炒牛肉,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Stir-Fried String Beans 干煸四季豆,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Eggplant in Garlic Sauce 鱼香茄子,"gluten (likely, medium)",Could modify,unknown
+CHELI MANHATTAN 浙里,Spicy Crispy Pork Knuckles 西塘香辣猪蹄,"gluten (likely, medium)",Could modify,unknown
+CHELI MANHATTAN 浙里,Che Li's Pork Belly 浙里红烧肉,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Sweet & Sour Crispy Eel 江南脆鳝,"gluten (likely, medium)",Could modify,unknown
+CHELI MANHATTAN 浙里,"West Lake Vinegar Fish (labeled on site as ""Chinese Crispy Lava"") 西湖醋鱼",none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Longjing Shrimp 龙井虾仁,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Stir Fried Prawns 香葱油爆虾,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Braised Pomfret & Rice Cake 鲳鱼烧年糕,none flagged,Unknown,unknown
+CHELI MANHATTAN 浙里,Yellow Lantern Beef Over Silken Tofu 豆花嫩牛肉,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Golden Crust Dungeness Crab 咸蛋黄大蟹,"gluten (likely, medium)",Could modify,unknown
+CHELI MANHATTAN 浙里,Yang Zhou Meatball 扬州狮子头,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Spicy Lamb Stew 锅仔羊肉,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Flaming Beggar's Chicken 南宋叫花鸡,gluten (declared),Flagged,unknown
+CHELI MANHATTAN 浙里,Qianlong's Favorite Eel 乾隆吃鳝丝,"gluten (likely, high)",Flagged,unknown
+CHELI MANHATTAN 浙里,Crab Meat Tofu Stew 蟹粉豆腐,none flagged,Unknown,unknown
+CHELI MANHATTAN 浙里,Salted Yolk Fried Pumpkin 咸蛋黄南瓜,"gluten (likely, medium)",Could modify,unknown
+CHELI MANHATTAN 浙里,Ginger & Chili Frog 铁锅仔姜牛蛙,none flagged,Unknown,unknown
+CHELI MANHATTAN 浙里,Garlic Butter Lobster 浙里蒜香龙虾,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Che Li 'Squirrel' Fish 浙里松鼠鱼,"gluten (likely, high)",Flagged,unknown
+CHELI MANHATTAN 浙里,Sweet & Sour Tenderloin 糖醋里脊,"gluten (likely, high)",Flagged,unknown
+CHELI MANHATTAN 浙里,Mapo Tofu 麻婆豆腐,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Grilled Beef Ribs & Peppers 黑椒牛肋骨,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Garlic Steamed Butterfly Prawns 蒜蓉粉丝开片虾,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Sautéed Sponge Gourd 玉带丝瓜,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Sautéed Water Spinach 清炒空心菜,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Pea Shoots in Chinese Wine Sauce 酒香豆苗,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Lotus Pond Stir Fry 荷塘小炒,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Hot Stone Braised Rice 牛肝菌焖饭,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Golden Egg Fried Rice 松仁金丝炒饭,tree nut (declared),Flagged,unknown
+CHELI MANHATTAN 浙里,Uni & Pu'Er Tea Soaked Rice 海胆茶香泡饭,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Stir Fried Rice Cakes 荠菜肉丝炒年糕,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Shanghai Stir Fried Noodles 上海炒面,"gluten (likely, high)",Flagged,unknown
+CHELI MANHATTAN 浙里,Salted Ham Mixed Rice 老妈鲜肉菜炒饭,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,White Rice 白米饭,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,West Lake Minced Beef Soup 西湖牛肉羹,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Chicken & Morel Mushroom Stew 羊肚菌老鸡汤,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Herbal Mushroom Soup 养生野生菌,none flagged,Unknown,unknown
+CHELI MANHATTAN 浙里,'Yan Du Xian' 腌笃鲜,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Walnut Puree 核桃露,tree nut (declared),Flagged,unknown
+CHELI MANHATTAN 浙里,Meiling Congee 浙里 美龄粥,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Black Sesame Sticky Rice Balls 西湖藕粉圆子,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Osmanthus Milk Pudding 江南酥酪,none flagged,Unknown,unknown
+CHELI MANHATTAN 浙里,"Peach Resin, Red Dates & White Wood Ear 红枣银耳桃胶",none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,"Sake & Japanese Rice Wine Selection (Sake, Ginjo, Daiginjo, Honjozo, Nigori categories)",none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Shochu Selection,"gluten (likely, high)",Flagged,unknown
+CHELI MANHATTAN 浙里,House Special Drinks,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,Beer Selection,"gluten (likely, medium)",Could modify,unknown
+CHELI MANHATTAN 浙里,Yellow Rice Wine Selection,"gluten (likely, medium)",Could modify,unknown
+CHELI MANHATTAN 浙里,Soft Drinks Selection,none flagged,No allergens flagged,unknown
+CHELI MANHATTAN 浙里,"Wine Selection (Sparkling, Red, White, Rosé)",none flagged,No allergens flagged,unknown
+Crif Dogs,B.L.T,"gluten (likely, high)",Flagged,unknown
+Crif Dogs,Chihuahua,"gluten (likely, high)",Flagged,unknown
+Crif Dogs,Chili Dog,"gluten (likely, high); gluten (likely, medium)",Flagged,unknown
+Crif Dogs,Everything Dog,"gluten (likely, high)",Flagged,unknown
+Crif Dogs,Good Morning,"gluten (likely, high)",Flagged,unknown
+Crif Dogs,Spicy Redneck,"gluten (likely, high); gluten (likely, medium)",Flagged,unknown
+Crif Dogs,Tsunami,"gluten (likely, high); gluten (likely, medium)",Flagged,unknown
+Crif Dogs,Veggie Special,"gluten (likely, high)",Flagged,unknown
+Crif Dogs,Philly Tubesteak,"gluten (likely, high); gluten (likely, medium)",Flagged,unknown
+Crif Dogs,Elote Dog,"gluten (likely, high)",Flagged,unknown
+Crif Dogs,Corn Dog,"gluten (likely, high)",Flagged,unknown
+Crif Dogs,Lil Ma,"peanut (declared); gluten (likely, high)",Flagged,unknown
+Crif Dogs,Add tots & a soft drink,"gluten (likely, high)",Flagged,unknown
+Crif Dogs,Add tots & a bottled cocktail,"gluten (likely, high)",Flagged,unknown
+Crif Dogs,Plain (Tots),"gluten (likely, high)",Flagged,unknown
+Crif Dogs,East Village Tots,"gluten (likely, high); gluten (likely, medium)",Flagged,unknown
+Crif Dogs,Truffle Shuffle,"gluten (likely, high)",Flagged,unknown
+Crif Dogs,Nacho Tots,"gluten (likely, high); gluten (likely, medium)",Flagged,unknown
+Crif Dogs,Crif Burger,"gluten (likely, high)",Flagged,unknown
+Crif Dogs,Veggie Burger,"gluten (likely, high); gluten (likely, low)",Flagged,unknown
+Crif Dogs,Bacon Cheeseburger,"gluten (likely, high)",Flagged,unknown
+Crif Dogs,Crif Dog (Build Your Own),"gluten (likely, high)",Flagged,unknown
+Crif Dogs,New Yorker,"gluten (likely, high)",Flagged,unknown
+Crif Dogs,Veggie Dog,"gluten (likely, high)",Flagged,unknown
+Crif Dogs,Bacon-Wrapped Crif Dog,"gluten (likely, high)",Flagged,unknown
+Crif Dogs,A La Carte Toppings,"gluten (likely, medium)",Could modify,unknown
+Crif Dogs,Soft Drinks,none flagged,No allergens flagged,unknown
+Crif Dogs,Frozen Cocktails,none flagged,Unknown,unknown
+Crif Dogs,Beer & Wine,"gluten (likely, medium)",Could modify,unknown
+Crif Dogs,Bottled Cocktails,none flagged,Unknown,unknown
+Crispiano,Fried Calamari,"gluten (likely, high)",Flagged,unknown
+Crispiano,Burrata e Prosciutto di Parma,"gluten (likely, high)",Flagged,unknown
+Crispiano,Melanzane,"gluten (likely, medium)",Could modify,unknown
+Crispiano,Bruschetta,"gluten (likely, high)",Flagged,unknown
+Crispiano,Arugula,none flagged,No allergens flagged,unknown
+Crispiano,Caesar,"gluten (likely, high)",Flagged,unknown
+Crispiano,Kale e Avocado,none flagged,No allergens flagged,unknown
+Crispiano,Mozzarella Caprese,none flagged,No allergens flagged,unknown
+Crispiano,Penne Alla Vodka,"gluten (likely, high)",Flagged,unknown
+Crispiano,Penne Arrabitta,"gluten (likely, high)",Flagged,unknown
+Crispiano,Spaghetti Carbonara,"gluten (likely, high)",Flagged,unknown
+Crispiano,Ravioli,"gluten (likely, high)",Flagged,unknown
+Crispiano,Gnocchi Sorrentino,"gluten (likely, medium)",Could modify,unknown
+Crispiano,Fettuccine Bolognese,"gluten (likely, high)",Flagged,unknown
+Crispiano,Spaghetti Meatballs,"gluten (likely, high)",Flagged,unknown
+Crispiano,Margherita,"gluten (likely, high)",Flagged,unknown
+Crispiano,Regina,"gluten (likely, high)",Flagged,unknown
+Crispiano,Marinara,"gluten (likely, high)",Flagged,unknown
+Crispiano,Capricciosa,"gluten (likely, high)",Flagged,unknown
+Crispiano,Vegetariana,"gluten (likely, high)",Flagged,unknown
+Crispiano,Milanese,"gluten (likely, high)",Flagged,unknown
+Crispiano,Sweet Diavola,"gluten (likely, high)",Flagged,unknown
+Crispiano,4 Formaggi,"gluten (likely, high)",Flagged,unknown
+Crispiano,Tartufo,"gluten (likely, high)",Flagged,unknown
+Crispiano,Prosciutto Crudo,"gluten (likely, high)",Flagged,unknown
+Crispiano,Pesto,"gluten (likely, high); tree nut (likely, medium)",Flagged,unknown
+Crispiano,Focaccia Bread,"gluten (likely, high)",Flagged,unknown
+Crispiano,Prosciutto (topping),none flagged,Unknown,unknown
+Crispiano,Speck (topping),none flagged,Unknown,unknown
+Crispiano,Ham (topping),none flagged,Unknown,unknown
+Crispiano,Salami (topping),none flagged,Unknown,unknown
+Crispiano,Anchovies (topping),none flagged,Unknown,unknown
+Crispiano,Vegetables (topping),none flagged,Unknown,unknown
+Crispiano,Cheese (topping),none flagged,Unknown,unknown
+Crispiano,"Wine, Beer & Spritz (Selection)","gluten (likely, medium)",Could modify,unknown
+Crispiano,Carbonara Pizza,"gluten (likely, high)",Flagged,unknown
+Crispiano,Sweet Diavola (Happy Hour),"gluten (likely, high)",Flagged,unknown
+Crispiano,Pesto Pizza (Happy Hour),"gluten (likely, high); tree nut (likely, medium)",Flagged,unknown
+Crispiano,Penne All'Amatriciana,"gluten (likely, high)",Flagged,unknown
+Crispiano,Gnocchi Al Pesto,"gluten (likely, medium); tree nut (likely, medium)",Could modify,unknown
+Crispiano,Penne All'Arrabbiata,"gluten (likely, high)",Flagged,unknown
+Crispiano,Chicken (add-on),none flagged,Unknown,unknown
+Crispiano,Burrata (add-on),none flagged,Unknown,unknown
+Crispiano,Red Wines (4 varieties),none flagged,No allergens flagged,unknown
+Crispiano,White Wines (4 varieties),none flagged,No allergens flagged,unknown
+Crispiano,"Sparkling (Prosecco, Spritz)",none flagged,No allergens flagged,unknown
+Crispiano,"Beer (Peroni, Modelo)","gluten (likely, medium)",Could modify,unknown
+Dumpling N' Dips,Massaman Curry (Vegetarian),gluten (declared); peanut (declared),Flagged,unknown
+Dumpling N' Dips,Chicken Green Curry,gluten (declared),Flagged,unknown
+Dumpling N' Dips,Chicken Pad Thai,gluten (declared); peanut (declared),Flagged,unknown
+Dumpling N' Dips,Pork Basil,gluten (declared),Flagged,unknown
+Dumpling N' Dips,Crab Curry,gluten (declared),Flagged,unknown
+Dumpling N' Dips,Tom Yum,gluten (declared),Flagged,unknown
+Dumpling N' Dips,Mushroom Taro (Vegetarian),gluten (declared),Flagged,unknown
+Dumpling N' Dips,Pork,gluten (declared),Flagged,unknown
+Dumpling N' Dips,Octopus,gluten (declared),Flagged,unknown
+Dumpling N' Dips,Chive (Vegetarian),gluten (declared),Flagged,unknown
+Dumpling N' Dips,Pork and Seaweed,gluten (declared),Flagged,unknown
+Dumpling N' Dips,Shrimp,gluten (declared),Flagged,unknown
+Dumpling N' Dips,Chicken,gluten (declared),Flagged,unknown
+Dumpling N' Dips,Salmon,gluten (declared),Flagged,unknown
+Dumpling N' Dips,Dumpling N' Dips Chili Oil (Vegetarian),none flagged,Unknown,unknown
+Dumpling N' Dips,Spicy Mala Chili Sauce (Vegetarian),none flagged,No allergens flagged,unknown
+Dumpling N' Dips,Sweet Soy Sauce,"gluten (likely, medium)",Could modify,unknown
+Dumpling N' Dips,Spicy Lime Sauce,none flagged,Unknown,unknown
+Dumpling N' Dips,Mushroom Taro Dumplings & Choice of Noodles,"gluten (likely, high)",Flagged,unknown
+Dumpling N' Dips,Chicken Dumplings & Choice of Noodles,"gluten (likely, high)",Flagged,unknown
+Dumpling N' Dips,Salmon Dumplings & Choice of Noodles,"gluten (likely, high)",Flagged,unknown
+Dumpling N' Dips,Chive Dumplings & Choice of Noodles,"gluten (likely, high)",Flagged,unknown
+Dumpling N' Dips,Pork Seaweed Dumplings & Choice of Noodles,"gluten (likely, high)",Flagged,unknown
+Dumpling N' Dips,Shrimp Dumplings & Choice of Noodles,"gluten (likely, high)",Flagged,unknown
+Dumpling N' Dips,Basil Dumplings & Choice of Noodles,"gluten (likely, high)",Flagged,unknown
+Dumpling N' Dips,Pork Dumplings & Choice of Noodles,"gluten (likely, high)",Flagged,unknown
+Dumpling N' Dips,Octopus Dumplings & Choice of Noodles,"gluten (likely, high)",Flagged,unknown
+Dumpling N' Dips,Chicken Green Curry Dumplings & Choice of Noodles,"gluten (likely, high)",Flagged,unknown
+Dumpling N' Dips,The Giant (Value set for 2-3 people),"gluten (likely, high)",Flagged,unknown
+Dumpling N' Dips,Dumpling N' Dips Party Set,"gluten (likely, high)",Flagged,unknown
+Dumpling N' Dips,Thai Lover Set,"gluten (likely, high); peanut (likely, high)",Flagged,unknown
+Dumpling N' Dips,Kimchi Fries,"gluten (likely, medium)",Could modify,unknown
+Dumpling N' Dips,Shrimp Sticks (4 pcs),"gluten (likely, medium)",Could modify,unknown
+Dumpling N' Dips,Kimchi,none flagged,Unknown,unknown
+Dumpling N' Dips,Mango Radish,none flagged,Unknown,unknown
+Dumpling N' Dips,Vegetable Soup,none flagged,Unknown,unknown
+Dumpling N' Dips,Steamed Rice,none flagged,Unknown,unknown
+Dumpling N' Dips,Seaweed Salad (Vegan),"gluten (likely, low)",Unknown,unknown
+Dumpling N' Dips,Steamed Kale Noodles,"gluten (likely, medium)",Could modify,unknown
+Dumpling N' Dips,Steamed Egg Noodles,"gluten (likely, high)",Flagged,unknown
+Dumpling N' Dips,"Hot Drinks (Chrysanthemum Tea, Oolong Tea, Genmaicha Tea, Jasmine Green Tea, Hibiscus Fruit Tea)",none flagged,Unknown,unknown
+Dumpling N' Dips,"Cold Drinks (Soda, Water, Sparkling Water, Thai Milk Tea)",none flagged,Unknown,unknown
+Empellon Al Pastor,Al Pastor,none flagged,No allergens flagged,unknown
+Empellon Al Pastor,Cheeseburger,none flagged,Unknown,unknown
+Empellon Al Pastor,Chicken,none flagged,No allergens flagged,unknown
+Empellon Al Pastor,Vegetable Special,none flagged,Unknown,unknown
+Empellon Al Pastor,Guacamole,none flagged,No allergens flagged,unknown
+Empellon Al Pastor,Nachos,none flagged,No allergens flagged,unknown
+Empellon Al Pastor,Corn Dog,"gluten (likely, medium)",Could modify,unknown
+Empellon Al Pastor,Breakfast Burrito,"gluten (likely, high)",Flagged,unknown
+Empellon Al Pastor,Queso Dip,none flagged,No allergens flagged,unknown
+Empellon Al Pastor,Chalupa,none flagged,Unknown,unknown
+Empellon Al Pastor,Pork Fried Rice,"gluten (likely, medium)",Could modify,unknown
+Empellon Al Pastor,Domination Burger,"gluten (likely, medium)",Could modify,unknown
+Empellon Al Pastor,French Fries,none flagged,No allergens flagged,unknown
+Empellon Al Pastor,Chef's Special,none flagged,Unknown,unknown
+Empellon Al Pastor,Margaritas,none flagged,Unknown,unknown
+Empellon Al Pastor,Beer (rotating draft selection),"gluten (likely, medium)",Could modify,unknown
+Empellon Al Pastor,Cocktails (assortment),none flagged,Unknown,unknown
+Hanoi House,Papaya & Pig Ear Salad - Goi Du Du,"peanut (declared); gluten (likely, medium)",Flagged,unknown
+Hanoi House,Poached Shrimp Salad - Goi Tom,tree nut (declared),Flagged,unknown
+Hanoi House,Sautéed Clams - Ngao Xao,"gluten (likely, high)",Flagged,unknown
+Hanoi House,Summer Rolls - Goi Cuon,"peanut (declared); gluten (likely, medium)",Flagged,unknown
+Hanoi House,Crispy Spring Rolls - Nem Ran,"gluten (likely, high)",Flagged,unknown
+Hanoi House,Lemongrass Chicken Wings - Canh Ga Chien,"gluten (likely, medium)",Could modify,unknown
+Hanoi House,Grilled Lamb Meatballs - Cuu La Lot,peanut (declared),Flagged,unknown
+Hanoi House,Grilled Shishito Peppers,none flagged,No allergens flagged,unknown
+Hanoi House,Morning Glory - Rau Muong,none flagged,No allergens flagged,unknown
+Hanoi House,Spicy Garlic Cauliflower - Sup Lo Cay,none flagged,No allergens flagged,unknown
+Hanoi House,Classic Hanoi Style Beef - Pho Bac,none flagged,No allergens flagged,unknown
+Hanoi House,House Special - Dac Biet,"gluten (likely, high)",Flagged,unknown
+Hanoi House,Chicken - Pho Ga,none flagged,No allergens flagged,unknown
+Hanoi House,Vegetarian - Pho Chay,none flagged,No allergens flagged,unknown
+Hanoi House,Grilled Pork Noodles - Bun Cha Ha Noi,"gluten (likely, high)",Flagged,unknown
+Hanoi House,Shaking Beef - Bo Luc Lac,"gluten (likely, medium)",Could modify,unknown
+Hanoi House,Braised Beef Banh Mi,"gluten (likely, high); gluten (likely, medium)",Flagged,unknown
+Hanoi House,Pho Broth,none flagged,No allergens flagged,unknown
+Hanoi House,Shrimp Chips - Banh Phong Tom,none flagged,No allergens flagged,unknown
+Hanoi House,Steamed Rice - Com,none flagged,No allergens flagged,unknown
+Hanoi House,Roasted Bone Marrow,none flagged,No allergens flagged,unknown
+Hanoi House,Summer Rolls - Goi Cuon (Brunch),"peanut (declared); gluten (likely, high); gluten (likely, medium)",Flagged,unknown
+Hanoi House,Classic Banh Mi,"gluten (likely, high)",Flagged,unknown
+Hanoi House,Vegetarian Banh Mi,"gluten (likely, high)",Flagged,unknown
+Hanoi House,Happy Hour Cocktails,none flagged,No allergens flagged,unknown
+Hanoi House,Happy Hour Wine (by the glass),none flagged,No allergens flagged,unknown
+Hanoi House,Happy Hour Beer,"gluten (likely, medium)",Could modify,unknown
+Hanoi House,Cocktails (full menu),"tree nut (likely, low)",Could modify,unknown
+Hanoi House,"Beer (Draft, Bottles & Cans)","gluten (likely, medium)",Could modify,unknown
+Hanoi House,Cider - Brooklyn Cider House 'Kinda Dry',none flagged,No allergens flagged,unknown
+Hanoi House,"Wine (Sparkling, White, Rose & Orange, Red)",none flagged,No allergens flagged,unknown
+Hanoi House,Non-Alcoholic Drinks,"tree nut (likely, low)",Could modify,unknown
+JOJU - East Village,Sandwich (base),"gluten (likely, high)",Flagged,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,Rice Bowl (base),"gluten (likely, medium)",Could modify,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,Thinly Shredded Cabbage Salad (base),"gluten (likely, medium)",Could modify,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,The Sweet (JOJU) protein,none flagged,No allergens flagged,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,Lemongrass Chicken protein,none flagged,No allergens flagged,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,BBQ Pork protein,none flagged,No allergens flagged,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,Beef Bulgogi protein,"gluten (likely, medium)",Could modify,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,Vietnamese Caramel Pork protein,"gluten (likely, low)",Could modify,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,Mock Vegetarian Ginger Beef protein,none flagged,No allergens flagged,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,Mock Vegetarian Ham protein,none flagged,No allergens flagged,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,The (JOJU) Bowl protein,none flagged,No allergens flagged,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,Plain Fries,none flagged,No allergens flagged,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,(JOJU) Banh Mi Fries,"gluten (likely, medium)",Could modify,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,Kimchi Fries,none flagged,No allergens flagged,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,Crunchy Monster Spring Rolls,gluten (declared),Flagged,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,Vegetarian Egg Rolls,gluten (declared),Flagged,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,Crispy Chicken Wings,"gluten (likely, medium)",Could modify,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,Soy-Garlic Glaze Chicken Wings,"gluten (likely, medium)",Could modify,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,Vietnamese Iced Coffee,none flagged,Unknown,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,Thai Iced Teas (2 variants),none flagged,No allergens flagged,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,JoJu Mojitos (6 flavors),none flagged,No allergens flagged,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+JOJU - East Village,Green Tea Infusions (7 flavors),none flagged,No allergens flagged,Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'
+KENKA,Green Salad,none flagged,Unknown,unknown
+KENKA,Hiyashi Tomato,none flagged,No allergens flagged,unknown
+KENKA,Onion Salad,none flagged,Unknown,unknown
+KENKA,Potato Salad,none flagged,Unknown,unknown
+KENKA,Seaweed salad,none flagged,Unknown,unknown
+KENKA,Pirikara Maguro Salad,none flagged,No allergens flagged,unknown
+KENKA,Saba No Shioyaki,none flagged,No allergens flagged,unknown
+KENKA,Hamachi No Kamayaki,none flagged,No allergens flagged,unknown
+KENKA,Hamaguri No Shioyaki,none flagged,No allergens flagged,unknown
+KENKA,Sanma No Shioyaki,none flagged,No allergens flagged,unknown
+KENKA,Toro Toro Yaki,none flagged,No allergens flagged,unknown
+KENKA,Ika Yaki,none flagged,No allergens flagged,unknown
+KENKA,Yakitori,"gluten (likely, medium)",Could modify,unknown
+KENKA,Ika Geso Kushiyaki,none flagged,No allergens flagged,unknown
+KENKA,Shake No Hara,none flagged,No allergens flagged,unknown
+KENKA,Hokke No Shioyaki,none flagged,No allergens flagged,unknown
+KENKA,Uzura No Kushiyaki,none flagged,No allergens flagged,unknown
+KENKA,Shake No Shioyaki,none flagged,No allergens flagged,unknown
+KENKA,Yaki Morokoshi,none flagged,No allergens flagged,unknown
+KENKA,Ochazuke,none flagged,No allergens flagged,unknown
+KENKA,Shake Chazuke,none flagged,No allergens flagged,unknown
+KENKA,Ume Chazuke,none flagged,No allergens flagged,unknown
+KENKA,Konbu Chazuke,none flagged,No allergens flagged,unknown
+KENKA,Mentai Chazuke,none flagged,No allergens flagged,unknown
+KENKA,Tori Zousui,none flagged,No allergens flagged,unknown
+KENKA,Shake Zousui,none flagged,No allergens flagged,unknown
+KENKA,Onigiri,none flagged,No allergens flagged,unknown
+KENKA,Ume Onigiri,none flagged,No allergens flagged,unknown
+KENKA,Konbu Onigiri,none flagged,No allergens flagged,unknown
+KENKA,Shake Onigiri,none flagged,No allergens flagged,unknown
+KENKA,Okaka Onigiri,none flagged,No allergens flagged,unknown
+KENKA,Mentai Onigiri,none flagged,No allergens flagged,unknown
+KENKA,Miso Yakionigiri,"gluten (likely, medium)",Could modify,unknown
+KENKA,Yaki Onigiri,none flagged,No allergens flagged,unknown
+KENKA,Motsu Nabe,"gluten (likely, medium)",Could modify,unknown
+KENKA,Buta Nabe,none flagged,No allergens flagged,unknown
+KENKA,Ishikari Nabe,"gluten (likely, medium)",Could modify,unknown
+KENKA,Tori Nabe,none flagged,No allergens flagged,unknown
+KENKA,Kaisen Nabe,none flagged,No allergens flagged,unknown
+KENKA,Kimchee Nabe,none flagged,No allergens flagged,unknown
+KENKA,Chanko Naba,none flagged,No allergens flagged,unknown
+KENKA,Yakiniku Don,"gluten (likely, medium)",Could modify,unknown
+KENKA,Konoha Don,"gluten (likely, medium)",Could modify,unknown
+KENKA,Tanin Don,"gluten (likely, medium)",Could modify,unknown
+KENKA,Oyako Don,"gluten (likely, medium)",Could modify,unknown
+KENKA,Katsu Don,"gluten (likely, high)",Flagged,unknown
+KENKA,Chuka Don,"gluten (likely, medium)",Could modify,unknown
+KENKA,Yakimeshi,"gluten (likely, medium)",Could modify,unknown
+KENKA,Curry Rice,"gluten (likely, medium)",Could modify,unknown
+KENKA,Omurice,"gluten (likely, low)",Could modify,unknown
+KENKA,Tenshinhan,"gluten (likely, medium)",Could modify,unknown
+KENKA,Gyu Don,"gluten (likely, medium)",Could modify,unknown
+KENKA,Una Don,"gluten (likely, medium)",Could modify,unknown
+KENKA,Kaibutsu Namagaki,none flagged,No allergens flagged,unknown
+KENKA,Katsuo Tataki,"gluten (likely, medium)",Could modify,unknown
+KENKA,Gyu Tataki,"gluten (likely, medium)",Could modify,unknown
+KENKA,Negitoro,none flagged,No allergens flagged,unknown
+KENKA,Ankimo,none flagged,No allergens flagged,unknown
+KENKA,Maguro Yamakake,none flagged,No allergens flagged,unknown
+KENKA,Maguro,none flagged,No allergens flagged,unknown
+KENKA,Shime Saba,none flagged,No allergens flagged,unknown
+KENKA,Salmon,none flagged,Unknown,unknown
+KENKA,Namagaki,none flagged,No allergens flagged,unknown
+KENKA,Toro Sashimi,none flagged,No allergens flagged,unknown
+KENKA,Sashimi Moriawase,none flagged,No allergens flagged,unknown
+KENKA,Curry Udon,"gluten (likely, high); gluten (likely, medium)",Flagged,unknown
+KENKA,Ramen,"gluten (likely, high)",Flagged,unknown
+KENKA,Niku Udon,"gluten (likely, high)",Flagged,unknown
+KENKA,Yaki Soba,"gluten (likely, high)",Flagged,unknown
+KENKA,Yaki Udon,"gluten (likely, high)",Flagged,unknown
+KENKA,Kitsune Udon,"gluten (likely, high)",Flagged,unknown
+KENKA,Su Udon,"gluten (likely, high)",Flagged,unknown
+KENKA,Tanuki Udon,"gluten (likely, high)",Flagged,unknown
+KENKA,Zaru Udon,"gluten (likely, medium)",Could modify,unknown
+KENKA,Taiwan Ramen,"gluten (likely, high)",Flagged,unknown
+KENKA,Rebanira Teishoku,"gluten (likely, medium)",Could modify,unknown
+KENKA,Yasai Itame Teishoku,"gluten (likely, medium)",Could modify,unknown
+KENKA,Kaki Fry Teishoku,"gluten (likely, high)",Flagged,unknown
+KENKA,Tonkatsu Teishoku,"gluten (likely, high)",Flagged,unknown
+KENKA,Ebi Fry Teishoku,"gluten (likely, high)",Flagged,unknown
+KENKA,Gyouza Teishoku,"gluten (likely, high)",Flagged,unknown
+KENKA,Yakiniku Teishoku,"gluten (likely, medium)",Could modify,unknown
+KENKA,Hamburg Teishoku,"gluten (likely, medium)",Could modify,unknown
+KENKA,Buta Shouga Teishoku,"gluten (likely, medium)",Could modify,unknown
+KENKA,Kara Age Teishoku,"gluten (likely, medium)",Could modify,unknown
+KENKA,Ramen Teishoku,"gluten (likely, high)",Flagged,unknown
+KENKA,Sanma Teishoku,none flagged,No allergens flagged,unknown
+KENKA,Shiojake Teishoku,none flagged,No allergens flagged,unknown
+KENKA,Saba Teishoku,none flagged,No allergens flagged,unknown
+KENKA,Okasama Lunch,none flagged,No allergens flagged,unknown
+KENKA,Rebanira Itame,"gluten (likely, medium)",Could modify,unknown
+KENKA,Buta Kimchee,none flagged,No allergens flagged,unknown
+KENKA,Horumon Itame,"gluten (likely, medium)",Could modify,unknown
+KENKA,Yakiniku (Japanese),"gluten (likely, medium)",Could modify,unknown
+KENKA,Yasai Itame,"gluten (likely, medium)",Could modify,unknown
+KENKA,Shoga Yaki,"gluten (likely, medium)",Could modify,unknown
+KENKA,Aji Fry,"gluten (likely, high)",Flagged,unknown
+KENKA,Tori Kara,"gluten (likely, medium)",Could modify,unknown
+KENKA,Cream Croquette,"gluten (likely, high)",Flagged,unknown
+KENKA,Kushi Katsu,"gluten (likely, high)",Flagged,unknown
+KENKA,Kaki Fry,"gluten (likely, high)",Flagged,unknown
+KENKA,Kaeru No Kara Age,"gluten (likely, medium)",Could modify,unknown
+KENKA,Tonkatsu Pork Cutlet,"gluten (likely, high)",Flagged,unknown
+KENKA,Ebi Fry,"gluten (likely, high)",Flagged,unknown
+KENKA,Croquette,"gluten (likely, high)",Flagged,unknown
+KENKA,Ika Geso Kara Age,"gluten (likely, medium)",Could modify,unknown
+KENKA,French Fries,none flagged,Unknown,unknown
+KENKA,Edamame,none flagged,No allergens flagged,unknown
+KENKA,Tako Wasabi,none flagged,No allergens flagged,unknown
+KENKA,Kimchee,none flagged,No allergens flagged,unknown
+KENKA,Asa Zuke,none flagged,No allergens flagged,unknown
+KENKA,Shiokara,none flagged,No allergens flagged,unknown
+KENKA,Shirasu Oroshi,none flagged,No allergens flagged,unknown
+KENKA,Hiya Yakko,"gluten (likely, medium)",Could modify,unknown
+KENKA,Ton Soku,none flagged,No allergens flagged,unknown
+KENKA,Buta No Kakuni,"gluten (likely, medium)",Could modify,unknown
+KENKA,Niku Jaga,gluten (declared),Flagged,unknown
+KENKA,Harumaki,"gluten (likely, high)",Flagged,unknown
+KENKA,Shumai,"gluten (likely, high)",Flagged,unknown
+KENKA,Gyoza,"gluten (likely, high)",Flagged,unknown
+KENKA,Charsu,"gluten (likely, medium)",Could modify,unknown
+KENKA,Agedashi Tofu,"gluten (likely, medium)",Could modify,unknown
+KENKA,Okonomiyaki,"gluten (likely, high)",Flagged,unknown
+KENKA,Moro Q,"gluten (likely, medium)",Could modify,unknown
+KENKA,Arabiki Wiener,none flagged,No allergens flagged,unknown
+KENKA,Mentai Kyuri,none flagged,No allergens flagged,unknown
+KENKA,Chawanmushi,"gluten (likely, medium)",Could modify,unknown
+KENKA,Natta,none flagged,No allergens flagged,unknown
+KENKA,Ohitashi,none flagged,No allergens flagged,unknown
+KENKA,Yaki Nasu,"gluten (likely, medium)",Could modify,unknown
+KENKA,Hijiki,none flagged,No allergens flagged,unknown
+KENKA,Oden,"gluten (likely, medium)",Could modify,unknown
+KENKA,Satsuma Age,"gluten (likely, medium)",Could modify,unknown
+KENKA,Yu Dofu,gluten (declared),Flagged,unknown
+KENKA,Yamaimo Senbongiri,none flagged,No allergens flagged,unknown
+KENKA,Dengaku,"gluten (likely, medium)",Could modify,unknown
+KENKA,Motsu Ni,"gluten (likely, medium)",Could modify,unknown
+KENKA,Hotate Butter,none flagged,No allergens flagged,unknown
+KENKA,Namako Su,none flagged,No allergens flagged,unknown
+KENKA,Aspara Bacon,none flagged,No allergens flagged,unknown
+KENKA,Takoyaki,gluten (declared),Flagged,unknown
+KENKA,Sparerib Bbq Ribs,"gluten (likely, medium)",Could modify,unknown
+KENKA,Kinoko Butter,none flagged,No allergens flagged,unknown
+KENKA,Hamburg Hamburg Steak,"gluten (likely, medium)",Could modify,unknown
+KENKA,Ice Cream,none flagged,No allergens flagged,unknown
+KENKA,Anmitsu Cubes,none flagged,No allergens flagged,unknown
+KENKA,Mochi Ice Cream,none flagged,No allergens flagged,unknown
+KENKA,Green Tea Float,none flagged,Unknown,unknown
+KENKA,Coke Float,none flagged,Unknown,unknown
+Klong,Goong Kratiem,none flagged,No allergens flagged,unknown
+Klong,Pla Meuk Kai Kem,none flagged,No allergens flagged,unknown
+Klong,Goong Ob Woonsen,none flagged,No allergens flagged,unknown
+Klong,Hor Mok,none flagged,No allergens flagged,unknown
+Klong,Seafood Sukiyaki,none flagged,No allergens flagged,unknown
+Klong,Tom Som Pla Tod,none flagged,Unknown,unknown
+Klong,Mango Fish Salsa,tree nut (declared),Flagged,unknown
+Klong,Pad Dok Gui Chai,none flagged,No allergens flagged,unknown
+Klong,Pla Tod,tree nut (declared),Flagged,unknown
+Klong,Kang Kua,none flagged,No allergens flagged,unknown
+Klong,Cauliflower Massaman,peanut (declared),Flagged,unknown
+Klong,Beef Short Rib Green Curry,none flagged,No allergens flagged,unknown
+Klong,Siamese Cassia Curry,none flagged,No allergens flagged,unknown
+Klong,Duck Fig Curry,none flagged,No allergens flagged,unknown
+Klong,Taro Spring Rolls,"gluten (likely, medium)",Could modify,unknown
+Klong,Fried Gyoza,"gluten (likely, high)",Flagged,unknown
+Klong,Coconut Calamari,"gluten (likely, medium)",Could modify,unknown
+Klong,Chicken Skin Nam Prick Kee Ga,none flagged,No allergens flagged,unknown
+Klong,Crab Rangoons,"gluten (likely, high)",Flagged,unknown
+Klong,Klong Chicken Wings,none flagged,Unknown,unknown
+Klong,Larb Mhoo Tod,none flagged,No allergens flagged,unknown
+Klong,Edamame,none flagged,No allergens flagged,unknown
+Klong,Chicken & Shrimp Dumpling,"gluten (likely, high)",Flagged,unknown
+Klong,Sao-Nam,none flagged,No allergens flagged,unknown
+Klong,Ong Pu,none flagged,No allergens flagged,unknown
+Klong,Grilled Squid Leg,none flagged,No allergens flagged,unknown
+Klong,Kor Moo Yang,none flagged,No allergens flagged,unknown
+Klong,Thai Coconut Salad,none flagged,No allergens flagged,unknown
+Klong,Papaya Salad,peanut (declared),Flagged,unknown
+Klong,Yum Makuer,none flagged,No allergens flagged,unknown
+Klong,Yum Naem,none flagged,No allergens flagged,unknown
+Klong,Yum Kai Dao,none flagged,No allergens flagged,unknown
+Klong,Yum Pu Dong,none flagged,No allergens flagged,unknown
+Klong,Tom Kha Gai,none flagged,No allergens flagged,unknown
+Klong,Tom Yum Prawn River,none flagged,No allergens flagged,unknown
+Klong,Kapi Fried Rice,none flagged,No allergens flagged,unknown
+Klong,Khao Pad Pu,none flagged,No allergens flagged,unknown
+Klong,Klong Pad Thai,peanut (declared),Flagged,unknown
+Klong,Beef See Euw,"gluten (likely, medium)",Could modify,unknown
+Klong,Kua Gai Noodle,"gluten (likely, medium)",Could modify,unknown
+Klong,Chicken Drunken Noodle,"gluten (likely, medium)",Could modify,unknown
+Klong,Krapow Nuer,"gluten (likely, medium)",Could modify,unknown
+Klong,Bamii Road Side Noodle,"peanut (declared); gluten (likely, high)",Flagged,unknown
+Klong,Bamii Ped,"gluten (likely, high)",Flagged,unknown
+Klong,Khao Soi Noodle Soup,"gluten (likely, high)",Flagged,unknown
+Klong,Pea Shoots,none flagged,No allergens flagged,unknown
+Klong,Lotus Roots,none flagged,No allergens flagged,unknown
+Klong,Rice,none flagged,No allergens flagged,unknown
+Klong,Sticky Rice,none flagged,No allergens flagged,unknown
+Klong,Coconut Rice,none flagged,No allergens flagged,unknown
+Klong,Fried Egg,none flagged,No allergens flagged,unknown
+Klong,Lunch Special Combo,"peanut (declared); peanut (likely, medium); gluten (likely, medium)",Flagged,unknown
+Klong,Pork Sukiyaki,none flagged,No allergens flagged,unknown
+Klong,Sapporo Draft Beer,"gluten (likely, medium)",Could modify,unknown
+Klong,Mojito / Margarita (flavored cocktails),none flagged,Unknown,unknown
+Klong,Sangria,none flagged,Unknown,unknown
+Klong,Phuket Bucket,none flagged,Unknown,unknown
+Klong,Wine by the Glass,none flagged,Unknown,unknown
+Klong,Mimosa,none flagged,Unknown,unknown
+Klong,Ayudhya Rice Pudding,none flagged,No allergens flagged,unknown
+Klong,Green Tea Ice Cream,peanut (declared),Flagged,unknown
+Klong,Coconut Ice Cream,peanut (declared),Flagged,unknown
+Klong,Khao-Tom-Mud,none flagged,No allergens flagged,unknown
+Klong,Warm Truffle Chocolate Cake,"gluten (likely, high)",Flagged,unknown
+Kyuubi Sushi Omakase,Omakase A,"gluten (likely, medium)",Could modify,unknown
+Kyuubi Sushi Omakase,Omakase B,"gluten (likely, medium)",Could modify,unknown
+Kyuubi Sushi Omakase,A5 Wagyu,"gluten (likely, medium)",Could modify,unknown
+Kyuubi Sushi Omakase,Salmon Don,"gluten (likely, medium)",Could modify,unknown
+Kyuubi Sushi Omakase,Unagi Don,"gluten (likely, high)",Flagged,unknown
+Kyuubi Sushi Omakase,Chu Toro,none flagged,No allergens flagged,unknown
+La Palapa,Taquiza Tacos,"peanut (likely, medium)",Could modify,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Tacos de Pescado,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Tacos Vegan Avocado Corn,"peanut (likely, medium)",Could modify,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Bistec,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Tinga de Pollo,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Hongos,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Rajas Poblanas,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Al Pastor Pork,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Barbacoa Rez,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Chorizo,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Esquites,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Camarones,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,La Palapa Burrito,"gluten (likely, high)",Flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Guacamole por Orden,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Tamales,"peanut (likely, medium); tree nut (likely, medium)",Could modify,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Birria Flautas,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Sopa de la Casa: Pozole Rojo,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Elote del Mercado,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Taquitos De Papa,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Chalupas con Chorizo Casero,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Plátanos con Crema,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Calamares,"gluten (likely, medium)",Could modify,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Enchiladas de Pollo-Mole,"peanut (likely, medium); tree nut (likely, medium)",Could modify,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Enchiladas de Pollo-Verdes,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Enchiladas Fundidas de Carne Asada,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Enchiladas de Huitlacoche,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Arrachera al Tequila con Jalapeños Torreados,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Pato al Mole Negro Oaxaqueño,"peanut (likely, medium); tree nut (likely, medium)",Could modify,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Camarones al Mojo de Ajo,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Camarones en Mole Negro,"peanut (likely, medium); tree nut (likely, medium)",Could modify,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Chile Relleno,"gluten (likely, medium)",Could modify,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Plato Vegan Tepozteco,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Plato Vegetariano Azteca,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Barbacoa de Cordero Catalina,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Tacos de Carnitas,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Camarones Mojo De Ajo,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Enchiladas de Hongos-Verdes,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Enchiladas de Hongos-Mole Rojo,"peanut (likely, medium); tree nut (likely, medium)",Could modify,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Romántica,tree nut (declared),Flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,César Cardini,"tree nut (declared); gluten (likely, high)",Flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Nopalitos,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Palmitos,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Piña asada,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Cebollitas,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Jalapeños Torreados,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Charro Bacon Beans,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Pan Frances Torrejas,"gluten (likely, high)",Flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Huevos a La Mexicana,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Huevos Rancheros Verdes,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Molletes,"gluten (likely, high)",Flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Avocado Toast,"gluten (likely, high)",Flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Huevos Tulum (keto),none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Burrito Bowl,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Vegan Bowl,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,BEC & Avocado Sandwich,"gluten (likely, high)",Flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Breakfast Burrito,"gluten (likely, high)",Flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Breakfast Tacos,"gluten (likely, medium)",Could modify,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Chilaquiles Verdes,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Huevos Choriqueso,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Pepito,"gluten (likely, high)",Flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Torta de Pollo,"gluten (likely, high)",Flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,La Palapa Margarita,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Micheladas (beer cocktails),"gluten (likely, medium)",Could modify,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Cerveza (Beer),"gluten (likely, medium)",Could modify,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Sangría,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Aguas Frescas / Non-alcoholic beverages,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Cocteles (specialty cocktails),none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Mezcal,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Tequila,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Cafecitos,none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+La Palapa,Cocteles Especiales (Brunch),none flagged,No allergens flagged,"Restaurant discloses: ""La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."""
+Little Kirin,The Pho Sandwich,"gluten (likely, high)",Flagged,unknown
+Little Kirin,Grandma's Braised Pork (Sandwich),"gluten (likely, high)",Flagged,unknown
+Little Kirin,Crispy Fried Chicken (Sandwich),"gluten (likely, high)",Flagged,unknown
+Little Kirin,Salmon Katsu Po'Boy,"gluten (likely, high)",Flagged,unknown
+Little Kirin,The Pho Bowl,"gluten (likely, medium)",Could modify,unknown
+Little Kirin,Kirin BBQ Chicken,none flagged,No allergens flagged,unknown
+Little Kirin,Firecracker Chicken,none flagged,No allergens flagged,unknown
+Little Kirin,Sweet Chili Tofu Bowl,gluten (declared),Flagged,unknown
+Little Kirin,Grandma's Braised Pork (Bowl),"gluten (likely, medium)",Could modify,unknown
+Little Kirin,Crispy Fried Chicken (Bowl),"gluten (likely, high)",Flagged,unknown
+Little Kirin,Salmon Katsu Bowl,"gluten (likely, high)",Flagged,unknown
+Little Kirin,Crispy Kirin Tots,"gluten (likely, medium)",Could modify,unknown
+Little Kirin,Loaded Kirin Tots,"gluten (likely, medium)",Could modify,unknown
+Little Kirin,Fried Mantou Buns,"gluten (likely, high)",Flagged,unknown
+Little Kirin,Chilled Cucumber Salad,none flagged,No allergens flagged,unknown
+Little Kirin,Veggie Spring Roll,"gluten (likely, medium)",Could modify,unknown
+Little Kirin,Macaroni Salad,"gluten (likely, high)",Flagged,unknown
+Little Kirin,Pho Broth,none flagged,Unknown,unknown
+Little Kirin,"Sauces (Sesame Aioli, Cajun Tartar, Ginger Scallion Aioli, Zesty)",none flagged,No allergens flagged,unknown
+Little Kirin,The Bodega,"gluten (likely, high)",Flagged,unknown
+Little Kirin,The Hangover Cure,"gluten (likely, high)",Flagged,unknown
+Loong Noodles,Beef Rice Noodle / 牛肉汤粉/面,gluten (declared),Flagged,unknown
+Loong Noodles,Lamb Rice Noodle / 羊肉汤粉/面,gluten (declared),Flagged,unknown
+Loong Noodles,Spicy Chicken Rice Noodle / 辣鸡汤粉/面,gluten (declared),Flagged,unknown
+Loong Noodles,Beef Tripe Rice Noodle / 牛肚汤粉/面,gluten (declared),Flagged,unknown
+Loong Noodles,Pork Intestine Rice Noodle / 肥肠汤粉/面,gluten (declared),Flagged,unknown
+Loong Noodles,Vegetable Noodle Soup / 清汤素粉/面,gluten (declared),Flagged,unknown
+Loong Noodles,Tomato & Egg Noodle Soup / 西红柿鸡蛋汤粉/面,gluten (declared),Flagged,unknown
+Loong Noodles,Sauerkraut & Pork Rice Noodle Soup / 酸菜肉沫粉/面,gluten (declared),Flagged,unknown
+Loong Noodles,Dry Mixed Beef Noodle / 牛肉干拌粉/面,gluten (declared); peanut (declared),Flagged,unknown
+Loong Noodles,Dry Mixed Chicken Noodle / 干拌辣鸡粉/面,gluten (declared); peanut (declared),Flagged,unknown
+Loong Noodles,Dry Mixed Beef Tripe Noodle / 干拌牛肚粉/面,gluten (declared); peanut (declared),Flagged,unknown
+Loong Noodles,Dry Mixed Pork Intestine Noodle / 干拌肥肠粉/面,gluten (declared); peanut (declared),Flagged,unknown
+Loong Noodles,Dry Mixed Tomato and Egg Noodles / 西红柿鸡蛋拌粉/面,gluten (declared),Flagged,unknown
+Loong Noodles,Wan Za Dry / 秘制豌杂粉/面,gluten (declared),Flagged,unknown
+Loong Noodles,Mapo Tofu Dry Noodle / 麻婆豆腐粉/面,gluten (declared),Flagged,unknown
+Loong Noodles,Dry Mix Sauerkraut & Pork Rice Noodle / 干拌酸菜肉沫粉/面,gluten (declared); peanut (declared),Flagged,unknown
+Loong Noodles,Pork / 猪肉脆皮煎饺,"gluten (likely, high); gluten (likely, medium)",Flagged,unknown
+Loong Noodles,Chicken / 鸡肉脆皮煎饺,"gluten (likely, high); gluten (likely, medium)",Flagged,unknown
+Loong Noodles,Veg / 素脆皮煎饺,"gluten (likely, high); gluten (likely, medium)",Flagged,unknown
+Loong Noodles,Chili Wonton / 红油抄手,"gluten (likely, high)",Flagged,unknown
+Loong Noodles,Wonton Soup / 清汤抄手,"gluten (likely, high)",Flagged,unknown
+Loong Noodles,Spicy Chicken Cold Noodle / 辣鸡凉面,gluten (declared); peanut (declared),Flagged,unknown
+Loong Noodles,Sesame Cold Noodle / 麻酱凉面,gluten (declared),Flagged,unknown
+Loong Noodles,Beef Cold Noodle / 牛肉凉面,gluten (declared); peanut (declared),Flagged,unknown
+Loong Noodles,Chicken in Chili Oil / 口水鸡,peanut (declared),Flagged,unknown
+Loong Noodles,Beef Tripe Salad / 凉拌牛肚,none flagged,No allergens flagged,unknown
+Loong Noodles,Cold Cucumber Salad / 凉拌黄瓜,none flagged,No allergens flagged,unknown
+Loong Noodles,Shredded Potato Salad / 凉拌土豆丝,"gluten (likely, medium)",Could modify,unknown
+Loong Noodles,Scallion Pancake / 葱油饼,"gluten (likely, high)",Flagged,unknown
+Loong Noodles,"Beverages (6 varieties: Water, Soda, Sour Plum Drink, Coconut Milk, Vita Lemon Tea, Herbal Tea)","tree nut (likely, low)",Could modify,unknown
+MáLà Project,Classic BènBèn,"gluten (likely, medium)",Could modify,unknown
+MáLà Project,Beef Please,"gluten (likely, medium)",Could modify,unknown
+MáLà Project,Lucky Chicken,"gluten (likely, medium)",Could modify,unknown
+MáLà Project,Year of the Pork Belly,"gluten (likely, medium)",Could modify,unknown
+MáLà Project,Little Prince Lamb,"gluten (likely, medium)",Could modify,unknown
+MáLà Project,Gone Fishing,"gluten (likely, medium)",Could modify,unknown
+MáLà Project,BènBèn's Garden,"gluten (likely, medium)",Could modify,unknown
+MáLà Project,MáLà Dry Pot (Your Combo),"gluten (likely, medium)",Could modify,unknown
+MáLà Project,MáLà Peanuts,"peanut (declared); gluten (likely, medium)",Flagged,unknown
+MáLà Project,MáLà Fries,none flagged,No allergens flagged,unknown
+MáLà Project,MáLà Pickles,none flagged,No allergens flagged,unknown
+MáLà Project,Marinated Cucumbers,none flagged,No allergens flagged,unknown
+MáLà Project,Crispy Duck Salad,"gluten (likely, medium)",Could modify,unknown
+MáLà Project,Eggplant with Roasted Garlic,"gluten (likely, medium)",Could modify,unknown
+MáLà Project,"1,000 Year Egg","gluten (likely, medium)",Could modify,unknown
+MáLà Project,LiángFěn of Happy Tears,"tree nut (declared); gluten (likely, medium)",Flagged,unknown
+MáLà Project,Pig Ear in Chili Oil,"gluten (likely, medium)",Could modify,unknown
+MáLà Project,Spicy Chicken With Cucumber,peanut (declared),Flagged,unknown
+MáLà Project,Husband & Wife Lung Slices,"gluten (likely, medium)",Could modify,unknown
+MáLà Project,Sweet & Sour Pork Ribs,"gluten (likely, medium)",Could modify,unknown
+MáLà Project,Vegetable Dumplings,"gluten (likely, high)",Flagged,unknown
+MáLà Project,Beef Dumplings,"gluten (likely, high)",Flagged,unknown
+MáLà Project,Silky Egg Custard,"gluten (likely, medium)",Could modify,unknown
+MáLà Project,Scallion Pancake,"gluten (likely, high)",Flagged,unknown
+MáLà Project,MáLà Wings,"peanut (likely, medium); tree nut (likely, medium)",Could modify,unknown
+MáLà Project,Beef Wrap,"gluten (likely, high)",Flagged,unknown
+MáLà Project,Duck Tacos,none flagged,No allergens flagged,unknown
+MáLà Project,Spicy Popcorn Chicken,"gluten (likely, high)",Flagged,unknown
+MáLà Project,Sweet Lotus Root,none flagged,No allergens flagged,unknown
+MáLà Project,White Rice,none flagged,No allergens flagged,unknown
+MáLà Project,Purple Rice,none flagged,No allergens flagged,unknown
+MáLà Project,House Fried Noodle,gluten (declared),Flagged,unknown
+MáLà Project,DànDàn Noodles,gluten (declared),Flagged,unknown
+MáLà Project,Cold Noodles,"gluten (likely, high)",Flagged,unknown
+MáLà Project,Beef Noodle Soup,gluten (declared),Flagged,unknown
+MáLà Project,Hot & Sour Noodle Soup,"peanut (declared); gluten (likely, medium)",Flagged,unknown
+MáLà Project,Beijing ChǎoBǐng,"gluten (likely, high)",Flagged,unknown
+MáLà Project,Leftover Fried Rice,"gluten (likely, medium)",Could modify,unknown
+MáLà Project,XiāngXī Fried Rice,"gluten (likely, medium)",Could modify,unknown
+MáLà Project,MáPó Tofu,"gluten (likely, medium)",Could modify,unknown
+MáLà Project,Pork Belly With Preserved Mustard Greens,"gluten (likely, high)",Flagged,unknown
+MáLà Project,Chinese Fried Chicken,"gluten (likely, high)",Flagged,unknown
+MáLà Project,Fish With Pickled Peppers & Mushrooms,"gluten (likely, medium)",Could modify,unknown
+MáLà Project,Herbal Jelly,tree nut (declared),Flagged,unknown
+MáLà Project,Gold & Silver Mántòu,"gluten (likely, high)",Flagged,unknown
+MáLà Project,Coconut Milk Pudding,none flagged,No allergens flagged,unknown
+MáLà Project,Crispy Mochi,"gluten (likely, high)",Flagged,unknown
+MáLà Project,Soft Drinks (all varieties),none flagged,No allergens flagged,unknown
+MáLà Project,Beer (all varieties),"gluten (likely, medium)",Could modify,unknown
+Mamoun's Falafel,Falafel Sandwich,"gluten (likely, high)",Flagged,unknown
+Mamoun's Falafel,Shawarma Sandwich,"gluten (likely, high)",Flagged,unknown
+Mamoun's Falafel,Chicken Kebob Sandwich,"gluten (likely, high)",Flagged,unknown
+Mamoun's Falafel,Classic,"gluten (likely, high)",Flagged,unknown
+Mamoun's Falafel,West 4th,"gluten (likely, high)",Flagged,unknown
+Mamoun's Falafel,Manhattan,gluten (declared),Flagged,unknown
+Mamoun's Falafel,West Village,"gluten (likely, high)",Flagged,unknown
+Mamoun's Falafel,Macdougal,"gluten (likely, high)",Flagged,unknown
+Mamoun's Falafel,Sullivan,gluten (declared),Flagged,unknown
+Mamoun's Falafel,East Village,gluten (declared),Flagged,unknown
+Mamoun's Falafel,Bleecker,"gluten (likely, high)",Flagged,unknown
+Mamoun's Falafel,Falafel Plate,"gluten (likely, high)",Flagged,unknown
+Mamoun's Falafel,Combo Plate,"gluten (likely, high)",Flagged,unknown
+Mamoun's Falafel,Shawarma Plate,"gluten (likely, high)",Flagged,unknown
+Mamoun's Falafel,Hummus Bowl,gluten (declared),Flagged,unknown
+Mamoun's Falafel,Chicken Kebob Plate,"gluten (likely, high)",Flagged,unknown
+Mamoun's Falafel,"Falafel (Side, 4 pieces)",none flagged,No allergens flagged,unknown
+Mamoun's Falafel,Seasoned Fries,none flagged,Unknown,unknown
+Mamoun's Falafel,Lentil Soup,"gluten (likely, high)",Flagged,unknown
+Mamoun's Falafel,Mamoun's Salad,none flagged,No allergens flagged,unknown
+Mamoun's Falafel,Hummus (Side),none flagged,No allergens flagged,unknown
+Mamoun's Falafel,Tabbouleh,gluten (declared),Flagged,unknown
+Mamoun's Falafel,Pita Chips,"gluten (likely, high)",Flagged,unknown
+Mamoun's Falafel,Pickled Veggies,none flagged,No allergens flagged,unknown
+Mamoun's Falafel,Bag of Pita Bread,"gluten (likely, high)",Flagged,unknown
+Mamoun's Falafel,Baba Ganouj,none flagged,No allergens flagged,unknown
+Mamoun's Falafel,Seasoned Rice,none flagged,No allergens flagged,unknown
+Mamoun's Falafel,Grape Leaves,none flagged,No allergens flagged,unknown
+Mamoun's Falafel,Pita Bread,"gluten (likely, high)",Flagged,unknown
+Mamoun's Falafel,Baklava,"tree nut (declared); gluten (likely, high)",Flagged,unknown
+Mamoun's Falafel,Hot Sauce,none flagged,No allergens flagged,unknown
+Mamoun's Falafel,Tahineh Sauce,none flagged,No allergens flagged,unknown
+Mamoun's Falafel,Garlic Sauce,none flagged,No allergens flagged,unknown
+Mamoun's Falafel,Mint Lemonade,none flagged,No allergens flagged,unknown
+Mamoun's Falafel,Mamoun's Iced Tea,none flagged,No allergens flagged,unknown
+Mamoun's Falafel,Mango,none flagged,No allergens flagged,unknown
+Mamoun's Falafel,Tamarind,none flagged,No allergens flagged,unknown
+Mamoun's Falafel,Soda (all flavors),none flagged,No allergens flagged,unknown
+Mamoun's Falafel,Bottled Water,none flagged,No allergens flagged,unknown
+Mokyo,Haricots Verts,none flagged,No allergens flagged,unknown
+Mokyo,Avocado,none flagged,No allergens flagged,unknown
+Mokyo,Korean Sweet Potato,tree nut (declared),Flagged,unknown
+Mokyo,Corn Dumpling,"gluten (likely, high)",Flagged,unknown
+Mokyo,Cauliflower,"gluten (likely, medium)",Could modify,unknown
+Mokyo,Tartare,none flagged,Unknown,unknown
+Mokyo,Wagyu Oxtail Spring Roll,"gluten (likely, medium)",Could modify,unknown
+Mokyo,XO Fried Rice,"gluten (likely, medium)",Could modify,unknown
+Mokyo,Beef Ragu x Rice Cake,none flagged,Unknown,unknown
+Mokyo,Berkshire Rib,"gluten (likely, medium); tree nut (likely, high)",Flagged,unknown
+Mokyo,Yellowtail Crudo,"peanut (likely, high); tree nut (likely, medium)",Flagged,unknown
+Mokyo,Lobster Roll,"gluten (likely, high)",Flagged,unknown
+Mokyo,Scallop,none flagged,Unknown,unknown
+Mokyo,Gumbo,"gluten (likely, high)",Flagged,unknown
+Mokyo,Noodle,"tree nut (declared); gluten (likely, medium)",Flagged,unknown
+Mokyo,Blueberry Cloud,none flagged,No allergens flagged,unknown
+Mokyo,Pop Rocks,none flagged,No allergens flagged,unknown
+Mokyo,Sake (category),none flagged,Unknown,unknown
+Mokyo,Korean Spirit (category),none flagged,Unknown,unknown
+Mokyo,Beer (category),"gluten (likely, medium)",Could modify,unknown
+Mokyo,Wine (category),none flagged,Unknown,unknown
+Mokyo,Cocktails (category),none flagged,Unknown,unknown
+Mokyo,Non-Alcoholic (category),none flagged,Unknown,unknown
+Mountain House East Village,Swing Pork Belly,none flagged,No allergens flagged,unknown
+Mountain House East Village,Fu-Qi Special,"peanut (likely, medium)",Could modify,unknown
+Mountain House East Village,House Chicken,"peanut (declared); gluten (likely, medium)",Flagged,unknown
+Mountain House East Village,Green Pepper Beef Tripe,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Pickled Chicken Feet,none flagged,No allergens flagged,unknown
+Mountain House East Village,Okra Salad,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Pepper Beef Tongue,none flagged,No allergens flagged,unknown
+Mountain House East Village,Mung Bean Jelly,none flagged,No allergens flagged,unknown
+Mountain House East Village,Szechuan Pickles,none flagged,No allergens flagged,unknown
+Mountain House East Village,Bamboo Grove Trio,none flagged,No allergens flagged,unknown
+Mountain House East Village,La-Zi Chicken,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Stone Pot Green Pepper Fish,none flagged,No allergens flagged,unknown
+Mountain House East Village,Mao Xue Wang,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Beef Slices in Spicy Sour Soup,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Spicy Frog Lover,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Ma-Po Tofu,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Fish in Sour Cabbage Soup,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Green Spicy Bass,none flagged,No allergens flagged,unknown
+Mountain House East Village,Pepper Lover,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Ma-La Dungeness Crab,none flagged,No allergens flagged,unknown
+Mountain House East Village,House Steamed Crab,none flagged,No allergens flagged,unknown
+Mountain House East Village,Crispy Sizzling Tofu,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Pickled Pepper Fish,none flagged,No allergens flagged,unknown
+Mountain House East Village,Claypot Beef w. Potatoes,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Diced Chicken with Lotus Roots,none flagged,No allergens flagged,unknown
+Mountain House East Village,Fish Fillet with Crispy Rice,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Teppan Shrimp,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,House Tomato Fish Stew,none flagged,No allergens flagged,unknown
+Mountain House East Village,Sweet & Sour Pork,"gluten (likely, high)",Flagged,unknown
+Mountain House East Village,Salted Egg Yolk Corns,none flagged,No allergens flagged,unknown
+Mountain House East Village,Sliced Beef with Chili Sauce,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Hot Triple Crisp,none flagged,Unknown,unknown
+Mountain House East Village,Traditional Beef Treasure Soup,none flagged,No allergens flagged,unknown
+Mountain House East Village,Green Pepper Eel,none flagged,Unknown,unknown
+Mountain House East Village,Pepper Rabbit Meat,none flagged,No allergens flagged,unknown
+Mountain House East Village,Pork in Garlic Sauce,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Ma-La Boiled Beef,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Kung Pao Chicken,"peanut (declared); gluten (likely, medium)",Flagged,unknown
+Mountain House East Village,Szechuan Double Cooked Pork,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Green Pepper Pork,none flagged,No allergens flagged,unknown
+Mountain House East Village,County Braised Pork,none flagged,No allergens flagged,unknown
+Mountain House East Village,Pickled Rabbit Meat,none flagged,No allergens flagged,unknown
+Mountain House East Village,Green Pepper Mao Xue Wang,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Ma-Po Style Pork Blood & Brains,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Ma-La Pork Intestine,none flagged,No allergens flagged,unknown
+Mountain House East Village,Ma-Ma Hot Fish,none flagged,Unknown,unknown
+Mountain House East Village,Hot Spicy Pork Kidney,none flagged,No allergens flagged,unknown
+Mountain House East Village,Peppercorn Beef,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Signature Chicken Stew,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Jiang Stew Fish,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Ma-La Lobster,none flagged,No allergens flagged,unknown
+Mountain House East Village,Fried Shredded Eel,"gluten (likely, high)",Flagged,unknown
+Mountain House East Village,Pickled Pepper Frog,none flagged,No allergens flagged,unknown
+Mountain House East Village,Ma-La Prawns,none flagged,No allergens flagged,unknown
+Mountain House East Village,Stir-Fried Cabbage,none flagged,No allergens flagged,unknown
+Mountain House East Village,Stir-Fried Lotus Roots & Celery,none flagged,No allergens flagged,unknown
+Mountain House East Village,Sauteed Shredded Potato,none flagged,No allergens flagged,unknown
+Mountain House East Village,Sauteed Water Spinach,none flagged,No allergens flagged,unknown
+Mountain House East Village,Sauteed Chinese Long Beans with Eggplant,none flagged,No allergens flagged,unknown
+Mountain House East Village,Stir-Fried Cauliflower,none flagged,No allergens flagged,unknown
+Mountain House East Village,Stir-Fried Chinese Long Beans,none flagged,No allergens flagged,unknown
+Mountain House East Village,Stir-Fried Pea Shoot,none flagged,No allergens flagged,unknown
+Mountain House East Village,House Special Pig Trotters Soup,none flagged,No allergens flagged,unknown
+Mountain House East Village,Minced Beef & Egg Drop Soup,none flagged,No allergens flagged,unknown
+Mountain House East Village,Seafood Hot and Sour Soup,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Mix Herbal Chicken Soup,none flagged,No allergens flagged,unknown
+Mountain House East Village,White Rice,none flagged,No allergens flagged,unknown
+Mountain House East Village,Fried Rice with Szechuan Pickles Bacon,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Beef Fried Rice,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Fried Rice with Szechuan Special Greens,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Szechuan Style Fried Noodle,"gluten (likely, high)",Flagged,unknown
+Mountain House East Village,Dumpling in Chili Oil,"gluten (likely, high)",Flagged,unknown
+Mountain House East Village,Beef and Porcini Mushroom Bibimbap,"gluten (likely, medium)",Could modify,unknown
+Mountain House East Village,Sweet Drunken Jelly,none flagged,No allergens flagged,unknown
+Mountain House East Village,Sesame Rice Ball in Osmanthus Soup (vegetarian),none flagged,No allergens flagged,unknown
+Mountain House East Village,Jasmine Farewell,none flagged,Unknown,unknown
+Mountain House East Village,Yibin Style Ran Noodles,"gluten (likely, high)",Flagged,unknown
+Mountain House East Village,Dumplings in Chili Oil,"gluten (likely, high)",Flagged,unknown
+Mountain House East Village,Chicken Mushroom Wontons,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Chicken Soup Dumplings 雞肉小籠包,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Crab Meat & Pork Soup Dumplings 蟹粉小籠包,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,"Gourd Luffa, Shrimp, and Pork Soup Dumplings 絲瓜鮮蝦肉小籠包","gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Lucky Six Soup Dumplings 六彩小籠包,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Nan Xiang Soup Dumplings 南翔小籠包,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Scallop & Pork Soup Dumplings 干貝小籠包,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Spicy Beef Soup Dumplings 麻辣牛肉小笼包,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Truffle & Pork Soup Dumplings 松露小籠包,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Vegetable Soup Dumplings 翡翠小籠包,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Pan Fried Pork Buns 生煎包,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Pan-Fried Crabmeat & Pork Buns 蟹粉生煎包,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Cheese & Shrimp Potstickers 芝士蝦仁鍋貼,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Pan Fried Pork Dumplings 生煎鍋貼,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Pan-Fried Beef Dumplings 牛肉鍋貼,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Pork & Vegetable Wontons in Spicy Peanuts Sauce 紅油菜肉抄手,"peanut (declared); gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,"Shrimp, Pork & Vegetable Wontons in Spicy Peanut Sauce 紅油蝦仁菜肉抄手","peanut (declared); gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Shanghai Siu Mai 糯米燒賣,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Chicken Siu Mai 雞肉燒賣,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Steamed Vegetable Dumplings 花素蒸餃,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,"Pork, Shrimp & Cabbage Dumplings 手工白菜豬肉蝦仁水餃","gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,"Pork, Shrimp & Chive Dumplings 手工韭菜豬肉蝦仁水餃","gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,"Chicken, Corn & Carrot Dumplings 雞肉水餃","gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Beef Tripe in Spicy Sauce 夫妻肺片,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Chicken in Wine Sauce 紹興醉雞,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Cucumber Salad with Garlic 脆口黃瓜,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Four Happiness Kaofu 四喜烤麩,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Potherb Mustard & Tofu Skin 雪菜豆干毛豆,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Savory Pressed Tofu with Chinese Celery 香芹拌香干,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Scallion Pancake with Sliced Beef 蔥油餅夾牛肉,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Fried Pork Chop 炸排骨,gluten (declared),Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Crispy Dough 油條,gluten (declared),Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Salty Soybean Milk 鹹豆漿,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Salty Soybean Pudding 鹹豆花,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Sweet Sticky Rice Roll 甜糯米飯團,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Salty Sticky Rice Roll 鹹糯米飯團,none flagged,Unknown,unknown
+Nan Xiang Soup Dumplings - East Village,Fried Vegetable Spring Rolls 素菜春卷,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Fried Shrimp Spring Rolls 蝦仁春卷,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Scallion Pancake 手擀蔥油餅,gluten (declared),Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Turnip Ham Puffs 蘿蔔酥餅,gluten (declared),Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Fried Chinese Chives Box 韭菜盒子,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Pork & Vegetable Wonton Soup 薺菜肉餛飩湯 (8pcs),"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,"Shrimp, Pork & Vegetable Wonton Soup (8) 薺菜蝦仁餛飩湯","gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Steamed Chicken Soup 元盅土雞湯,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,West Lake Beef Soup 西湖牛肉羹,"gluten (likely, medium)",Could modify,unknown
+Nan Xiang Soup Dumplings - East Village,Black Pepper Beef 黑胡椒牛肉粒,"gluten (likely, medium)",Could modify,unknown
+Nan Xiang Soup Dumplings - East Village,Braised Pork Meatballs Shanghai-Style 紅燒獅子頭,"gluten (likely, medium)",Could modify,unknown
+Nan Xiang Soup Dumplings - East Village,Chili Crispy Chicken Bites 椒香麻辣鸡,"gluten (likely, medium)",Could modify,unknown
+Nan Xiang Soup Dumplings - East Village,Creamy Shrimp 奶油鮮蝦,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Crispy Flounder Fish Filet with Sweet & Sour Sauce 糖醋魚片,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Egg Fried Rice 蛋炒飯,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Nan Xiang Fried Rice 南翔炒飯,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Osmanthus Honey Chicken 桂香蜜汁鸡,"gluten (likely, medium)",Could modify,unknown
+Nan Xiang Soup Dumplings - East Village,Sauteed String Beans with Garlic 乾扁四季豆,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Shanghai Sweet & Sour Spare Pork Ribs 上海糖醋排骨,"gluten (likely, medium)",Could modify,unknown
+Nan Xiang Soup Dumplings - East Village,Stir-fried Bok Choy with Garlic 蒜炒上海青,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Stir-Fried Broccoli with Garlic 蒜炒西蘭花,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Seafood Noodle Soup 海鮮湯麵,gluten (declared),Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Shredded Beef & Pepper Noodle Soup 小椒牛肉絲湯麵,gluten (declared),Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Shredded Beef & Pepper Noodles (No soup) 小椒牛肉絲乾拌麵,gluten (declared),Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Vegetable Noodle Soup 素菜湯麵,gluten (declared),Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Braised Beef Noodle Soup 招牌紅燒牛肉麵,"gluten (likely, medium)",Could modify,unknown
+Nan Xiang Soup Dumplings - East Village,Scallion Oil Noodles 蔥油乾拌麵,"gluten (likely, medium)",Could modify,unknown
+Nan Xiang Soup Dumplings - East Village,Shanghai Stir-fried Udon 上海粗炒麵,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Chicken Stir-Fried Udon 雞肉粗炒麵,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Beef Stir-Fried Udon 牛肉絲粗炒麵,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Seafood Stir-Fried Udon 海鮮粗炒麵,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Pan-Fried Crispy Noodles with Vegetable 素兩麵黃,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Pan-Fried Crispy Noodles with Shredded Pork 肉絲兩麵黃,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Pan-Fried Crispy Noodles with Shredded Chicken 雞絲兩麵黃,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Pan-Fried Crispy Noodle with Shredded Beef 牛肉兩麵黃,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Pan-Fried Crispy Noodles with Seasonal Seafood 海鮮兩麵黃,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,"Pan-fried Crispy Noodles Pork, Shrimp, & Fish Fillet 什錦兩麵黃","gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Stir-Fried Rice Cakes with Shredded Pork & Potherb Mustard 雪菜肉絲炒年糕,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Stir-Fried Rice Cakes with Shredded Chicken 雞絲炒年糕,"gluten (likely, medium)",Could modify,unknown
+Nan Xiang Soup Dumplings - East Village,Stir-Fried Rice Cakes with Vegetables 素炒年糕,"gluten (likely, medium)",Could modify,unknown
+Nan Xiang Soup Dumplings - East Village,Stir-Fried Rice Cakes with Shredded Pork 肉絲炒年糕,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Stir-Fried Rice Cakes with Seasonal Seafood 海鮮炒年糕,"gluten (likely, medium)",Could modify,unknown
+Nan Xiang Soup Dumplings - East Village,Stir-fried Rice Cakes with Shredded Beef 牛肉炒年糕,"gluten (likely, medium)",Could modify,unknown
+Nan Xiang Soup Dumplings - East Village,Durian Puffs 榴蓮酥餅,"gluten (likely, high)",Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Mochi & Sesame XLB 麻薯黑芝麻小笼包,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Pumpkin Cakes 南瓜餅,gluten (declared),Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Red Bean Puffs 豆沙酥餅,gluten (declared),Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Sweet Soybean Pudding 甜豆花,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Ube Red Bean Bao 紫薯豆沙包,gluten (declared),Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Beverages (9 varieties),none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Chili Oil 辣椒油,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Peanut Sauce 花生酱,peanut (declared),Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Soy Sauce 酱油,gluten (declared),Flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Vinegar 醋,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,White Rice 白米饭,none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Dragon Boat Bundle (large),none flagged,No allergens flagged,unknown
+Nan Xiang Soup Dumplings - East Village,Dragon Boat Bundle (standard),none flagged,No allergens flagged,unknown
+Nudibranch,Patatas Bravas,none flagged,No allergens flagged,unknown
+Nudibranch,Duck Confit Croquettes,"gluten (likely, high)",Flagged,unknown
+Nudibranch,Frog Legs,none flagged,No allergens flagged,unknown
+Nudibranch,Pan con Tomate,"gluten (likely, high)",Flagged,unknown
+Nudibranch,Fluke,none flagged,No allergens flagged,unknown
+Nudibranch,Crispy Chicken Sandwich,"gluten (likely, high)",Flagged,unknown
+Nudibranch,Endive Salad,none flagged,No allergens flagged,unknown
+Nudibranch,Cavatelli,"gluten (likely, high)",Flagged,unknown
+Nudibranch,"Mushroom, Egg Yolk, Shaoxing",none flagged,No allergens flagged,unknown
+Nudibranch,Soba with Salmon Roe,"gluten (likely, high)",Flagged,unknown
+Nudibranch,Jamon Iberico de Bellota Pata Negra,none flagged,No allergens flagged,unknown
+Nudibranch,Pork Rib Chop,"gluten (likely, medium)",Could modify,unknown
+Nudibranch,Dorade,none flagged,No allergens flagged,unknown
+Nudibranch,Denver Steak,"gluten (likely, medium)",Could modify,unknown
+Nudibranch,14 Day Dry Aged Duck,none flagged,No allergens flagged,unknown
+Nudibranch,Nori Rice,none flagged,No allergens flagged,unknown
+Nudibranch,Kimchi,none flagged,No allergens flagged,unknown
+Nudibranch,Scallion Pancakes,"gluten (likely, high)",Flagged,unknown
+Nudibranch,Green Apple Sorbet,none flagged,No allergens flagged,unknown
+Nudibranch,Basque Cheesecake,"gluten (likely, medium)",Could modify,unknown
+Nudibranch,Masala Chai Tres Leches,"gluten (likely, high)",Flagged,unknown
+Pizza Studio Tamaki,Green Salad,none flagged,No allergens flagged,unknown
+Pizza Studio Tamaki,PST Salad,none flagged,No allergens flagged,unknown
+Pizza Studio Tamaki,Prosciutto & Burrata,none flagged,No allergens flagged,unknown
+Pizza Studio Tamaki,Caprese,none flagged,No allergens flagged,unknown
+Pizza Studio Tamaki,Zeppole,"gluten (likely, high)",Flagged,unknown
+Pizza Studio Tamaki,Wagyu Meatballs,"gluten (likely, medium)",Could modify,unknown
+Pizza Studio Tamaki,Broccoli,none flagged,No allergens flagged,unknown
+Pizza Studio Tamaki,Arancini,"gluten (likely, high)",Flagged,unknown
+Pizza Studio Tamaki,Marinara,"gluten (likely, high)",Flagged,unknown
+Pizza Studio Tamaki,Margherita,"gluten (likely, high)",Flagged,unknown
+Pizza Studio Tamaki,Olive,"gluten (likely, high)",Flagged,unknown
+Pizza Studio Tamaki,Romana,"gluten (likely, high)",Flagged,unknown
+Pizza Studio Tamaki,Tamaki,"gluten (likely, high)",Flagged,unknown
+Pizza Studio Tamaki,Diavola,"gluten (likely, high)",Flagged,unknown
+Pizza Studio Tamaki,Salami,"gluten (likely, high)",Flagged,unknown
+Pizza Studio Tamaki,Arrabbiata,"gluten (likely, high)",Flagged,unknown
+Pizza Studio Tamaki,5 Formaggi,"gluten (likely, high)",Flagged,unknown
+Pizza Studio Tamaki,Nduja,"gluten (likely, high)",Flagged,unknown
+Pizza Studio Tamaki,Oltrana,"gluten (likely, high)",Flagged,unknown
+Pizza Studio Tamaki,Bismarck,"gluten (likely, high)",Flagged,unknown
+Pizza Studio Tamaki,Cacciatore,"gluten (likely, high)",Flagged,unknown
+Pizza Studio Tamaki,Black Truffle Bianca Speciale,"gluten (likely, high)",Flagged,unknown
+Pizza Studio Tamaki,Rice Lager / Aperitif Pilsner / Yuzu Lager / Daidai Pilsner / Sudachi Lager / Orange Blossom Belgian Blonde / Citron Belgian Wit / Cherry Berliner Weisse / Juiced Lychee IPA / Allstar Peach Wild Ale / Framboise / Cerise / Bubblegum Plum Wild Ale / Cassis / English Ale / Cherry Oud Bruin / Orion Lager,"gluten (likely, medium)",Could modify,unknown
+Pizza Studio Tamaki,Sake Bomb,"gluten (likely, medium)",Could modify,unknown
+Pizza Studio Tamaki,Aperol Spritz / Hugo Spritz / Plum Spritz / Melon Spritz,none flagged,No allergens flagged,unknown
+Pizza Studio Tamaki,Guava Fizz / Strawberry Fizz / Mango Fizz / White Peach Fizz,none flagged,No allergens flagged,unknown
+Pizza Studio Tamaki,Sparkling / White / Orange / Sake / Chilled Red / Rosé / Red / Reserve list,none flagged,No allergens flagged,unknown
+Soothr,The Winning Bowl,none flagged,No allergens flagged,unknown
+Soothr,Miang Kana,peanut (declared),Flagged,unknown
+Soothr,Yum Pu Nhim,"gluten (likely, medium)",Could modify,unknown
+Soothr,Eggplant Buns,"gluten (likely, high)",Flagged,unknown
+Soothr,Chive Cakes,none flagged,No allergens flagged,unknown
+Soothr,Roasted Eggplant Salad,none flagged,No allergens flagged,unknown
+Soothr,Pad Yod Tua,none flagged,No allergens flagged,unknown
+Soothr,Rad Na Jay,"gluten (likely, high)",Flagged,unknown
+Soothr,Roasted Vegetable Trio Masamun Curry,peanut (declared),Flagged,unknown
+Soothr,Ma-Kuer Yao,none flagged,No allergens flagged,unknown
+Soothr,Pak Boong Fai Dang,none flagged,No allergens flagged,unknown
+Soothr,Vegan Duck Jungle,"gluten (likely, high)",Flagged,unknown
+Soothr,Yum Nuer,none flagged,No allergens flagged,unknown
+Soothr,Yum Kaw Moo,none flagged,No allergens flagged,unknown
+Soothr,Hoi Johr,"gluten (likely, medium)",Could modify,unknown
+Soothr,Duck rolls,"gluten (likely, medium)",Could modify,unknown
+Soothr,Soothr Jeeb dumplings,"gluten (likely, medium)",Could modify,unknown
+Soothr,Moo Dang Puff,"gluten (likely, high)",Flagged,unknown
+Soothr,Had Yai chicken,"gluten (likely, medium)",Could modify,unknown
+Soothr,Tom Yum seafood hotpot,none flagged,No allergens flagged,unknown
+Soothr,Karee Pu Noodles,"gluten (likely, high)",Flagged,unknown
+Soothr,Ba Mii Pu (Dry crab noodles),"peanut (declared); gluten (likely, high)",Flagged,unknown
+Soothr,Duck Noodles,"gluten (likely, high)",Flagged,unknown
+Soothr,Mii Moo Tod,none flagged,No allergens flagged,unknown
+Soothr,Khao Soi Sai Ua,"gluten (likely, high)",Flagged,unknown
+Soothr,Chicken Khao Soi,"gluten (likely, high)",Flagged,unknown
+Soothr,Seafood Tom Yum Noodles,none flagged,No allergens flagged,unknown
+Soothr,Nam-Tok Moo,none flagged,No allergens flagged,unknown
+Soothr,Sukhothai noodle soup,peanut (declared),Flagged,unknown
+Soothr,Dry Sukhothai noodles,peanut (declared),Flagged,unknown
+Soothr,Extra noodles,"gluten (likely, medium)",Could modify,unknown
+Soothr,Extra pork meatballs (5pcs),none flagged,Unknown,unknown
+Soothr,Extra Moo Dang,none flagged,No allergens flagged,unknown
+Soothr,Cab Moo,none flagged,No allergens flagged,unknown
+Soothr,Gark Moo,none flagged,No allergens flagged,unknown
+Soothr,Yum Pla Tod,tree nut (declared),Flagged,unknown
+Soothr,Stewed Beef and Roasted Vegetable Masamun Curry,peanut (declared),Flagged,unknown
+Soothr,Panang Duck Lychee Curry,"peanut (likely, medium)",Could modify,unknown
+Soothr,Koong Karee,none flagged,No allergens flagged,unknown
+Soothr,Si-Krong Pad Ped,none flagged,No allergens flagged,unknown
+Soothr,Green Curry Nuer Toon,none flagged,No allergens flagged,unknown
+Soothr,Spicy braised beef Pad Krapow,none flagged,No allergens flagged,unknown
+Soothr,Crab fried rice,none flagged,No allergens flagged,unknown
+Soothr,Shrimp Pad Thai,peanut (declared),Flagged,unknown
+Soothr,Chicken Ki-Mao noodles,none flagged,No allergens flagged,unknown
+Soothr,Beef Pad Si-iw,"gluten (likely, medium)",Could modify,unknown
+Soothr,Jasmine rice,none flagged,No allergens flagged,unknown
+Soothr,Mango Sundae,"gluten (likely, high)",Flagged,unknown
+Soothr,Lychee Rose Sorbet,none flagged,No allergens flagged,unknown
+Soothr,Mango Sticky Rice,none flagged,No allergens flagged,unknown
+Soothr,"Soothr Signature Cocktails (9 varieties: Bussarakam, Fah-Kram, Gomane, Kan-hah, Mukdah, Pay-T(h)ai, Petchara, Ploychompu, Pytoon)",none flagged,No allergens flagged,unknown
+Soothr,"Wines (8 varieties: Malbec, Pinot Noir, Cabernet Sauvignon, Chardonnay, Riesling, Sauvignon Blanc, Rosé, Prosecco)",none flagged,No allergens flagged,unknown
+Soothr,"Beers (5 varieties: Singha, Soothr IPA, Lucky Buddha, Saigon, Tsingtao)","gluten (likely, medium)",Could modify,unknown
+Soothr,"Non-Alcoholic Beverages (lunch special add-ons: soda selection, Thai iced tea, Thai iced coffee)",none flagged,No allergens flagged,unknown
+Spot Dessert Bar East Village,Family Set,none flagged,Unknown,unknown
+Spot Dessert Bar East Village,Date Night,none flagged,Unknown,unknown
+Spot Dessert Bar East Village,Pick 3,none flagged,Unknown,unknown
+Spot Dessert Bar East Village,Mini Harvest Party x 12,"gluten (likely, medium)",Could modify,unknown
+Spot Dessert Bar East Village,Matcha Lava,"gluten (likely, high)",Flagged,unknown
+Spot Dessert Bar East Village,Golden Toast,"gluten (likely, high)",Flagged,unknown
+Spot Dessert Bar East Village,The Harvest,"gluten (likely, high)",Flagged,unknown
+Spot Dessert Bar East Village,Milky Puff,"gluten (likely, high)",Flagged,unknown
+Spot Dessert Bar East Village,Mini Harvest (no ice cream),"gluten (likely, high)",Flagged,unknown
+Spot Dessert Bar East Village,Tropical Sun (OUT OF STOCK),"gluten (likely, high)",Flagged,unknown
+Spot Dessert Bar East Village,Yuzu Eclipse,"gluten (likely, high)",Flagged,unknown
+Spot Dessert Bar East Village,Matcha Lava Cookie,"gluten (likely, high)",Flagged,unknown
+Spot Dessert Bar East Village,Oreo Chocolate Cookie,"gluten (likely, high)",Flagged,unknown
+Spot Dessert Bar East Village,Nutella Cookie,tree nut (declared); gluten (declared),Flagged,unknown
+Spot Dessert Bar East Village,Caramel Miso Cookie,"gluten (likely, high)",Flagged,unknown
+Spot Dessert Bar East Village,Ube Blueberry Cookie,"gluten (likely, high)",Flagged,unknown
+Spot Dessert Bar East Village,Cruffin (Classic),"gluten (likely, high)",Flagged,unknown
+Spot Dessert Bar East Village,Strawberries & Creme Cruffin,"gluten (likely, high)",Flagged,unknown
+Spot Dessert Bar East Village,Cookies & Creme Cruffin,"gluten (likely, high)",Flagged,unknown
+Spot Dessert Bar East Village,Yuzu Cruffin,"gluten (likely, high)",Flagged,unknown
+Spot Dessert Bar East Village,Condensed Milk Scoop,none flagged,No allergens flagged,unknown
+Spot Dessert Bar East Village,Matcha Green Tea Scoop,none flagged,No allergens flagged,unknown
+Spot Dessert Bar East Village,Vietnamese Coffee Scoop,none flagged,No allergens flagged,unknown
+Spot Dessert Bar East Village,Raspberry Scoop,none flagged,No allergens flagged,unknown
+Spot Dessert Bar East Village,Mango Scoop,none flagged,No allergens flagged,unknown
+Spot Dessert Bar East Village,Coconut Scoop,"tree nut (likely, medium)",Could modify,unknown
+Spot Dessert Bar East Village,"Sodas (Mango Passion Fruit, Raspberry Lemon, Raspberry Rose, Peach Cream, Honeydew Cream [OUT OF STOCK])",none flagged,No allergens flagged,unknown
+Spot Dessert Bar East Village,"Floats (Thai Tea, Matcha Latte, Cafe Latte)",none flagged,No allergens flagged,unknown
+Spot Dessert Bar East Village,"Punch & Slush (Pineapple Punch, Watermelon Slush)",none flagged,No allergens flagged,unknown
+Spot Dessert Bar East Village,"Specialty Sparkling Drinks (Sparkling Yuzu, Chrysanthemum Goji)",none flagged,No allergens flagged,unknown
+Spot Dessert Bar East Village,"Affogato (Classic, Double Matcha)",none flagged,No allergens flagged,unknown
+Spot Dessert Bar East Village,"Milk Teas & Fruit Teas (Thai, Classic, Jasmine, Rose, Taro, Passion Fruit Green Tea, Thai Sparkling Lemonade [OUT OF STOCK])",none flagged,No allergens flagged,unknown
+Spot Dessert Bar East Village,"Coffee & Matcha Drinks (Americano, Latte, Cappuccino, Matcha Americano, Matcha Latte, Strawberry Matcha Latte, Banana Cream Matcha [OUT OF STOCK])",none flagged,No allergens flagged,unknown
+Spot Dessert Bar East Village,"Hot & Iced Teas (Honey Yuzu, Jasmine Green, L'oriental Green, Earl Grey Black, Jardin Bleu Black, Chamomile, Peppermint)",none flagged,No allergens flagged,unknown
+Spot Dessert Bar East Village,"Water & Milk (Milk, Saratoga Spring, Saratoga Sparkling)",none flagged,No allergens flagged,unknown
+Spot Dessert Bar East Village,Moshi Sparkling Yuzu/Matcha Seasonal Drinks (mostly OUT OF STOCK),none flagged,No allergens flagged,unknown
+Spot Dessert Bar East Village,"Alcoholic Beverages (Matcha IPA, Yuzu Ale, Choya Sparkling Plum Wine, Kinoene Yuzu Sake, Chu-hi cocktails, Makku rice wines)","gluten (likely, medium)",Could modify,unknown
+The Bao,Shanghai Pan Fried Noodles (w/pork),"gluten (likely, high)",Flagged,unknown
+The Bao,Roast Pork Egg Fried Rice,"gluten (likely, medium)",Could modify,unknown
+The Bao,Pan Fried Dumplings (pork),"gluten (likely, high)",Flagged,unknown
+The Bao,General Tso's Chicken,"gluten (likely, high)",Flagged,unknown
+The Bao,Chicken w. Broccoli,"gluten (likely, low)",Could modify,unknown
+The Bao,Sesame Chicken,"gluten (likely, high)",Flagged,unknown
+The Bao,Scallion Pancake (V),"gluten (likely, high)",Flagged,unknown
+The Bao,Kung Fu Xiao Long Bao (pork),"gluten (likely, high)",Flagged,unknown
+The Bao,White Rice,none flagged,No allergens flagged,unknown
+The Bao,Veggie Spring Rolls,"gluten (likely, high)",Flagged,unknown
+The Bao,Crispy Beef,"gluten (likely, high)",Flagged,unknown
+The Bao,Scallion Pancake w. Sliced Beef,"gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,TRC (Signature Cocktail),none flagged,No allergens flagged,unknown
+The Rhymers' Club,Coole Swan,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Yours Truly,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Strawberry Bed,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Sweet Dancer,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Remember me,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Run to paradise,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Shaken hands,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Pickle Martini,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Espresso Martini,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Dunes,none flagged,No allergens flagged,unknown
+The Rhymers' Club,The Rhymer's Flight,none flagged,Unknown,unknown
+The Rhymers' Club,Sunset Sky,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Sunlit Verse,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Passion Project,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Rise and Shine,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Frozen Aperol,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Faux Swan,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Pomelo Zero,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Counterfeit Spritz,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Crispy Rice and Spicy Tuna,"gluten (likely, medium)",Could modify,unknown
+The Rhymers' Club,Bowl of Fries,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Garlic & Parmesan Wood Fired Flatbread,"gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,Whipped Roasted Eggplant Dip,"gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,Chicken Lollipops,"gluten (likely, medium)",Could modify,unknown
+The Rhymers' Club,Steamed Chicken Dumplings Buffalo Style,"gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,Yellowtail Crudo,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Shrimp Ceviche,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Sweet & Sour Chicken Bites,"gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,Beet & Goat Cheese Crostini,"gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,Steak au Poivre,"gluten (likely, medium)",Could modify,unknown
+The Rhymers' Club,Short Rib Fried Rice,"gluten (likely, medium)",Could modify,unknown
+The Rhymers' Club,Short Rib Ragu,"gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,Pesto Rigatoni,"tree nut (declared); gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,Southern Fried Chicken Sandwich,"gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,Smash Burger,"gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,Crispy Goat Cheese Bowl,"gluten (likely, medium)",Could modify,unknown
+The Rhymers' Club,The Rhymers' Club Salad,"gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,Beet Salad,tree nut (declared),Flagged,unknown
+The Rhymers' Club,Malibu Bowl,"gluten (likely, medium)",Could modify,unknown
+The Rhymers' Club,Mexican Bowl,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Burrata,"gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,"Crushed Tomato (""Marg"")","gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,Soppressata,"gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,The Fun 'guy',"gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,Bianca,"gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,Spicy Sausage,"gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,Sweet & Salty,"gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,Chocolate Mousse,tree nut (declared),Flagged,unknown
+The Rhymers' Club,Key Lime Pie,"gluten (likely, medium)",Could modify,unknown
+The Rhymers' Club,Deep Fried Oreo,"gluten (likely, high)",Flagged,unknown
+The Rhymers' Club,Sparkling Wines,none flagged,No allergens flagged,unknown
+The Rhymers' Club,White Wines,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Red Wines,none flagged,No allergens flagged,unknown
+The Rhymers' Club,Rosé & Orange Wine,none flagged,No allergens flagged,unknown
+The Smith,"Oysters (Puffer Petite, Cotuit Bay, East Beach Blonde, Oyster of the Day, Oyster Sampler)",none flagged,No allergens flagged,unknown
+The Smith,The Deluxe,none flagged,No allergens flagged,unknown
+The Smith,The Royale,"gluten (likely, low)",Could modify,unknown
+The Smith,The Grand,"gluten (likely, low)",Could modify,unknown
+The Smith,Potato Chips,"gluten (likely, medium)",Could modify,unknown
+The Smith,Blistered Shishito Peppers,none flagged,No allergens flagged,unknown
+The Smith,Summer Corn Croquettes,"gluten (likely, high)",Flagged,unknown
+The Smith,Classic Shrimp Cocktail,none flagged,No allergens flagged,unknown
+The Smith,Crispy Calamari,"gluten (likely, high)",Flagged,unknown
+The Smith,Burrata,tree nut (declared); gluten (declared),Flagged,unknown
+The Smith,Spicy Salmon Tartare,"gluten (likely, low)",Could modify,unknown
+The Smith,Mac + Cheese,"gluten (likely, high)",Flagged,unknown
+The Smith,"Hand Cut Fries (Classic Sea Salt, Truffle Parmesan, Spicy Ranch)",none flagged,No allergens flagged,unknown
+The Smith,Kale + Quinoa,tree nut (declared),Flagged,unknown
+The Smith,Little Gem Caesar,none flagged,No allergens flagged,unknown
+The Smith,Sugar Snap Salad (with or without Chicken),gluten (declared); tree nut (declared),Flagged,unknown
+The Smith,The Chopped,"gluten (likely, high)",Flagged,unknown
+The Smith,Miso Salmon Salad,"tree nut (declared); gluten (likely, medium)",Flagged,unknown
+The Smith,Chicken Milanese (salad addition),"gluten (likely, high)",Flagged,unknown
+The Smith,"Other Salad Additions (Avocado, Grilled Chicken, Marinated Shrimp, Roasted Salmon, Sliced Flat Iron Steak)",none flagged,No allergens flagged,unknown
+The Smith,Garlic Whipped Potatoes,none flagged,No allergens flagged,unknown
+The Smith,Eggplant + Zucchini,gluten (declared),Flagged,unknown
+The Smith,Brussels Sprouts,none flagged,No allergens flagged,unknown
+The Smith,Baby Spinach,none flagged,No allergens flagged,unknown
+The Smith,Breakfast Sandwich,gluten (declared),Flagged,unknown
+The Smith,Grilled Chicken Sandwich,gluten (declared),Flagged,unknown
+The Smith,French Dip,gluten (declared),Flagged,unknown
+The Smith,Burger Royale,gluten (declared),Flagged,unknown
+The Smith,The Smith Burger,gluten (declared),Flagged,unknown
+The Smith,Ricotta Gnocchi,"gluten (likely, high)",Flagged,unknown
+The Smith,Spicy Shrimp Scampi,gluten (declared),Flagged,unknown
+The Smith,Short Rib Mafaldine,gluten (declared),Flagged,unknown
+The Smith,Rigatoni Alla Vodka,gluten (declared),Flagged,unknown
+The Smith,Avocado Toast,gluten (declared),Flagged,unknown
+The Smith,Goat Cheese Omelette,none flagged,No allergens flagged,unknown
+The Smith,Tuna Crudo,"tree nut (likely, medium)",Could modify,unknown
+The Smith,Crispy Chicken Paillard,"gluten (likely, high)",Flagged,unknown
+The Smith,Pot of Mussels,none flagged,No allergens flagged,unknown
+The Smith,Vegetable Bibimbap,"gluten (likely, low)",Could modify,unknown
+The Smith,"Steaks (Bar Steak, Skirt, NY Strip, Bone-in Ribeye, Filet Mignon)","gluten (likely, low)",Could modify,unknown
+The Smith,Roasted Salmon,gluten (declared),Flagged,unknown
+The Smith,Grilled Branzino,gluten (declared),Flagged,unknown
+The Smith,Brick Pressed Chicken,"gluten (likely, medium)",Could modify,unknown
+The Smith,Lamb + Short Rib Meatballs,"gluten (likely, medium)",Could modify,unknown
+The Smith,Fruit + Yogurt,"tree nut (declared); gluten (likely, medium)",Flagged,unknown
+The Smith,Apple Smoked Bacon,none flagged,No allergens flagged,unknown
+The Smith,Maple Chicken Sausage,none flagged,No allergens flagged,unknown
+The Smith,Jalapeño Cheddar Grits,none flagged,No allergens flagged,unknown
+The Smith,Home Fries,none flagged,No allergens flagged,unknown
+The Smith,Potato Waffle,"gluten (likely, high)",Flagged,unknown
+The Smith,Toast,gluten (declared),Flagged,unknown
+The Smith,Eggs + Bacon,"gluten (likely, high)",Flagged,unknown
+The Smith,Baked Eggs Alla Vodka,gluten (declared),Flagged,unknown
+The Smith,Breakfast Sandwich (Brunch),gluten (declared),Flagged,unknown
+The Smith,The Smith Eggs Benedict,gluten (declared),Flagged,unknown
+The Smith,Smoked Salmon Potato Waffle,"gluten (likely, high)",Flagged,unknown
+The Smith,Shrimp + Grits,none flagged,No allergens flagged,unknown
+The Smith,Ranchero Scramble,none flagged,No allergens flagged,unknown
+The Smith,Benedict Johnny,"gluten (likely, medium)",Could modify,unknown
+The Smith,Buttermilk Pancakes,"tree nut (declared); gluten (likely, high)",Flagged,unknown
+The Smith,Vanilla Bean French Toast,gluten (declared),Flagged,unknown
+The Smith,"Steak + Eggs (Flat Iron, Skirt, NY Strip, Bone-in Ribeye, Filet Mignon)",none flagged,No allergens flagged,unknown
+The Smith,Devil's Layer Cake,"gluten (likely, high)",Flagged,unknown
+The Smith,Strawberry Pie,"tree nut (declared); gluten (likely, high)",Flagged,unknown
+The Smith,Death by Chocolate,tree nut (declared),Flagged,unknown
+The Smith,Sticky Toffee Pudding,"gluten (likely, high)",Flagged,unknown
+The Smith,Salted Caramel Chocolate Chunk Cookie,"gluten (likely, high)",Flagged,unknown
+The Smith,"Three Scoops Ice Cream (Coconut, Vanilla, Strawberry)","tree nut (likely, medium)",Could modify,unknown
+The Smith,Three Scoops Sorbet (Raspberry),none flagged,No allergens flagged,unknown
+The Smith,"Martini Hour Martinis (Salt + Vinegar, Dirty Blue Olive, Italian Martini, Espresso Martini)",none flagged,No allergens flagged,unknown
+The Smith,"Cocktails (Spritzes, Smashes, Sours, Martinis, Highballs)",none flagged,No allergens flagged,unknown
+The Smith,Walnut Old Fashioned,tree nut (declared),Flagged,unknown
+The Smith,"Zero Proof Drinks (All Day Spritz, City Bird, Cucumber Mule, Watermelonade, Pomegranate-Hibiscus Iced Tea, Matcha-Yuzu Arnold Palmer)",none flagged,No allergens flagged,unknown
+The Smith,"Draft Beer (Captain Lawrence, KCBC Kölsch, Singlecut Pilsner, Flagship Stout, Threes Lager, Allagash White, Other Half Green City IPA)","gluten (likely, medium)",Could modify,unknown
+The Smith,"Bottled & Canned Beer (Night Shift, Athletic Brewing IPA (non-alcoholic), Maine Brewing Lunch IPA, Equilibrium MC2, Singlecut Milk Stout)","gluten (likely, medium)",Could modify,unknown
+The Smith,Ghostfish Meteor Shower Pale Lager (GF),none flagged,No allergens flagged,unknown
+The Smith,"Cider (Eden Peak Bloom Cider, Wölffer Dry Rosé Cider)",none flagged,No allergens flagged,unknown
+The Smith,Corner Kick Burger + Prosecco,gluten (declared),Flagged,unknown
+Thursday Kitchen,Soft Shell Crab,"gluten (likely, high)",Flagged,unknown
+Thursday Kitchen,Korean Popcorn Chicken,"gluten (likely, high)",Flagged,unknown
+Thursday Kitchen,Heirloom Tomato,none flagged,No allergens flagged,unknown
+Thursday Kitchen,Kimchi Paella,"gluten (likely, medium)",Could modify,unknown
+Thursday Kitchen,Steak,"gluten (likely, medium)",Could modify,unknown
+Thursday Kitchen,Plantain,none flagged,No allergens flagged,unknown
+Thursday Kitchen,Edamame Dumpling,"gluten (likely, high)",Flagged,unknown
+Thursday Kitchen,Ugly Potato,"gluten (likely, medium)",Could modify,unknown
+Thursday Kitchen,Asparagus,tree nut (declared),Flagged,unknown
+Thursday Kitchen,Tuna Tartar Taco,none flagged,No allergens flagged,unknown
+Thursday Kitchen,Duck Confit Empanada,"gluten (likely, high)",Flagged,unknown
+Thursday Kitchen,Lucky Noodle,"gluten (likely, high)",Flagged,unknown
+Thursday Kitchen,Bread Pudding,"gluten (likely, high)",Flagged,unknown
+Thursday Kitchen,Truffle Mac & Cheese,"gluten (likely, high)",Flagged,unknown
+Thursday Kitchen,Popcorn Ice Cream,none flagged,No allergens flagged,unknown
+Thursday Kitchen,Gnocchi,"gluten (likely, medium)",Could modify,unknown
+Thursday Kitchen,Chilaquiles,none flagged,No allergens flagged,unknown
+Thursday Kitchen,"Soju Cocktails (Ms. Cutetini, Ruby the GF, Blah Blah Blue, Pure Strawberry, Lychee Reach Rich, Soju 'Negroni', Soju Sour, Matcha Tea-ni, Espresso Martini, Pomegranate Red Sangria, Sparkling Rosé Sangria, East 9th Spritz, Bok Bun Ja)",none flagged,No allergens flagged,unknown
+Thursday Kitchen,"Non-alcoholic Drinks (Yuzu Tonic, Golden Punch, Saratoga water, Hot Tea)",none flagged,No allergens flagged,unknown
+Thursday Kitchen,"Wine List (reds, whites, orange, rosé, prosecco)",none flagged,No allergens flagged,unknown
+Thursday Kitchen,"Sake List (Ozeki, Sesshu Otokoyama, Tozai Nigori, Dassai 50 blue, Suigei, Itami Onigorosi, Soto)",none flagged,No allergens flagged,unknown
+Thursday Kitchen,"Beer List (Sapporo Draft, Yuzu Beer, Grapefruit Beer, Terra, Echigo, Kizakura 'Lucky Dog', Tokyo White, Kyoto 'Matcha IPA', Sevenbrau 'Seoul', OB)","gluten (likely, medium)",Could modify,unknown
+Thursday Kitchen,"Spirits (Il Poom Jinro, Seol Joong Mae, Iichiko Shochu, Hwayo 23, Makgeolli - Ji Pyeong)","gluten (likely, low)",Could modify,unknown
+Udon St Marks,Croquette,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Gyoza,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Kara-Age,"gluten (likely, medium)",Could modify,unknown
+Udon St Marks,Takoyaki,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Edamame,none flagged,No allergens flagged,unknown
+Udon St Marks,Kimchee,none flagged,Unknown,unknown
+Udon St Marks,Chicken Cutlet,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Pork Cutlet,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Kalbi,"gluten (likely, medium)",Could modify,unknown
+Udon St Marks,Assorted Tempura,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Veggie Tempura,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Veggie Spring Roll,"gluten (likely, low)",Could modify,unknown
+Udon St Marks,Maru-Ten,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Beef Hamburg,"gluten (likely, medium)",Could modify,unknown
+Udon St Marks,Pork Sausage,none flagged,Unknown,unknown
+Udon St Marks,Rice,none flagged,No allergens flagged,unknown
+Udon St Marks,Small Salad,none flagged,Unknown,unknown
+Udon St Marks,Shrimp Tempura,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Seaweed Soup,"gluten (likely, medium)",Could modify,unknown
+Udon St Marks,Tofu Steak,"gluten (likely, medium)",Could modify,unknown
+Udon St Marks,Fried Lotus Roots,"gluten (likely, medium)",Could modify,unknown
+Udon St Marks,Nabeyaki Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Chige Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Niku Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Curry Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Ebi-Ten Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Ika-Ten Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Veggie-Ten Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Kaki-Age Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Maru-Ten Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Kara-Age Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Plain Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Sansai Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Kimchee Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Croquette Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Croquette Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Mixed Mushroom Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Zaru,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Ten Zaru,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Mentai Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Bukkake Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Tennose Bukkake,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Sansai Ume Tama Bukkake,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Ponzu Kame Udon,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Katsu Don,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Kalbi Don,"gluten (likely, medium)",Could modify,unknown
+Udon St Marks,Ten Don,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Oyako Don,"gluten (likely, medium)",Could modify,unknown
+Udon St Marks,Ika-Ten Don,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Negi-Toro Don,"gluten (likely, low)",Could modify,unknown
+Udon St Marks,Spicy Tuna Don,none flagged,No allergens flagged,unknown
+Udon St Marks,Gyu Don,"gluten (likely, medium)",Could modify,unknown
+Udon St Marks,Cutlet Curry,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Regular Curry,"gluten (likely, medium)",Could modify,unknown
+Udon St Marks,Gyoza Curry,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Croquette Curry,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Karaage Curry,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Hamburg Curry,"gluten (likely, high)",Flagged,unknown
+Udon St Marks,Niku Curry,"gluten (likely, medium)",Could modify,unknown
+Veselka,Ukrainian Borscht,none flagged,No allergens flagged,unknown
+Veselka,Chicken Noodle,"gluten (likely, high)",Flagged,unknown
+Veselka,Matzoh Ball Soup,"gluten (likely, high)",Flagged,unknown
+Veselka,Mushroom Barley,"gluten (likely, high)",Flagged,unknown
+Veselka,Cold Borscht,none flagged,No allergens flagged,unknown
+Veselka,Cold Cucumber Soup,none flagged,No allergens flagged,unknown
+Veselka,Extra Matzoh Ball,"gluten (likely, high)",Flagged,unknown
+Veselka,Pierogi Four,"gluten (likely, high)",Flagged,unknown
+Veselka,Pierogi Eight,"gluten (likely, high)",Flagged,unknown
+Veselka,Pierogi Dozen,"gluten (likely, high)",Flagged,unknown
+Veselka,Stand with Ukraine Bowl,"gluten (likely, high)",Flagged,unknown
+Veselka,Beef Stroganoff,"gluten (likely, medium)",Could modify,unknown
+Veselka,Stuffed Cabbage,"gluten (likely, medium)",Could modify,unknown
+Veselka,Bigos,"gluten (likely, medium)",Could modify,unknown
+Veselka,Kielbasa Dinner,"gluten (likely, medium)",Could modify,unknown
+Veselka,Chicken Paprikash,"gluten (likely, medium)",Could modify,unknown
+Veselka,Chicken Schnitzel Dinner,"gluten (likely, high)",Flagged,unknown
+Veselka,Marinated Chicken Dinner,none flagged,No allergens flagged,unknown
+Veselka,Chicken Kyiv,"gluten (likely, high)",Flagged,unknown
+Veselka,Potato Pancake Plate,"gluten (likely, medium)",Could modify,unknown
+Veselka,Blintz Single,"gluten (likely, high)",Flagged,unknown
+Veselka,Raspberry Blintz Single,"gluten (likely, high)",Flagged,unknown
+Veselka,Blintz Plate,"gluten (likely, high)",Flagged,unknown
+Veselka,Raspberry Blintz Plate,"gluten (likely, high)",Flagged,unknown
+Veselka,AP Meat Cabbage,"gluten (likely, medium)",Could modify,unknown
+Veselka,AP Vegetarian Cabbage,"gluten (likely, medium)",Could modify,unknown
+Veselka,Meat Plate Combo,"gluten (likely, high)",Flagged,unknown
+Veselka,Deluxe Meat Combo,"gluten (likely, high)",Flagged,unknown
+Veselka,Vegetarian Combo Plate,"gluten (likely, high)",Flagged,unknown
+Veselka,Deluxe Vegetarian Combo,"gluten (likely, high)",Flagged,unknown
+Veselka,Potato Pancake Combo Plate,"gluten (likely, medium)",Could modify,unknown
+Veselka,Madame Alexander,"tree nut (declared); gluten (likely, high)",Flagged,unknown
+Veselka,Chicken Schnitzel Sandwich,"gluten (likely, high)",Flagged,unknown
+Veselka,Grilled Cheese Sandwich,"gluten (likely, high)",Flagged,unknown
+Veselka,Tuna Melt,"gluten (likely, high)",Flagged,unknown
+Veselka,Tuna Salad Sandwich,"gluten (likely, high)",Flagged,unknown
+Veselka,Grilled Chicken Sandwich,"gluten (likely, high)",Flagged,unknown
+Veselka,BLT,"gluten (likely, high)",Flagged,unknown
+Veselka,Smoked Turkey BLT,"gluten (likely, high)",Flagged,unknown
+Veselka,Bagel w/Smoked Salmon,"gluten (likely, high)",Flagged,unknown
+Veselka,Burger,"gluten (likely, medium)",Could modify,unknown
+Veselka,Veggie Burger,"gluten (likely, medium)",Could modify,unknown
+Veselka,Reuben,"gluten (likely, high)",Flagged,unknown
+Veselka,Salad - Beet & Goat Cheese,tree nut (declared),Flagged,unknown
+Veselka,Salad - Lentil Salad,none flagged,No allergens flagged,unknown
+Veselka,Salad - Tuna Salad & Greens,none flagged,No allergens flagged,unknown
+Veselka,Salad - Cobb Salad,none flagged,No allergens flagged,unknown
+Veselka,Salad - Grilled Chicken & Greens,none flagged,Unknown,unknown
+Veselka,Salad - Fattoush,gluten (declared),Flagged,unknown
+Veselka,Custom Egg Sandwich,"gluten (likely, high)",Flagged,unknown
+Veselka,EV Classic Egg Sandwich,"gluten (likely, medium)",Could modify,unknown
+Veselka,Veselka GCT Fried Egg Sandwich,gluten (declared),Flagged,unknown
+Veselka,Veselka Williamsburg Egg Sandwich,gluten (declared),Flagged,unknown
+Veselka,Ukrainian Breakfast Burrito,gluten (declared),Flagged,unknown
+Veselka,Western Omelette,gluten (declared),Flagged,unknown
+Veselka,Ukrainian Omelette,gluten (declared),Flagged,unknown
+Veselka,Omelette,gluten (declared),Flagged,unknown
+Veselka,Two Eggs Any Style,gluten (declared),Flagged,unknown
+Veselka,Pancakes,"gluten (likely, high)",Flagged,unknown
+Veselka,Challah French Toast,gluten (declared),Flagged,unknown
+Veselka,Waffle,"gluten (likely, high)",Flagged,unknown
+Veselka,Side Bacon,none flagged,No allergens flagged,unknown
+Veselka,Side Pork Sausage,"gluten (likely, medium)",Could modify,unknown
+Veselka,Side Kielbasa,"gluten (likely, medium)",Could modify,unknown
+Veselka,Side Corned Beef Hash,none flagged,No allergens flagged,unknown
+Veselka,Side Ham,none flagged,Unknown,unknown
+Veselka,Bagel w/Schmear,"gluten (likely, high)",Flagged,unknown
+Veselka,Side Avocado,none flagged,Unknown,unknown
+Veselka,SD Beet/Horseradish Salad,none flagged,Unknown,unknown
+Veselka,SD Coleslaw,none flagged,Unknown,unknown
+Veselka,SD Egg Noodles,"gluten (likely, high)",Flagged,unknown
+Veselka,SD French Fries,none flagged,Unknown,unknown
+Veselka,SD Kasha,none flagged,Unknown,unknown
+Veselka,SD Mash Pot,none flagged,No allergens flagged,unknown
+Veselka,SD Pot Pancake,"gluten (likely, medium)",Could modify,unknown
+Veselka,SD Sauerkraut,none flagged,Unknown,unknown
+Veselka,SD Garlic Broccoli,none flagged,No allergens flagged,unknown
+Veselka,SD Cauliflower,none flagged,No allergens flagged,unknown
+Veselka,SD Myzeriya cucumber salad,none flagged,Unknown,unknown
+Veselka,SD Potato Salad,none flagged,Unknown,unknown
+Veselka,Chicken Shashlyk Meatballs,"gluten (likely, medium)",Could modify,unknown
+Veselka,Salad - Summer,tree nut (declared),Flagged,unknown
+Veselka,Vegetable Chili,none flagged,No allergens flagged,unknown
+Veselka,Blueberry Pierogi Bowl,"gluten (likely, high)",Flagged,unknown
+Veselka,Apple Crumb Cake,"gluten (likely, high)",Flagged,unknown
+Veselka,Medovyk,"gluten (likely, high)",Flagged,unknown
+Veselka,Brownie,"gluten (likely, high)",Flagged,unknown
+Veselka,Cookie B/Y,"gluten (likely, high)",Flagged,unknown
+Veselka,Apricot Raspberry Bar,"gluten (likely, medium)",Could modify,unknown
+Veselka,Rice Krispy Treat,none flagged,Unknown,unknown
+Veselka,Dog Biscuit,"gluten (likely, medium)",Could modify,unknown
+Veselka,Piana Vyshnia Cake,"gluten (likely, high)",Flagged,unknown
+Veselka,Crostata,"gluten (likely, high)",Flagged,unknown
+Veselka,Passionfruit Cheesecake,"gluten (likely, high)",Flagged,unknown
+Veselka,Hot Beverages,none flagged,No allergens flagged,unknown
+Veselka,Cold Specialty Drinks & Juices,none flagged,No allergens flagged,unknown
+Veselka,Egg Creams,none flagged,No allergens flagged,unknown
+Veselka,Potato & Cheese Pierogi - Frozen (8pack),"gluten (likely, high)",Flagged,unknown
+Veselka,Cheese Pierogi - Frozen (8pack),"gluten (likely, high)",Flagged,unknown
+Veselka,Braised Beef Pierogi - Frozen (8pack),"gluten (likely, high)",Flagged,unknown
+Veselka,Sauerkraut & Mushroom Pierogi - Frozen (8pack),"gluten (likely, high)",Flagged,unknown
+Veselka,Chicken & Vegetable Pierogi - Frozen (8pack),"gluten (likely, high)",Flagged,unknown
+Veselka,Potato Pancakes - Frozen (2pack),"gluten (likely, medium)",Could modify,unknown
+Veselka,Ukrainian Borscht - 1qt Frozen,none flagged,No allergens flagged,unknown
+Veselka,Vegetarian Borscht - 1qt Frozen,none flagged,No allergens flagged,unknown
+Veselka,Chicken Noodle Soup - 1qt Frozen,"gluten (likely, high)",Flagged,unknown
+Veselka,Matzoh Ball Soup - 1qt Frozen,"gluten (likely, high)",Flagged,unknown
+Yakitori Taisho,Yotsumi,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Hatsu,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Teba,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Sunazuri,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Kimo,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Tsukune,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Gyutan,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Gyu,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Bara,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Shiitake,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Shishito,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Pman,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Ninniku,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Negi,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Ebi,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Uzura,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Uzura Bacon,none flagged,No allergens flagged,unknown
+Yakitori Taisho,A Set,none flagged,No allergens flagged,unknown
+Yakitori Taisho,B Set,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Sausage,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Aspara Bacon,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Tako,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Kawa,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Honetsuki Kalbi,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Saba Shio,none flagged,No allergens flagged,unknown
+Yakitori Taisho,BBQ Tori Teriyaki,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Tonsoku,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Yaki Morokoshi,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Mentai Potato,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Kabocha Tempura,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Dashimaki Tamago,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Agedashi Tofu,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Potato Salad,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Edamame,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Small Green Salad,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Kimchi,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Hiya Yakko,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Yasai Itame,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Mozukusu,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Charshu Avocado,none flagged,No allergens flagged,unknown
+Yakitori Taisho,MenQ,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Spicy Tuna Tartar,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Tako Wasabi,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Ebi Mayo,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Salmon Carpaccio,none flagged,Unknown,unknown
+Yakitori Taisho,Tuna Avocado,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Iidako Karaage,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Tuna Carpaccio,none flagged,Unknown,unknown
+Yakitori Taisho,Salmon Avocado Salad,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Classic Tonkotsu Ramen,"gluten (likely, high)",Flagged,unknown
+Yakitori Taisho,Negi Ramen,"gluten (likely, high)",Flagged,unknown
+Yakitori Taisho,Charsiu Tonkotsu Ramen,"gluten (likely, high)",Flagged,unknown
+Yakitori Taisho,Nabeyuki Udon,"gluten (likely, high)",Flagged,unknown
+Yakitori Taisho,Kimchi Nabe,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Miso Soup,none flagged,Unknown,unknown
+Yakitori Taisho,Sunagimo Karaage,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Tatsuta Age,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Chikuwa Cheese,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Gyoza,"gluten (likely, high)",Flagged,unknown
+Yakitori Taisho,Ebi Shumai,"gluten (likely, high)",Flagged,unknown
+Yakitori Taisho,Kurobuta Sausage,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Takoyaki,"gluten (likely, high)",Flagged,unknown
+Yakitori Taisho,Okonomiyaki,"gluten (likely, high)",Flagged,unknown
+Yakitori Taisho,Taisho-Fu Steak,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Buta To Enoki No Scramble Egg,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Butabara Kurozu Itame,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Buta Kimchi,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Saikoro Steak,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Age Takoyaki,"gluten (likely, high)",Flagged,unknown
+Yakitori Taisho,Taisho Shrimp Fried Rice,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Butamayo,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Yaki Unagi Sushi Roll,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Geso Isobe,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Salmon Cream Yakisoba,"gluten (likely, high)",Flagged,unknown
+Yakitori Taisho,Yakisoba,"gluten (likely, high)",Flagged,unknown
+Yakitori Taisho,Yaki Udon,"gluten (likely, high)",Flagged,unknown
+Yakitori Taisho,Sake Chazuke,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Ume Chazuke,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Mentai Chazuke,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Tonkotsu Chazuke,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Kimchi Yaki Udon,"gluten (likely, high)",Flagged,unknown
+Yakitori Taisho,Tan Tan Udon,"gluten (likely, high)",Flagged,unknown
+Yakitori Taisho,Mentai Udon,"gluten (likely, high)",Flagged,unknown
+Yakitori Taisho,Una Tama Don,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Supa Tuna Don,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Oh! Taisho Don,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Ebi Tendon,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Taisho Beef Steak Don,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Chicken Teriyaki Don,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Oyakodon,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Plain Onigiri,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Ume Onigiri,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Okaka Onigiri,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Sake Onigiri,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Mentai Onigiri,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Yaki Onigiri,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Yaki Ume Onigiri,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Yaki Okaka Onigiri,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Yaki Sake Onigiri,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Yaki Mentai Onigiri,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Small White Rice,none flagged,Unknown,unknown
+Yakitori Taisho,Large White Rice,none flagged,Unknown,unknown
+Yakitori Taisho,Taisho Beef Curry,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Karaage Curry,"gluten (likely, medium); gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Beef Hamburger Steak With Curry,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Japanese Mayonnaise,none flagged,Unknown,unknown
+Yakitori Taisho,Tonkatsu Sauce,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Extra Japanese Salad Dressing,none flagged,Unknown,unknown
+Yakitori Taisho,Spicy Mayonnaise,none flagged,Unknown,unknown
+Yakitori Taisho,Mentai Mayo,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Teriyaki Sauce,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Hot Sauce,none flagged,Unknown,unknown
+Yakitori Taisho,Chicken Teriyaki Tei,"gluten (likely, high)",Flagged,unknown
+Yakitori Taisho,Saba Shio Tei,none flagged,No allergens flagged,unknown
+Yakitori Taisho,Kara Age Tei,"gluten (likely, medium)",Could modify,unknown
+Yakitori Taisho,Yasai Itame Tei,none flagged,No allergens flagged,unknown
