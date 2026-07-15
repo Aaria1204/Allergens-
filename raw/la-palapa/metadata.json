@@ -1,0 +1,38 @@
+{
+  "restaurant_name": "La Palapa",
+  "address": "77 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.lapalapa.com/location/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Location/contact page only; confirmed address 77 Saint Marks Place, NY 10003 and phone 212-777-2537 matched target restaurant. Linked to separate menu page used as primary source."
+    },
+    {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Full rendered HTML menu page fetched directly (no JS-shell issue, no Chrome escalation needed). Contains complete all-day menu, brunch menu, tortas, beverages, and an explicit allergen disclosure statement. Some dishes are listed twice across sections (e.g. regular Entrees vs Especialidades, or dinner vs brunch a la carte); both listings were reviewed and near-duplicates consolidated to one record where identical."
+    },
+    {
+      "url": "https://la-palapa.res-menu.com/",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Fetch returned an empty page body (likely a JS-rendered ordering shell). Not escalated to Chrome rendering because the official site (tier a) already yielded a complete, current, location-matched menu, satisfying the sourcing requirement without needing this tier."
+    }
+  ],
+  "menu_source": {
+    "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": false,
+  "reason": "Identity confirmed via exact address and phone number match on official site. Menu is complete, current, and location-specific.",
+  "status": "complete",
+  "notes": "Official site includes an explicit facility-wide allergen disclosure: 'La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.' This disclosure was applied as the cross_contact note on every normalized dish record. Mole negro/mole poblano dishes and salsa macha were flagged medium-confidence peanut/tree nut likely allergens based on traditional Oaxacan recipe ingredients (not itemized by restaurant). Flour tortilla / bolillo bread items were flagged high-confidence gluten likely. Beer and beer-based micheladas flagged medium-confidence gluten likely per project convention. Pine nuts (Ensaladas) were treated as declared tree nut since explicitly named as an ingredient."
+}

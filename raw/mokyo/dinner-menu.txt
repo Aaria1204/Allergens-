@@ -1,0 +1,32 @@
+SOURCE URL: https://www.mokyony.com/_files/ugd/1d3301_9b4bdbd3d05f4462a7a3257b91ec3d06.pdf
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: PDF text extraction returned dish names as one block followed by a separate block of prices in the same top-to-bottom order; prices were matched to dishes positionally (count of dishes = count of prices = 15, plus 2 desserts + 1 beverage line at the end). No allergen icons/labels were present in the extracted text beyond a generic allergy-notification disclaimer. No ingredient detail beyond what is printed (short poetic dish names with 1-3 accompaniment words).
+
+--- RAW EXTRACTED TEXT ---
+MOKYO by Chef Kay Hyun
+*CONSUMING RAW OR UNDERCOOKED MEATS, POULTRY, SEAFOOD, SHELLFISH, OR EGGS MAY INCREASE YOUR
+RISK OF FOODBORNE ILLNESS*
+Please notify the server if you have any food allergies or dietary restrictions. Although we do not make any substitution on the
+menu, our server will inform you what dish you may safely enjoy.
+
+HARICOTS VERTS - Korean style pickles — 7
+AVOCADO, Yuzu Crème & Greens Vinaigrette — 13
+KOREAN SWEET POTATO, Agrodolce & Pistachio — 14
+CORN DUMPLING & Truffle Salsa Verde — 15
+CAULIFLOWER, Gochujang & Raisin Labneh — 17
+TARTARE, Lovage & Yuzu — 17
+WAGYU OXTAIL SPRING ROLL & Sweet Onion — 21
+XO FRIED RICE & Grilled Korean Beef Skewer — 18
+BEEF RAGU x RICE CAKE, Saffron & Amaranth — 18
+BERKSHIRE RIB, Soy & Muhammara — 18
+YELLOWTAIL CRUDO & Salsa Macha — 17
+LOBSTER ROLL & Truffle Whipped Cheese — 20
+SCALLOP, Vichyssoise, Gim & Mushroom — 19
+GUMBO, Andouille Sausage & Crawfish — 15
+NOODLE, Cashew & Mala Oil — 17
+
+BLUEBERRY CLOUD & Meringue — 13
+POP ROCKS, Matcha & Berry Coulis — 13
+
+Jangsu Omija-ju, Korean Magnolia Berry 2oz 16.5% abv — 7

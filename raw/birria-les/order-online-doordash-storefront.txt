@@ -1,0 +1,47 @@
+SOURCE URL: https://order.online/en-US/store/birria-les-new-york-31345181
+TIER: ordering (DoorDash Storefront / Commerce Platform - restaurant-controlled ordering page)
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Fetched via static HTML fetch (no browser rendering escalation needed - page returned usable content directly). Address confirmed as "34 Saint Marks Pl, New York NY 10003-8035" matching target unit building (unit #12 not separately displayed on this page, but street address, name, and DoorDash storefront ownership match the target restaurant; no competing "Birria LES" location found in search results). Page exposed a "Featured Items" list (grouped into "#1 Most liked", "#2 Most liked", "#3 Most liked" tiers) with full item names and prices, but did NOT render descriptions/ingredients for any dish (DoorDash storefront typically omits descriptions when the restaurant hasn't entered them). A separate "Drinks" tab/section was referenced in the page navigation ("Most Ordered", "Menu", "Drinks") but no drink items rendered in the static fetch - likely lazy-loaded via JS, consistent with known Grubhub/DoorDash-family lazy-load limitation. Did not escalate to Chrome per time-box policy since the food menu itself (25 items) was already usable and complete-looking for food; drinks category is missing/incomplete.
+
+=== RAW EXTRACTED CONTENT ===
+
+Birria LES
+34 Saint Marks Pl, New York NY 10003-8035, United States
+Online ordering hours: 11:00 AM - 11:39 PM
+
+Featured Items
+
+#1 Most liked
+- Texas Garlic Toast - Birria — $13.00
+- Loaded Nachos - Beef Birria — $11.00
+- Loaded Nachos - Chicken Birria — $11.00
+- Loaded Papa's Beef — $13.00
+- Consomé Con Dumplings - Beef Birria — $13.00
+- Loaded Papa's - Surf & Turf — $16.00
+
+#2 Most liked
+- Esquites — $5.00
+- Beef Taco with Cheese (1 Taco) — $6.00
+- Chicken Taco (1 Taco) — $5.00
+
+#3 Most liked
+- Consomé — $5.00
+- Al Pastor Taco — $7.00
+- Loaded Nachos - Shrimp — $13.00
+- Beef Taco (1 Taco) — $5.00
+- Empanada - Beef Birria — $5.00
+- Shrimp Taco (1 Taco) — $6.00
+- Dumplings - Beef Birria — $8.00
+- Flan — $8.00
+- Beef Mulitas — $6.00
+- Loaded Nachos - Surf & Turf — $15.00
+- Dumplings - Shrimp — $8.00
+- Surf & Turf - Beef & Shrimp Taco (1 Taco) — $7.00
+- Chicken Tostadas — $5.00
+- Chicken Taco with Cheese (1 Taco) — $6.00
+- Empanada - Chicken Birria — $5.00
+- Consomé Con Linguine — $11.00
+
+Navigation tabs present but not rendered with items in this fetch: "Most Ordered", "Menu", "Drinks".
+
+No ingredient descriptions, allergen statements, or cross-contact disclosures were present anywhere on the fetched page.

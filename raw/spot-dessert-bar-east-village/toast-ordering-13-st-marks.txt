@@ -1,0 +1,105 @@
+SOURCE URL: https://spotdessertbar-a479r1z2.toast.site/order/spotdessertbar
+TIER: ordering (Toast, restaurant-controlled online ordering platform)
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LOCATION CONFIRMATION: Page header explicitly states "Spot Dessert Bar 13 St Marks Place" and lists address "13 St Marks Place, Basement, New York, NY 10003", phone (212) 677-5670. Page also lists sibling locations (31-16 30th Ave LIC/Astoria, Flushing, Spot Dessert Bar - LIC) as separate menu links, confirming this page is specific to the St Marks Place location and not conflated with other locations.
+LIMITATIONS: Most items on this ordering page show name and price only, without ingredient descriptions (Toast only populates og:description for a subset of items, e.g. Golden Toast). Combo items (Family Set, Date Night, Pick 3, Mini Harvest Party x12) have no listed contents/ingredients on this page.
+
+=== ONLINE MENU: Spot Dessert Bar 13 St Marks Place ===
+
+-- Combos --
+Family Set $56.00
+Date Night $45.00
+Pick 3 $42.00
+Mini Harvest Party x 12 $108.00
+
+-- Tapas Desserts. --
+Matcha Lava $15.45
+Golden Toast $15.45 -- (item page description) "honey buttered toast, fresh strawberries, whipped cream, cookie crumbs, condensed milk ice cream"
+The Harvest $15.45
+Milky Puff $15.45
+Mini Harvest (no ice cream) $9.95
+Tropical Sun (OUT OF STOCK) $15.95
+Yuzu Eclipse $15.95
+
+-- Cookies & Pastries. --
+Matcha Lava Cookie $5.50
+Oreo Chocolate Cookie $5.50
+Nutella Cookie $5.50
+Caramel Miso Cookie $5.50
+Ube Blueberry Cookie $6.00
+Cruffin $6.00
+Strawberries & Creme Cruffin $6.50
+Cookies & Creme Cruffin $6.50
+Yuzu Cruffin $6.50
+
+-- Ice Cream. --
+Condensed Milk Scoop $6.00+
+Matcha Green Tea Scoop $6.00+
+Vietnamese Coffee Scoop $6.00+
+Taro Scoop (OUT OF STOCK) $6.00+
+Raspberry Scoop $6.00+
+Mango Scoop $6.00+
+Coconut Scoop $6.00+
+Passion Fruit Scoop (OUT OF STOCK) $6.00+
+
+-- Drinks. --
+Mango Passion Fruit Soda $9.00
+Raspberry Lemon Soda $9.00
+Raspberry Rose Soda $9.00
+Peach Cream Soda $9.00
+Honeydew Cream Soda (OUT OF STOCK) $9.00
+Thai Tea Float $9.00
+Matcha Latte Float $9.00
+Cafe Latte Float $9.00
+Pineapple Punch $8.00
+Watermelon Slush $9.00
+Sparkling Yuzu $8.00
+Chrysanthemum Goji $8.00
+Classic Affogato $9.00
+Double Matcha Affogato $9.00
+Thai Milk Tea $7.00
+Classic Milk Tea (non-dairy) $7.00
+Jasmine Milk Tea (non-dairy) $7.00
+Rose Milk Tea (non-dairy) $7.00
+Taro Milk Tea (non-dairy & decaf) $7.00
+Passion Fruit Green Tea (non-dairy) $7.00
+Thai Sparkling Lemonade (OUT OF STOCK) $7.00
+Americano $5.50
+Latte $6.00
+Cafe Latte Float $9.00
+Hot Cappucino $6.00
+Matcha Americano $5.50
+Matcha Latte $6.00
+Strawberry Matcha Latte $9.00
+Matcha Latte Float $9.00
+Banana Cream Matcha (OUT OF STOCK) $10.00
+Iced Honey Yuzu Tea $5.45
+Hot Honey Yuzu Tea $5.45
+Hot Jasmine Green Tea $5.45
+Hot L'oriental Green Tea $5.45
+Hot Earl Grey Black Tea $5.45
+Hot Jardin Bleu Black Tea $5.45
+Hot Chamomille Tea (decaf) $5.45
+Hot Peppermint Tea (decaf) $5.45
+Milk $3.00
+Seratoga Spring $5.00
+Seratoga Sparkling $5.00
+Moshi Sparkling Yuzu Original (OUT OF STOCK) $8.00
+Moshi Sparkling Yuzu White Peach (OUT OF STOCK) $8.00
+Moshi Sparkling Yuzu Red Shiso & Apple (OUT OF STOCK) $8.00
+Moshi Uji Matcha White Strawberry (OUT OF STOCK) $8.00
+Matcha IPA (OUT OF STOCK) $12.00
+Yuzu Ale (OUT OF STOCK) $12.00
+Choya Sparkling Japanese Plum Wine 187ml $12.00
+Choya Sparkling Japanese Plum Wine 750ml $50.00
+Kinoene Yuagari Yuzu Sake Bottle (OUT OF STOCK) $60.00
+Lemon Chu-hi Japanese Sparkling Cocktail $10.00
+White Peach Chu-hi Japanese Sparkling Cocktail $10.00
+Fuji Apple Chu-hi Japanese Sparkling Cocktail $10.00
+Original Makku Korean Rice Wine $10.00
+Passion Fruit Makku Korean Rice Wine (OUT OF STOCK) $10.00
+Mango Makku Korean Rice Wine (OUT OF STOCK) $10.00
+Strawberry Makku Korean Rice Wine $10.00
+Blueberry Makku Korean Rice Wine (OUT OF STOCK) $10.00
+
+(SPOT MERCH apparel/homegoods section omitted as non-food/non-beverage)

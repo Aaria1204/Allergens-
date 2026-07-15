@@ -1,0 +1,58 @@
+{
+  "restaurant_name": "Spot Dessert Bar East Village",
+  "address": "13 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.spotdessertbar.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Combined menu page not labeled by location; no prices; ingredient descriptions only present for Signature Tapas and Spring/Summer 26 sections. Used only as a supplementary source for ingredient descriptions on item names confirmed to be sold at the 13 St Marks Place location per the Toast ordering page; items found only here (Nutella Hot Chocolate, Toasty Coconut Matcha, Black Sesame Affogato, Cookie Camp, Snow White) were excluded from the normalized output since they could not be confirmed as currently offered at this specific address."
+    },
+    {
+      "url": "https://www.spotdessertbar.com/locations",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Locations directory page only (address/hours/phone confirmation), not a menu. Confirmed 13 St. Marks Pl, East Village, NY 10003 as the flagship/original location, distinct from Flushing, LIC, Astoria, and Cherry Hill NJ locations."
+    },
+    {
+      "url": "https://spotdessertbar-a479r1z2.toast.site/order/spotdessertbar",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Restaurant-controlled Toast ordering page, explicitly headed 'Spot Dessert Bar 13 St Marks Place' with address '13 St Marks Place, Basement, New York, NY 10003' and phone (212) 677-5670, distinguishing it from sibling location pages (LIC, Astoria, Flushing) also linked on the same page. Most items list name and price only; ingredient descriptions available for only a subset of items (e.g. Golden Toast)."
+    },
+    {
+      "url": "https://spotdessertbar-a479r1z2.toast.site/order/spotdessertbar/item-nutella-cookie_a663fc93-82b1-4087-8b40-27291a1aebd0",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Individual item page for Nutella Cookie; no ingredient description text provided beyond item name and price, confirms it belongs to 13 St Marks Place location."
+    },
+    {
+      "url": "https://spotdessertbar-a479r1z2.toast.site/order/spotdessertbar/item-golden-toast_8f1a63db-f1c3-4808-a7b7-5da0f9385577",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Individual item page for Golden Toast; provided full ingredient description in meta description, confirms it belongs to 13 St Marks Place location."
+    }
+  ],
+  "final_menu_source": {
+    "url": "https://spotdessertbar-a479r1z2.toast.site/order/spotdessertbar",
+    "tier": "ordering",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/spot-dessert-bar-east-village/toast-ordering-13-st-marks.txt",
+    "supplementary_source": {
+      "url": "https://www.spotdessertbar.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/spot-dessert-bar-east-village/official-site-menu.txt",
+      "note": "Used only to supply ingredient descriptions for dish names independently confirmed to be sold at the 13 St Marks Place Toast page."
+    }
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": false,
+  "manual_review_reason": null,
+  "notes": "Spot Dessert Bar has multiple NYC/NJ locations (13 St Marks Pl East Village, LIC, Astoria, Flushing, and Cherry Hill NJ). The Toast ordering page explicitly separates each location by address and lists 13 St Marks Place, Basement, New York, NY 10003 as this location's address, confirming identity match. The official site's combined /menu page is not location-specific, so items appearing there but absent from the St Marks Toast listing (Nutella Hot Chocolate, Toasty Coconut Matcha, Black Sesame Affogato, Cookie Camp, Snow White) were excluded from the normalized dataset to avoid attributing another location's or a discontinued/seasonal item to this address. Combo items (Family Set, Date Night, Pick 3) have no disclosed contents and were marked Unknown for allergen guidance."
+}

@@ -1,0 +1,24 @@
+{
+  "restaurant_name": "Bungalow",
+  "address": "24 1st Ave, New York, NY 10009, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.bungalowny.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Initial mcp__workspace__web_fetch returned only nav/footer shell (menu items not present in static fetch, likely client-rendered). Escalated to Claude-in-Chrome: navigated to the same URL, used read_page/get_page_text to extract the fully rendered 'Dinner Menu' section, which includes the restaurant's own bracketed allergen tags (Dairy, Gluten, Tree Nut, Peanuts, Egg, Shellfish, Sesame, Low-Gluten, Vegan, Vegetarian). A 'Drinks Menu' tab/section also exists on the page but its content/URL was not located within the interactive-element listing during the time-boxed session, so beverages are NOT included in this extraction."
+    }
+  ],
+  "menu_source": {
+    "url": "https://www.bungalowny.com/menu",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/bungalow/bungalowny_dinner_menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "identity_verification_notes": "Site footer confirms '24 First Avenue, New York, NY 10009', matching target address exactly. Restaurant is the contemporary Indian restaurant co-founded by chef Vikas Khanna, opened 2024, in NYC East Village -- distinguished from unrelated same-named 'Bungalow' venues elsewhere (e.g. other cities/beach clubs) which appeared in search results and were not used.",
+  "manual_review_flag": true,
+  "manual_review_reason": "Drinks/beverage menu not captured (not found within time box); food menu is complete and current with restaurant-declared allergen tags for gluten, peanut, and tree nut. Also note: 'Farmers Sattu Roti' is labeled by the restaurant as 'Low-Gluten' (not gluten-free) -- treated here as a declared-gluten item since it explicitly indicates gluten presence, but a human reviewer may want to double check this labeling nuance. Coconut-containing dishes were flagged as low-confidence 'likely' tree nut per FDA allergen-labeling convention, which some reviewers may consider too conservative.",
+  "status": "complete"
+}

@@ -1,0 +1,80 @@
+SOURCE URL: https://www.therhymersclub.com/menu
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Site is a JavaScript SPA; initial mcp__workspace__web_fetch returned an empty shell (nav links only, no menu content). Escalated to Claude-in-Chrome (navigate + get_page_text) and clicked through each category tab (Cocktails, Shareables, Plates, Salads & Bowls, Pizza, Dessert, Wine) to render and capture text, since content swaps in via JS per-tab rather than being present in the static DOM/PDF. Brunch, "TRC Before Dark", and Events tabs were not captured within the 5-minute sourcing time box (deprioritized as secondary/event-only sections). No explicit allergen icons/labels were rendered as text by get_page_text beyond the Vegetarian/Vegan/Gluten-Free filter checkboxes at top of page (which are interactive filters, not per-dish declarations, so not usable as declared-allergen evidence beyond confirming a "Gluten-Free" filter option exists on the menu).
+
+=== COCKTAILS ===
+Signature Cocktail
+TRC — Choice of Vodka or Gin, Apricot Eau de Vie, Quiquina Blanc, Dry Vermouth, Blue Cheese 0lives — $20.00
+
+Cocktails
+Coole Swan — Vodka, Aperol, Lime, Ginger & Cucumber — $19.00
+Yours Truly — Gin, Alpine Herbs, Lime, Cucumber & Basil — $18.00
+Strawberry Bed — Gin, Lemon, Strawberry, Oregano, Pine & Basil — $18.00
+Sweet Dancer — Tequila, Su Casa Mezcal, Mango, Coconut, Passionfruit & Thai Chilis — $18.00
+Remember me (Top Pick) — Bourbon, Amaro, Sherry, Benedictine, Chocolate Bitters & a Peated Rinse — $18.00
+Run to paradise — Tequila, Kiwi, Pineapple & Aloe — $19.00
+Shaken hands — Tequila, Aperol, Lemon, Pineapple, Ginger — $19.00
+Pickle Martini — Vodka, Fortified Wine, Aromatized Wine & Pickle Brine — $18.00
+Espresso Martini — Vodka, J.F. Haden's coffee liqueur & Espresso — $18.00
+Dunes — Tequila, Su Casa Mezcal, Pineapple, Bell Pepper & Light Spice — $18.00
+The Rhymer's Flight (Top Pick) — Inspired by the "Paper Plane" crisp and refreshing. — $18.00
+Sunset Sky — Refreshing grapefruit with sublter bitterness and a touch of peated scotch — $18.00
+Sunlit Verse — Pineapple and vanilla with earthy sotol and a hint of baijiu for a bright, balanced sip — $19.00
+Passion Project — Bright tropical fruit flavors balanced with earthy turmeric and cacao — $18.00
+Rise and Shine — Su Casa Mezcal Negroni with guava and coffee — $18.00
+
+Frozen Drinks
+Frozen Aperol (Top Pick) — Aperol, Lemon and Prosecco — $17.00
+
+Zero-Proof
+Faux Swan — Pentire Adrift non alc spirit, Ginger, Cucumber, Lime, Mint — $14.00
+Pomelo Zero — Pentire Coastal and Seaward non alc spirit, Grapefruit, Lime — $14.00
+Counterfeit Spritz — Pentire Seaward non alc spirit, Kiwi, Strawberry, Pineapple — $14.00
+
+=== SHAREABLES ===
+Crispy Rice and Spicy Tuna — Ahi Tuna, Crispy Sushi Rice, Citrus Yuzu Truffle Infusion, Spicy Mayo, Tuxedo Sesame Seeds, Chives, Hoisin — $21.00
+Bowl of Fries — Hand cut house made fries — $10.00
+Garlic & Parmesan Wood Fired Flatbread — Rosemary, Garlic Oil, Sea Salt, Shaved Locatelli — $16.00
+Whipped Roasted Eggplant Dip — Sicilian Cold Pressed Olive Oil, House Made Bread — $16.00
+Chicken Lollipops — Asian BBQ Sauce, Tuxedo Sesame Seeds, Scallion — $19.00
+Steamed Chicken Dumplings Buffalo Style — Blue Cheese & Apple Frisee Salad — $21.00
+Yellowtail Crudo — Yuzu Citrus Vin, Citrus Supreme, Chili Oil, Maldon Salt, Tobiko — $20.00
+Shrimp Ceviche — Citrus Cuvée, Tri-color Bell Pepper, Red Onion, Serrano Chili, Avocado — $20.00
+Sweet & Sour Chicken Bites — House made Sweet & Sour Sauce, Sesame Seeds, Fried Chicken — $18.00
+Beet & Goat Cheese Crostini — Roasted Red & Golden Beets, Pickled Red Onions, Herbed Goat Cheese, Dijon Vin, Micro Greens — $19.00
+
+=== PLATES ===
+Steak au Poivre (Top Pick) — Cedar River Farms Grass Fed Steak, Fries, Creamy Brandy Rainbow Peppercorn Sauce, Fine Herbs — $34.00
+Short Rib Fried Rice — Slow Roasted Short Rib, Jasmine Rice, Egg, Soy, Sesame, Scallions, Chilies, Cilantro — $23.00
+Short Rib Ragu — Braised Short Rib Ragu, Toasted Fennel, Burrata, Black Pepper, Fusili — $21.00
+Pesto Rigatoni — Spinach Basil Pesto, Pine Nuts, Roasted Garlic, Lemon Zest, Pistachio, Shaved Locatelli — $24.00
+Southern Fried Chicken Sandwich — Alabama White Lightnin' BBQ Sauce, Shredded Iceberg, Pickles, Sesame Bun, Homemade Fries — $19.00
+Smash Burger — Two 3oz Angus Beef Patties, American Cheese, Party Sauce, Fried Onions, Shaved Baby Iceberg Lettuce, Pickles, Sesame Bun, Homemade Fries — $19.00
+
+=== SALADS & BOWLS ===
+Crispy Goat Cheese Bowl — Tri-Color Quinoa Topped With Crispy Goat Cheese, Chickpeas, Asparagus, Radicchio, Pomegranate Seeds — $19.00
+The Rhymers' Club Salad — Toasted Sesame Breadcrumbs, Shaved Locatelli, Romano Dressing, Little Gem (Add Chicken +6, Add Crispy Chicken +6) — $19.00
+Beet Salad — Roasted Red & Golden Beets, Pickled Red Onion, Herbed Goat Cheese, Toasted Pistachios, Sherry Vin — $17.00
+Malibu Bowl — Edamame, Wild Rice, Miso Yuzu Vin, Poached Egg, Pickled Red Onion, Avocado, Micro Greens (Add Chicken +6, Add Crispy Chicken +6) — $17.00
+Mexican Bowl — Wild Rice, Pico de Gallo, Guacamole, Black Beans, Charred Corn, Cotija Cheese, Cilantro Lime Vinaigrette, Sour Cream, Poblano Dust (Add Chicken +6, Add Crispy Chicken +6) — $17.00
+
+=== PIZZA ===
+Burrata — Tomato, Basil, Truffle Oil, Black Pepper, Burrata — $22.00
+Crushed Tomato ("Marg") — Basil, Sicilian Cold Pressed Olive Oil, Buffalo Mozzarella, Blistered Tri-Color Cherry Tomato — $20.00
+Soppressata — Tomato, Mozzarella, Oregano, EVOO, Soppressata — $22.00
+The Fun 'guy' — Vodka Sauce, Mushroom, Fontina Cheese, Truffle Oil — $22.00
+Bianca — Pecorino Romano, Whipped Ricotta, Prosciutto, Arugula, Truffle Vinaigrette, Chipotle Honey — $22.00
+Spicy Sausage — Tomato, Mozzarella, Spicy Lamb Sausage, Mint — $22.00
+Sweet & Salty — Guanciale, Stracciatella, Scallion, Honey Sambal, Smoked Sea Salt — $24.00
+
+=== DESSERT ===
+Chocolate Mousse — Homemade Chocolate Mousse, Pistachios, wild Berries — $14.00
+Key Lime Pie — House made Key Lime Pie, Toasted Pillowed Marshmallow, Vanilla Ice Cream — $14.00
+Deep Fried Oreo — Oreos Fried In Batter Drenched in Dulce De Leche Sauce and Powdered Sugar — $14.00
+
+=== WINE ===
+Sparkling: Prosecco (Mionetto Avantgarde) $16/60; Crémant (Gratien & Meyer Brut) $16/60; Champagne (Moët Impérial) $140.00
+White: Pinot Grigio (Alto Vento) $15/58; Sauvignon Blanc (Change, Languedoc) $16/60; Chardonnay (Ersol, Sonoma Coast) $16/60; Riesling (Gelblack, Rheingau, Germany) $15/58; Sancerre (Barton & Gaestier, Loire Valley, France) $24/85
+Red: Pinot Noir (Bloodroot, Sonoma County) $16/60; Cabernet (Iron & Sand, Paso Robles) $17/62; Malbec (The Show, Argentina) $15/54; Chilled Red Blend (Palisades, California) $16/60
+Other: Rosé (Côtes des Roses, Languedoc) $16/60; Orange Wine (Bertrand Orange Gold) $17/62

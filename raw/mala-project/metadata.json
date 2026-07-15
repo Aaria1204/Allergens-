@@ -1,0 +1,22 @@
+{
+  "restaurant_name": "MáLà Project",
+  "address": "122 1st Ave, New York, NY 10009, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.toasttab.com/local/order/mala-project/r-431df7b3-26cb-4244-9d81-67a1704f4852",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Full, current, location-matched menu with sections, descriptions, prices, and restaurant-provided allergen/dietary tags (e.g. 'nuts', 'sesame', 'gluten free', 'soy'). Dry pot combo ingredient options not individually enumerated beyond base description. Page rendered fully on first fetch, no JS-shell escalation needed."
+    }
+  ],
+  "menu_source": {
+    "url": "https://www.toasttab.com/local/order/mala-project/r-431df7b3-26cb-4244-9d81-67a1704f4852",
+    "tier": "ordering",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/mala-project/toasttab-menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": false,
+  "status": "complete"
+}

@@ -1,0 +1,161 @@
+SOURCE URL: https://custom.order.online/store/nan-xiang-soup-dumplings-east-village-29697125
+TIER: ordering (DoorDash-powered restaurant storefront / Storefront Web, "Powered by DoorDash Commerce Platform")
+ACCESSED AT: 2026-07-14T18:00:00Z
+LIMITATIONS: Content is rendered client-side (SSR shell + lazy-loaded sections); captured via browser rendering (Chrome tools), scrolling through each category tab to force lazy-load, then extracting visible page text. Some "Featured Items" carousel entries (Braised Beef Noodle Soup, Scallion Oil Noodles) only exposed a name + price with no ingredient description even after opening their item detail modal. Prices include DoorDash markup relative to in-store menu (typical for delivery platforms) but this is the most complete, location-verified source found. No cross-contact / facility allergen disclosure was present anywhere on this page.
+
+IDENTITY VERIFICATION: Page header and address block explicitly state:
+"Nan Xiang Soup Dumplings - East Village" / "15 Saint Marks Pl, New York NY 10003-7842, United States"
+This matches the target restaurant/address exactly (15 St Marks Pl, New York, NY 10003). The site's Terms-of-Service link also encodes contact_email=eastvillagenx@nanxiangusa.com and contact_info=(212) 970-8788, consistent with the East Village location's own phone number found via web search (212-970-8788) and distinct from the Flushing (718-321-3838) and Koreatown (212-970-3888) locations of the same chain (confirmed via the chain's official site nanxiangxiaolongbao.com, which lists all 9+ locations separately).
+
+=== FEATURED ITEMS (carousel; overlaps with category sections below) ===
+Osmanthus Honey Chicken 桂香蜜汁鸡 — $18.99
+Braised Beef Noodle Soup 招牌紅燒牛肉麵 — $20.13 (no ingredient description available; item detail modal showed name/price only)
+Beef Stir-Fried Udon 牛肉絲粗炒麵 — $19.00 (#1 Most liked)
+Chicken Stir-Fried Udon 雞肉粗炒麵 — $18.00
+Nan Xiang Soup Dumplings 南翔小籠包 — $14.00
+Sauteed String Beans with Garlic 乾扁四季豆 — $17.00
+Black Pepper Beef 黑胡椒牛肉粒 — $21.99
+Crab Meat & Pork Soup Dumplings 蟹粉小籠包 — $15.53
+Cucumber Salad with Garlic 脆口黃瓜 — $12.00
+Pan Fried Pork Buns 生煎包 — $13.23
+Stir-fried Bok Choy with Garlic 蒜炒上海青 — $15.75
+Chicken Soup Dumplings 雞肉小籠包 — $15.00
+Egg Fried Rice 蛋炒飯 — $12.50
+Pork & Vegetable Wontons in Spicy Peanuts Sauce 紅油菜肉抄手 — $12.65 (#2 Most liked)
+Shanghai Stir-fried Udon 上海粗炒麵 — $17.00
+Chili Crispy Chicken Bites 椒香麻辣鸡 — $18.99
+Pork, Shrimp & Chive Dumplings 手工韭菜豬肉蝦仁水餃 — $12.50
+Lucky Six Soup Dumplings 六彩小籠包 — $18.00
+Scallion Pancake 手擀蔥油餅 — $9.50
+Shanghai Sweet & Sour Spare Pork Ribs 上海糖醋排骨 — $18.00
+Nan Xiang Fried Rice 南翔炒飯 — $17.25
+Scallion Oil Noodles 蔥油乾拌麵 — $11.50 (no ingredient description available)
+Pan Fried Pork Dumplings 生煎鍋貼 — $12.08
+Spicy Beef Soup Dumplings 麻辣牛肉小笼包 — $15.53
+Steamed Vegetable Dumplings 花素蒸餃 — $13.80
+
+=== Soup Dumplings 小籠包 ===
+Chicken Soup Dumplings 雞肉小籠包 — Delicate soup dumplings filled primarily with seasoned chicken in a rich, savory broth. A mild, light, and comforting flavor. — $15.00
+Crab Meat & Pork Soup Dumplings 蟹粉小籠包 — Classic soup dumplings filled with seasoned pork, crab meat, and rich, savory broth. — $15.53
+Gourd Luffa, Shrimp, and Pork Soup Dumplings 絲瓜鮮蝦肉小籠包 — Traditional soup dumplings filled with pork, fresh shrimp, and tender luffa (Chinese sponge gourd). The light sweetness of the vegetables perfectly complements the delicate seafood flavor. — $14.00
+Lucky Six Soup Dumplings 六彩小籠包 — A tasting assortment featuring one of each signature flavor: Pork, Crab Meat & Pork, Chicken, Scallop & Pork, Black Truffle & Pork, and Gourd Luffa, Shrimp & Pork Soup Dumplings. — $18.00
+Nan Xiang Soup Dumplings 南翔小籠包 — Our signature and most traditional soup dumplings, filled with seasoned pork and rich, savory broth for an authentic Xiao Long Bao experience. — $14.00
+Scallop & Pork Soup Dumplings 干貝小籠包 — Delicate soup dumplings filled with seasoned pork and sweet scallops. The natural sweetness of the scallops pairs perfectly with the rich, savory broth for a layered, umami flavor. — $14.00
+Spicy Beef Soup Dumplings 麻辣牛肉小笼包 — Tender premium beef blended with aromatic curry, cumin, and Nan Xiang's signature chili sauce, creating a bold, savory filling with a rich, flavorful broth. — $15.53
+Truffle & Pork Soup Dumplings 松露小籠包 — Traditional soup dumplings filled with seasoned pork and aromatic black truffle. The rich truffle flavor adds a luxurious depth and earthy aroma to every bite. — $19.55
+Vegetable Soup Dumplings 翡翠小籠包 — Delicate soup dumplings filled with bok choy, dried bean curd, and shiitake mushrooms. — $14.00
+
+=== Signature Dim Sum 經典點心 ===
+Pan Fried Pork Buns 生煎包 — Golden and crispy on the bottom with a soft, fluffy top. Filled with juicy seasoned pork and savory broth. — $13.23
+Pan-Fried Crabmeat & Pork Buns 蟹粉生煎包 — Golden and crispy on the bottom with a soft, fluffy top. Filled with juicy pork, fresh crab meat, and savory broth. — $13.50
+Cheese & Shrimp Potstickers 芝士蝦仁鍋貼 — Pan-fried dumplings filled with shrimp, melted cheese, onions, and celery — crispy outside with a savory, cheesy filling. — $13.23
+Pan Fried Pork Dumplings 生煎鍋貼 — Golden pan-fried dumplings with a crispy bottom and tender wrapper, filled with juicy seasoned pork. — $12.08
+Pan-Fried Beef Dumplings 牛肉鍋貼 — Golden pan-fried dumplings filled with tender, juicy beef and fresh scallions. — $12.65
+Pork & Vegetable Wontons in Spicy Peanuts Sauce 紅油菜肉抄手 — Tender pork and vegetable wontons served in a fragrant chili oil sauce. — $12.65
+Shrimp, Pork & Vegetable Wontons in Spicy Peanut Sauce 紅油蝦仁菜肉抄手 — Tender wontons filled with shrimp, pork, and fresh vegetables, served in a fragrant chili oil sauce. — $13.23
+Shanghai Siu Mai 糯米燒賣 — Traditional Shanghai-style siu mai filled with glutinous rice, seasoned pork, and shrimp. — $8.00
+Chicken Siu Mai 雞肉燒賣 — Tender chicken and shrimp siu mai with a delicate texture and juicy, savory flavor. — $9.00
+Steamed Vegetable Dumplings 花素蒸餃 — Vegetarian steamed dumplings filled with glass noodles, Shanghai greens, and mushrooms. — $13.80
+Pork, Shrimp & Cabbage Dumplings 手工白菜豬肉蝦仁水餃 — Classic boiled dumplings filled with seasoned pork, succulent shrimp, and fresh cabbage. — $12.50
+Pork, Shrimp & Chive Dumplings 手工韭菜豬肉蝦仁水餃 — Classic boiled dumplings filled with seasoned pork, succulent shrimp, and fragrant chives. — $12.50
+Chicken, Corn & Carrot Dumplings 雞肉水餃 — Boiled dumplings filled with tender chicken, sweet corn, and carrots. — $12.50
+
+=== Cold Appetizers 前菜 ===
+Beef Tripe in Spicy Sauce 夫妻肺片 — Tender beef tendon and tripe tossed in a bold chili oil sauce with fragrant spices. — $20.13
+Chicken in Wine Sauce 紹興醉雞 — Chicken marinated in a traditional aromatic wine sauce. Served chilled. — $15.50
+Cucumber Salad with Garlic 脆口黃瓜 — Fresh cucumber tossed in a savory garlic sauce. — $12.00
+Four Happiness Kaofu 四喜烤麩 — Authentic Shanghainese-style braised sponge tofu (kaofu) with bamboo shoots, wood ear mushrooms, and shiitake mushrooms. — $15.50
+Potherb Mustard & Tofu Skin 雪菜豆干毛豆 — A refreshing salad of tender potherb mustard and tofu skin. — $12.00
+Savory Pressed Tofu with Chinese Celery 香芹拌香干 — Chinese celery, dried tofu, carrot, chili pepper, garlic, salt, sesame oil. — $12.50
+
+=== Hot Appetizers 熱前菜 ===
+Scallion Pancake with Sliced Beef 蔥油餅夾牛肉 — Scallion Pancake wrapped with marinated sliced beef, scallion, and hoisin (海鲜酱) sauce. — $14.09
+Fried Pork Chop 炸排骨 — Pork ribs, wheat flour, starch, eggs, salt, pepper, vegetable oil. Crispy outside, tender inside. — $13.00
+Crispy Dough 油條 — Made from wheat flour, water, vegetable oil, baking powder, and salt, deep-fried until golden and crisp. — $3.00
+Salty Soybean Milk 鹹豆漿 — Fried dough sticks, pickled mustard greens, scallions, savory soy milk, and soybeans. — $5.50
+Salty Soybean Pudding 鹹豆花 — Tofu pudding, dried shrimp, pickled mustard greens, green onions, savory sauce. — $6.00
+Sweet Sticky Rice Roll 甜糯米飯團 — Sweet sticky rice roll filled with a subtly sweet center. — $5.50
+Salty Sticky Rice Roll 鹹糯米飯團 — Sticky rice roll filled with savory ingredients. — $6.50
+Fried Vegetable Spring Rolls 素菜春卷 — Smoked tofu, napa cabbage, carrot; crispy spring roll wrapper. — $9.50
+Fried Shrimp Spring Rolls 蝦仁春卷 — Shrimp, napa cabbage, carrot; crispy spring roll wrapper. — $10.50
+Scallion Pancake 手擀蔥油餅 — Made from wheat flour, water, chopped scallions, vegetable oil, and salt, pan-fried until golden and crispy. — $9.50
+Turnip Ham Puffs 蘿蔔酥餅 — Wheat flour, white radish, ham, scallions, vegetable oil, salt, sugar, sesame seeds. — $8.50
+Fried Chinese Chives Box 韭菜盒子 — Dried shrimp, Chinese chives, eggs, and vermicelli; crispy outer (pastry) layer. — $8.50
+
+=== Soup 湯品 ===
+Pork & Vegetable Wonton Soup 薺菜肉餛飩湯 (8pcs) — pork, shepherd's purse, wonton wrappers, soy sauce, sesame oil, vegetable broth, scallions. — $13.00
+Shrimp, Pork & Vegetable Wonton Soup (8) 薺菜蝦仁餛飩湯 — shrimp, pork, shepherd's purse, wonton wrappers, soy sauce, sesame oil, vegetable broth, scallions. — $14.00
+Steamed Chicken Soup 元盅土雞湯 — free-range chicken, Chinese herbs, water, salt. — $12.00
+West Lake Beef Soup 西湖牛肉羹 — ground beef, egg, tofu, shiitake mushrooms, cilantro, soy sauce, cornstarch, vegetable broth, sesame oil. — $7.99
+
+=== Chef's Specials 炒菜 ===
+Black Pepper Beef 黑胡椒牛肉粒 — beef cubes, black pepper, onion, red/green bell pepper, soy sauce, oyster sauce, vegetable oil. — $21.99
+Braised Pork Meatballs Shanghai-Style 紅燒獅子頭 — ground pork, ginger, scallions, soy sauce, Shaoxing wine, sugar, cornstarch, vegetable oil, baby bok choy. — $16.50
+Chili Crispy Chicken Bites 椒香麻辣鸡 — Crispy chicken pieces tossed with dried chilies and aromatic spices. — $18.99
+Creamy Shrimp 奶油鮮蝦 — shrimp, broccoli, milk, cream, sugar, salt, cornstarch, vegetable oil. — $17.25
+Crispy Flounder Fish Filet with Sweet & Sour Sauce 糖醋魚片 — fish fillet, sugar, vinegar, ketchup, cornstarch, salt, ginger, garlic, vegetable oil. — $16.50
+Egg Fried Rice 蛋炒飯 — Fluffy rice stir-fried with eggs and chopped green onions. — $12.50
+Nan Xiang Fried Rice 南翔炒飯 — rice, shrimp, ham, egg, onion, corn, scallion, green peas, carrots, salt, vegetable oil. — $17.25
+Osmanthus Honey Chicken 桂香蜜汁鸡 — chicken breast, osmanthus honey sauce, osmanthus seeds, sesame seeds, broccoli. Crispy outside, tender inside. — $18.99
+Sauteed String Beans with Garlic 乾扁四季豆 — string beans, garlic, salt, vegetable oil. — $17.00
+Shanghai Sweet & Sour Spare Pork Ribs 上海糖醋排骨 — pork ribs, sugar, vinegar, soy sauce, vegetable oil, white sesame seeds. — $18.00
+Stir-fried Bok Choy with Garlic 蒜炒上海青 — bok choy, garlic, salt, vegetable oil. — $15.75
+Stir-Fried Broccoli with Garlic 蒜炒西蘭花 — broccoli, garlic, salt, vegetable oil. — $15.75
+
+=== Noodle Soup 拌麵 湯麵 ===
+Seafood Noodle Soup 海鮮湯麵 — shrimp, scallops, fish fillet, bok choy, straw mushrooms, carrots, wheat noodles, seafood broth, vegetable oil, salt. — $18.98
+Shredded Beef & Pepper Noodle Soup 小椒牛肉絲湯麵 — beef, green pepper, wheat noodles, soy sauce, oyster sauce, sugar, vegetable oil. — $18.98
+Shredded Beef & Pepper Noodles (No soup) 小椒牛肉絲乾拌麵 — beef, green pepper, wheat noodles, soy sauce, oyster sauce, sugar, vegetable oil. — $17.50
+Vegetable Noodle Soup 素菜湯麵 — wheat noodles, bok choy, carrots, mushrooms, black fungus, tofu, vegetable broth, vegetable oil, salt. — $14.00
+Braised Beef Noodle Soup 招牌紅燒牛肉麵 — (no ingredient description captured; name indicates braised beef in noodle soup). — $20.13
+Scallion Oil Noodles 蔥油乾拌麵 — (no ingredient description captured; name indicates noodles tossed in scallion oil). — $11.50
+
+=== Stir-Fried Noodles & Rice Cakes 炒麵 / 炒年糕 ===
+Shanghai Stir-fried Udon 上海粗炒麵 — pork, bok choy, udon noodles, house special sauce, vegetable oil. — $17.00
+Chicken Stir-Fried Udon 雞肉粗炒麵 — chicken, bok choy, udon noodles, house special sauce, vegetable oil. — $18.00
+Beef Stir-Fried Udon 牛肉絲粗炒麵 — beef, bok choy, udon noodles, house special sauce, vegetable oil. — $19.00
+Seafood Stir-Fried Udon 海鮮粗炒麵 — shrimp, scallops, fish fillet, bok choy, udon noodles, house special sauce, vegetable oil. — $19.55
+Pan-Fried Crispy Noodles with Vegetable 素兩麵黃 — egg noodles, bok choy, black fungus, bamboo shoots, straw mushrooms, carrots, napa cabbage, vegetable oil, soy sauce. — $15.53
+Pan-Fried Crispy Noodles with Shredded Pork 肉絲兩麵黃 — shredded pork, egg noodles, bok choy, bamboo shoots, straw mushrooms, carrots, napa cabbage, soy sauce, vegetable oil. — $16.67
+Pan-Fried Crispy Noodles with Shredded Chicken 雞絲兩麵黃 — shredded chicken, egg noodles, bok choy, bamboo shoots, straw mushrooms, carrots, napa cabbage, soy sauce, vegetable oil. — $16.67
+Pan-Fried Crispy Noodle with Shredded Beef 牛肉兩麵黃 — beef, egg noodles, bok choy, bamboo shoots, straw mushrooms, carrots, napa cabbage, soy sauce, vegetable oil. — $18.50
+Pan-Fried Crispy Noodles with Seasonal Seafood 海鮮兩麵黃 — shrimp, scallops, fish fillet, egg noodles, bok choy, straw mushrooms, carrots, napa cabbage, seafood broth, vegetable oil, salt. — $18.40
+Pan-fried Crispy Noodles Pork, Shrimp, & Fish Fillet 什錦兩麵黃 — pork, shrimp, fish fillet, egg noodles, black fungus, bamboo shoots, straw mushrooms, carrots, napa cabbage, soy sauce, vegetable oil. — $17.83
+Stir-Fried Rice Cakes with Shredded Pork & Potherb Mustard 雪菜肉絲炒年糕 — rice cakes, shredded pork, pickled mustard greens, vegetable oil. — $16.67
+Stir-Fried Rice Cakes with Shredded Chicken 雞絲炒年糕 — rice cakes, chicken, bamboo shoots, mushrooms, carrots, napa cabbage, soy sauce, vegetable oil. — $16.67
+Stir-Fried Rice Cakes with Vegetables 素炒年糕 — rice cakes, bok choy, dried tofu, black fungus, bamboo shoots, mushrooms, carrots, napa cabbage, soy sauce, vegetable oil. — $15.53
+Stir-Fried Rice Cakes with Shredded Pork 肉絲炒年糕 — rice cakes, shredded pork, pickled mustard greens, vegetable oil. — $16.67
+Stir-Fried Rice Cakes with Seasonal Seafood 海鮮炒年糕 — rice cakes, scallops, shrimp, fish fillet, bamboo shoots, mushrooms, carrots, napa cabbage, soy sauce, vegetable oil. — $18.50
+Stir-fried Rice Cakes with Shredded Beef 牛肉炒年糕 — rice cakes, beef, bamboo shoots, mushrooms, carrots, napa cabbage, soy sauce, vegetable oil. — $18.50
+
+=== Dessert 甜品 ===
+Durian Puffs 榴蓮酥餅 — Crispy golden pastry filled with rich, aromatic durian. — $11.50
+Mochi & Sesame XLB 麻薯黑芝麻小笼包 — Soft dumplings filled with sweet black sesame paste, encased in a chewy mochi wrapper. — $7.25
+Pumpkin Cakes 南瓜餅 — Pumpkin, red bean paste, wheat flour, sugar, vegetable oil. — $8.50
+Red Bean Puffs 豆沙酥餅 — Red bean paste, wheat flour, vegetable oil, sugar, sesame seeds. — $8.50
+Sweet Soybean Pudding 甜豆花 — Sugar, tofu pudding (sweetness adjustable or sugar-free). — $5.50
+Ube Red Bean Bao 紫薯豆沙包 — Purple yam, red beans, wheat flour, vegetable oil, sugar. — $8.50
+
+=== Drinks 饮品 (consolidated per project convention) ===
+Sparkling Water — Effervescent water. — $2.50
+Hot Soybean Milk 热豆浆 — Smooth, warm soybean milk, with or without sugar. — $5.50
+Iced Soybean Milk 冰豆浆 — Creamy soybean milk, subtle nutty flavor. — $5.50
+Grapefruit & Peach Green Tea — Green tea infused with grapefruit and peach. — $6.96
+Melon Green Tea — Brewed green tea combined with melon flavor. — $6.95
+Passion Fruit & Lime Green Tea — Green tea infused with passion fruit and lime. — $6.95
+Pineapple Green Tea — Pineapple green tea with fresh pineapple chunks and lime. — $6.95
+Fanta Orange — Bubbly orange soda. — $2.50
+Poland Spring — Natural spring water. — $3.00
+
+=== Side Order 配菜 ===
+Chili Oil 辣椒油 — House-made chili oil from freshly ground chili peppers, typically infused with various spices. — $0.80
+Peanut Sauce 花生酱 — Creamy sauce made from peanuts, often combined with coconut milk and tamarind. — $1.50
+Soy Sauce 酱油 — Soy sauce, a classic Asian condiment, typically includes fermented soybeans, wheat, and salt. — $0.80
+Vinegar 醋 — A side order of tangy vinegar. — $0.80
+White Rice 白米饭 — Steamed white rice. — $3.00
+
+=== Rice Dumplings (Zongzi) ===
+Dragon Boat Bundle — Sticky rice wrapped around pork, Chinese sausage, and mushrooms, encased in bamboo leaves. Typically includes mung beans for added texture. — $35.00
+Dragon Boat Bundle — Sticky rice typically filled with pork, Chinese sausage, mushrooms, and mung beans, wrapped in leaves. — $28.00
+
+=== Catering & Party Trays 聚会餐盘 (NOT included as separate dish records — duplicate tray-sized versions of regular menu dishes already captured above; catering page did show restaurant-declared dietary tags, e.g. "Cucumber Salad w. Garlic (V, GF) — Serves 5+. Tray. Vegetarian. Gluten free. — $48.00" and "Four Happiness Sponge Tofu — Serves 5+. Tray. — $60.00", "Edamame Tofu Mustard Greens — Vegetarian — $80.00+", "Wood Ear Mushroom Salad — $80.00+". These restaurant-declared "Gluten Free" tags on the catering-tray version of Cucumber Salad were NOT carried over to the regular a-la-carte Cucumber Salad with Garlic record, since it is a different-sized/packaged SKU and the instructions prohibit implying any dish is allergen-free from inference alone.)

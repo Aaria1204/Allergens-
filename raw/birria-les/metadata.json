@@ -1,0 +1,37 @@
+{
+  "restaurant_name": "Birria LES",
+  "address": "34 St Marks Pl #12, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.seamless.com/menu/birria-les-34-st-marks-pl-new-york/10189744",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Not fetched directly; same underlying Grubhub-family platform as the Grubhub URL checked below, and prior sibling restaurants in this project have shown these render only a partial JS shell. Skipped in favor of order.online (DoorDash) which succeeded first."
+    },
+    {
+      "url": "https://www.grubhub.com/restaurant/birria-les-34-st-marks-pl-new-york/10189744",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Static fetch returned an empty JS shell ('No JavaScript?' notice, prerender-status-code 503). Not escalated to Chrome because the order.online (DoorDash storefront) source, tried in parallel, already returned usable menu content, satisfying the ordering tier without needing browser escalation."
+    },
+    {
+      "url": "https://order.online/en-US/store/birria-les-new-york-31345181",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Full food item list (names + prices, 25 items) rendered in static fetch; no dish descriptions/ingredients present; a 'Drinks' tab exists in navigation but its items did not render (likely lazy-loaded) and were not captured."
+    }
+  ],
+  "menu_source": {
+    "url": "https://order.online/en-US/store/birria-les-new-york-31345181",
+    "tier": "ordering",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/birria-les/order-online-doordash-storefront.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": true,
+  "manual_review_flag_reason": "Address on this ordering page shows 'Saint Marks Pl' street-level only, without the '#12' unit suffix; could not independently confirm unit #12 vs. other units in the same building (e.g., Anytime Street at 34 St Marks Pl from an earlier project batch). Name, street number, and DoorDash storefront contact details are otherwise consistent with a single distinct 'Birria LES' business (no competing location found in search). Also flagging that the 'Drinks' menu section was not captured (lazy-loaded / not rendered) and dish descriptions/ingredients were not available from this source, limiting allergen inference to dish names only.",
+  "status": "complete"
+}

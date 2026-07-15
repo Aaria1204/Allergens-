@@ -1,0 +1,59 @@
+SOURCE URL: https://crispiano.com/happy-hour-menu
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Page is JS-rendered (empty via plain fetch); rendered via browser and extracted as visible text. No explicit allergen labeling or cross-contact disclosure found on page.
+---
+HAPPY HOUR
+PIZZA
+$15
+Carbonara
+mozzarella, smoked bacon, egg, pecorino romano
+$16
+Sweet Diavola
+mozzarella, tomato sauce, Italian soppressata, jalapeño, hot honey
+$15
+Pesto
+mozzarella, tomato sauce, pesto genovese
+PASTA
+$15
+Penne All'Amatriciana
+penne pasta, homemade tomato sauce, diced smoked pancetta
+$15
+Gnocchi Al Pesto
+Potato gnocchi with pesto Genovese sauce
+$11
+Penne All'Arrabbiata
+penne pasta with spicy homemade tomato sauce & red crushed pepper
+ADD ONS:
+$6
+Chicken
+$8
+Burrata
+RED WINE
+$8
+Pinot Noir
+$8
+Cabernet Sauvignon
+$8
+Montepulciano
+$8
+Chianti
+WHITE WINE
+$8
+Chardonnay
+$8
+Pinot Grigio
+$8
+Sauvignon Blanc
+$8
+Rosé
+SPARKLING
+$9
+Prosecco
+$9
+Spritz
+BEER
+$6
+Peroni
+$6
+Modelo

@@ -1,0 +1,30 @@
+SOURCE URL: https://www.doordash.com/store/kyuubi-omakase-102-saint-marks-pl-new-york-34021721/
+TIER: ordering (DoorDash)
+ACCESSED_AT: 2026-07-14T00:00:00Z
+METHOD: Claude-in-Chrome navigate + get_page_text (initial mcp__workspace__web_fetch returned a largely empty JS shell with only partial Featured Items pricing; escalated once to Chrome rendering per policy)
+LIMITATIONS: Page shows "Featured Items" with prices and a "Most Ordered" section, but category tabs "Nigiri" and "Today Special" did not expand to show itemized dish lists within the rendered text (would require additional clicks beyond the 5-minute time box). No ingredient/allergen disclosures present. This is a delivery/ordering page, not the restaurant's own website (no independent official website was found in search results — only SEO aggregator decoy domains: placejoys.com, foodjoyy.com, wheree.com, weeblyte.com, all rejected as non-canonical/unverifiable content farms).
+
+--- EXTRACTED VISIBLE TEXT (relevant portion) ---
+
+kyuubi omakase - 102 Saint Marks Pl delivered to your door
+kyuubi omakase - 102 Saint Marks Pl
+DashPass • Sushi Bar
+We are dedicated to crafting the most cost-effective omakase experience, delivering the finest quality by using only the freshest ingredients.
+Full Menu
+2:00 pm - 5:40 pm
+
+Featured Items
+omakase A — $45.00
+omakase B — $79.00
+A5 Wagyu — $18.00
+salmon Don — $30.00
+Unagi Don — $35.00
+Chu Toro — $11.00
+
+Most Ordered
+omakase set
+The chef carefully selects and matches to give you the most cost-effective experience.
+
+Categories present (not expanded/itemized in rendered text): Nigiri, Today Special
+
+Prices on this menu are set directly by the Merchant.

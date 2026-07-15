@@ -1,0 +1,20 @@
+SOURCE URL: https://www.grubhub.com/restaurant/kimura-31-st-marks-pl-new-york/6374680
+TIER: ordering (Grubhub, rendered via Chrome after initial fetch returned JS-shell)
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Page only rendered a "Best Sellers" module (5 items, name + price, no descriptions).
+Full menu category tabs are listed (Donburi, Sushi teishoku, Cold appetizer and salad, Hot appetizer,
+Grilled skewers, Grill skewers combo (3 kinds 6 skewers), Grill from oven, Sashimi & Nigiri, Roll,
+Special roll, Rice & noodle, Hotpot, Dessert, Soft drink) but clicking the "Hotpot" tab did not expand
+additional itemized content in the accessibility tree within the time box — content appears to be
+lazy-loaded/virtualized and was not retrievable via get_page_text or read_page in the time available.
+This is NOT a complete menu and was not used for normalized extraction.
+
+Restaurant identity confirmed: name "Kimura", address "31 St Marks Pl" (matches target address exactly).
+Hours, phone (917) 905-1864 also match official site.
+
+--- Best Sellers (partial, no descriptions) ---
+Yuzu salmon roll — $21.00
+Hakata Motsunabe — $30.00
+Pork Belly Nabe — $29.00
+Spicy tuna crackers — $15.00
+Beef yakiniku don — $22.00

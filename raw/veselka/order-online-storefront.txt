@@ -1,0 +1,155 @@
+SOURCE URL: https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true
+TIER: ordering (DoorDash Storefront, restaurant-controlled ordering page for the 144 2nd Ave / East Village location)
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: This is the restaurant's DoorDash-powered online ordering storefront, confirmed for "Veselka, 144 2nd Ave, New York, NY 10003, USA". It lists section headers, dish names, short descriptions, and prices, but does not include full breakfast section descriptions for every side item and does not include allergen statements or a printed full-menu PDF. Some items appear with abbreviated names (e.g., "SD" = side, "AP" = a la carte/portion?). Descriptions for some sides/beverages are blank on the page (price only). Beer/wine/liquor not listed on this ordering page (alcohol often excluded from delivery platforms) — no beer section captured. Extraction below preserves visible section groupings and item text as rendered.
+
+=== FULL MENU TEXT AS RENDERED ===
+
+Veselka
+144 2nd Ave, New York, NY 10003, USA
+Online ordering hours: 9:00 AM - 11:00 PM
+
+--- SOUPS ---
+Ukrainian Borscht - Traditional Ukrainian soup made with beet stock, roast pork, cabbage, potatoes and lima beans. - $10.50+
+Chicken Noodle - Rich chicken broth with shredded chicken, carrots, celery, onion, and fine egg noodles. - $10.50+
+Matzoh Ball Soup - Rich homemade chicken stock with pulled chicken, vegetables and Matzoh ball. - $10.50+
+Mushroom Barley - Our thick and creamy vegetarian mushroom barley soup. - $10.50+
+Cold Borscht - Our Cold Borscht made with buttermilk, beets and served with chopped cucumber and boiled egg. - $10.50+
+Cold Cucumber Soup - A creamy blend of crisp cucumbers, tangy buttermilk, sour cream, and fresh dill - $10.50+
+Extra Matzoh Ball - Extra Matzoh ball on the side. - $2.50
+
+--- PIEROGI ---
+Pierogi Four - Four of our handcrafted pierogi, served boiled or fried. - $11.00
+Pierogi Eight - Eight of our handcrafted pierogi, served boiled or fried. - $20.00
+Pierogi Dozen - Dozen of our handcrafted pierogi, served boiled or fried. - $28.00
+Stand with Ukraine Bowl - Two potato, two meat and two sauerkraut & mushroom pierogi topped with chopped bacon, grilled kielbasa and caramelized onions. Served boiled or fried. - $23.00
+
+--- CLASSICS ---
+Beef Stroganoff - Sliced beef slow-simmered until tender in a rich mushroom sour cream sauce. - $27.00
+Stuffed Cabbage - Choice of meat or meatless stuffed-cabbage. Choice of mushroom or tomatoes gravy. - $21.00
+Bigos - Hearty hunters stew of kielbasa, roast pork, sauerkraut and onions. Served with mashed potatoes - $22.00
+Kielbasa Dinner - Schaller and Weber slow smoked pork and beef sausage served chargrilled with mashed potatoes, sauerkraut and Bavarian mustard. - $26.00
+Chicken Paprikash - Boneless chicken and red peppers braised in a cream sauce with herbs. - $25.00
+Chicken Schnitzel Dinner - Panko crusted chicken schnitzel served with mashed potatoes and Bavarian mustard. - $23.00 (#1 Most liked)
+Marinated Chicken Dinner - Served grilled with mashed potatoes. - $22.00
+Chicken Kyiv - Crispy panko-breaded chicken breast, stuffed with garlic herb butter. Served with mashed potatoes, steamed broccoli and burachky. - $25.00
+Potato Pancake Plate - Three potato pancakes with sour cream and applesauce - $22.00
+Blintz Single - Our award-winning Ukrainian-style crepe filled with lightly sweetened farmer's cheese. - $10.00
+Raspberry Blintz Single - $13.00
+Blintz Plate - Our award-winning Ukrainian-style crepes filled with lightly sweetened farmer's cheese. - $17.00
+Raspberry Blintz Plate - $20.00
+AP Meat Cabbage - $11.00
+AP Vegetarian Cabbage - $10.00
+
+--- COMBO PLATES ---
+Meat Plate Combo - Two braised beef short rib pierogi, two potato pierogi, meat stuffed cabbage with mushroom gravy or tomato sauce. Served with beet & horseradish salad and choice of soup - $27.00
+Deluxe Meat Combo - One braised beef short rib pierogi, one potato pierogi, one sauerkraut and mushroom pierogi and our meat stuffed cabbage with Mushroom gravy, grilled kielbasa, side of sour cream & beet and horseradish salad. - $29.00
+Vegetarian Combo Plate - 2 cheese pierogi, 2 potato pierogi, 1 meatless stuffed cabbage with mushroom gravy, a side of sour cream. Served with cup of soup or salad - $25.00
+Deluxe Vegetarian Combo - 1 cheese pierogi, 1 potato pierogi, 1 sauerkraut and mushroom pierogi, 1 meatless stuffed cabbage, kasha with mushroom gravy and a side of sour cream. - $26.00
+Potato Pancake Combo Plate - One potato pancake with choice of topping and cup of soup - $23.00
+
+--- SANDWICHES AND BURGERS ---
+Madame Alexander - Organic smoked turkey, Vermont sharp white cheddar, and chipotle cranberry chutney on cranberry walnut bread. - $18.00
+Chicken Schnitzel Sandwich - Panko crusted, thinly-pounded, all natural Bell & Evan's chicken breast, served with lemon pepper mayo and sliced pickles on a sesame bun. - $19.00
+Grilled Cheese Sandwich - Choice of bread and cheese - $13.00
+Tuna Melt - Homemade tuna salad. Choice of bread and cheese - $18.00
+Tuna Salad Sandwich - Homemade tuna salad with onion, celery and mayo. Choice of bread - $16.00
+Grilled Chicken Sandwich - Grilled chicken breast on toasted rye with melted Swiss, sautéed onions & bell peppers, and lemon pepper mayo served with coleslaw and a pickle. - $16.00
+BLT - Choice of bread - $15.00
+Smoked Turkey BLT - Smoked turkey, bacon, lettuce, and tomato. Choice of bread - $19.00
+Bagel w/Smoked Salmon - Bagel with smoked salmon, cream cheese, capers, lettuce, pickle, tomato and coleslaw. - $18.00
+Burger - Certified Angus Beef - $18.00
+Veggie Burger - Served with Ukrainian Dressing - $16.00
+Reuben - Shaller and Weber's corned beef, Swiss cheese, sauerkraut, and homemade Ukrainian dressing on rye bread. - $19.00
+
+--- SALADS ---
+Salad - Beet & Goat Cheese - With toasted walnuts and pumpkin seeds on greens with balsamic vinaigrette - $18.00
+Salad - Lentil Salad - With feta cheese, tomato, cucumber, bell pepper, and carrots served over greens with creamy dill vinaigrette - $17.00
+Salad - Tuna Salad & Greens - With a scoop of tuna salad, cucumber and tomatoes. Served with creamy dill vinaigrette. - $16.00
+Salad - Cobb Salad - Mixed greens with avocado, Danish blue cheese, hard boiled egg, bacon and tomatoes. Served with blue cheese dressing. Add chicken if you would like. - $20.00
+Salad - Grilled Chicken & Greens - $18.00
+Salad - Fattoush - Crispy challah croutons, heirloom cherry tomatoes, cucumbers, pickled beets, baby arugula and dill. Comes with a lemon vinaigrette dressing. - $16.00
+
+--- BREAKFAST ---
+Custom Egg Sandwich - Choose your own egg prep, bread, meat and cheese - $5.00
+EV Classic Egg Sandwich - $12.00
+Veselka GCT Fried Egg Sandwich - Grilled smoked ham, gruyere, and arugula on a whole wheat brioche bun - $13.00
+Veselka Williamsburg Egg Sandwich - Grilled smoked ham, red pepper, onion, baby spinach, gruyere on a whole wheat brioche bun - $14.00
+Bagel w/Smoked Salmon - Bagel with smoked salmon, cream cheese, capers, lettuce, pickle, tomato and coleslaw. - $18.00
+Ukrainian Breakfast Burrito - Our potato pancake, kielbasa, melted cheddar, scrambled eggs and Ukrainian dressing, rolled into a toasted flour tortilla. - $18.00
+Western Omelette - Bell Peppers, Onions, and Ham. Served with kasha, potato pancake and challah bread or toast - $16.00
+Ukrainian Omelette - Feta & Tomato. Served with kasha, potato pancake, or tomato and challah bread or toast - $15.00
+Omelette - Served with kasha, potato pancake, or tomato and challah bread or toast - $12.00
+Two Eggs Any Style - Served with kasha, potato pancake, or tomato and challah bread or toast - $11.00
+Pancakes - Buttermilk or Buckwheat - $15.00
+Challah French Toast - Two pieces of thick cut Challah French Toast. Served with syrup and butter on the side. - $15.00
+Waffle - Our made from scratch Belgian waffle. Served with syrup and butter on the side. - $14.00
+Side Bacon - A side of three pieces of freshly cooked bacon. - $8.00
+Side Pork Sausage - $8.00
+Side Kielbasa - $6.00
+Side Corned Beef Hash - A side of our homemade corned beef hash. - $13.00
+Side Ham - $8.00
+Bagel w/Schmear - Bagel with a cream cheese. - $4.00
+Side Avocado - $3.00
+
+--- SIDES ---
+SD Beet/Horseradish Salad - $7.00
+SD Coleslaw - $7.00
+SD Egg Noodles - $6.00
+SD French Fries - $7.00
+SD Kasha - $6.00
+SD Mash Pot (Mashed Potatoes) - $7.00
+SD Pot Pancake (Potato Pancake) - $8.00
+SD Sauerkraut - $7.00
+SD Garlic Broccoli - Steamed broccoli with garlic butter. - $7.00
+SD Cauliflower - Steamed cauliflower. - $7.00
+SD Myzeriya cucumber salad - $6.00
+SD Potato Salad - $7.00
+
+--- SPECIALS ---
+Chicken Shashlyk Meatballs - Char-grilled shashlik inspired meatballs served over creamy cucumber salad - $23.00
+Salad - Summer - Watermelon, heirloom cherry tomatoes, cucumber and baby arugula. Tossed in balsamic dressing and topped with feta and toasted almonds - $17.00
+Vegetable Chili - Seasonal vegetables roasted with onions, garlic, and tomato. Add cheese or avocado. - $14.00
+Blueberry Pierogi Bowl - Six blueberry filled pierogi served with sweetened sour cream and fresh blueberries. - $17.00
+
+--- DESSERTS AND BAKERY ---
+Apple Crumb Cake - $10.00
+Medovyk - Traditional Ukrainian honey cake. - $13.00
+Brownie - $7.00
+Cookie B/Y (Black & White) - $6.00
+Apricot Raspberry Bar - $8.00
+Rice Krispy Treat - $5.00
+Dog Biscuit - $1.00
+Piana Vyshnia Cake - Chocolate cake with tart cherry inside. - $12.00
+Crostata - $12.00
+Passionfruit Cheesecake - Rich and creamy passion fruit flavored cheesecake baked on top of a graham cracker crust. The cheesecake is set with a raspberry gelée, finished with whipped cream and fresh raspberries. - $13.00
+
+--- BEVERAGES ---
+Coffee - $4.00
+Hot Tea - $4.00
+Iced Tea - $4.00
+Espresso - $4.00
+Espresso Drinks - $7.00
+Cold Brew - $6.00
+Vanilla Egg Cream - $5.00
+Choc Egg Cream - $5.00
+Matcha - $7.00
+Watermelon Iced Tea - Homemade Watermelon Iced Tea. - $8.00
+Raspberry Lemonade - $6.00
+Fresh OJ - $6.00
+Lime Rickey - Refreshing drink made with cherry syrup, lime syrup and soda water. - $5.00
+Apple Cranberry Kompot - $7.00
+Cranberry Juice - $4.00
+Apple Juice - $5.00
+
+--- FROZEN GOODS (retail, not consumed on-site) ---
+Potato & Cheese Pierogi - Frozen (8pack) - $11.99
+Cheese Pierogi - Frozen (8pack) - $11.99
+Braised Beef Pierogi - Frozen (8pack) - $11.99
+Sauerkraut & Mushroom Pierogi - Frozen (8pack) - $11.99
+Chicken & Vegetable Pierogi - Frozen (8pack) - $11.99
+Potato Pancakes - Frozen (2pack) - $14.00
+Ukrainian Borscht - 1qt Frozen - $17.00
+Vegetarian Borscht - 1qt Frozen - $17.00
+Chicken Noodle Soup - 1qt Frozen - $17.00
+Matzoh Ball Soup - 1qt Frozen - $17.00

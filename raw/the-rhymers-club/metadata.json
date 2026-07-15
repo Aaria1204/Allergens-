@@ -1,0 +1,23 @@
+{
+  "restaurant_name": "The Rhymers' Club",
+  "address": "37 1/2 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.therhymersclub.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Initial plain fetch (mcp__workspace__web_fetch) returned only nav chrome, no menu items (client-side rendered SPA). Escalated once to Claude-in-Chrome; navigated and clicked through category tabs (Cocktails, Shareables, Plates, Salads & Bowls, Pizza, Dessert, Wine) capturing rendered text via get_page_text. Brunch, 'TRC Before Dark', and Events tabs were not captured due to the 5-minute sourcing time box (deprioritized as secondary/event sections)."
+    }
+  ],
+  "menu_source": {
+    "url": "https://www.therhymersclub.com/menu",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/the-rhymers-club/therhymersclub-menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": true,
+  "manual_review_reason": "Menu is a rendered SPA and only Cocktails/Shareables/Plates/Salads & Bowls/Pizza/Dessert/Wine tabs were captured within the time box; Brunch, 'TRC Before Dark', and Events sections were not reviewed and may contain additional food items. Recommend a follow-up pass to capture remaining tabs.",
+  "status": "complete"
+}

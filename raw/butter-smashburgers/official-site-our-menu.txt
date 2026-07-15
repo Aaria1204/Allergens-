@@ -1,0 +1,99 @@
+SOURCE URL: https://www.buttersmashburgers.com/our-menu
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Rendered via Chrome (site is JS-driven; plain fetch returned empty shell). Page lists a single shared menu covering both Butter Smashburgers locations (17 St Marks Pl, New York, NY 10003 and 106 MacDougal St, New York, NY 10012) — not location-specific. No prices are listed anywhere on the page for any item. "Monthly Specials" section lists only rotating dish names by month with no descriptions or prices; only the current month (July) entry is potentially live now, and even that lacks a description.
+
+--- EXTRACTED VISIBLE TEXT ---
+FOOD MENU
+
+From our Smashburger and rich Truffle Burger to crispy Fried Chicken Sandwiches, Veggie Smash, and sweet Sundaes, every bite is crafted with bold flavor and fresh ingredients. Pair it with our Truffle Fries or classic Crispy Fries—your next favorite bite is waiting.
+
+SINGLE HOUSE BURGER
+Our Signature Smashburger: A Juicy Smashed Beef Patty With Melty American Cheese, Sweet Caramelized Onions, Crunchy Pickles, And Our Bold House Sauce On A Toasted Bun.
+
+DOUBLE HOUSE BURGER
+Double The Smash, Double The Crave: Two Crispy‑Edged Beef Patties Stacked With American Cheese, Caramelized Onions, Crisp Pickles, And Our House Sauce.
+
+TRUFFLE BURGER
+An Elevated Smashburger Finished With White American Cheese, Crispy Onions, And Our House Truffle Sauce For A Rich, Aromatic Finish.
+
+FRIED CHICKEN SANDWICH
+Buttermilk‑Crispy Chicken With Tangy Pickles, And Our Chilli House Sauce.
+
+VEGGIE BURGER
+Plant‑Based And Packed With Flavor: An Impossible Patty Topped With American Cheese, Caramelized Onions, Pickles, And Our Signature House Sauce.
+
+REGULAR FRIES
+Hot, Crispy Shoestring Fries — The Classic Golden Side For Any Burger.
+
+CHEESE FRIES
+Our Crispy Fries Smothered In Rich, Melty Cheddar Cheese Sauce — Seriously Comforting.
+
+TRUFFLE FRIES
+Golden Fries Tossed With Parmesan And Parsley, Finished With Our Savory Truffle Sauce For An Indulgent Side.
+
+CARAMEL SUNDAE
+Creamy Vanilla Soft‑Serve Swirled With Buttery Caramel And Topped With Graham Cracker Crunch.
+
+CHOCOLATE SUNDAE
+Silky Vanilla Soft‑Serve Drenched In Decadent Chocolate Sauce With A Graham Cracker Crumble.
+
+STRAWBERRY SUNDAE
+Classic Vanilla Soft‑Serve Topped With Bright, Sweet Strawberry Sauce And Graham Cracker Crumbs.
+
+HOMEMADE COOKIE
+Fresh‑Baked, Soft And Chewy With Golden‑Brown Edges — The Perfect Sweet Finish.
+
+VANILLA MILKSHAKE
+Creamy Soft-Serve Blended Smooth With Real Vanilla Syrup For A Thick, Classic Milkshake.
+
+STRAWBERRY MILKSHAKE
+Creamy Soft-Serve Blended Smooth With Real Strawberry Syrup For A Thick, Classic Milkshake.
+
+CHOCOLATE MILKSHAKE
+Creamy Soft-Serve Blended Smooth With Real Chocolate Syrup For A Thick, Classic Milkshake.
+
+COMBO MEALS
+SINGLE COMBO
+One Juicy House Burger With Crispy Fries And Your Choice Of Drink — A Complete Classic.
+
+TRUFFLE COMBO
+Our Rich Truffle Burger Paired With Golden Fries And Any Drink — Indulgence Made Easy.
+
+DOUBLE COMBO
+Double The Patties, Double The Flavor — Plus Crispy Fries And Your Favorite Drink.
+
+CHICKEN COMBO
+Crunchy Fried Chicken Sandwich With Fries And An Ice‑Cold Drink — The Perfect Trio.
+
+VEGGIE COMBO
+The Plant‑Powered Veggie Smash With Crispy Fries And Your Choice Of Beverage.
+
+MONTHLY SPECIALS
+Why settle for the same old burger? Every month, we serve up something new, fresh, and packed with flavor you won't forget.
+Jan - SMOKY BBQ BURGER
+Feb - CHIPOTLE JALAPEÑO BURGER
+Mar - CHICKEN CAESAR SANDWICH
+Apr - THE BUTTER CLASSIC BURGER
+May - KOREAN BBQ CHICKEN SANDWICH
+Jun - KIMCHI BURGER
+Jul - HONEY MUSTARD CHICKEN SANDWICH
+Aug - LOADED CHICKEN FRIES
+Sept - HOT HONEY & CHIPS BURGER
+Oct - FIG & BACON BURGER
+Nov - BUFFALO CHICKEN SANDWICH
+Dec - BLACK TRUFFLE BURGER
+
+BUTTERY. CRISPY. RIDICULOUSLY GOOD.
+
+MACDOUGAL ST
+106 MacDougal St, New York, NY 10012
+Phone: +1 917-475-1000
+Hours: Sun-Thur 12pm-11pm, Fri-Sat 12pm-2am
+
+ST. MARKS PL
+17 St Marks Pl, New York, NY 10003
+Phone: +1 917-475-1054
+Hours: Sun-Thur 12pm-11pm, Fri-Sat 12pm-1am
+
+info@buttersmashburgers.com

@@ -1,0 +1,127 @@
+SOURCE URL: https://www.dumplingndips.com/onlinemenu
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Fetched via automated HTTP fetch (static-rendered content); prices not shown on this page (menu displays items/descriptions/allergen notes but no $ prices — pricing lives on the embedded Grubhub/dine.online ordering widget, which was not separately rendered). Some platter/set items lack explicit "Contains" allergen lines even though component dumplings elsewhere on the page do state them. Drink menu items are names only, no descriptions.
+RESTAURANT IDENTITY: Confirmed — "Dumpling N' Dips", location footer states "5 St Marks Place, New York, NY 10003", matches target address exactly.
+
+--- RAW EXTRACTED TEXT ---
+
+THE SIGNATURE THAI HOMEMADE DUMPLINGS
+(4 pcs per order with the same flavor)
+
+Massaman Curry (Vegetarian) - New!
+(4pcs) Served with crushed peanuts on the side. Potato, Edamame, Chickpea, Jackfruit, lentil, Coconut, Chili.
+Contains: Wheat gluten, Peanut.
+
+Chicken Green Curry
+(4pcs) Chicken, bamboo shoots, chili, garlic, scallions, and cilantro. Contains: Wheat gluten.
+
+Chicken Pad Thai - New!
+(4pcs) Served with crushed peanuts on the side. Chicken, Rice noodles, Egg yolk, Chives, Fish sauce, Onion.
+Contains: Wheat gluten, Peanut, Egg.
+
+Pork Basil
+(4pcs) Pork, basil leaves, chili, garlic, scallions, and cilantro.
+Contains: Wheat gluten, Soy.
+
+Crab Curry - New!
+(4pcs) Crab, Curry, Egg.
+Contains: Wheat gluten, Seafood.
+
+Tom Yum
+(4pcs) Shrimp, Chicken, Chili, Onion, Lemongrass, Galangal, lime leaves. Contains: Wheat gluten, Shellfish.
+
+CLASSIC DUMPLINGS
+(4 pcs per order with same flavor topped with scallions and fried garlic.)
+
+Mushroom Taro (Vegetarian)
+(4pcs) Shiitake mushroom, taro, corn, carrot, green pea, garlic, scallions, and cilantro. Contains: Wheat gluten.
+
+Pork
+(4pcs) Pork, shiitake mushroom, garlic, scallions, and cilantro. Contains: Wheat gluten.
+
+Octopus
+(4pcs) Octopus, chicken, garlic, scallions, and cilantro.
+Contains: Wheat gluten, Seafood.
+
+Chive (Vegetarian)
+(4pcs) Chive, water chestnuts, vermicelli, garlic, scallions, and cilantro. Contains: Wheat gluten, sesame oil
+
+Pork and Seaweed
+(4pcs) Pork, corn, seaweed, garlic, scallions, and cilantro.
+Contains: Wheat gluten, Sesame.
+
+Shrimp
+(4pcs) Shrimp, Chicken, garlic, scallions, and cilantro.
+Contains: Wheat gluten, shellfish.
+
+Chicken
+(4pcs) Chicken, Salted egg yolk, garlic, scallions, and cilantro. Contains: Wheat gluten, egg.
+
+Salmon
+(4pcs) Salmon, chicken, carrot, garlic, scallions, and cilantro.
+Contains: Wheat gluten, Seafood.
+
+CHOOSE YOUR DIPS
+- Dumpling N' Dips Chili Oil (Vegetarian)
+- Spicy Mala Chili Sauce (Vegetarian, Contains: Sesame Oil)
+- Sweet Soy Sauce
+- Spicy Lime Sauce
+
+DUMPLINGS & NOODLES
+Steamed kale noodles or egg noodles with a choice of dumplings (4 pcs with the same flavor) served with vegetable soup (vegan) on the side.
+- (4pcs) Mushroom Taro Dumplings & Choice of Noodles
+- (4pcs) Chicken Dumplings & Choice of Noodles
+- (4pcs) Salmon Dumplings & Choice of Noodles
+- (4pcs) Chive Dumplings & Choice of Noodles
+- (4pcs) Pork Seaweed Dumplings & Choice of Noodles
+- (4pcs) Shrimp Dumplings & Choice of Noodles
+- (4pcs) Basil Dumplings & Choice of Noodles
+- (4pcs) Pork Dumplings & Choice of Noodles
+- (4pcs) Octopus Dumplings & Choice of Noodles
+- (4pcs) Chicken Green Curry Dumplings & Choice of Noodles
+
+DUMPLING N'DIP PLATTERS
+
+The Giant (Value set for 2-3 people)
+20 pcs of dumplings (exclude Tom Yum, Pad Thai, Massaman, and Crab fried rice). Choice of Kale Noodles or Egg Noodles. Bok Choy topped with fried garlic and scallions.
+
+Dumpling N' Dips Party Set
+10 pcs of dumplings (exclude Tom Yum, Pad Thai, Massaman, and Crab fried rice) served with mango relish on the side.
+
+Thai Lover Set
+12 pcs of Thai flavor dumplings (2 pcs of shrimp & chicken tom yum dumplings, 2 pcs of chicken pad thai dumplings, 2 pcs of crab fried rice dumplings, 2 pcs of massaman curry dumplings, 2 pcs of chicken green curry dumplings and 2 pcs of spicy pork basil dumplings.)
+
+CRISPY
+
+Kimchi Fries
+Served with spicy mayo.
+
+Shrimp Sticks (4 pcs)
+Served with sweet chili sauce. Contains: Dairy
+
+SIDES
+- Kimchi
+- Mango Radish
+- Vegetable Soup
+- Steamed Rice
+- Seaweed Salad (Vegan)
+- Steamed Kale Noodles
+- Steamed Egg Noodles
+
+DRINK MENU
+
+Hot Drinks (Available for store pickup only)
+- Chrysanthemum Tea
+- Oolong Tea
+- Genmaicha Tea
+- Jasmine Green Tea
+- Hibiscus Fruit Tea
+
+Cold Drinks
+- Soda
+- Water
+- Sparkling Water
+- Thai Milk Tea
+
+LOCATION FOOTER: 5 St Marks Place, New York, NY 10003

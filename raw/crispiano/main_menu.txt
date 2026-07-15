@@ -1,0 +1,110 @@
+SOURCE URL: https://crispiano.com/mainmenu
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Page is JS-rendered (empty via plain fetch); rendered via browser and extracted as visible text. No explicit allergen labeling or cross-contact disclosure found on page.
+---
+MENU
+APPETIZERS
+$16
+Fried Calamari
+fried calamari with homemade tomato sauce
+$24
+Burrata e Prosciutto di Parma
+burrata with arugula, prosciutto di parma, tomato served with olive oil and focaccia bread
+$14
+Melanzane
+eggplant parmigiana in tomato sauce
+$12
+Bruschetta
+fresh tomatoes, olive oil, basil, garlic, served on three slice pizza bread
+SALADS
+$12
+Arugula
+cherry tomatoes, shaved Parmigiano
+$12
+Caesar
+Romain lettuce, garlic croutons, Parmigiano, Caesar dressing
+$14
+Kale e Avocado
+kale with avocado in an olive oil, lemon dressing, cherry tomatoes
+$14
+Mozzarella Caprese
+roasted peppers, mozzarella, tomatoes, basil
+PASTA
+$18
+Penne Alla Vodka
+penne pasta in a creamy vodka sauce
+$17
+Penne Arrabitta
+penne pasta in tomato sauce and spicy chili oil
+$23
+Spaghetti Carbonara
+spaghetti with pancetta, eggs, pecorino cheese
+$24
+Ravioli
+Stuffed with ricotta cheese and spinach, served with five cheese cream, balsamic glaze
+$21
+Gnocchi Sorrentino
+homemade potato gnocchi with tomato, cream, basil
+$23
+Fettuccine Bolognese
+Fettuccine pasta with Bolognese sauce (beef)
+$23
+Spaghetti Meatballs
+Spaghetti pasta, tomato sauce, meatballs (beef)
+PIZZA
+RED
+$17
+Margherita
+tomato sauce, mozzarella, basil
+$20
+Regina
+tomato sauce, buffalo mozzarella, basil
+$18
+Marinara
+tomato sauce, oregano, basil, capers, garlic, anchovies, olives (no cheese)
+$23
+Capricciosa
+tomato sauce, mozzarella, Italian ham, mushroom, artichoke, black olive, basil
+$22
+Vegetariana
+tomato sauce, mozzarella, diced eggplant, broccoli rabe, artichoke, mushroom, basil
+$20
+Milanese
+tomato sauce, fresh mozzarella, salami, basil
+$22
+Sweet Diavola
+tomato sauce, fresh mozzarella, salami, jalapeño, hot honey
+PIZZA
+White
+$20
+4 Formaggi
+gorgonzola, mozzarella, basil, provolone, pecorino cheese
+$25
+Tartufo
+black truffle sauce, porcini mushroom, smoked prosciutto
+$24
+Prosciutto Crudo
+fresh mozzarella, cherry tomato, prosciutto di Parma, arugula, shaved parmesan
+$19
+Pesto
+tomato sauce, mozzarella, pesto
+$9
+Focaccia Bread
+oregano, olive oil, salt
+TOPPINGS
+$6
+Prosciutto
+$6
+Speck
+$4
+Ham
+$4
+Salami
+$4
+Anchovies
+$4
+Vegetables
+$3
+Cheese
+WE SERVE A SELECTION OF WINE, BEER & SPRITZ

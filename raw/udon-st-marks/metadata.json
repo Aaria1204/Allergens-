@@ -1,0 +1,30 @@
+{
+  "restaurant_name": "Udon St Marks",
+  "address": "11 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.udonstmarks.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T18:00:00Z",
+      "usable": false,
+      "limitation": "Official Wix site menu page contains only scanned/photographed menu images (JPEG/PNG of a paper menu); no extractable text content. Confirms address (11 St. Marks Pl, New York, NY 10003) and identity but not usable as text source."
+    },
+    {
+      "url": "https://www.grubhub.com/restaurant/udon-stmarks-11-st-marks-pl-new-york/7475136",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T18:30:00Z",
+      "usable": true,
+      "limitation": "Direct fetch returned an empty JavaScript shell; escalated to Chrome rendering. Menu list is virtualized/lazy-loaded on scroll. Captured Best Sellers, Appetizer, Hot Udon, Veggie Hot Udon, Cold Udon, Bowl, and Curry Rice categories in full. 'Set Menu' and 'Drink' categories did not finish rendering within the 5-minute sourcing time box and are not included."
+    }
+  ],
+  "menu_source": {
+    "url": "https://www.grubhub.com/restaurant/udon-stmarks-11-st-marks-pl-new-york/7475136",
+    "tier": "ordering",
+    "accessed_at": "2026-07-14T18:30:00Z",
+    "local_artifact": "raw/udon-st-marks/grubhub-menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": true,
+  "manual_review_reason": "Menu is partial: 'Set Menu' and 'Drink' categories from the Grubhub listing were not captured due to the 5-minute sourcing time box (virtualized list did not finish loading). Revisit to capture those two categories for completeness.",
+  "status": "complete"
+}

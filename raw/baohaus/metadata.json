@@ -1,0 +1,59 @@
+{
+  "restaurant_name": "Baohaus",
+  "address": "97 St Marks Pl, New York, NY 10009, USA",
+  "identity_notes": "Baohaus (Eddie Huang) closed its earlier East 14th St location in 2020. It reopened as 'Baohaus 2.0' at 97 St Marks Pl in early 2026 (per EV Grieve coverage Feb/Mar 2026 and press). Confirmed via official site homepage (baohaus.nyc) and multiple 2026 press pieces that it is currently operating at this exact address.",
+  "restaurant_identity_verified": true,
+  "sources_checked": [
+    {
+      "url": "https://www.baohaus.nyc/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Homepage only; used for identity/hours confirmation, not menu content."
+    },
+    {
+      "url": "https://www.baohaus.nyc/dinner",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Full dinner menu list; dish names and prices only, no ingredient descriptions or allergen icons on this page."
+    },
+    {
+      "url": "https://www.baohaus.nyc/dinner-1",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Full lunch menu list; includes explicit disclosure 'All baos contain peanuts, but can be served without by request.' Dish names and prices only otherwise."
+    },
+    {
+      "url": "https://www.baohaus.nyc/drinks",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Beverage list only (wine, beer, cocktails, zero-proof); no ingredient/allergen notes provided beyond names."
+    }
+  ],
+  "menu_sources_used": [
+    {
+      "url": "https://www.baohaus.nyc/dinner",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/baohaus/dinner_menu.txt"
+    },
+    {
+      "url": "https://www.baohaus.nyc/dinner-1",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/baohaus/lunch_menu.txt"
+    },
+    {
+      "url": "https://www.baohaus.nyc/drinks",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/baohaus/drinks_menu.txt"
+    }
+  ],
+  "manual_review_flag": true,
+  "manual_review_reason": "Restaurant reopened in early 2026 after a multi-year closure; menu is entirely new ('Baohaus 2.0') vs. the original cult-favorite menu, and site provides no per-dish ingredient descriptions or allergen icons beyond the single peanut disclosure for baos on the lunch page. Several allergen calls (e.g. sha cha/sacha sauce, 'soy bean crisp' toppings, kung pao) rely on inference from dish naming/typical preparation rather than restaurant-stated ingredients — recommend a human spot-check against the physical menu or staff confirmation before relying on this for a diner with severe allergies.",
+  "status": "complete"
+}

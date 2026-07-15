@@ -1,0 +1,6 @@
+SOURCE URL: https://www.thebaony.com/menu
+TIER: official
+ACCESSED_AT: 2026-07-14T18:00:00Z
+LIMITATIONS: Fetched successfully (not a JS shell), but the menu content on this page consists entirely of two embedded image files (THE_BAO_MENU.jpg, THE_BAO_MENU2.jpg) with no extractable text. No OCR performed (out of scope for this fetch tool). REJECTED as unusable text source; proceeded to ordering-platform tier (Grubhub).
+
+Confirmed identity data from this page: "THE BAO", 13 SAINT MARKS PLACE, New York, NY 10003, (212) 388-9238. This matches the target address and distinguishes The Bao as its own operating business (separate Squarespace site, own logo, own Instagram @thebaony) from Spot Dessert Bar, which occupies the same building address but is a different, unrelated tenant/business.

@@ -1,0 +1,161 @@
+SOURCE URL: https://yakitori-taisho.grubbio.com/menu
+TIER: google_maps (third-party aggregator/directory site, grubbio.com, appears to compile listing/menu data similar to a Google Business/Maps-style listing — not an official restaurant site or restaurant-controlled ordering platform)
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: This is a third-party menu aggregator (grubbio.com), not the restaurant's own website or a restaurant-controlled ordering platform. Address (9 St Marks Pl, New York, NY 10003) matches the target restaurant. However, web search also surfaced a Yelp listing for "OH TAISHO" at this same address (9 St Marks Pl) with reviews through July 2026, while a separate Yelp listing for "YAKITORI TAISHO" shows status "CLOSED" at a different address (5 St Marks Pl). This suggests the business at 9 St Marks Pl may have been renamed/rebranded from "Yakitori Taisho" to "Oh Taisho" at some point, and this aggregator page may reflect an older name still tied to the current address/phone number. Menu content itself (dish names, prices, categories) appears detailed, internally consistent, and plausible for a St. Marks Place yakitori/izakaya restaurant; no evidence of garbled or templated placeholder content. Descriptions for individual dishes are generally very short (e.g. "Chicken heart."). No sauce/preparation detail beyond what is quoted below — nothing invented.
+
+=== MENU CONTENT (as extracted) ===
+
+Restaurant: Yakitori Taisho
+Address: 9 St Marks Pl, New York, NY 10003, United States
+Price range: $20-30
+Hours: Open 5:00 AM - 11:30 PM (as listed; plausibly inaccurate/template hours)
+
+--- Yakitori ---
+Yotsumi - Chicken chunks. - $3.50
+Hatsu - Chicken heart. - $4.00
+Teba - Chicken wing. - $3.75
+Sunazuri - Chicken gizzard. - $3.00
+Kimo - Chicken liver. - $3.50
+Tsukune - Beef meatball. - $3.75
+Gyutan - Beef tongue - $5.50
+Gyu - Beef. - $4.00
+Bara - Pork belly. - $3.50
+Shiitake - Shiitake mushroom. - $3.50
+Shishito - Shishito pepper. - $3.00
+Pman - Green pepper. - $3.25
+Ninniku - Garlic. - $2.75
+Negi - Scallion. - $3.50
+Ebi - Shrimp. - $3.75
+Uzura - Quail egg. - $3.00
+Uzura Bacon - Bacon with quail egg. - $4.75
+A Set - Chicken, chicken skin, chicken gizzard, beef meatball, and pork belly. 10 skewers, 2 of each. - $32.00
+B Set - Beef meat ball, shrimp, chicken, beef, and sausage. 10 skewers, 2 of each. - $32.00
+Sausage - Pork sausage - $3.25
+Aspara Bacon - Bacon with asparagus - $4.75
+Tako - Octopus - $5.25
+Kawa - Chicken skin - $3.00
+
+--- Grilled ---
+Honetsuki Kalbi - Korean style BBQ short rib. - $16.75
+Saba Shio - Salted grilled mackerel. - $12.75
+BBQ Tori Teriyaki - Chicken teriyaki. - $9.75
+Tonsoku - Grilled pork feet. - $9.00
+Yaki Morokoshi - Grilled corn. - $6.00
+
+--- Appetizers ---
+Mentai Potato - Taisho's famous and original spicy cod roe mayo dip and french fries. - $9.75
+Kabocha Tempura - Pumpkin tempura. - $9.00
+Dashimaki Tamago - Layered Japanese style classic egg omelette. - $10.00
+Agedashi Tofu - Deep-fried tofu in broth. - $9.25
+Potato Salad - Classic Japanese style potato salad. - $6.00
+Edamame - Boiled soybeans. - $5.75
+Small Green Salad - Small mixed green salad. - $5.50
+Kimchi - Spicy pickled Korean cabbage. - $6.00
+Hiya Yakko - Chilled tofu. - $6.00
+Yasai Itame - Mixed vegetable sautee. - $9.25
+Mozukusu - vinegared mozuku seaweed - $5.75
+Charshu Avocado - BBQ pork slices with avocado - $15.00
+MenQ - Fresh cucumber with mentai mayo dip - $6.75
+
+--- Sashimi Seafood ---
+Spicy Tuna Tartar - Spicy. - $10.00
+Tako Wasabi - Raw octopus in wasabi sauce. - $6.50
+Ebi Mayo - Fried shrimp fritters with special mayo mustard sauce - $12.75
+Salmon Carpaccio - $15.50
+Tuna Avocado - Tuna avocado salad - $16.75
+Iidako Karaage - Deep-fried baby octopus. - $10.25
+Tuna Carpaccio - $15.50
+Salmon Avocado Salad - Salmon avocado salad with wasabi mayo dressing - $17.50
+
+--- Ramen ---
+Classic Tonkotsu Ramen - Classic Kyushu style pork broth and ramen noodles with roasted pork, sesame, ginger, and scallion. - $16.00
+Negi Ramen - Spicy pork broth and ramen noodles with roasted pork bits and extra scallion. - $17.00
+Charsiu Tonkotsu Ramen - Kyushu style pork broth and ramen noodles with extra roasted pork, sesame, ginger, and scallions. - $18.75
+
+--- Soups ---
+Nabeyuki Udon - Mixed shrimp, veggies, and egg with udon noodles. - $16.00
+Kimchi Nabe - Spicy kimchi hotpot with pork and tofu. - $16.50
+Miso Soup - $3.50
+
+--- Taisho Specials ---
+Sunagimo Karaage - Fried chicken gizzards. - $8.75
+Tatsuta Age - Japanese style fried chicken. - $10.00
+Chikuwa Cheese - Deep-fried fishcake with cheese. - $9.25
+Gyoza - Pan-fried pork dumplings. - $9.75
+Ebi Shumai - Steamed shrimp dumplings. - $9.75
+Kurobuta Sausage - Pork sausage. - $10.00
+Takoyaki - Octopus dumpling balls. - $9.75
+Okonomiyaki - Pancake with squid, shrimp, and pork. - $13.00
+Taisho-Fu Steak - Signature Taisho steak. - $22.00
+Buta To Enoki No Scramble Egg - Pork and enoki mushroom egg scramble. - $11.00
+Butabara Kurozu Itame - Deep-fried sweet and sour pork belly. - $11.00
+Buta Kimchi - Kimchi pork sautee. Spicy. - $11.00
+Saikoro Steak - Diced beef steak chunks. - $13.00
+Age Takoyaki - Deep fried takoyaki octopus balls - $10.00
+Taisho Shrimp Fried Rice - Taisho style shrimp and scallions fried rice - $12.50
+Butamayo - Sauteed pork with special mayo Sauce - $11.00
+Yaki Unagi Sushi Roll - Lightly grilled eel and avocado sushi roll with special teriyaki sauce - $13.00
+Geso Isobe - Deep fried squid legs tempura - $9.75
+
+--- Stir-Fry Noodles, rice in hot broth (chazuke) ---
+Salmon Cream Yakisoba - Yakisoba noodles with salmon cream sauce. - $17.50
+Yakisoba - Pan-fried noodles with pork and veggies. - $15.25
+Yaki Udon - Pan-fried udon with pork and veggies. - $15.25
+Sake Chazuke - Rice in hot broth with salmon. - $10.00
+Ume Chazuke - Rice in hot broth with plum. - $9.00
+Mentai Chazuke - Rice in hot broth with spicy cod roe. - $11.00
+Tonkotsu Chazuke - Rice in a pork soup base with sliced pork. - $14.00
+Kimchi Yaki Udon - Pan fried kimchi, udon with pork & vegetables. Spicy. - $16.50
+Tan Tan Udon - Ground beef with sesame chili sauce (spicy) - $16.50
+Mentai Udon - Thick udon noodles stir fried with spicy cod roe, topped with chopped green onions and shredded Nori seaweed. - $16.50
+
+--- Donburi ---
+Una Tama Don - Eel with boiled egg over rice. Served with miso soup. - $18.75
+Supa Tuna Don - Spicy tuna tartar and soft boiled egg over rice. Served with miso soup. Spicy. - $17.75
+Oh! Taisho Don - Deep fry of sweet and sour pork belly over rice. Served with miso soup. - $17.25
+Ebi Tendon - Shrimp tempura and eggs over rice. Served with miso soup - $16.25
+Taisho Beef Steak Don - Taisho steak teriyaki over rice. Served with miso soup - $22.75
+Chicken Teriyaki Don - Chicken teriyaki over rice. Served with miso soup - $14.75
+Oyakodon - Chicken and eggs over rice. Served with miso soup - $15.50
+
+--- Rice Balls ---
+Plain Onigiri - Rice ball. - $4.75
+Ume Onigiri - Rice ball with plum. - $5.25
+Okaka Onigiri - Rice ball with bonito. - $5.25
+Sake Onigiri - Rice ball with salmon. - $5.50
+Mentai Onigiri - Rice ball with spicy cod roe. - $6.25
+
+--- Grilled Rice Balls ---
+Yaki Onigiri - Grilled rice ball. - $5.25
+Yaki Ume Onigiri - Grilled rice ball with plum. - $5.75
+Yaki Okaka Onigiri - Grilled rice ball with bonito. - $5.75
+Yaki Sake Onigiri - Grilled rice ball with salmon. - $6.00
+Yaki Mentai Onigiri - Grilled rice ball with spicy cod roe. - $6.75
+
+--- Rice ---
+Small White Rice - $3.50
+Large White Rice - $5.25
+
+--- Taisho curry ---
+Taisho Beef Curry - $12.50
+Karaage Curry - Taisho beef curry with fried chicken - $18.75
+Beef Hamburger Steak With Curry - $21.75
+
+--- Side order sauces ---
+Japanese Mayonnaise - $1.00
+Tonkatsu Sauce - $1.00
+Extra Japanese Salad Dressing - $1.00
+Spicy Mayonnaise - $2.00
+Mentai Mayo - Spicy cod roe mayonnaise - $2.00
+Teriyaki Sauce - $1.50
+Hot Sauce - $1.50
+
+--- Entrees ---
+Chicken Teriyaki Tei - Chicken teriyaki served with rice, soup, salad and spaghetti - $16.50
+Saba Shio Tei - Salted grilled mackerel - $18.50
+Kara Age Tei - Taisho fried chicken - $17.25
+Yasai Itame Tei - Vegetables stir fried - $14.50
+
+(Page also lists a "Signature Picks" module naming: Yakitori Tei, Okonomiyaki, Matcha Lava, Salted Grilled Mackerel, Plain Onigiri, Sapporo, Dashimaki Tamago, Tako Wasabi, Tarte Tatin, Yaki Onigiri — no prices/descriptions given beyond names, so not used as standalone dish records except where already covered above by matching full menu entries. Sapporo is a beer, Matcha Lava and Tarte Tatin appear to be desserts not otherwise itemized with prices/descriptions in the full menu list, so not included as normalized records due to insufficient detail.)
+
+No allergen statements, no "contains" labels, and no cross-contact/facility disclosures were present anywhere on this page.

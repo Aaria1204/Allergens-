@@ -1,0 +1,2568 @@
+[
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Soups",
+    "dish_name": "Ukrainian Borscht",
+    "description": "Traditional Ukrainian soup made with beet stock, roast pork, cabbage, potatoes and lima beans.",
+    "price": "$10.50+",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ukrainian Borscht - Traditional Ukrainian soup made with beet stock, roast pork, cabbage, potatoes and lima beans. - $10.50+",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Soups",
+    "dish_name": "Chicken Noodle",
+    "description": "Rich chicken broth with shredded chicken, carrots, celery, onion, and fine egg noodles.",
+    "price": "$10.50+",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Egg noodles are a wheat-based pasta"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chicken Noodle - Rich chicken broth with shredded chicken, carrots, celery, onion, and fine egg noodles. - $10.50+",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Soups",
+    "dish_name": "Matzoh Ball Soup",
+    "description": "Rich homemade chicken stock with pulled chicken, vegetables and Matzoh ball.",
+    "price": "$10.50+",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Matzoh balls are traditionally made from matzo meal, ground wheat"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Matzoh Ball Soup - Rich homemade chicken stock with pulled chicken, vegetables and Matzoh ball. - $10.50+",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Soups",
+    "dish_name": "Mushroom Barley",
+    "description": "Our thick and creamy vegetarian mushroom barley soup.",
+    "price": "$10.50+",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Barley is a gluten-containing grain"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Mushroom Barley - Our thick and creamy vegetarian mushroom barley soup. - $10.50+",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Soups",
+    "dish_name": "Cold Borscht",
+    "description": "Our Cold Borscht made with buttermilk, beets and served with chopped cucumber and boiled egg.",
+    "price": "$10.50+",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Cold Borscht - Our Cold Borscht made with buttermilk, beets and served with chopped cucumber and boiled egg. - $10.50+",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Soups",
+    "dish_name": "Cold Cucumber Soup",
+    "description": "A creamy blend of crisp cucumbers, tangy buttermilk, sour cream, and fresh dill",
+    "price": "$10.50+",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Cold Cucumber Soup - A creamy blend of crisp cucumbers, tangy buttermilk, sour cream, and fresh dill - $10.50+",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Soups",
+    "dish_name": "Extra Matzoh Ball",
+    "description": "Extra Matzoh ball on the side.",
+    "price": "$2.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Matzoh balls are traditionally made from matzo meal, ground wheat"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Extra Matzoh Ball - Extra Matzoh ball on the side. - $2.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Pierogi",
+    "dish_name": "Pierogi Four",
+    "description": "Four of our handcrafted pierogi, served boiled or fried.",
+    "price": "$11.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Pierogi dough wrapper is made from wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Pierogi Four - Four of our handcrafted pierogi, served boiled or fried. - $11.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Pierogi",
+    "dish_name": "Pierogi Eight",
+    "description": "Eight of our handcrafted pierogi, served boiled or fried.",
+    "price": "$20.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Pierogi dough wrapper is made from wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Pierogi Eight - Eight of our handcrafted pierogi, served boiled or fried. - $20.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Pierogi",
+    "dish_name": "Pierogi Dozen",
+    "description": "Dozen of our handcrafted pierogi, served boiled or fried.",
+    "price": "$28.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Pierogi dough wrapper is made from wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Pierogi Dozen - Dozen of our handcrafted pierogi, served boiled or fried. - $28.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Pierogi",
+    "dish_name": "Stand with Ukraine Bowl",
+    "description": "Two potato, two meat and two sauerkraut & mushroom pierogi topped with chopped bacon, grilled kielbasa and caramelized onions. Served boiled or fried.",
+    "price": "$23.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Contains pierogi with wheat-flour dough wrappers"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Stand with Ukraine Bowl - Two potato, two meat and two sauerkraut & mushroom pierogi topped with chopped bacon, grilled kielbasa and caramelized onions. Served boiled or fried. - $23.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Beef Stroganoff",
+    "description": "Sliced beef slow-simmered until tender in a rich mushroom sour cream sauce.",
+    "price": "$27.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Cream/mushroom sauces are commonly thickened with a flour-based roux"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Beef Stroganoff - Sliced beef slow-simmered until tender in a rich mushroom sour cream sauce. - $27.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Stuffed Cabbage",
+    "description": "Choice of meat or meatless stuffed-cabbage. Choice of mushroom or tomatoes gravy.",
+    "price": "$21.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Mushroom or tomato gravy is commonly thickened with a flour-based roux"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Stuffed Cabbage - Choice of meat or meatless stuffed-cabbage. Choice of mushroom or tomatoes gravy. - $21.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Bigos",
+    "description": "Hearty hunters stew of kielbasa, roast pork, sauerkraut and onions. Served with mashed potatoes",
+    "price": "$22.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Stew may be thickened with flour; kielbasa sausage can contain gluten-based fillers"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Bigos - Hearty hunters stew of kielbasa, roast pork, sauerkraut and onions. Served with mashed potatoes - $22.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Kielbasa Dinner",
+    "description": "Schaller and Weber slow smoked pork and beef sausage served chargrilled with mashed potatoes, sauerkraut and Bavarian mustard.",
+    "price": "$26.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Sausage products can contain gluten-based fillers or binders"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Kielbasa Dinner - Schaller and Weber slow smoked pork and beef sausage served chargrilled with mashed potatoes, sauerkraut and Bavarian mustard. - $26.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Chicken Paprikash",
+    "description": "Boneless chicken and red peppers braised in a cream sauce with herbs.",
+    "price": "$25.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Cream sauce is commonly thickened with a flour-based roux"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chicken Paprikash - Boneless chicken and red peppers braised in a cream sauce with herbs. - $25.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Chicken Schnitzel Dinner",
+    "description": "Panko crusted chicken schnitzel served with mashed potatoes and Bavarian mustard. #1 Most liked",
+    "price": "$23.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Panko breading is made from wheat breadcrumbs"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chicken Schnitzel Dinner - Panko crusted chicken schnitzel served with mashed potatoes and Bavarian mustard. #1 Most liked - $23.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Marinated Chicken Dinner",
+    "description": "Served grilled with mashed potatoes.",
+    "price": "$22.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Marinated Chicken Dinner - Served grilled with mashed potatoes. - $22.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Chicken Kyiv",
+    "description": "Crispy panko-breaded chicken breast, stuffed with garlic herb butter. Served with mashed potatoes, steamed broccoli and burachky.",
+    "price": "$25.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Panko breading is made from wheat breadcrumbs"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chicken Kyiv - Crispy panko-breaded chicken breast, stuffed with garlic herb butter. Served with mashed potatoes, steamed broccoli and burachky. - $25.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Potato Pancake Plate",
+    "description": "Three potato pancakes with sour cream and applesauce",
+    "price": "$22.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Potato pancakes commonly use flour or breadcrumbs as a binder"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Potato Pancake Plate - Three potato pancakes with sour cream and applesauce - $22.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Blintz Single",
+    "description": "Our award-winning Ukrainian-style crepe filled with lightly sweetened farmer's cheese.",
+    "price": "$10.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Blintzes are made from a wheat-flour crepe wrapper"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Blintz Single - Our award-winning Ukrainian-style crepe filled with lightly sweetened farmer's cheese. - $10.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Raspberry Blintz Single",
+    "description": "Ukrainian-style crepe blintz, raspberry.",
+    "price": "$13.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Blintzes are made from a wheat-flour crepe wrapper"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Raspberry Blintz Single - Ukrainian-style crepe blintz, raspberry. - $13.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Blintz Plate",
+    "description": "Our award-winning Ukrainian-style crepes filled with lightly sweetened farmer's cheese.",
+    "price": "$17.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Blintzes are made from a wheat-flour crepe wrapper"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Blintz Plate - Our award-winning Ukrainian-style crepes filled with lightly sweetened farmer's cheese. - $17.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Raspberry Blintz Plate",
+    "description": "Ukrainian-style crepe blintzes, raspberry.",
+    "price": "$20.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Blintzes are made from a wheat-flour crepe wrapper"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Raspberry Blintz Plate - Ukrainian-style crepe blintzes, raspberry. - $20.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "AP Meat Cabbage",
+    "description": "A la carte meat stuffed cabbage with gravy.",
+    "price": "$11.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Gravy commonly thickened with a flour-based roux"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "AP Meat Cabbage - A la carte meat stuffed cabbage with gravy. - $11.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "AP Vegetarian Cabbage",
+    "description": "A la carte meatless stuffed cabbage with gravy.",
+    "price": "$10.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Gravy commonly thickened with a flour-based roux"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "AP Vegetarian Cabbage - A la carte meatless stuffed cabbage with gravy. - $10.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Combo Plates",
+    "dish_name": "Meat Plate Combo",
+    "description": "Two braised beef short rib pierogi, two potato pierogi, meat stuffed cabbage with mushroom gravy or tomato sauce. Served with beet & horseradish salad and choice of soup",
+    "price": "$27.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Includes pierogi with wheat-flour dough wrappers"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Meat Plate Combo - Two braised beef short rib pierogi, two potato pierogi, meat stuffed cabbage with mushroom gravy or tomato sauce. Served with beet & horseradish salad and choice of soup - $27.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Combo Plates",
+    "dish_name": "Deluxe Meat Combo",
+    "description": "One braised beef short rib pierogi, one potato pierogi, one sauerkraut and mushroom pierogi and our meat stuffed cabbage with Mushroom gravy, grilled kielbasa, side of sour cream & beet and horseradish salad.",
+    "price": "$29.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Includes pierogi with wheat-flour dough wrappers"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Deluxe Meat Combo - One braised beef short rib pierogi, one potato pierogi, one sauerkraut and mushroom pierogi and our meat stuffed cabbage with Mushroom gravy, grilled kielbasa, side of sour cream & beet and horseradish salad. - $29.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Combo Plates",
+    "dish_name": "Vegetarian Combo Plate",
+    "description": "2 cheese pierogi, 2 potato pierogi, 1 meatless stuffed cabbage with mushroom gravy, a side of sour cream. Served with cup of soup or salad",
+    "price": "$25.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Includes pierogi with wheat-flour dough wrappers"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Vegetarian Combo Plate - 2 cheese pierogi, 2 potato pierogi, 1 meatless stuffed cabbage with mushroom gravy, a side of sour cream. Served with cup of soup or salad - $25.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Combo Plates",
+    "dish_name": "Deluxe Vegetarian Combo",
+    "description": "1 cheese pierogi, 1 potato pierogi, 1 sauerkraut and mushroom pierogi, 1 meatless stuffed cabbage, kasha with mushroom gravy and a side of sour cream.",
+    "price": "$26.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Includes pierogi with wheat-flour dough wrappers"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Deluxe Vegetarian Combo - 1 cheese pierogi, 1 potato pierogi, 1 sauerkraut and mushroom pierogi, 1 meatless stuffed cabbage, kasha with mushroom gravy and a side of sour cream. - $26.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Combo Plates",
+    "dish_name": "Potato Pancake Combo Plate",
+    "description": "One potato pancake with choice of topping and cup of soup",
+    "price": "$23.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Potato pancakes commonly use flour or breadcrumbs as a binder"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Potato Pancake Combo Plate - One potato pancake with choice of topping and cup of soup - $23.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sandwiches And Burgers",
+    "dish_name": "Madame Alexander",
+    "description": "Organic smoked turkey, Vermont sharp white cheddar, and chipotle cranberry chutney on cranberry walnut bread.",
+    "price": "$18.00",
+    "declared_allergens": [
+      "tree nut"
+    ],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Served on bread, a wheat-based product"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Madame Alexander - Organic smoked turkey, Vermont sharp white cheddar, and chipotle cranberry chutney on cranberry walnut bread. - $18.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sandwiches And Burgers",
+    "dish_name": "Chicken Schnitzel Sandwich",
+    "description": "Panko crusted, thinly-pounded, all natural Bell & Evan's chicken breast, served with lemon pepper mayo and sliced pickles on a sesame bun.",
+    "price": "$19.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Panko breading and sesame bun are wheat-based"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chicken Schnitzel Sandwich - Panko crusted, thinly-pounded, all natural Bell & Evan's chicken breast, served with lemon pepper mayo and sliced pickles on a sesame bun. - $19.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sandwiches And Burgers",
+    "dish_name": "Grilled Cheese Sandwich",
+    "description": "Choice of bread and cheese",
+    "price": "$13.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Bread is a wheat-based product"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Grilled Cheese Sandwich - Choice of bread and cheese - $13.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sandwiches And Burgers",
+    "dish_name": "Tuna Melt",
+    "description": "Homemade tuna salad. Choice of bread and cheese",
+    "price": "$18.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Bread is a wheat-based product"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Tuna Melt - Homemade tuna salad. Choice of bread and cheese - $18.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sandwiches And Burgers",
+    "dish_name": "Tuna Salad Sandwich",
+    "description": "Homemade tuna salad with onion, celery and mayo. Choice of bread",
+    "price": "$16.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Bread is a wheat-based product"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Tuna Salad Sandwich - Homemade tuna salad with onion, celery and mayo. Choice of bread - $16.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sandwiches And Burgers",
+    "dish_name": "Grilled Chicken Sandwich",
+    "description": "Grilled chicken breast on toasted rye with melted Swiss, sautéed onions & bell peppers, and lemon pepper mayo served with coleslaw and a pickle.",
+    "price": "$16.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Rye bread is a gluten-containing wheat/rye product"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Grilled Chicken Sandwich - Grilled chicken breast on toasted rye with melted Swiss, sautéed onions & bell peppers, and lemon pepper mayo served with coleslaw and a pickle. - $16.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sandwiches And Burgers",
+    "dish_name": "BLT",
+    "description": "Choice of bread",
+    "price": "$15.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Bread is a wheat-based product"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "BLT - Choice of bread - $15.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sandwiches And Burgers",
+    "dish_name": "Smoked Turkey BLT",
+    "description": "Smoked turkey, bacon, lettuce, and tomato. Choice of bread",
+    "price": "$19.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Bread is a wheat-based product"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Smoked Turkey BLT - Smoked turkey, bacon, lettuce, and tomato. Choice of bread - $19.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sandwiches And Burgers",
+    "dish_name": "Bagel w/Smoked Salmon",
+    "description": "Bagel with smoked salmon, cream cheese, capers, lettuce, pickle, tomato and coleslaw. (Also listed under Breakfast)",
+    "price": "$18.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Bagels are a wheat-based product"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Bagel w/Smoked Salmon - Bagel with smoked salmon, cream cheese, capers, lettuce, pickle, tomato and coleslaw. (Also listed under Breakfast) - $18.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sandwiches And Burgers",
+    "dish_name": "Burger",
+    "description": "Certified Angus Beef",
+    "price": "$18.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Burgers are typically served on a wheat bun, though bun not explicitly described"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Burger - Certified Angus Beef - $18.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sandwiches And Burgers",
+    "dish_name": "Veggie Burger",
+    "description": "Served with Ukrainian Dressing",
+    "price": "$16.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Veggie patties commonly use wheat as a binder and may be served on a bun"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Veggie Burger - Served with Ukrainian Dressing - $16.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sandwiches And Burgers",
+    "dish_name": "Reuben",
+    "description": "Shaller and Weber's corned beef, Swiss cheese, sauerkraut, and homemade Ukrainian dressing on rye bread.",
+    "price": "$19.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Rye bread is a gluten-containing wheat/rye product"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Reuben - Shaller and Weber's corned beef, Swiss cheese, sauerkraut, and homemade Ukrainian dressing on rye bread. - $19.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Salads",
+    "dish_name": "Salad - Beet & Goat Cheese",
+    "description": "With toasted walnuts and pumpkin seeds on greens with balsamic vinaigrette",
+    "price": "$18.00",
+    "declared_allergens": [
+      "tree nut"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Salad - Beet & Goat Cheese - With toasted walnuts and pumpkin seeds on greens with balsamic vinaigrette - $18.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Salads",
+    "dish_name": "Salad - Lentil Salad",
+    "description": "With feta cheese, tomato, cucumber, bell pepper, and carrots served over greens with creamy dill vinaigrette",
+    "price": "$17.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Salad - Lentil Salad - With feta cheese, tomato, cucumber, bell pepper, and carrots served over greens with creamy dill vinaigrette - $17.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Salads",
+    "dish_name": "Salad - Tuna Salad & Greens",
+    "description": "With a scoop of tuna salad, cucumber and tomatoes. Served with creamy dill vinaigrette.",
+    "price": "$16.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Salad - Tuna Salad & Greens - With a scoop of tuna salad, cucumber and tomatoes. Served with creamy dill vinaigrette. - $16.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Salads",
+    "dish_name": "Salad - Cobb Salad",
+    "description": "Mixed greens with avocado, Danish blue cheese, hard boiled egg, bacon and tomatoes. Served with blue cheese dressing. Add chicken if you would like.",
+    "price": "$20.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Salad - Cobb Salad - Mixed greens with avocado, Danish blue cheese, hard boiled egg, bacon and tomatoes. Served with blue cheese dressing. Add chicken if you would like. - $20.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Salads",
+    "dish_name": "Salad - Grilled Chicken & Greens",
+    "description": "",
+    "price": "$18.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Salad - Grilled Chicken & Greens -  - $18.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Salads",
+    "dish_name": "Salad - Fattoush",
+    "description": "Crispy challah croutons, heirloom cherry tomatoes, cucumbers, pickled beets, baby arugula and dill. Comes with a lemon vinaigrette dressing.",
+    "price": "$16.00",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Salad - Fattoush - Crispy challah croutons, heirloom cherry tomatoes, cucumbers, pickled beets, baby arugula and dill. Comes with a lemon vinaigrette dressing. - $16.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Custom Egg Sandwich",
+    "description": "Choose your own egg prep, bread, meat and cheese",
+    "price": "$5.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Includes a choice of bread, a wheat-based product"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Custom Egg Sandwich - Choose your own egg prep, bread, meat and cheese - $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "EV Classic Egg Sandwich",
+    "description": "",
+    "price": "$12.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Egg sandwiches at this restaurant are typically served on bread/bun, though no description given"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "EV Classic Egg Sandwich -  - $12.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Veselka GCT Fried Egg Sandwich",
+    "description": "Grilled smoked ham, gruyere, and arugula on a whole wheat brioche bun",
+    "price": "$13.00",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Veselka GCT Fried Egg Sandwich - Grilled smoked ham, gruyere, and arugula on a whole wheat brioche bun - $13.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Veselka Williamsburg Egg Sandwich",
+    "description": "Grilled smoked ham, red pepper, onion, baby spinach, gruyere on a whole wheat brioche bun",
+    "price": "$14.00",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Veselka Williamsburg Egg Sandwich - Grilled smoked ham, red pepper, onion, baby spinach, gruyere on a whole wheat brioche bun - $14.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Ukrainian Breakfast Burrito",
+    "description": "Our potato pancake, kielbasa, melted cheddar, scrambled eggs and Ukrainian dressing, rolled into a toasted flour tortilla.",
+    "price": "$18.00",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ukrainian Breakfast Burrito - Our potato pancake, kielbasa, melted cheddar, scrambled eggs and Ukrainian dressing, rolled into a toasted flour tortilla. - $18.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Western Omelette",
+    "description": "Bell Peppers, Onions, and Ham. Served with kasha, potato pancake and challah bread or toast",
+    "price": "$16.00",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Western Omelette - Bell Peppers, Onions, and Ham. Served with kasha, potato pancake and challah bread or toast - $16.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Ukrainian Omelette",
+    "description": "Feta & Tomato. Served with kasha, potato pancake, or tomato and challah bread or toast",
+    "price": "$15.00",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ukrainian Omelette - Feta & Tomato. Served with kasha, potato pancake, or tomato and challah bread or toast - $15.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Omelette",
+    "description": "Served with kasha, potato pancake, or tomato and challah bread or toast",
+    "price": "$12.00",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Omelette - Served with kasha, potato pancake, or tomato and challah bread or toast - $12.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Two Eggs Any Style",
+    "description": "Served with kasha, potato pancake, or tomato and challah bread or toast",
+    "price": "$11.00",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Two Eggs Any Style - Served with kasha, potato pancake, or tomato and challah bread or toast - $11.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Pancakes",
+    "description": "Buttermilk or Buckwheat",
+    "price": "$15.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Pancake batter typically contains wheat flour, even in buckwheat versions"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Pancakes - Buttermilk or Buckwheat - $15.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Challah French Toast",
+    "description": "Two pieces of thick cut Challah French Toast. Served with syrup and butter on the side.",
+    "price": "$15.00",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Challah French Toast - Two pieces of thick cut Challah French Toast. Served with syrup and butter on the side. - $15.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Waffle",
+    "description": "Our made from scratch Belgian waffle. Served with syrup and butter on the side.",
+    "price": "$14.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Waffle batter typically contains wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Waffle - Our made from scratch Belgian waffle. Served with syrup and butter on the side. - $14.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Side Bacon",
+    "description": "A side of three pieces of freshly cooked bacon.",
+    "price": "$8.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Side Bacon - A side of three pieces of freshly cooked bacon. - $8.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Side Pork Sausage",
+    "description": "",
+    "price": "$8.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Sausages can contain gluten-based fillers or binders"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Side Pork Sausage -  - $8.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Side Kielbasa",
+    "description": "",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Sausages can contain gluten-based fillers or binders"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Side Kielbasa -  - $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Side Corned Beef Hash",
+    "description": "A side of our homemade corned beef hash.",
+    "price": "$13.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Side Corned Beef Hash - A side of our homemade corned beef hash. - $13.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Side Ham",
+    "description": "",
+    "price": "$8.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Side Ham -  - $8.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Bagel w/Schmear",
+    "description": "Bagel with a cream cheese.",
+    "price": "$4.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Bagels are a wheat-based product"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Bagel w/Schmear - Bagel with a cream cheese. - $4.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Side Avocado",
+    "description": "",
+    "price": "$3.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Side Avocado -  - $3.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "SD Beet/Horseradish Salad",
+    "description": "",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "SD Beet/Horseradish Salad -  - $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "SD Coleslaw",
+    "description": "",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "SD Coleslaw -  - $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "SD Egg Noodles",
+    "description": "",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Egg noodles are a wheat-based pasta"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "SD Egg Noodles -  - $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "SD French Fries",
+    "description": "",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "SD French Fries -  - $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "SD Kasha",
+    "description": "",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "SD Kasha -  - $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "SD Mash Pot",
+    "description": "Mashed potatoes",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "SD Mash Pot - Mashed potatoes - $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "SD Pot Pancake",
+    "description": "Potato pancake",
+    "price": "$8.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Potato pancakes commonly use flour or breadcrumbs as a binder"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "SD Pot Pancake - Potato pancake - $8.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "SD Sauerkraut",
+    "description": "",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "SD Sauerkraut -  - $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "SD Garlic Broccoli",
+    "description": "Steamed broccoli with garlic butter.",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "SD Garlic Broccoli - Steamed broccoli with garlic butter. - $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "SD Cauliflower",
+    "description": "Steamed cauliflower.",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "SD Cauliflower - Steamed cauliflower. - $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "SD Myzeriya cucumber salad",
+    "description": "",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "SD Myzeriya cucumber salad -  - $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "SD Potato Salad",
+    "description": "",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "SD Potato Salad -  - $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Specials",
+    "dish_name": "Chicken Shashlyk Meatballs",
+    "description": "Char-grilled shashlik inspired meatballs served over creamy cucumber salad",
+    "price": "$23.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Meatballs commonly use breadcrumbs as a binder"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chicken Shashlyk Meatballs - Char-grilled shashlik inspired meatballs served over creamy cucumber salad - $23.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Specials",
+    "dish_name": "Salad - Summer",
+    "description": "Watermelon, heirloom cherry tomatoes, cucumber and baby arugula. Tossed in balsamic dressing and topped with feta and toasted almonds",
+    "price": "$17.00",
+    "declared_allergens": [
+      "tree nut"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Salad - Summer - Watermelon, heirloom cherry tomatoes, cucumber and baby arugula. Tossed in balsamic dressing and topped with feta and toasted almonds - $17.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Specials",
+    "dish_name": "Vegetable Chili",
+    "description": "Seasonal vegetables roasted with onions, garlic, and tomato. Add cheese or avocado.",
+    "price": "$14.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Vegetable Chili - Seasonal vegetables roasted with onions, garlic, and tomato. Add cheese or avocado. - $14.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Specials",
+    "dish_name": "Blueberry Pierogi Bowl",
+    "description": "Six blueberry filled pierogi served with sweetened sour cream and fresh blueberries.",
+    "price": "$17.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Pierogi dough wrapper is made from wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Blueberry Pierogi Bowl - Six blueberry filled pierogi served with sweetened sour cream and fresh blueberries. - $17.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Desserts And Bakery",
+    "dish_name": "Apple Crumb Cake",
+    "description": "",
+    "price": "$10.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Crumb cake is made with wheat flour in both cake and crumb topping"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Apple Crumb Cake -  - $10.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Desserts And Bakery",
+    "dish_name": "Medovyk",
+    "description": "Traditional Ukrainian honey cake.",
+    "price": "$13.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Layer cake is made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Medovyk - Traditional Ukrainian honey cake. - $13.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Desserts And Bakery",
+    "dish_name": "Brownie",
+    "description": "",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Brownies are made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Brownie -  - $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Desserts And Bakery",
+    "dish_name": "Cookie B/Y",
+    "description": "Black & white cookie",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Cookies are made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Cookie B/Y - Black & white cookie - $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Desserts And Bakery",
+    "dish_name": "Apricot Raspberry Bar",
+    "description": "",
+    "price": "$8.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Fruit bars commonly have a wheat-flour crust or crumble base"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Apricot Raspberry Bar -  - $8.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Desserts And Bakery",
+    "dish_name": "Rice Krispy Treat",
+    "description": "",
+    "price": "$5.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Rice Krispy Treat -  - $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Desserts And Bakery",
+    "dish_name": "Dog Biscuit",
+    "description": "Pet treat (dog biscuit), not for human consumption.",
+    "price": "$1.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dog biscuits are commonly made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Dog Biscuit - Pet treat (dog biscuit), not for human consumption. - $1.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Desserts And Bakery",
+    "dish_name": "Piana Vyshnia Cake",
+    "description": "Chocolate cake with tart cherry inside.",
+    "price": "$12.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Cake is made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Piana Vyshnia Cake - Chocolate cake with tart cherry inside. - $12.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Desserts And Bakery",
+    "dish_name": "Crostata",
+    "description": "",
+    "price": "$12.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Crostata is an Italian pastry tart with a wheat-flour crust"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Crostata -  - $12.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Desserts And Bakery",
+    "dish_name": "Passionfruit Cheesecake",
+    "description": "Rich and creamy passion fruit flavored cheesecake baked on top of a graham cracker crust. The cheesecake is set with a raspberry gelée, finished with whipped cream and fresh raspberries.",
+    "price": "$13.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Graham cracker crust is a wheat-based product"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Passionfruit Cheesecake - Rich and creamy passion fruit flavored cheesecake baked on top of a graham cracker crust. The cheesecake is set with a raspberry gelée, finished with whipped cream and fresh raspberries. - $13.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Beverages",
+    "dish_name": "Hot Beverages",
+    "description": "Coffee, Hot Tea, Espresso, Espresso Drinks, Cold Brew, Matcha",
+    "price": "$4.00-$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Hot Beverages - Coffee, Hot Tea, Espresso, Espresso Drinks, Cold Brew, Matcha - $4.00-$7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Beverages",
+    "dish_name": "Cold Specialty Drinks & Juices",
+    "description": "Iced Tea, Watermelon Iced Tea (homemade), Raspberry Lemonade, Fresh OJ, Lime Rickey (cherry syrup, lime syrup, soda water), Apple Cranberry Kompot, Cranberry Juice, Apple Juice",
+    "price": "$4.00-$8.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Cold Specialty Drinks & Juices - Iced Tea, Watermelon Iced Tea (homemade), Raspberry Lemonade, Fresh OJ, Lime Rickey (cherry syrup, lime syrup, soda water), Apple Cranberry Kompot, Cranberry Juice, Apple Juice - $4.00-$8.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Beverages",
+    "dish_name": "Egg Creams",
+    "description": "Vanilla Egg Cream, Chocolate Egg Cream",
+    "price": "$5.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Egg Creams - Vanilla Egg Cream, Chocolate Egg Cream - $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Frozen Goods (Retail)",
+    "dish_name": "Potato & Cheese Pierogi - Frozen (8pack)",
+    "description": "An 8 pack of our new frozen potato & cheese pierogi.",
+    "price": "$11.99",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Pierogi dough wrapper is made from wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Potato & Cheese Pierogi - Frozen (8pack) - An 8 pack of our new frozen potato & cheese pierogi. - $11.99",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Frozen Goods (Retail)",
+    "dish_name": "Cheese Pierogi - Frozen (8pack)",
+    "description": "An 8 pack of our new frozen cheese pierogi.",
+    "price": "$11.99",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Pierogi dough wrapper is made from wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Cheese Pierogi - Frozen (8pack) - An 8 pack of our new frozen cheese pierogi. - $11.99",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Frozen Goods (Retail)",
+    "dish_name": "Braised Beef Pierogi - Frozen (8pack)",
+    "description": "An 8 pack of our new frozen braised beef pierogi.",
+    "price": "$11.99",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Pierogi dough wrapper is made from wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Braised Beef Pierogi - Frozen (8pack) - An 8 pack of our new frozen braised beef pierogi. - $11.99",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Frozen Goods (Retail)",
+    "dish_name": "Sauerkraut & Mushroom Pierogi - Frozen (8pack)",
+    "description": "An 8 pack of our new frozen sauerkraut & mushroom pierogi.",
+    "price": "$11.99",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Pierogi dough wrapper is made from wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Sauerkraut & Mushroom Pierogi - Frozen (8pack) - An 8 pack of our new frozen sauerkraut & mushroom pierogi. - $11.99",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Frozen Goods (Retail)",
+    "dish_name": "Chicken & Vegetable Pierogi - Frozen (8pack)",
+    "description": "An 8 pack of our new frozen chicken & vegetable pierogi.",
+    "price": "$11.99",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Pierogi dough wrapper is made from wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chicken & Vegetable Pierogi - Frozen (8pack) - An 8 pack of our new frozen chicken & vegetable pierogi. - $11.99",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Frozen Goods (Retail)",
+    "dish_name": "Potato Pancakes - Frozen (2pack)",
+    "description": "Two of our frozen potato pancakes.",
+    "price": "$14.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Potato pancakes commonly use flour or breadcrumbs as a binder"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Potato Pancakes - Frozen (2pack) - Two of our frozen potato pancakes. - $14.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Frozen Goods (Retail)",
+    "dish_name": "Ukrainian Borscht - 1qt Frozen",
+    "description": "Stock your freezer with our traditional Ukrainian soup. Made with beet stock, roast pork, cabbage, potatoes and lima beans.",
+    "price": "$17.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ukrainian Borscht - 1qt Frozen - Stock your freezer with our traditional Ukrainian soup. Made with beet stock, roast pork, cabbage, potatoes and lima beans. - $17.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Frozen Goods (Retail)",
+    "dish_name": "Vegetarian Borscht - 1qt Frozen",
+    "description": "Stock your freezer with our traditional Ukrainian soup. Made with beet stock, cabbage, potatoes and lima beans.",
+    "price": "$17.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Vegetarian Borscht - 1qt Frozen - Stock your freezer with our traditional Ukrainian soup. Made with beet stock, cabbage, potatoes and lima beans. - $17.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Frozen Goods (Retail)",
+    "dish_name": "Chicken Noodle Soup - 1qt Frozen",
+    "description": "Rich chicken broth with shredded chicken, carrots, celery, onion, and fine egg noodles",
+    "price": "$17.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Egg noodles are a wheat-based pasta"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chicken Noodle Soup - 1qt Frozen - Rich chicken broth with shredded chicken, carrots, celery, onion, and fine egg noodles - $17.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Veselka",
+    "address": "144 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/veselka/order-online-storefront.txt"
+    },
+    "menu_section": "Frozen Goods (Retail)",
+    "dish_name": "Matzoh Ball Soup - 1qt Frozen",
+    "description": "Rich chicken stock with pulled chicken, vegetables and Matzoh dumplings",
+    "price": "$17.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Matzoh balls are traditionally made from matzo meal, ground wheat"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Matzoh Ball Soup - 1qt Frozen - Rich chicken stock with pulled chicken, vegetables and Matzoh dumplings - $17.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  }
+]

@@ -1,0 +1,821 @@
+[
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Appetizers", "dish_name": "Wine Soaked Chicken 竹林花雕醉鸡", "description": "Marinated chicken in Chinese yellow wine & goji berries (served chilled)", "price": "$17",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "竹林花雕醉鸡 Wine Soaked Chicken $17 - Marinated chicken in Chinese yellow wine & goji berries (served chilled)", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Appetizers", "dish_name": "Sliced Poached Chicken 白斩鸡", "description": "Scallion soy sweet sauce (served chilled)", "price": "$15",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "medium", "reason": "Dish sauce is explicitly named as a soy-based sweet sauce; soy sauce commonly contains wheat."}],
+    "cross_contact": "unknown", "source_text": "白斩鸡 Sliced Poached Chicken $15 - Scallion soy sweet sauce (served chilled)", "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Appetizers", "dish_name": "Hangzhou Braised Half Duck 杭州酱鸭", "description": "Half duck", "price": "$22",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "杭州酱鸭 Hangzhou Braised Half Duck $22 - Half duck", "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Appetizers", "dish_name": "Crispy Smoked Fish 桂花熏鱼", "description": "Osmanthus & thick braising sauce", "price": "$16",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "桂花熏鱼 Crispy Smoked Fish $16 - Osmanthus & thick braising sauce", "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Appetizers", "dish_name": "Braised Abalone & Calamari 苏杭卤鱿鲍", "description": "", "price": "$25",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "苏杭卤鱿鲍 Braised Abalone & Calamari $25", "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Appetizers", "dish_name": "Sweet & Sour Pork Riblets 糖醋小排", "description": "", "price": "$15",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "糖醋小排 Sweet & Sour Pork Riblets $15", "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Appetizers", "dish_name": "Sixi Kaofu 四喜烤麸", "description": "Marinated wheat gluten & braised vegetables (served chilled)", "price": "$12",
+    "declared_allergens": ["gluten"], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "四喜烤麸 Sixi Kaofu $12 - Marinated wheat gluten & braised vegetables (served chilled)", "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Appetizers", "dish_name": "Spicy Sliced Pork Kidney 麻味腰片", "description": "Chili, Szechuan peppercorn & bean sprouts (served chilled)", "price": "$12",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "麻味腰片 Spicy Sliced Pork Kidney $12 - Chili, Szechuan peppercorn & bean sprouts (served chilled)", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Appetizers", "dish_name": "'Vegetarian Goose' 灵隐素烧鹅", "description": "Julienned vegetables in braised & fried tofu skin rolls (served chilled)", "price": "$16",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "灵隐素烧鹅 'Vegetarian Goose' $16 - Julienned vegetables in braised & fried tofu skin rolls (served chilled)", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Appetizers", "dish_name": "Wine Soaked Blue Crab 秋菊花雕醉蟹", "description": "Chinese yellow wine (served chilled)", "price": "$14",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "秋菊花雕醉蟹 Wine Soaked Blue Crab $14 - Chinese yellow wine (served chilled)", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Appetizers", "dish_name": "Osmanthus Chinese Yam 桂花山药", "description": "Diced (served chilled)", "price": "$10",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "桂花山药 Osmanthus Chinese Yam $10 - Diced (served chilled)", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Homemade Dim Sum", "dish_name": "Pork Soup Dumplings 鲜肉小笼", "description": "(4 Pieces)", "price": "$7",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "high", "reason": "Xiao long bao (soup dumpling) wrappers are made from wheat flour dough."}],
+    "cross_contact": "unknown", "source_text": "鲜肉小笼 四个 Pork Soup Dumplings $7 (4 Pieces)", "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Homemade Dim Sum", "dish_name": "Crab Meat Pork Soup Dumplings 蟹粉小笼", "description": "(4 Pieces)", "price": "$8",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "high", "reason": "Xiao long bao (soup dumpling) wrappers are made from wheat flour dough."}],
+    "cross_contact": "unknown", "source_text": "蟹粉小笼 四个 Crab Meat Pork Soup Dumplings $8 (4 Pieces)", "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Homemade Dim Sum", "dish_name": "Black Truffle Pork Soup Dumplings 黑松露小笼", "description": "(4 Pieces)", "price": "$10",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "high", "reason": "Xiao long bao (soup dumpling) wrappers are made from wheat flour dough."}],
+    "cross_contact": "unknown", "source_text": "黑松露小笼 四个 Black Truffle Pork Soup Dumplings $10 (4 Pieces)", "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Homemade Dim Sum", "dish_name": "Chinese Crispy Lava 黑色流沙酥", "description": "Black crispy pastry with duck egg yolk custard (3 pieces)", "price": "$12",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "high", "reason": "Described as a crispy pastry, which is typically made from wheat flour dough."}],
+    "cross_contact": "unknown", "source_text": "黑色流沙酥 Chinese Crispy Lava $12 - Black crispy pastry with duck egg yolk custard (3 pieces)", "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Homemade Dim Sum", "dish_name": "Pan Fried Wontons 油煎馄饨", "description": "(6 Pieces)", "price": "$9",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "high", "reason": "Wonton wrappers are made from wheat flour dough."}],
+    "cross_contact": "unknown", "source_text": "油煎馄饨 Pan Fried Wontons $9 (6 Pieces)", "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Homemade Dim Sum", "dish_name": "Black Swan Durian Crisps 古道水乡品三酥", "description": "(3 Pieces), vegan", "price": "$15",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "medium", "reason": "Described as \"crisps\" (酥); this style of fried crispy pastry is typically wheat-flour based."}],
+    "cross_contact": "unknown", "source_text": "古道水乡品三酥 Black Swan Durian Crisps $15 (3 Pieces) [vegan]", "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Homemade Dim Sum", "dish_name": "Song Dynasty Steamed Buns 古法米酿馒头", "description": "Steamed & sweet osmanthus sauce, vegan", "price": "$8",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "medium", "reason": "Traditional steamed buns (mantou) are typically wheat-flour based, though this menu names a rice-brewed variant so ingredient composition is uncertain."}],
+    "cross_contact": "unknown", "source_text": "古法米酿馒头 Song Dynasty Steamed Buns $8 - Steamed & sweet osmanthus sauce [vegan]", "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Homemade Dim Sum", "dish_name": "Brown Sugar Sticky Rice Rolls 红糖麻糍", "description": "Pan fried pinwheels with peanut", "price": "$12",
+    "declared_allergens": ["peanut"], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "红糖麻糍 Brown Sugar Sticky Rice Rolls $12 - Pan fried pinwheels with peanut", "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Homemade Dim Sum", "dish_name": "Matcha Milky Rice Cakes 抹茶奶沙糯米糕", "description": "", "price": "$18",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "抹茶奶沙糯米糕 Matcha Milky Rice Cakes $18", "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Homemade Dim Sum", "dish_name": "Stuffed Red Dates 心太软", "description": "Sticky rice center, vegan", "price": "$15",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "心太软 Stuffed Red Dates $15 - Sticky rice center [vegan]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Homemade Dim Sum", "dish_name": "Osmanthus Rice Cakes 桂花拉糕", "description": "(3 Pieces), vegan", "price": "$10",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "桂花拉糕 Osmanthus Rice Cakes $10 (3 Pieces) [vegan]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Steamed Dungeness Crab 蛋羹蟹粉蒸大蟹", "description": "Steamed egg & minced crab meat", "price": "M.P",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "蛋羹蟹粉蒸大蟹 Steamed Dungeness Crab M.P - Steamed egg & minced crab meat", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Fried Ribbonfish 香煎带鱼", "description": "Chili salt & vinegar sauce", "price": "$19",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "medium", "reason": "Pan-fried fish (香煎) preparations are commonly lightly dusted in wheat flour before frying."}],
+    "cross_contact": "unknown", "source_text": "香煎带鱼 Fried Ribbonfish $19 - Chili salt & vinegar sauce", "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Qianlong's Favorite Fish Head 乾隆鱼头", "description": "Braised with fresh peppers, spicy", "price": "$33",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "乾隆鱼头 Qianlong's Favorite Fish Head $33 - Braised with fresh peppers [spicy]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Steamed Yellow Croaker 花雕酒酿蒸黄鱼", "description": "Fermented rice, salted ham, mushrooms in yellow wine sauce", "price": "$32",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "花雕酒酿蒸黄鱼 Steamed Yellow Croaker $32 - Fermented rice, salted ham, mushrooms in yellow wine sauce", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Garlic Shredded Eel 响油鳝丝", "description": "Oil poached with garlic & bamboo shoots", "price": "$32",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "响油鳝丝 Garlic Shredded Eel $32 - Oil poached with garlic & bamboo shoots", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Hot Stone Spicy Chicken & Pork Intestine 鲜椒石锅肥肠鸡", "description": "Fresh chilis & vegetables, spicy", "price": "$26",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "鲜椒石锅肥肠鸡 Hot Stone Spicy Chicken & Pork Intestine $26 - Fresh chilis & vegetables [spicy]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Sweet & Sour Fish Fillet 松子鱼片", "description": "Whitefish, pine nuts", "price": "$25",
+    "declared_allergens": ["tree nut"], "likely_allergens": [{"allergen": "gluten", "confidence": "medium", "reason": "Fried fish fillet in a sweet & sour preparation is commonly battered/coated in wheat flour or cornstarch-flour blend."}],
+    "cross_contact": "unknown", "source_text": "松子鱼片 Sweet & Sour Fish Fillet $25 - Whitefish, pine nuts", "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Crispy Duck 西塘古法香酥鸭", "description": "Half duck", "price": "$32",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "medium", "reason": "Described as \"crispy\" (香酥) duck, a preparation commonly involving a wheat-flour based coating before frying."}],
+    "cross_contact": "unknown", "source_text": "西塘古法香酥鸭 Crispy Duck $32 - Half duck", "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Kung Pao Chicken 宫保鸡丁", "description": "Peanuts & Szechuan chilis, spicy", "price": "$17",
+    "declared_allergens": ["peanut"], "likely_allergens": [{"allergen": "gluten", "confidence": "medium", "reason": "Kung Pao sauce traditionally includes soy sauce, which commonly contains wheat."}],
+    "cross_contact": "unknown", "source_text": "宫保鸡丁 Kung Pao Chicken $17 - Peanuts & Szechuan chilis [spicy]", "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Shanghai Style Mao Xue Wang 本帮毛血旺", "description": "Spicy stewed offals, spicy", "price": "$32",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "本帮毛血旺 Shanghai Style Mao Xue Wang $32 - Spicy stewed offals [spicy]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Salted Ham & Bamboo Shoot Stew 鸡汁杭三鲜", "description": "Pork skin & egg", "price": "$25",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "鸡汁杭三鲜 Salted Ham & Bamboo Shoot Stew $25 - Pork skin & egg", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Stir-Fried Spicy Lobster 香辣龙虾", "description": "Szechuan chilis, spicy", "price": "$39",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "香辣龙虾 Stir-Fried Spicy Lobster $39 - Szechuan chilis [spicy]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Green Chili Shredded Beef 小椒牛肉丝", "description": "Green bell pepper, spicy", "price": "$26",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "小椒牛肉丝 Green Chili Shredded Beef $26 - Green bell pepper [spicy]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Nine-Spice Rabbit 九香兔肉", "description": "spicy", "price": "$28",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "九香兔肉 Nine-Spice Rabbit $28 [spicy]", "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Tangerine Crab Meat & Steamed Egg 橙香蟹粉蒸蛋", "description": "Black fish roe (single serving $9)", "price": "$26",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "橙香蟹粉蒸蛋 Tangerine Crab Meat & Steamed Egg (单人9) $26 - Black fish roe", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Uni Tofu Stew 海胆豆腐", "description": "", "price": "$32",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "海胆豆腐 Uni Tofu Stew $32", "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Pickled Cabbage Fish Stew 浙里也有酸菜鱼", "description": "Boneless fillets, chili & Szechuan peppercorns, spicy", "price": "$32",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "浙里也有酸菜鱼 Pickled Cabbage Fish Stew $32 - Boneless fillets, chili & Szechuan peppercorns [spicy]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Hunan Stir Fried Spicy Beef 湘西炒牛肉", "description": "Cilantro, chilis, spicy", "price": "$28",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "湘西炒牛肉 Hunan Stir Fried Spicy Beef $28 - Cilantro, chilis [spicy]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Stir-Fried String Beans 干煸四季豆", "description": "Dry fried, spicy", "price": "$17",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "干煸四季豆 Stir-Fried String Beans $17 - Dry fried [spicy]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Mains", "dish_name": "Eggplant in Garlic Sauce 鱼香茄子", "description": "spicy", "price": "$16",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "medium", "reason": "Yu xiang (\"fish-fragrant\") sauce traditionally includes soy sauce, which commonly contains wheat."}],
+    "cross_contact": "unknown", "source_text": "鱼香茄子 Eggplant in Garlic Sauce $16 [spicy]", "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Jiang Nan Reminisce", "dish_name": "Spicy Crispy Pork Knuckles 西塘香辣猪蹄", "description": "Crispy fried, red chilis, spicy", "price": "$27",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "medium", "reason": "\"Crispy fried\" preparation typically uses a wheat-flour based coating."}],
+    "cross_contact": "unknown", "source_text": "西塘香辣猪蹄 Spicy Crispy Pork Knuckles $27 - Crispy fried, red chilis [spicy]", "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Jiang Nan Reminisce", "dish_name": "Che Li's Pork Belly 浙里红烧肉", "description": "Quail eggs & braising sauce", "price": "$27",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "浙里红烧肉 Che Li's Pork Belly $27 - Quail eggs & braising sauce", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Jiang Nan Reminisce", "dish_name": "Sweet & Sour Crispy Eel 江南脆鳝", "description": "Shredded eel strips in sweet & sour sauce", "price": "$32",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "medium", "reason": "\"Crispy\" eel in a sweet & sour preparation is commonly battered/fried using a wheat-flour or flour-cornstarch coating."}],
+    "cross_contact": "unknown", "source_text": "江南脆鳝 Sweet & Sour Crispy Eel $32 - Shredded eel strips in sweet & sour sauce", "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Jiang Nan Reminisce", "dish_name": "West Lake Vinegar Fish (labeled on site as \"Chinese Crispy Lava\") 西湖醋鱼", "description": "Dark vinegar sauce", "price": "$36",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "西湖醋鱼 Chinese Crispy Lava $36 - Dark vinegar sauce (note: English label as printed on source page appears mismatched/duplicated from a dim sum item; Chinese name 西湖醋鱼 corresponds to West Lake Vinegar Fish, preserved as printed on source)", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Jiang Nan Reminisce", "dish_name": "Longjing Shrimp 龙井虾仁", "description": "Tender poached shrimp in tea sauce", "price": "$27",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "龙井虾仁 Longjing Shrimp $27 - Tender poached shrimp in tea sauce", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Jiang Nan Reminisce", "dish_name": "Stir Fried Prawns 香葱油爆虾", "description": "Scallion & ginger", "price": "$25",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "香葱油爆虾 Stir Fried Prawns $25 - Scallion & ginger", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Jiang Nan Reminisce", "dish_name": "Braised Pomfret & Rice Cake 鲳鱼烧年糕", "description": "", "price": "$32",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "鲳鱼烧年糕 Braised Pomfret & Rice Cake $32", "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Jiang Nan Reminisce", "dish_name": "Yellow Lantern Beef Over Silken Tofu 豆花嫩牛肉", "description": "Habanero, scallion & white pepper sauce, spicy", "price": "$33",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "豆花嫩牛肉 Yellow Lantern Beef Over Silken Tofu $33 - Habanero, scallion & white pepper sauce [spicy]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Jiang Nan Reminisce", "dish_name": "Golden Crust Dungeness Crab 咸蛋黄大蟹", "description": "Salted duck egg yolk", "price": "$75",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "medium", "reason": "\"Golden Crust\" naming suggests a fried, likely wheat-flour based coating."}],
+    "cross_contact": "unknown", "source_text": "咸蛋黄大蟹 Golden Crust Dungeness Crab $75 - Salted duck egg yolk", "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Jiang Nan Reminisce", "dish_name": "Yang Zhou Meatball 扬州狮子头", "description": "Pork, clay pot soup", "price": "$14",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "扬州狮子头 Yang Zhou Meatball $14 - Pork, clay pot soup", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Jiang Nan Reminisce", "dish_name": "Spicy Lamb Stew 锅仔羊肉", "description": "Fresh peppers, and scallions in cast iron pot, spicy", "price": "$30",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "锅仔羊肉 Spicy Lamb Stew $30 - Fresh peppers, and scallions in cast iron pot [spicy]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Taste of Che-Li", "dish_name": "Flaming Beggar's Chicken 南宋叫花鸡", "description": "Smoked chicken stuffed & wrapped in lotus leaves, flour clay", "price": "$36",
+    "declared_allergens": ["gluten"], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "南宋叫花鸡 Flaming Beggar's Chicken $36 - Smoked chicken stuffed & wrapped in lotus leaves, flour clay", "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Taste of Che-Li", "dish_name": "Qianlong's Favorite Eel 乾隆吃鳝丝", "description": "Scallion, cucumber, Chinese crepes", "price": "$30",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "high", "reason": "Served with Chinese crepes/pancakes, which are made from wheat flour."}],
+    "cross_contact": "unknown", "source_text": "乾隆吃鳝丝 Qianlong's Favorite Eel $30 - Scallion, cucumber, Chinese crepes", "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Taste of Che-Li", "dish_name": "Crab Meat Tofu Stew 蟹粉豆腐", "description": "", "price": "$23",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "蟹粉豆腐 Crab Meat Tofu Stew $23", "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Taste of Che-Li", "dish_name": "Salted Yolk Fried Pumpkin 咸蛋黄南瓜", "description": "Cubed pumpkin rice cakes", "price": "$19",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "medium", "reason": "Fried preparation of pumpkin rice cakes commonly involves a wheat-flour batter coating."}],
+    "cross_contact": "unknown", "source_text": "咸蛋黄南瓜 Salted Yolk Fried Pumpkin $19 - Cubed pumpkin rice cakes", "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Taste of Che-Li", "dish_name": "Ginger & Chili Frog 铁锅仔姜牛蛙", "description": "spicy", "price": "$34",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "铁锅仔姜牛蛙 Ginger & Chili Frog $34 [spicy]", "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Taste of Che-Li", "dish_name": "Garlic Butter Lobster 浙里蒜香龙虾", "description": "With garlic & butter sauce, spicy", "price": "$29",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "浙里蒜香龙虾 Garlic Butter Lobster $29 - With garlic & butter sauce [spicy]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Taste of Che-Li", "dish_name": "Che Li 'Squirrel' Fish 浙里松鼠鱼", "description": "Crosscut & deboned striped bass, sweet & sour glaze", "price": "$42",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "high", "reason": "\"Squirrel fish\" (松鼠鱼) is traditionally scored and deep-fried in a wheat flour/cornstarch batter before being glazed with sweet & sour sauce."}],
+    "cross_contact": "unknown", "source_text": "浙里松鼠鱼 Che Li 'Squirrel' Fish $42 - Crosscut & deboned striped bass, sweet & sour glaze", "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Taste of Che-Li", "dish_name": "Sweet & Sour Tenderloin 糖醋里脊", "description": "With sweet & sour sauce", "price": "$20",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "high", "reason": "Sweet & sour tenderloin (糖醋里脊) is traditionally breaded/battered in wheat flour before frying."}],
+    "cross_contact": "unknown", "source_text": "糖醋里脊 Sweet & Sour Tenderloin $20 - With sweet & sour sauce", "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Taste of Che-Li", "dish_name": "Mapo Tofu 麻婆豆腐", "description": "Minced pork and spicy pepper sauce, spicy", "price": "$16",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "麻婆豆腐 Mapo Tofu $16 - Minced pork and spicy pepper sauce [spicy]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Taste of Che-Li", "dish_name": "Grilled Beef Ribs & Peppers 黑椒牛肋骨", "description": "Flame-broiled tableside in black pepper sauce", "price": "$32",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "黑椒牛肋骨 Grilled Beef Ribs & Peppers $32 - Flame-broiled tableside in black pepper sauce", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Taste of Che-Li", "dish_name": "Garlic Steamed Butterfly Prawns 蒜蓉粉丝开片虾", "description": "Over glass noodles", "price": "$28",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "蒜蓉粉丝开片虾 Garlic Steamed Butterfly Prawns $28 - Over glass noodles", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Vegetables", "dish_name": "Sautéed Sponge Gourd 玉带丝瓜", "description": "vegan", "price": "$19",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "玉带丝瓜 Sautéed Sponge Gourd $19 [vegan]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Vegetables", "dish_name": "Sautéed Water Spinach 清炒空心菜", "description": "Garlic, vegan", "price": "$16",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "清炒空心菜 Sautéed Water Spinach $16 - Garlic [vegan]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Vegetables", "dish_name": "Pea Shoots in Chinese Wine Sauce 酒香豆苗", "description": "vegan", "price": "$20",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "酒香豆苗 Pea Shoots in Chinese Wine Sauce $20 [vegan]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Vegetables", "dish_name": "Lotus Pond Stir Fry 荷塘小炒", "description": "Sliced lotus root, carrots, snow peas, asparagus, wood ear mushrooms, vegan", "price": "$16",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "荷塘小炒 Lotus Pond Stir Fry $16 - Sliced lotus root, carrots, snow peas, asparagus, wood ear mushrooms [vegan]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Rice & Noodles", "dish_name": "Hot Stone Braised Rice 牛肝菌焖饭", "description": "Boletus mushroom and green pepper, spicy", "price": "$26",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "牛肝菌焖饭 Hot Stone Braised Rice $26 - Boletus mushroom and green pepper [spicy]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Rice & Noodles", "dish_name": "Golden Egg Fried Rice 松仁金丝炒饭", "description": "Seafood, ham & pine nuts", "price": "$18",
+    "declared_allergens": ["tree nut"], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "松仁金丝炒饭 Golden Egg Fried Rice $18 - Seafood, ham & pine nuts", "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Rice & Noodles", "dish_name": "Uni & Pu'Er Tea Soaked Rice 海胆茶香泡饭", "description": "With sea urchin", "price": "$18",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "海胆茶香泡饭 Uni & Pu'Er Tea Soaked Rice $18 - With sea urchin", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Rice & Noodles", "dish_name": "Stir Fried Rice Cakes 荠菜肉丝炒年糕", "description": "Shredded pork & shepherd's purse", "price": "$16",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "荠菜肉丝炒年糕 Stir Fried Rice Cakes $16 - Shredded pork & shepherd's purse", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Rice & Noodles", "dish_name": "Shanghai Stir Fried Noodles 上海炒面", "description": "Shallots & shredded pork", "price": "$17",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "high", "reason": "Stir-fried noodles (炒面) are made from wheat flour."}],
+    "cross_contact": "unknown", "source_text": "上海炒面 Shanghai Stir Fried Noodles $17 - Shallots & shredded pork", "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Rice & Noodles", "dish_name": "Salted Ham Mixed Rice 老妈鲜肉菜炒饭", "description": "Mixed vegetables", "price": "$15",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "老妈鲜肉菜炒饭 Salted Ham Mixed Rice $15 - Mixed vegetables", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Rice & Noodles", "dish_name": "White Rice 白米饭", "description": "", "price": "$2",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "白米饭 White Rice $2", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Soup", "dish_name": "West Lake Minced Beef Soup 西湖牛肉羹", "description": "Chinese water shield", "price": "$18",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "西湖牛肉羹 West Lake Minced Beef Soup $18 - Chinese water shield", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Soup", "dish_name": "Chicken & Morel Mushroom Stew 羊肚菌老鸡汤", "description": "Shredded lamb, wood ear mushroom & egg in vinegar sauce", "price": "$26",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "羊肚菌老鸡汤 Chicken & Morel Mushroom Stew $26 - Shredded lamb, wood ear mushroom & egg in vinegar sauce", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Soup", "dish_name": "Herbal Mushroom Soup 养生野生菌", "description": "", "price": "$19",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "养生野生菌 Herbal Mushroom Soup $19", "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Soup", "dish_name": "'Yan Du Xian' 腌笃鲜", "description": "Fresh & salted pork, tofu skin & bamboo shoots soup", "price": "$24",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "腌笃鲜 'Yan Du Xian' $24 - Fresh & salted pork, tofu skin & bamboo shoots soup", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Dessert", "dish_name": "Walnut Puree 核桃露", "description": "vegan", "price": "$8",
+    "declared_allergens": ["tree nut"], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "核桃露 Walnut Puree $8 [vegan]", "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Dessert", "dish_name": "Meiling Congee 浙里 美龄粥", "description": "Sweet rice porridge & goji berries, vegan", "price": "$12",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "浙里 美龄粥 Meiling Congee $12 - Sweet rice porridge & goji berries [vegan]", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Dessert", "dish_name": "Black Sesame Sticky Rice Balls 西湖藕粉圆子", "description": "In lotus root starch", "price": "$8",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "西湖藕粉圆子 Black Sesame Sticky Rice Balls $8 - In lotus root starch", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Dessert", "dish_name": "Osmanthus Milk Pudding 江南酥酪", "description": "", "price": "$8",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "江南酥酪 Osmanthus Milk Pudding $8", "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Dessert", "dish_name": "Peach Resin, Red Dates & White Wood Ear 红枣银耳桃胶", "description": "Stewed & served chilled with coconut milk", "price": "$8",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "红枣银耳桃胶 Peach Resin, Red Dates & White Wood Ear $8 - Stewed & served chilled with coconut milk", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Drinks", "dish_name": "Sake & Japanese Rice Wine Selection (Sake, Ginjo, Daiginjo, Honjozo, Nigori categories)", "description": "Consolidated beverage category covering plum sake, sparkling sake, junmai/ginjo/daiginjo grades, and nigori; traditionally brewed from rice, koji, and water", "price": "$14-$799",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "Sake / Ginjo / Daiginjo / Honjozo / Nigori sections listing Ippongi Ginkoubai Plum Sake, Suehiro 'Poochi Poochi' Sparkling, Nanbu-Bijin Plum Sake, Yamato Omoi Yuzu/Matcha, Tanaka Chartier Tokubetsu, Kozaemon Umeshu Junmai, Kikusui Junmai, Makiri Junmai Super Dry, Hakkaisan Yukimuro Junmai, Oze x Rose Junmai, Nabeshima Junmai Yamadanishiki, Dassai 23, Kubota 'Senshin' Junmai, Fukuju 'Black' Junmai, Asahi-Shuzo 'Tsugu', Daishichi Honjozo Kimoto Hot, Dassai 45 — prices $14 to $799", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Drinks", "dish_name": "Shochu Selection", "description": "Consolidated beverage category; includes a barley-based shochu", "price": "$20-$70",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "high", "reason": "\"Ginza Suzume Kohaku Mugi Barley\" shochu is explicitly named as a barley-based spirit; barley contains gluten."}],
+    "cross_contact": "unknown", "source_text": "Ginza Suzume Kohaku Mugi Barley $20 (200 ml); Kishu Yuzu Umeshu $56 (720 ml); Imo Shochu Hamanoimota Sweet Potato $70 (720 ml)", "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Drinks", "dish_name": "House Special Drinks", "description": "Consolidated beverage category: milk tea, plum juice, rice wine, pear juice", "price": "$8-$19",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "Milk Tea with Yellow Wine $8; Plum Juice $9; Osmanthus Rice Wine (Non-Alcoholic $8 / With Alcohol $19); Pear Juice (Cold 8oz $8 / Hot 15oz $15)", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Drinks", "dish_name": "Beer Selection", "description": "Consolidated beverage category covering all beer offerings", "price": "$6-$14",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "medium", "reason": "Beer is typically brewed from malted barley and/or wheat, which contain gluten."}],
+    "cross_contact": "unknown", "source_text": "Tsingtao $6; Kronenbourg 1664 Blanc $6; Sapporo $6; Orion $8; Kyoto Yuzu Ale $9; Kyoto Matcha IPA $10; Kyoto IPA $12; Rydeen IPA $14", "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Drinks", "dish_name": "Yellow Rice Wine Selection", "description": "Consolidated beverage category; Chinese huangjiu/Shaoxing-style yellow rice wine", "price": "$15-$155",
+    "declared_allergens": [], "likely_allergens": [{"allergen": "gluten", "confidence": "medium", "reason": "Chinese yellow rice wine (huangjiu/Shaoxing wine) is traditionally fermented using a wheat-based qu (yeast starter)."}],
+    "cross_contact": "unknown", "source_text": "Nu Er Hong (Draft) $15; Shao Xing 10 Year $55; Pagoda Benjiu $155", "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Drinks", "dish_name": "Soft Drinks Selection", "description": "Consolidated beverage category covering sodas, sparkling waters, and juices", "price": "$3-$8",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "Coke/Diet Coke $3; Coke/Sprite with Cane Sugar $5; Wong Lo Kat $3; Arctic Ocean $4; Fiji Water $4; Yuzu Organic Sparkling Water $7; Bruce Cost Ginger Ale $7; Pomegranate Ginger Ale $7; Rose Sparkling Lemonade $7; San Pellegrino $8", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "CHELI MANHATTAN 浙里",
+    "address": "19 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.che-li.com/location/che-li-east-village/", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"},
+    "menu_section": "Drinks", "dish_name": "Wine Selection (Sparkling, Red, White, Rosé)", "description": "Consolidated beverage category covering grape wine offerings", "price": "$10-$799",
+    "declared_allergens": [], "likely_allergens": [],
+    "cross_contact": "unknown", "source_text": "Cava Sparkling Wine 'Dry'; Isotta Manzoni Prosecco; Champagne Piaff Blanc de Blancs; Tassajara Pinot Noir; Novas Organic Cab. Sauvignon; Istine Chianti Classico; Farella Lot 2 Coombsville; Santenay Premier Cru Beaurepaire; Chateau Pontet-Fumet; Miguel Merino; Farella Alta Coombsville; Bruno Rocca Barbaresco; Opus One; Scarbolo Pinot Grigio; Taonga Sauvignon Blanc; Von Kisel Gruner Veltliner; Schlink Riesling Spatlese Nahe; Andre Dezat & Fils Sancerre; Heymann-Lowenstein Riesling; Gehricke Russian River Valley Chardonnay; Domaine Gerard Tremblay Côte de Lechet; Maison Marcel Rosé — prices $10 to $799", "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  }
+]

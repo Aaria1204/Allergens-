@@ -1,0 +1,37 @@
+{
+  "restaurant_name": "Empellon Al Pastor",
+  "address": "132 St Marks Pl, New York, NY 10009, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.empellon.com/restaurants/al-pastor/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Confirms identity/address and provides general drink-menu description (margaritas, 18 beers on tap, cocktails), but no itemized food/drink menu or allergen disclosures on the page itself; links to menu PDFs."
+    },
+    {
+      "url": "https://www.empellon.com/app/uploads/2020/09/empellon-al-pastor-menu-3-18-26-1.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Linked from the current official page as the latest menu PDF, but returned no machine-readable text via web_fetch (\"This PDF is empty or contains no machine-readable text\") - likely an image-based/scanned PDF. Not usable as menu evidence without OCR, which was out of scope for the time box."
+    },
+    {
+      "url": "https://www.empellon.com/app/uploads/2020/09/empellon-al-pastor-menu-front-nov2021.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Machine-readable text extracted successfully. Filename indicates Nov 2021 version, older than the current (non-extractable) PDF linked from the live page, so dish list/prices may be somewhat dated. No allergen statements present in the text."
+    }
+  ],
+  "menu_source": {
+    "url": "https://www.empellon.com/app/uploads/2020/09/empellon-al-pastor-menu-front-nov2021.pdf",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/empellon-al-pastor/official-menu-pdf-nov2021.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": true,
+  "manual_review_reason": "Menu source used is an older (Nov 2021) official PDF because the current official PDF linked from the live restaurant page is image-based and not machine-readable; food/drink specifics (esp. weekly specials, exact beverage list) may have changed. Dish descriptions are generally terse ('Chef's Special - see specials board', 'Vegetable Special - see specials board') with no ingredient detail for several items.",
+  "status": "complete"
+}

@@ -1,0 +1,23 @@
+{
+  "restaurant_name": "The Smith",
+  "address": "55 3rd Ave, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Full menu content returned directly from a standard fetch (server-rendered HTML, no JS escalation required). Covers Weekday Lunch, Dinner, Weekend Brunch, Sunset, Dessert, Martini Hour, Drinks, and a limited-time World Cup Special promotion. No dedicated allergen legend page beyond scattered '(GF)' beer tag and a 'gluten-free pasta available upon request' note on pasta sections; allergen assessments below are otherwise inferred from ingredient wording."
+    }
+  ],
+  "menu_source": {
+    "url": "https://thesmithrestaurant.com/location/east-village/",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "identity_verification_notes": "Page explicitly identifies itself as 'The Smith in the East Village, the location that started it all in 2007,' lists address '55 third avenue (between 10th & 11th Street)' and phone 212.420.9800, matching the target address (55 3rd Ave, New York, NY 10003) and distinguishing it from The Smith's NoMad, Lincoln Square, Midtown, Washington DC, and Chicago locations, all of which are listed separately in the site's location navigation.",
+  "manual_review_flag": false,
+  "status": "complete"
+}

@@ -1,0 +1,64 @@
+SOURCE URL: https://order.toasttab.com/online/electric-burrito-east-village-81-st-marks-pl
+TIER: ordering (Toast, restaurant-controlled)
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LOCATION CONFIRMED ON PAGE: "Electric Burrito East Village 81 St Marks Pl" / "81 St Marks Pl, New York, NY 10003"
+LIMITATIONS: Rendered as markdown-ish text via fetch (not full JS render), but content was fully present (not an empty JS shell) — item names, descriptions, and prices all loaded server-side/in initial HTML. No allergen icons or callouts present on page. No modifier/ingredient detail beyond item description shown (e.g., tortilla type not stated for burritos, only for tacos which explicitly say "Corn Tortilla"). Beverage flavors (Jarritos) not broken out individually.
+
+=== FULL EXTRACTED MENU TEXT ===
+
+Electric Burrito East Village 81 St Marks Pl
+81 St Marks Pl, New York, NY
+Pickup Only
+
+Categories: Burritos | Tacos | Others | Sides | Drinks
+
+--- Featured Items ---
+California Burrito - Protein of choice with fries, cheese, and pico de gallo. - $13.29
+Conga Burrito - Protein of choice with rice, beans, pico de gallo and crema. - $13.29
+The Hotrod - Carne Asada, Bacon, Eggs, Cheese, Beans, Fries, and Crema. - $15.29
+
+--- Burritos ---
+California Burrito - Protein of choice with fries, cheese, and pico de gallo. - $13.29
+Conga Burrito - Protein of choice with rice, beans, pico de gallo and crema. - $13.29
+Bean n' Cheese - Refried Beans and cheese! - $8.89
+Portobello Burrito - Chipotle portobello, rice, beans, cheese, and pico de gallo. - $13.79
+Shrimp Burrito - Ranchero shrimp, rice, beans, crema, and pico de gallo. - $15.29
+Johnny Utah - Carne asada, ranchero shrimp, pico de gallo, beans, rice, and crema. - $16.89
+
+--- Breakfast Burritos ---
+Classic Breakfast - Eggs, beans, cheese and fries. - $11.29
+Lunch Burrito - Eggs, bacon, cheese, beans, and fries. - $13.29
+Chorizo Burrito - Chorizo, eggs, cheese, beans, and fries. - $14.29
+Veggie Breakfast - Eggs, chipotle portobello, cheese, beans, and fries. - $13.79
+The Hotrod - Carne Asada, Bacon, Eggs, Cheese, Beans, Fries, and Crema. - $15.29
+
+--- Tacos ---
+Shrimp Taco - Ranchero Shrimp, Corn Tortilla, Guacamole, Fermented Cabbage, Cotija, Orange Sauce - $5.89
+Carne Asada Taco - Carne Asada, Corn Tortilla, Guacamole, Fermented Cabbage, Cotija, Orange Sauce - $5.89
+Carnitas Taco - Crispy Carnitas, Corn Tortilla, Guacamole, Fermented Cabbage, Cotija, Orange Sauce - $4.59
+Pollo Asado Taco - Pollo Asado, Corn Tortilla, Guacamole, Fermented Cabbage, Cotija, Orange Sauce - $4.59
+Portobello Taco - Chipotle Portobello, Corn Tortilla, Guacamole, Fermented Cabbage, Cotija, Orange Sauce - $4.89
+
+--- Others (Dope Stuff) ---
+Burrito Bowl - Bowl with your choice of protein, beans, rice, cheese, pico de gallo, fermented cabbage, and cotija, topped with orange sauce. - $11.29
+Carne Asada Fries - French Fries topped with Melted Cheese, Carne Asada, Guacamole, Cotija and Orange Sauce - $15.29
+Nachos - Fresh Homemade Tortilla Chips with Queso Blanco, Beans, Pico de Gallo, Cotija and Orange Sauce - $11.29
+
+--- Sides ---
+Guac & Chips - $8.49
+Side Chips - $2.50
+Side Rice - $4.00
+Side Beans - $4.00
+Queso & Chips - $8.49
+Pico & Chips - $4.89
+Side Fries - $5.59
+4oz Side Orange Sauce - $3.00
+8oz Side Orange Sauce - $6.00
+
+--- Drinks ---
+Bottled Water - $2.00
+Topo Chico - Topo Chico has always been known for the legend surrounding its origins. - $4.00 (OUT OF STOCK)
+Mexican Coke - Coca-Cola Original Taste — the crisp, refreshing taste you know and love - $4.00
+Coca-Cola, Can - Coca-Cola Original Taste — the crisp, refreshing taste you know and love - $2.50
+Diet Coke - Take a Diet Coke break with this refreshing, no-calorie soft drink - $2.50
+Jarritos - $4.00

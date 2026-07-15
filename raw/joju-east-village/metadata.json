@@ -1,0 +1,17 @@
+{
+  "restaurant_name": "JOJU - East Village",
+  "address": "33 St Marks Pl, New York, NY 10003, USA",
+  "menu_source": {
+    "url": "https://www.jojuny.com/joju-east-village",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/joju-east-village/menu_official.txt"
+  },
+  "restaurant_identity_verified": true,
+  "file_type": "text (rendered page text)",
+  "limitations": [
+    "Menu is presented as a build-your-own format (style + protein + add-ons + condiment) rather than fixed named dishes; normalized records below represent each selectable component rather than every possible combination.",
+    "Restaurant explicitly discloses (footnote ***) that products at this location may contain or come into contact with PEANUTS or other allergens — a facility-wide disclosure, not a per-dish declaration. This is carried into each dish's cross_contact field rather than left as plain 'unknown', since the restaurant did provide relevant facility information."
+  ],
+  "manual_review_flag": false
+}

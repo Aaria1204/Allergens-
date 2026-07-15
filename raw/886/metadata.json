@@ -1,0 +1,37 @@
+{
+  "restaurant_name": "886",
+  "address": "26 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://eighteightsix.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T15:00:00Z",
+      "usable": true,
+      "limitation": "Landing page for menu section; linked to two PDF menu files (food and drink) which were fetched and used as the actual menu evidence."
+    },
+    {
+      "url": "https://eighteightsix.com/s/886_Menu_Dinner_12_18_25.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T15:00:00Z",
+      "usable": true,
+      "limitation": "PDF text extraction collapsed layout; icon-based allergen markers ('Contains Peanuts', 'Contains Shellfish') in the legend did not reliably attach to specific dishes in the extracted text, so those specific icon placements could not be confirmed per-dish."
+    },
+    {
+      "url": "https://eighteightsix.com/s/886_Menu_Drinking_12_18_25-1.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T15:00:00Z",
+      "usable": true,
+      "limitation": "PDF text extraction collapsed column/table layout; individual cocktail ingredient lists are name-only with no allergen detail provided by restaurant."
+    }
+  ],
+  "menu_source": {
+    "url": "https://eighteightsix.com/menu",
+    "tier": "official",
+    "accessed_at": "2026-07-14T15:00:00Z",
+    "local_artifact": "raw/886/886_all_day_menu_dinner.txt and raw/886/886_drink_menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": true,
+  "manual_review_reason": "Menu legend references icon-based 'Contains Peanuts' and 'Contains Shellfish' markers that did not survive PDF text extraction attached to specific dishes; some likely-allergen inferences (e.g. soy sauce/wheat in stir-fry sauces, fried-coating gluten in popcorn chicken) are based on common preparation knowledge rather than restaurant-stated detail and should be reverified against the visual PDF if available.",
+  "status": "complete"
+}

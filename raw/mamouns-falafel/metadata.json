@@ -1,0 +1,30 @@
+{
+  "restaurant_name": "Mamoun's Falafel",
+  "address": "30 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.mamouns.com/menu/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T16:00:00Z",
+      "usable": true,
+      "limitation": "Chain-wide national menu shared across NY/NJ/CT locations, not filtered specifically to 30 St Marks Pl. Asterisked items are labeled by the restaurant as 'only available at select locations' and their availability at this specific address is not separately confirmed. No prices listed. No explicit allergen 'contains' statements; restaurant applies a self-asserted gluten-free icon to some items."
+    },
+    {
+      "url": "https://www.mamouns.com/location/mamouns-east-village-nyc/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T16:00:00Z",
+      "usable": true,
+      "limitation": "Used only for identity/location verification (confirms 30 St. Marks Place, New York, NY 10003); contains no menu/dish content."
+    }
+  ],
+  "menu_source": {
+    "url": "https://www.mamouns.com/menu/",
+    "tier": "official",
+    "accessed_at": "2026-07-14T16:00:00Z",
+    "local_artifact": "raw/mamouns-falafel/mamouns-official-menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": true,
+  "manual_review_reason": "Menu sourced from Mamoun's chain-wide official menu page rather than a location-specific menu for 30 St Marks Pl; asterisked ('select locations only') items and any location-specific pricing/availability differences should be spot-checked against the physical 30 St Marks Pl menu when feasible.",
+  "status": "complete"
+}

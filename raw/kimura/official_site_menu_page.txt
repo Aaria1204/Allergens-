@@ -1,0 +1,9 @@
+SOURCE URL: https://www.kimuranyc.com/menu
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: The official "All Day Menu" page (Wix site) contains only a photo gallery of menu pages
+(images hosted on static.wixstatic.com) with no extractable text content. Page metadata confirms
+restaurant identity: address "31 St Marks Pl, New York, NY 10003", phone 917-905-1864, matches target.
+No dish names, descriptions, or prices were retrievable as text from this page. Rejected as a text
+source; not used for normalized extraction. (A "Lunch Menu" and "Drinks" sub-page also exist on the
+same site but were not checked further due to the time box.)

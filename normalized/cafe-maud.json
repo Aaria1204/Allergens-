@@ -1,0 +1,1211 @@
+[
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Mauds Scone",
+    "description": "Homemade Scones made fresh daily, served with Honey Butter & Jam (Make it a pair +6)",
+    "price": "$9.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "scones are traditionally made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Mauds Scone — Homemade Scones made fresh daily, served with Honey Butter & Jam (Make it a pair +6) — $9.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Breakfast Bowl",
+    "description": "Avocado, Prosciutto Di Parma, Whipped Ricotta, Edamame, Poached Egg, Rustic Sourdough",
+    "price": "$18.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "rustic sourdough is a wheat bread"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Breakfast Bowl — Avocado, Prosciutto Di Parma, Whipped Ricotta, Edamame, Poached Egg, Rustic Sourdough — $18.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Eggs Benedict",
+    "description": "Braised Short Rib, English Muffin, Béarnaise, Poblano Dust, Smashed Breakfast Potatoes",
+    "price": "$21.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "English muffin is a wheat bread"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Eggs Benedict — Braised Short Rib, English Muffin, Béarnaise, Poblano Dust, Smashed Breakfast Potatoes — $21.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Elote Avocado Toast",
+    "description": "Smashed Avocado, Roasted Corn, Tri-Color Cherry Tomato, Queso Fresco, Sour Cream, Poblano Dust, Field Greens, Cilantro (Add Bacon Bites +4, Poached Egg +3)",
+    "price": "$18.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "\"toast\" indicates wheat bread base"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Elote Avocado Toast — Smashed Avocado, Roasted Corn, Tri-Color Cherry Tomato, Queso Fresco, Sour Cream, Poblano Dust, Field Greens, Cilantro (Add Bacon Bites +4, Poached Egg +3) — $18.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "New York Bagel",
+    "description": "Smoked Nova Salmon, Everything Bagel, Scallions, Cream Cheese, Red Onion, Dill, Lemon Zest, EVOO, Capers",
+    "price": "$17.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "bagels are made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "New York Bagel — Smoked Nova Salmon, Everything Bagel, Scallions, Cream Cheese, Red Onion, Dill, Lemon Zest, EVOO, Capers — $17.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Açaí Bowl",
+    "description": "Chia Seeds, Pineapple, Blueberries, Toasted Coconut Flakes, Organic Granola",
+    "price": "$17.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "granola typically contains oats which are often processed with wheat"
+      },
+      {
+        "allergen": "tree nut",
+        "confidence": "low",
+        "reason": "coconut is classified as a tree nut for U.S. allergen labeling purposes though botanically a drupe"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Açaí Bowl — Chia Seeds, Pineapple, Blueberries, Toasted Coconut Flakes, Organic Granola — $17.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Lemon Ricotta Pancakes",
+    "description": "Whipped Cream, Lemon Zest, Vermont Maple Syrup",
+    "price": "$18.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "pancakes are made with wheat flour batter"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Lemon Ricotta Pancakes — Whipped Cream, Lemon Zest, Vermont Maple Syrup — $18.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Sunrise Oats Bowl",
+    "description": "Room Temperature Oats, Chia Greek Yoghurt, Mango, Raspberries, Pomegranate Seeds, Honey, Dark Chocolate Chips",
+    "price": "$17.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "oats are frequently processed in facilities that also handle wheat and are not stated to be certified gluten-free"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Sunrise Oats Bowl — Room Temperature Oats, Chia Greek Yoghurt, Mango, Raspberries, Pomegranate Seeds, Honey, Dark Chocolate Chips — $17.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Breakfast Burrito",
+    "description": "Scrambled Eggs, Vermont Cheddar, Pinto Bean Sauce, Pico De Gallo, Guacamole, Tomatillo Sauce, Hash Brown, Thick Cut Bacon Or Chicken Sausage, Smashed Potatoes",
+    "price": "$18.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "burritos are wrapped in wheat flour tortillas"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Breakfast Burrito — Scrambled Eggs, Vermont Cheddar, Pinto Bean Sauce, Pico De Gallo, Guacamole, Tomatillo Sauce, Hash Brown, Thick Cut Bacon Or Chicken Sausage, Smashed Potatoes — $18.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Chia Yoghurt Power Bowl",
+    "description": "Greek Yoghurt, Chia Seeds, Coconut, Organic Granola, Mixed Fruits, Honey",
+    "price": "$15.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "granola typically contains oats which are often processed with wheat"
+      },
+      {
+        "allergen": "tree nut",
+        "confidence": "low",
+        "reason": "coconut is classified as a tree nut for U.S. allergen labeling purposes though botanically a drupe"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chia Yoghurt Power Bowl — Greek Yoghurt, Chia Seeds, Coconut, Organic Granola, Mixed Fruits, Honey — $15.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Steak & Eggs",
+    "description": "6 oz Cedar River Farms Flat Iron Steak, Smashed Breakfast Potatoes, Field Greens, Scrambled Eggs",
+    "price": "$29.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Steak & Eggs — 6 oz Cedar River Farms Flat Iron Steak, Smashed Breakfast Potatoes, Field Greens, Scrambled Eggs — $29.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Breakfast Platter",
+    "description": "2 Eggs Any Style, Rustic Sourdough, Field Greens, Smashed Breakfast Potatoes, Chicken Sausage, Heritage Thick Cut Bacon Or Avocado",
+    "price": "$23.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "rustic sourdough is a wheat bread"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Breakfast Platter — 2 Eggs Any Style, Rustic Sourdough, Field Greens, Smashed Breakfast Potatoes, Chicken Sausage, Heritage Thick Cut Bacon Or Avocado — $23.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "Bowl Of Fries",
+    "description": "",
+    "price": "$10.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Bowl Of Fries —  — $10.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "Avocado",
+    "description": "",
+    "price": "$4.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Avocado —  — $4.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "Thick Cut Bacon",
+    "description": "",
+    "price": "$8.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Thick Cut Bacon —  — $8.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "Chicken Sausage",
+    "description": "",
+    "price": "$8.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "sausages commonly contain wheat-based binders or fillers"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chicken Sausage —  — $8.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "Sourdough Bread",
+    "description": "",
+    "price": "$2.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "sourdough bread is made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Sourdough Bread —  — $2.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Shareables",
+    "dish_name": "Crispy Rice Spicy Tuna",
+    "description": "Truffle Yuzu Citrus Infusion, Spicy Mayo, Tuxedo Sesame Seeds, Chives, Pickled Red Onions, Hoisin",
+    "price": "$21.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "hoisin sauce commonly contains wheat"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Crispy Rice Spicy Tuna — Truffle Yuzu Citrus Infusion, Spicy Mayo, Tuxedo Sesame Seeds, Chives, Pickled Red Onions, Hoisin — $21.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Shareables",
+    "dish_name": "Garlic & Parmesan Flatbread",
+    "description": "Rosemary, Garlic Oil, Sea Salt, Shredded Parmesan",
+    "price": "$14.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "flatbread is made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Garlic & Parmesan Flatbread — Rosemary, Garlic Oil, Sea Salt, Shredded Parmesan — $14.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Shareables",
+    "dish_name": "Chicken Lollipops",
+    "description": "Asian BBQ Sauce, Tuxedo Sesame Seed, Scallions",
+    "price": "$19.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Asian-style BBQ sauces commonly contain soy sauce which often contains wheat"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chicken Lollipops — Asian BBQ Sauce, Tuxedo Sesame Seed, Scallions — $19.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Shareables",
+    "dish_name": "Steamed Chicken Dumplings, Buffalo Style",
+    "description": "Blue Cheese & Apple Frisée Salad",
+    "price": "$21.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "dumpling wrappers are made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Steamed Chicken Dumplings, Buffalo Style — Blue Cheese & Apple Frisée Salad — $21.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Shareables",
+    "dish_name": "Whipped Roasted Eggplant",
+    "description": "Sicilian Cold Pressed Olive Oil, House Made Bread",
+    "price": "$16.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "dish is served with house made bread"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Whipped Roasted Eggplant — Sicilian Cold Pressed Olive Oil, House Made Bread — $16.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Shareables",
+    "dish_name": "Yellowtail Crudo",
+    "description": "Yuzu Citrus Oil, Citrus Supreme, Chili Oil, Maldon Salt, Tobiko",
+    "price": "$20.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Yellowtail Crudo — Yuzu Citrus Oil, Citrus Supreme, Chili Oil, Maldon Salt, Tobiko — $20.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Shareables",
+    "dish_name": "Sweet & Sour Chicken Bites",
+    "description": "House Made Sweet & Sour, Sesame Seeds, Fried Chicken",
+    "price": "$18.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "fried chicken bites are typically breaded/battered with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Sweet & Sour Chicken Bites — House Made Sweet & Sour, Sesame Seeds, Fried Chicken — $18.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Shareables",
+    "dish_name": "Shrimp Ceviche",
+    "description": "Citrus Cure, Tri-Color Bell Pepper, Red Onion, Serrano Chili, Avocado",
+    "price": "$20.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Shrimp Ceviche — Citrus Cure, Tri-Color Bell Pepper, Red Onion, Serrano Chili, Avocado — $20.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Salads & Bowls",
+    "dish_name": "Pesto & Prosciutto Panuzzo",
+    "description": "Prosciutto, Tomato, Mozzarella, Pesto, Arugula, Lemon Truffle Vinaigrette on Pizza Dough, Served with Side Salad",
+    "price": "$18.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "served on pizza dough, a wheat-based bread"
+      },
+      {
+        "allergen": "tree nut",
+        "confidence": "medium",
+        "reason": "pesto traditionally contains pine nuts"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Pesto & Prosciutto Panuzzo — Prosciutto, Tomato, Mozzarella, Pesto, Arugula, Lemon Truffle Vinaigrette on Pizza Dough, Served with Side Salad — $18.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Salads & Bowls",
+    "dish_name": "Crispy Goat Cheese Bowl",
+    "description": "Tri-Color Quinoa Topped With Crispy Goat Cheese, Chickpeas, Asparagus, Radicchio, Pomegranate Seeds",
+    "price": "$19.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "\"crispy\" coating on goat cheese commonly made with flour breading"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Crispy Goat Cheese Bowl — Tri-Color Quinoa Topped With Crispy Goat Cheese, Chickpeas, Asparagus, Radicchio, Pomegranate Seeds — $19.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Salads & Bowls",
+    "dish_name": "Grilled Chicken Wrap",
+    "description": "Little Gem Greens, Shaved Parmesan, Romano Dressing, Toasted Sesame Breadcrumbs, Cherry Tomatoes, Grilled Chicken (Crispy Chicken +$1)",
+    "price": "$19.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "wrap tortilla and toasted breadcrumbs are wheat-based"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Grilled Chicken Wrap — Little Gem Greens, Shaved Parmesan, Romano Dressing, Toasted Sesame Breadcrumbs, Cherry Tomatoes, Grilled Chicken (Crispy Chicken +$1) — $19.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Salads & Bowls",
+    "dish_name": "Beet Salad",
+    "description": "Roasted Red & Golden Beets, Pickled Red Onion, Herbed Goat Cheese, Toasted Pistachios, Sherry Vinaigrette",
+    "price": "$17.00",
+    "declared_allergens": [
+      "tree nut"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Beet Salad — Roasted Red & Golden Beets, Pickled Red Onion, Herbed Goat Cheese, Toasted Pistachios, Sherry Vinaigrette — $17.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Salads & Bowls",
+    "dish_name": "The Rhymers Club Salad",
+    "description": "Toasted Sesame Breadcrumbs, Shaved Parmesan, Romano Dressing, Little Gem Greens (Add Grilled Chicken +6, Add Crispy Chicken +6)",
+    "price": "$19.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "toasted breadcrumbs are wheat-based"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "The Rhymers Club Salad — Toasted Sesame Breadcrumbs, Shaved Parmesan, Romano Dressing, Little Gem Greens (Add Grilled Chicken +6, Add Crispy Chicken +6) — $19.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Salads & Bowls",
+    "dish_name": "Malibu Bowl",
+    "description": "Edamame, Wild Rice, Miso Yuzu Vinaigrette, Pickled Red Onion, Avocado, Mixed Greens (Add Grilled Chicken +6, Add Crispy Chicken +6)",
+    "price": "$17.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "miso is often fermented using barley or wheat koji"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Malibu Bowl — Edamame, Wild Rice, Miso Yuzu Vinaigrette, Pickled Red Onion, Avocado, Mixed Greens (Add Grilled Chicken +6, Add Crispy Chicken +6) — $17.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Salads & Bowls",
+    "dish_name": "Mexican Bowl",
+    "description": "Wild Rice, Pico De Gallo, Guacamole, Black Beans, Charred Corn, Cotija Cheese, Cilantro Lime Vinaigrette, Sour Cream, Poblano (Add Grilled Chicken +6, Add Crispy Chicken +6)",
+    "price": "$16.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Mexican Bowl — Wild Rice, Pico De Gallo, Guacamole, Black Beans, Charred Corn, Cotija Cheese, Cilantro Lime Vinaigrette, Sour Cream, Poblano (Add Grilled Chicken +6, Add Crispy Chicken +6) — $16.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Pizzas",
+    "dish_name": "Soppressata",
+    "description": "Tomato, Mozzarella, Oregano, EVOO, Soppressata",
+    "price": "$22.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "pizza crust/dough is made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Soppressata — Tomato, Mozzarella, Oregano, EVOO, Soppressata — $22.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Pizzas",
+    "dish_name": "Burrata",
+    "description": "Tomato, Basil, Truffle Oil, Black Pepper, Burrata",
+    "price": "$22.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "pizza crust/dough is made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Burrata — Tomato, Basil, Truffle Oil, Black Pepper, Burrata — $22.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Pizzas",
+    "dish_name": "Crushed Tomato",
+    "description": "\"Marg\" Basil, Olive Oil, Buffalo Mozzarella, Blistered Tri Color Cherry Tomato",
+    "price": "$20.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "pizza crust/dough is made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Crushed Tomato — \"Marg\" Basil, Olive Oil, Buffalo Mozzarella, Blistered Tri Color Cherry Tomato — $20.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Pizzas",
+    "dish_name": "Bianca",
+    "description": "Pecorino, Whipped Ricotta, Prosciutto, Arugula, Lemon Truffle Vinaigrette, Chipotle Honey",
+    "price": "$22.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "pizza crust/dough is made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Bianca — Pecorino, Whipped Ricotta, Prosciutto, Arugula, Lemon Truffle Vinaigrette, Chipotle Honey — $22.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Pizzas",
+    "dish_name": "The Fun Guy",
+    "description": "Vodka Sauce, Mushrooms, Fontina Cheese, Truffle Oil",
+    "price": "$22.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "pizza crust/dough is made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "The Fun Guy — Vodka Sauce, Mushrooms, Fontina Cheese, Truffle Oil — $22.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Pizzas",
+    "dish_name": "Sweet & Salty",
+    "description": "Guanciale, Stracciatella, Scallion, Honey Sambal, Smoked Sea Salt",
+    "price": "$24.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "pizza crust/dough is made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Sweet & Salty — Guanciale, Stracciatella, Scallion, Honey Sambal, Smoked Sea Salt — $24.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Plates",
+    "dish_name": "Smash Burger",
+    "description": "(2) 3oz Angus Beef Patties, American Cheese, Party Sauce, Fried Onions, Iceberg Lettuce, Pickles, Fries, Sesame Bun",
+    "price": "$19.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "served on a sesame bun, a wheat bread"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Smash Burger — (2) 3oz Angus Beef Patties, American Cheese, Party Sauce, Fried Onions, Iceberg Lettuce, Pickles, Fries, Sesame Bun — $19.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Plates",
+    "dish_name": "Southern Fried Chicken Sandwich",
+    "description": "Alabama \"White Lightning\" BBQ Sauce, Shredded Iceberg, Pickles, Sesame Bun, Side of Fries",
+    "price": "$19.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "fried chicken breading and sesame bun are wheat-based"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Southern Fried Chicken Sandwich — Alabama \"White Lightning\" BBQ Sauce, Shredded Iceberg, Pickles, Sesame Bun, Side of Fries — $19.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Plates",
+    "dish_name": "Chicken Caesar Schnitzel",
+    "description": "little gems, Shaved parmesan, Radish, Cherry tomato, Romano Dressing",
+    "price": "$21.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "schnitzel is traditionally a breaded, wheat-coated cutlet"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chicken Caesar Schnitzel — little gems, Shaved parmesan, Radish, Cherry tomato, Romano Dressing — $21.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Plates",
+    "dish_name": "Short Rib Fried Rice",
+    "description": "Slow Roasted Short Rib, Jasmine Rice, Egg, Soy, Sesame, Scallions, Chiles, Cilantro",
+    "price": "$23.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "soy sauce commonly contains wheat"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Short Rib Fried Rice — Slow Roasted Short Rib, Jasmine Rice, Egg, Soy, Sesame, Scallions, Chiles, Cilantro — $23.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Plates",
+    "dish_name": "Steak Frites",
+    "description": "8oz Grass Fed Steak, Homemade Fries, Peppercorn Sauce",
+    "price": "$32.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Steak Frites — 8oz Grass Fed Steak, Homemade Fries, Peppercorn Sauce — $32.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Plates",
+    "dish_name": "Pesto Rigatoni",
+    "description": "Spinach Basil Pesto, Pine Nuts, Roasted Garlic, Lemon Zest, Pistachio, Shaved Locatelli",
+    "price": "$24.00",
+    "declared_allergens": [
+      "tree nut"
+    ],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "rigatoni is a wheat pasta"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Pesto Rigatoni — Spinach Basil Pesto, Pine Nuts, Roasted Garlic, Lemon Zest, Pistachio, Shaved Locatelli — $24.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Plates",
+    "dish_name": "Short Rib Ragu",
+    "description": "Braised Short Rib Ragu, Toasted Fennel, Burrata, Black Pepper, fusilli (Add Grilled Chicken +6)",
+    "price": "$21.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "fusilli is a wheat pasta"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Short Rib Ragu — Braised Short Rib Ragu, Toasted Fennel, Burrata, Black Pepper, fusilli (Add Grilled Chicken +6) — $21.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Desserts",
+    "dish_name": "Chocolate Mousse",
+    "description": "Homemade Chocolate Mousse, Pistachios, Wild Berries",
+    "price": "$14.00",
+    "declared_allergens": [
+      "tree nut"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Chocolate Mousse — Homemade Chocolate Mousse, Pistachios, Wild Berries — $14.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Desserts",
+    "dish_name": "Key Lime Pie",
+    "description": "House made Key Lime Pie, Toasted Pillowed Marshmallow, Vanilla Ice Cream",
+    "price": "$14.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "pie crust is made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Key Lime Pie — House made Key Lime Pie, Toasted Pillowed Marshmallow, Vanilla Ice Cream — $14.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Café Maud",
+    "address": "132 2nd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+    },
+    "menu_section": "Desserts",
+    "dish_name": "Deep Fried Oreo",
+    "description": "Oreos Fried In Batter Drenched in Dulce De Leche Sauce and Powdered Sugar",
+    "price": "$14.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Oreo cookies and the frying batter are made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Deep Fried Oreo — Oreos Fried In Batter Drenched in Dulce De Leche Sauce and Powdered Sugar — $14.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  }
+]

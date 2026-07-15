@@ -1,0 +1,72 @@
+SOURCE URL: https://loongnoodle.com/menu
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Rendered text extracted via web fetch (static-content HTML render, appeared complete/non-JS-shell). Address confirmed as "28 St Marks Pl, New York, NY" directly on the menu page, matching target restaurant. Allergen words "peanut" and "wheat noodle" appear inline in dish descriptions as scraped (likely from menu item tags/labels on the ordering platform); treated as restaurant-declared since they are part of the official site's own item descriptions. No explicit cross-contact / shared-facility disclosure found anywhere on the page.
+
+=== RAW EXTRACTED CONTENT ===
+
+Loong Noodles Menu
+28 St Marks Pl, New York, NY
+Open now
+Pickup / Delivery
+
+## Most ordered
+- Beef Rice Noodle / 牛肉汤粉/面 $12.99
+- Dry Mixed Tomato and Egg Noodles / 西红柿鸡蛋拌粉/面 $12.99
+- Sesame Cold Noodle / 麻酱凉面 $10.99
+- Dry Mixed Beef Noodle / 牛肉干拌粉/面 $12.99
+- Cold Cucumber Salad / 凉拌黄瓜 $9.99
+- Wonton Soup / 清汤抄手 $9.99
+- Lamb Rice Noodle /羊肉汤粉/面 $12.99
+- Wan Za Dry / 秘制豌杂粉/面 $12.99
+
+## Soup Noodles / 汤粉 / 面
+- Beef Rice Noodle / 牛肉汤粉/面 $12.99 — Braised beef, bokchoy, Rice/wheat noodle. cilantro& scallion in homemade broth
+- Lamb Rice Noodle /羊肉汤粉/面 $12.99 — Sliced lamb, bokchoy, sauerkraut, Rice/wheat noodle. cilantro& scallion in homemade broth
+- Spicy Chicken Rice Noodle / 辣鸡汤粉/面 $12.99 — Stir-fried spicy chicken, bokchoy, Rice/wheat noodle. cilantro& scallion in homemade broth
+- Beef Tripe Rice Noodle / 牛肚汤粉/面 $12.99 — Beef tripe, bokchoy, Rice/wheat noodle. cilantro& scallion in homemade broth
+- Pork Intestine Rice Noodle / 肥肠汤粉/面 $12.99 — Pork intestine, bokchoy, Rice/wheat noodle. cilantro& scallion in homemade broth
+- Vegetable Noodle Soup/ 清汤素粉/面 $12.99 — Tofu, bokchoy, Rice/wheat noodle. cilantro& scallion in Veg broth
+- Tomato& Egg Noodle Soup / 西红柿鸡蛋汤粉/面 $12.99 — Tomato fried egg, bokchoy, Rice/wheat noodle. cilantro& scallion in homemade broth
+- Sauerkraut & Pork Rice Noodle Soup / 酸菜肉沫粉/面 $12.99 — Grand pork, sauerkraut, bokchoy, Rice/wheat noodle. cilantro& scallion in homemade broth
+
+## Dry Mixed Noodles / 干拌粉 / 面
+- Dry Mixed Beef Noodle / 牛肉干拌粉/面 $12.99 — Braised beef, bokchoy, Rice/wheat noodle. peanut. Cilantro& scallion in homemade soy sauce & chili oil
+- Dry Mixed Chicken Noodle / 干拌辣鸡粉/面 $12.99 — Stir-fried spicy chicken, bokchoy, Rice/wheat noodle. peanut. Cilantro& scallion in homemade soy sauce & chili oil
+- Dry Mixed Beef Tripe Noodle / 干拌牛肚粉/面 $12.99 — beef tripe, bokchoy, Rice/wheat noodle. peanut. Cilantro& scallion in homemade soy sauce & chili oil
+- Dry Mixed Pork Intestine Noodle / 干拌肥肠粉/面 $12.99 — Pork intestine, bokchoy, Rice/wheat noodle. peanut. Cilantro& scallion in homemade soy sauce & chili oil
+- Dry Mixed Tomato and Egg Noodles / 西红柿鸡蛋拌粉/面 $12.99 — Tomato fried Egg, bokchoy, Rice/wheat noodle. Cilantro& scallion in homemade soy sauce & chili oil
+- Wan Za Dry / 秘制豌杂粉/面 $12.99 — Peas, grand pork, bokchoy, Rice/wheat noodle. Cilantro& scallion in homemade soy sauce & chili oil& Sichuan peppercorn
+- Mapo Tofu Dry Noodle / 麻婆豆腐粉/面 $12.99 — spicy tofu, bokchoy, Rice/wheat noodle. Cilantro& scallion in homemade soy sauce & chili oil
+- Dry Mix Sauerkraut & Pork Rice Noodle / 干拌酸菜肉沫粉/面 $12.99 — Grand pork, sauerkraut, bokchoy, Rice/wheat noodle. peanut. Cilantro& scallion in homemade soy sauce & chili oil
+
+## Crispy Pot-Stickers / 脆皮煎饺
+- Pork / 猪肉脆皮煎饺 $9.99 — Pork& scallion homemade soy sauce& chili
+- Chicken / 鸡肉脆皮煎饺 $9.99 — chicken, homemade soy sauce& chili
+(Note: Toast platform lists an additional "Veg / 素脆皮煎饺" $9.99 — Chinese cabbage, glass noodle, mushroom, homemade soy sauce& chili — OUT OF STOCK at time of Toast access, not shown on loongnoodle.com listing)
+
+## Wontons / 抄手
+- Chili Wonton / 红油抄手 $9.99 — Handmade pork wontons w/scallion in homemade chili sauce
+- Wonton Soup / 清汤抄手 $9.99 — Handmade pork wontons w/scallion in homemade chicken broth
+
+## Cold Noodles / 凉面
+- Spicy Chicken Cold Noodle / 辣鸡凉面 $12.99 — Stir-fried spicy chicken. wheat noodle w/ fresh cucumber & scallion, peanut, in homemade sesame sauce
+- Sesame Cold Noodle / 麻酱凉面 $10.99 — Wheat noodle w/ fresh cucumber & scallion in homemade sesame sauce
+- Beef Cold Noodle / 牛肉凉面 $12.99 — Braised beef. wheat noodle w/ fresh cucumber & scallion, peanut, in homemade sesame sauce
+
+## Appetizer / 前菜
+- Chicken in Chili Oil / 口水鸡 $12.99 — Chicken, scallion& cilantro, peanut in chili oil sauce
+- Beef Tripe Salad / 凉拌牛肚 $12.99 — Beef tripe, scallion& cilantro, in chili oil sauce
+- Cold Cucumber Salad / 凉拌黄瓜 $9.99 — Cucumber in homemade scallion oil sauce
+- Shredded Potato Salad / 凉拌土豆丝 $9.99 — Shredded potato. scallion. vinegar, homemade soy sauce & chili oil
+- Scallion Pancake / 葱油饼 $7.99 — Scallion pancake with egg
+
+## Beverages / 饮品
+- Water / 矿泉水 $2.00
+- Soda / 碳酸饮料 $2.00
+- Sour Plum Drink / 酸梅汤 $3.00
+- Coconut Milk / 椰奶 $3.00
+- Vita Lemon Tea / 维他柠檬茶 $2.00
+- Herbal tea/王老吉 $2.00
+
+Footer: "Long Noodle INC 2026 All Rights Reserved" — confirms official ownership site (Owner.com platform).

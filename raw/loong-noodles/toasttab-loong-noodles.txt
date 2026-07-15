@@ -1,0 +1,22 @@
+SOURCE URL: https://order.toasttab.com/online/loong-noodles-28-saint-marks-place
+TIER: ordering
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Cross-check/secondary source only (menu_source used is the official loongnoodle.com/menu; this Toast page corroborates the same menu and address, and additionally lists Soup Combo/Dry Combo pricing ($20.00 versions of same dishes, likely include extra sides not detailed) and one additional item (Veg Crispy Pot-Sticker, out of stock at access time) not shown on official site. Not used as primary source since official site already covers matching or superset content for core dishes; combo items not separately normalized because they duplicate base dish allergen profile with unspecified add-ons.
+
+=== RAW EXTRACTED CONTENT (relevant excerpt) ===
+
+Loong Noodles 28 Saint Marks Place
+28 Saint Marks Place, New York, NY
+Delivery / Pickup
+Phone: (917) 409-0083
+Address link: 28 Saint Marks Place, New York, NY 10003
+
+Categories: Soup Combo/汤粉套餐, DryCombo/干拌粉套餐, Soup Noodles / 汤粉 / 面, Dry Mixed Noodles / 干拌粉 / 面, Crispy Pot-Stickers / 脆皮煎饺, Wontons in Chili Oil / 抄手, Cold Noodles / 凉面, Appetizer / 前菜, Beverages / 饮品
+
+Veg / 素脆皮煎饺 — Chinese cabbage, glass noodle, mushroom, homemade soy sauce& chili — OUT OF STOCK — $9.99
+
+Soup Combo items ($20.00 each): Beef Rice Noodle, Lamb Rice Noodle, Spicy Chicken Rice Noodle, Beef Tripe Rice Noodle, Pork Intestine Rice Noodle, Vegetable Noodle Soup, Tomato & Egg Noodle Soup, Sauerkraut & Pork Rice Noodle Soup (no additional description beyond base dish name; presumed larger portion / combo with side, description not disclosed)
+
+Dry Combo items ($20.00 each): Dry Mixed Beef Noodle, Dry Mixed Chicken Noodle, Dry Mixed Beef Tripe Noodle, Dry Mixed Pork Intestine Noodle, Dry Mixed Tomato and Egg Noodles, Wan Za Dry, Mapo Tofu Dry Noodle, Dry Mix Sauerkraut & Pork Rice Noodle (no additional description beyond base dish name)
+
+All other categories (Soup Noodles, Dry Mixed Noodles, Crispy Pot-Stickers, Wontons in Chili Oil, Cold Noodles, Appetizer, Beverages) match loongnoodle.com/menu content verbatim, confirming consistency between official site and Toast ordering platform for the same address.

@@ -1,0 +1,279 @@
+[
+  {
+    "restaurant_name": "Cello's Pizzeria",
+    "address": "36 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cellos-pizzeria/cellosnyc-menu-pdf.txt"},
+    "menu_section": "Pizza",
+    "dish_name": "Plain Pizza",
+    "description": "",
+    "price": "Whole $28.00 / Slice $4.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "high", "reason": "Pizza crust/dough is wheat-based per standard pizzeria preparation."}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Plain $28.00 (whole) / $4.00 (slice)",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cello's Pizzeria",
+    "address": "36 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cellos-pizzeria/cellosnyc-menu-pdf.txt"},
+    "menu_section": "Pizza",
+    "dish_name": "Pepperoni Pizza",
+    "description": "",
+    "price": "Whole $32.00 / Slice $4.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "high", "reason": "Pizza crust/dough is wheat-based per standard pizzeria preparation."}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Pepperoni $32.00 (whole) / $4.50 (slice)",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cello's Pizzeria",
+    "address": "36 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cellos-pizzeria/cellosnyc-menu-pdf.txt"},
+    "menu_section": "Pizza",
+    "dish_name": "Burrata Pizza",
+    "description": "",
+    "price": "Whole $35.00 / Slice $5.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "high", "reason": "Pizza crust/dough is wheat-based per standard pizzeria preparation."}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Burrata $35.00 (whole) / $5.00 (slice)",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cello's Pizzeria",
+    "address": "36 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cellos-pizzeria/cellosnyc-menu-pdf.txt"},
+    "menu_section": "Pizza",
+    "dish_name": "Chicory Pizza",
+    "description": "",
+    "price": "Whole $35.00 / Slice $5.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "high", "reason": "Pizza crust/dough is wheat-based per standard pizzeria preparation."}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chicory $35.00 (whole) / $5.00 (slice)",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cello's Pizzeria",
+    "address": "36 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cellos-pizzeria/cellosnyc-menu-pdf.txt"},
+    "menu_section": "Pizza",
+    "dish_name": "Margherita Pizza",
+    "description": "",
+    "price": "Whole $32.00 / Slice $4.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "high", "reason": "Pizza crust/dough is wheat-based per standard pizzeria preparation."}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Margherita $32.00 (whole) / $4.50 (slice)",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cello's Pizzeria",
+    "address": "36 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cellos-pizzeria/cellosnyc-menu-pdf.txt"},
+    "menu_section": "Pizza",
+    "dish_name": "Vodka Pizza",
+    "description": "",
+    "price": "Whole $32.00 / Slice $5.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "high", "reason": "Pizza crust/dough is wheat-based per standard pizzeria preparation."}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Vodka $32.00 (whole) / $5.00 (slice)",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cello's Pizzeria",
+    "address": "36 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cellos-pizzeria/cellosnyc-menu-pdf.txt"},
+    "menu_section": "Pizza",
+    "dish_name": "White Pizza",
+    "description": "",
+    "price": "Whole $29.00 / Slice $5.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "high", "reason": "Pizza crust/dough is wheat-based per standard pizzeria preparation."}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "White $29.00 (whole) / $5.00 (slice)",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cello's Pizzeria",
+    "address": "36 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cellos-pizzeria/cellosnyc-menu-pdf.txt"},
+    "menu_section": "Pizza",
+    "dish_name": "Pepperoni & Jalapeno Pizza",
+    "description": "",
+    "price": "Whole $35.00 / Slice $5.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "high", "reason": "Pizza crust/dough is wheat-based per standard pizzeria preparation."}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Pepperoni & Jalapeno $35.00 (whole) / $5.00 (slice)",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cello's Pizzeria",
+    "address": "36 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cellos-pizzeria/cellosnyc-menu-pdf.txt"},
+    "menu_section": "Pizza",
+    "dish_name": "Tomato Pizza",
+    "description": "",
+    "price": "Whole $28.00 / Slice $4.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "high", "reason": "Pizza crust/dough is wheat-based per standard pizzeria preparation."}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Tomato $28.00 (whole) / $4.00 (slice)",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cello's Pizzeria",
+    "address": "36 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cellos-pizzeria/cellosnyc-menu-pdf.txt"},
+    "menu_section": "Pizza",
+    "dish_name": "Square Pizza",
+    "description": "",
+    "price": "Whole $30.00 / Slice $4.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "high", "reason": "Pizza crust/dough is wheat-based per standard pizzeria preparation."}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Square $30.00 (whole) / $4.50 (slice)",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cello's Pizzeria",
+    "address": "36 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cellos-pizzeria/cellosnyc-menu-pdf.txt"},
+    "menu_section": "Pizza",
+    "dish_name": "Square Pepperoni Pizza",
+    "description": "",
+    "price": "Whole $32.00 / Slice $5.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "high", "reason": "Pizza crust/dough is wheat-based per standard pizzeria preparation."}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Square Pepperoni $32.00 (whole) / $5.00 (slice)",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cello's Pizzeria",
+    "address": "36 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cellos-pizzeria/cellosnyc-menu-pdf.txt"},
+    "menu_section": "Salads",
+    "dish_name": "Caesar Salad",
+    "description": "Romaine lettuce, housemade Caesar dressing.",
+    "price": "$10.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Caesar Salad - Romaine lettuce, housemade Caesar dressing - $10.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Cello's Pizzeria",
+    "address": "36 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cellos-pizzeria/cellosnyc-menu-pdf.txt"},
+    "menu_section": "Salads",
+    "dish_name": "House Salad",
+    "description": "Iceberg lettuce, roasted peppers, red onion, tomato, housemade vinaigrette.",
+    "price": "$9.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "House Salad - Iceberg lettuce, roasted peppers, red onion, tomato, housemade vinaigrette - $9.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Cello's Pizzeria",
+    "address": "36 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cellos-pizzeria/cellosnyc-menu-pdf.txt"},
+    "menu_section": "Salads",
+    "dish_name": "Antipasti Salad",
+    "description": "Iceberg lettuce, roasted peppers, red onion, tomato, salami, provolone, housemade vinaigrette.",
+    "price": "$12.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Antipasti Salad - Iceberg lettuce, roasted peppers, red onion, tomato, salami, provolone, housemade vinaigrette - $12.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Cello's Pizzeria",
+    "address": "36 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cellos-pizzeria/cellosnyc-menu-pdf.txt"},
+    "menu_section": "Beverages",
+    "dish_name": "Canned Soda (Coke, Diet Coke, Sprite, Root Beer, Club Soda)",
+    "description": "Assorted canned sodas.",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "COKE, DIET COKE, SPRITE, ROOT BEER, CLUB SODA - Cans - $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Cello's Pizzeria",
+    "address": "36 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cellos-pizzeria/cellosnyc-menu-pdf.txt"},
+    "menu_section": "Beverages",
+    "dish_name": "Mexican Coke",
+    "description": "Bottled Mexican Coke.",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "MEXICAN COKE - $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Cello's Pizzeria",
+    "address": "36 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {"url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/cellos-pizzeria/cellosnyc-menu-pdf.txt"},
+    "menu_section": "Beverages",
+    "dish_name": "Water",
+    "description": "Bottled water.",
+    "price": "$3.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "WATER - Bottles - $3.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  }
+]

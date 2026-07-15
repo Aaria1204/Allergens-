@@ -1,0 +1,39 @@
+SOURCE URL: https://www.baohaus.nyc/dinner
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Rendered as static HTML text via fetch (site is Squarespace); no allergen menu icons/footnotes present on this page (unlike the lunch page which has a peanut disclosure). No ingredient descriptions given beyond dish names/prices. Address/identity confirmed via homepage + press coverage of 2026 reopening at 97 St Marks Pl.
+
+BAOS (2 per plate)
+Chairman Bao $16
+Birdhaus Bao $16
+Mumbo Bird $17
+Mumbo Tofu $15
+Prime Brisket Bao $20
+Gundagai Lamb Bao $20
+Crispy Duck Bao $21
+
+SMALL
+Linda's #1 Tuna Tataki $29
+Pork Tyrone $20
+Mumbo Fried Cauliflower $18
+Smoked & Pickled Slaw w/ 3 Peppers $16
+Schmaltzy Snow Pea Shoots $16
+Oyster Sauce Eggplant $18
+Heirloom Tomato & Eggs $18
+Iberico Pork & Soy Sauce Pickles $17
+Spicy Preserved Radish, Baby Anchovy & Peanut Stir Fry $10
+
+MEDIUM
+Thrice Cooked Iberico Pork $27
+Prime Brisket w/ Sacha & 3 Peppers $28
+Ma Po Tofu w/ Brunoise Iberico Pork $23
+Kosher Vegetarian Crispy Soy Bean Ma Po Tofu $21
+Kung Pao Chicken Thighs $23
+
+LARGE
+Haus Fried Rice $25
+Ha Ha Grey Sole Fried Whole or Smoked & Shvitz'd $40
+Oil Poached Mumbo Halibut with Soy Bean Crisp $38
+Szechuan Roasted Lamb Shoulder $36
+Hakka Style Iberico Pork Belly $35
+Roasted Duck Leg w/ Pickled Mustard Greens $30

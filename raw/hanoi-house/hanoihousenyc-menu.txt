@@ -1,0 +1,254 @@
+SOURCE URL: https://www.hanoihousenyc.com/menu-hanoi-house/
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Rendered via web_fetch (static HTML extraction, no JS render needed - content was present in fetched HTML). Full dinner, brunch, happy hour, cocktails, beer, wine, and non-alcoholic drinks menu sections captured. Wine list is extensive with many individual bottles; consolidated into fewer records per project rules for beverages. General allergen disclaimer present on page (see below) but no per-dish allergen labeling beyond what's in dish names/descriptions.
+
+--- GENERAL ALLERGEN DISCLAIMER (appears twice on page, before Appetizers/Pho on Dinner menu and before Brunch Drinks) ---
+"If you have a food allergy, please notify your server! We have a small kitchen with shared work surfaces so we cannot guarantee that any dish is 100% allergen free. However we will do our absolute best to accommodate you."
+
+--- RAW EXTRACTED MENU TEXT ---
+
+## DINNER MENU
+
+### Appetizers
+
+- Papaya & Pig Ear Salad - Goi Du Du
+  Green papaya, watercress, crispy pig ear, herbs, peanuts, sweet soy dressing
+  $19
+
+- Poached Shrimp Salad - Goi Tom
+  With cabbage, grapefruit, herbs, candied cashews & coconut-lime dressing
+  $19
+
+- Sautéed Clams - Ngao Xao
+  Manila clams, stewed tomatoes, garlic, rau ram & a crispy breadstick
+  $20
+
+- Summer Rolls - Goi Cuon
+  Fresh rice paper wrapped around cucumber, lettuce, mint and thai basil with peanut-hoisin sauce
+  Pork Sausage, Tofu or One of Each - $12
+
+- Crispy Spring Rolls - Nem Ran
+  Crab & pork spring rolls with classic nuoc cham and herbs
+  $12
+
+- Lemongrass Chicken Wings - Canh Ga Chien
+  Crispy jumbo wings coated in fish sauce, palm sugar, chili & lemongrass topped with pickled jalapenos.
+  $19
+
+- Grilled Lamb Meatballs - Cuu La Lot
+  Charred lamb meatballs served with banh hoi noodle bundles, lettuce and herbs (contains peanuts)
+  $18
+
+- Grilled Shishito Peppers
+  With shrimp salt & lime
+  $13
+
+- Morning Glory - Rau Muong
+  Sautéed with garlic & fish sauce
+  $13
+
+- Spicy Garlic Cauliflower - Sup Lo Cay
+  Chili butter, fish sauce, lime
+  $14
+
+### Pho
+Our Northern Style pho is topped with cilantro, scallion & red onion, and accompanied by pickled garlic and our house chili sauce.
+
+- Classic Hanoi Style Beef - Pho Bac
+  24-hour heritage Black Angus beef broth. Rich & aromatic.
+  Choose your meats: Rare Filet Mignon* | Brisket | Oxtail | Tendon
+  Two Meats $20 / Three Meats $23 / Add Bone Marrow $7
+
+- House Special - Dac Biet
+  The works! Our classic 24-hour broth with filet mignon*, brisket, oxtail, bone marrow and a crispy breadstick.
+  $26
+
+- Chicken - Pho Ga
+  Pure chicken bliss
+  $18
+
+- Vegetarian - Pho Chay
+  Mushroom & ginger broth with leafy greens, cauliflower, mixed mushrooms and tofu
+  $19
+
+- Optional Pho Additions: Add Crispy Breadstick $2.50 / Add Extra Protein $4.50 / Add Vegetables $4 / Add Bone Marrow $9
+
+### Entrees
+
+- Grilled Pork Noodles - Bun Cha Ha Noi
+  Pork shoulder, betel-wrapped pork meatballs, crab spring rolls, pickled green papaya, rice vermicelli, smoky sweet broth
+  $25
+
+- Shaking Beef - Bo Luc Lac
+  Filet mignon, garlic-butter soy, bone marrow, watercress salad & steamed rice
+  $36
+
+- Braised Beef Banh Mi
+  Tender beef braised in pho broth, hoisin caramelized onions, charred chili sauce, cilantro & red onion on a toasted baguette with a side of pho broth for dipping.
+  $18
+
+### Extras
+
+- Pho Broth (Beef, Chicken, or Vegetarian) Small $6 / Large $12
+- Shrimp Chips - Banh Phong Tom, with chili salt, $2.25
+- Steamed Rice - Com, Small $2.50 / Large $4
+- Roasted Bone Marrow $9
+
+Footnote: *Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness
+
+## BRUNCH MENU (Available Sat & Sun until 3pm)
+"If you have a food allergy, please notify your server! We have a small kitchen with shared work surfaces so we cannot guarantee that any dish is 100% allergen free. However we will do our absolute best to accommodate you."
+
+### Brunch Drinks
+$2 off all cocktails, beer and wine by the glass! 20% off bottles of wine!
+
+### Appetizers (Brunch)
+
+- Pig Ear & Papaya Salad - Goi Du Du
+  Green papaya, watercress, crispy pig ears, herbs, peanuts, sweet soy dressing
+  $19
+
+- Poached Shrimp Salad - Goi Tom
+  With cabbage, grapefruit, herbs, candied cashews & coconut-lime dressing
+  $19
+
+- Crispy Spring Rolls - Nem Ran
+  Crab & pork spring rolls with classic nuoc cham and herbs
+  $12
+
+- Sautéed Clams - Ngao Xao
+  Manila clams, stewed tomatoes, garlic, anchovy, herbs & a crispy breadstick
+  $20
+
+- Summer Rolls - Goi Cuon
+  Fresh rice paper wrapped around cucumber, lettuce, mint, thai basil & crispy wonton with peanut-hoisin sauce
+  Pork Sausage, Tofu or One of Each $12
+
+- Grilled Lamb Meatballs 'La Lot' - Cuu La Lot
+  Charred lamb meatballs served with banh hoi noodle bundles, lettuce and herbs (contains peanuts).
+  $18
+
+- Grilled Shishito Peppers, with shrimp salt & lime, $13
+- Morning Glory - Rau Muong (aka Water Spinach), sauteed with garlic & fish sauce, $13
+- Spicy Garlic Cauliflower - Sup Lo Cay, Chili butter, fish sauce, lime, $14
+
+### Pho (Brunch)
+All pho is served with banh pho rice noodles and topped with cilantro, scallion & red onion. Pickled garlic & our housemade chili sauce are served on the side.
+
+- Classic Hanoi Style Beef - Pho Bac, Two Meats $20 / Three Meats $23 / Add Bone Marrow $7
+- House Special - Pho Dac Biet, The works! Classic Hanoi style beef with rare filet mignon*, oxtail, brisket, roasted bone marrow & a crispy breadstick. No substitutions please. $26
+- Chicken - Pho Ga, Pure chicken bliss. $18
+- Vegetarian - Pho Chay, Mushroom & ginger broth with leafy greens, cauliflower, mixed mushrooms and puffed tofu. $19
+- Optional Pho Additions: Add Crispy Breadstick $2.50 / Add Vegetables $4 / Add Extra Protein $4.50
+- Pho Broth (Beef, Chicken, or Vegetarian) Small $6 / Large $11
+
+### Entrees & Sandwiches (Brunch)
+
+- Grilled Pork Noodles - Bun Cha Ha Noi
+  Pork shoulder, betel-wrapped pork meatballs, crab spring rolls, pickled green papaya, rice vermicelli, smoky sweet broth
+  $24
+
+- Shaking Beef - Bo Luc Lac
+  Filet mignon, garlic-butter soy, roasted bone marrow, watercress salad & steamed rice
+  $36
+
+- Classic Banh Mi
+  Housemade charcuterie including pork shoulder, pork belly & classic pate with pickled vegetables, and jalapeno on a toasted baguette
+  $15
+
+- Vegetarian Banh Mi
+  Soy-marinated tofu, mushroom pate, chickpea aioli, pickled vegetables, cilantro & jalapeno on a toasted baguette. (Vegan)
+  $15
+
+- Braised Beef Banh Mi
+  Tender beef braised in pho broth, hoisin-caramelized onions, smoked chili sauce & cilantro on a baguette with a cup of pho broth for dipping
+  $18
+
+Footnote: *Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness
+
+### Extras (Brunch)
+- Shrimp Chips - Banh Phong Tom, with chili salt, $2.25
+- Steamed Rice - Com, Small $2.50 / Large $4
+- Pho Broth (Beef, Chicken, or Vegetarian) Small $6 / Large $11
+- Roasted Bone Marrow $9
+
+## HAPPY HOUR (Friday 4:30pm-7pm; Saturday & Sunday 3pm-5:30pm)
+
+### Cocktails
+- Cocktails $11: Spicy Lychee Martini, Margarita, Spritz, Espresso Martini
+- Cocktails $12.5: Bamboozled, Hugo Spritz, Mezcal Margarita, Old Fashioned
+
+### Wine
+- Sparkling, Rose, White or Red - $10
+
+### Beer
+- On Draft: House Lager $6, Rotating IPA $9
+- Beer & Shot $12
+
+### Snacks
+- Crispy Spring Rolls - Crab & pork spring rolls with classic nuoc cham and herbs, $12
+- Spicy Garlic Cauliflower - Chili butter, fish sauce, lime, $14
+- Shrimp Chips - With chili salt, $1.50
+
+## COCKTAILS (Full price, dinner menu)
+- Viet 75 - Gin, lime cordial, sparkling wine, $17
+- Bamboozled - Gin, grapefruit, bamboo rice, coconut, $17
+- Spicy Lychee - Chili vodka, lychee liqueur, lime, thai chili, $17
+- Grandpa's Paloma - Catedral Mezcal, Mezzoti aperitif, orange, lime, soda, $17
+- Pep Pep Hooray - Tequila, orange liqueur, bell pepper syrup, jalapeño, lime, $18
+- Longan for A Good Time - Whiskey, pineapple liqueur, dried longan. Stirred and boozy. $18
+- Dirty Word - Gin, chartreuse, passion fruit, barrel-aged fish sauce. If a dirty martini and a last word had a baby that identified as an anchovy. $19
+
+## BEER & CIDER
+### Draft
+- Bia Hoi - House Lager. Light, refreshing & easy drinking. Regular $8
+- Rotating IPA - New England-style hazy IPA from local breweries. Price Varies
+- Wild Ale - Plan Bee 'Barn Beer' - 100% NY ingredient wild Farmhouse Ale, $16
+- Pilsner - OEC 'Manarola' - Crisp and refreshing with a touch of lemon and sea salt, $13
+
+### Bottles & Cans
+- Lager - '333' Premium Export, Ho Chi Minh City VN, $9
+- Cider - Brooklyn Cider House 'Kinda Dry', 12oz can, $9
+- Guava Gose - Collective Arts, 12oz can, $10
+- Czech Dark Lager - OEC 'Coolship Black Lager', 16oz can, $12
+- KCBC 'Zoktoberfest' Marzen Lager, $13
+- KCBC 'Gulp Fiction' DIPA, $13
+- Hudson Valley Brewery 'Pink Lemonade Silhouette' Sour IPA, $14
+
+## WINE
+### Sparkling
+- Prosecco - Vigneti del Sole, Veneto IT NV, Glass $13 / Bottle $52
+- Crémant - Domaine Collin Cuvee Brut, Limoux FR NV, Bottle $50
+- Cabernet Franc Rose Pet Nat - Field Recordings, Paso Robles CA 2022, $51
+- Semillon Pet Nat - Chateau Barouillet 'Splash', Southwest FR 2022, $49
+- Cabernet Sauvignon & Malbec Pet Nat - Cacique Maravilla Chacoli Negro, Sur CL 2023, $46
+
+### White
+- Albarino - Benito Santos, Rias Baixas ES 2024, Glass $13 / Bottle $52
+- Pinot Grigio - Cora, Abruzzo IT 2024, Glass $12 / Bottle $48
+- Gruner Veltliner - Jurtschitsch 'Urgestein', Kamptal AT 2023, Bottle $48
+- Sauvignon Blanc - Lauverjat, Sancerre FR 2024, Bottle $69
+- Chenin Blanc - Francois Pinon 'Trois Argiles', Vouvray FR 2019, Bottle $72
+- Chardonnay - Domaine Eden, Santa Cruz CA 2020, Bottle $79
+
+### Rose & Orange
+- Grenach & Syrah (Rose) - Domaine Bieler Pere & Fils 'Sabine', Provence FR 2024, Glass $11 / Bottle $44
+- Pinot Gris & Chardonnay (Orange) - Field Recordings, Central Coast CA NV, Glass $13
+- Catarratto Bianco (Orange) - Salvatore Marino 'Turi', Terre Sicilane IT 2023, Bottle $51
+- Moscatel (Orange) - Rogue Vine 'Jamon Jamon', Itata Valley CL 2022, $53
+- Montepulciano (Natural Rose) - Andrea Pilar 'Bocca dei Fossi', Umbria IT 2024, Bottle $59
+
+### Red
+- Ciliegiolo (Natural) - Andrea Pilar, Umbria IT 2022, Glass $15 / Bottle $60
+- Cabernet Sauvignon - Johnson Family, Sonoma County CA 2021, Glass $14 / Bottle $56
+- Pinot Noir (Natural) - Staffelter Hof 'Little Red Riding Wolf', Mosel GE 2020, Bottle $65
+- Carignan & Zinfandel (Natural) - Las Jaras 'Sweet Berry Wine', Sebastopol CA 2019, Bottle $69
+
+## NON-ALCOHOLIC DRINKS
+- Vietnamese Coffee - Strong dark roast with condensed milk. Hot $5 / Iced $6
+- Egg Coffee - Whipped egg custard over strong Vietnamese coffee. Hot or Cold! $8.50
+- Salted Lime Soda (aka Soda Chanh) - Preserved limes, lime cordial, fresh lime juice & club soda. $7
+- Tamarind Ginger Soda - Tart, spicy & refreshing. Made in house with pressed ginger juice, tamarind and sparkling water. $7
+- Iced Mango Tea - Black tea brewed with mango. Unsweetened. $5
+- Pot of Hot Tea - Mango Black $8 / Coconut-Lemongrass Green $8 / Peppermint-Ginger Herbal $8

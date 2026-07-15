@@ -1,0 +1,23 @@
+{
+  "restaurant_name": "Little Kirin",
+  "address": "81 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.eatlittlekirin.com/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Homepage embeds full menu content (sandwiches, rice bowls, snacks, breakfast) with prices and descriptions; address in footer confirms 81 St. Marks Place, NY NY, 10003. No ingredient-level allergen icons beyond one 'gluten-free upon request' note on the Sweet Chili Tofu Bowl."
+    }
+  ],
+  "menu_source": {
+    "url": "https://www.eatlittlekirin.com/",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/little-kirin/eatlittlekirin-menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": false,
+  "status": "complete",
+  "notes": "Restaurant cuisine is Asian-fusion sandwiches/rice bowls (not sushi/Japanese as initially guessed) - menu tagline 'Badass Asian Food, Sandwiches/Rice Bowls/Salads'. No peanut or tree nut ingredients/mentions found anywhere on the menu. Gluten inferences based on wheat breads (ciabatta, brioche, mantou buns), panko breading, macaroni, and sauces commonly containing wheat (hoisin, soy-based braises)."
+}

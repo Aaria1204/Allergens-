@@ -1,0 +1,114 @@
+SOURCE URL: https://pos.chowbus.com/online-ordering/store/Mountain-House-East-Village-NEW/22942
+TIER: ordering (restaurant-controlled Chowbus POS ordering page)
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Fetched via non-rendered web fetch (mcp__workspace__web_fetch); page returned full text content without needing JS rendering escalation. Prices/descriptions as shown; some items lack English descriptions (only Chinese name + translit name). Address confirmed on page: "23 Saint Marks Place, New York, NY, 10003" matching target restaurant "Mountain House East Village". Note: business is also known/branded as "Szechuan Mountain House" (same location, same address, per Yelp/Grubhub/Seamless listings cross-checked in search results).
+
+=== RAW EXTRACTED TEXT ===
+
+Mountain House East Village NEW
+23 Saint Marks Place
+New York, NY, 10003
++1 (917) 388-3866
+
+Hours: MON 11:30 AM - 10:00 PM, TUE 11:30 AM - 10:00 PM, WED 11:30 AM - 10:00 PM, THU 11:30 AM - 10:00 PM, FRI 11:30 AM - 11:00 PM, SAT 11:30 AM - 11:00 PM, SUN 11:30 AM - 10:00 PM
+
+--- Cold Dish ---
+swing pork belly 晾衣白肉 Thin Sliced Pork Belly with Cucumber - $15.95
+fu-qi special 夫妻肺片 Sliced Beef Offals in Chili Oil - $14.95
+house chicken 川山甲跳水鸡 Poached Chicken with Chili Sauce and Peanut on Top - $14.95
+green pepper beef tripe 鲜椒草原肚 Beef Tripes in Szechuan Peppercorn-Chili Dressing - $13.95
+pickled chicken feet 老坛子泡椒凤爪 with Szechuan Chili Peppers - $11.95
+okra salad 椒汁凉拌秋葵 with Special Chili Sauce - $11.95
+pepper beef tongue 椒香牛舌 Thin Slices of Beef Tongue with Green Chili on Top - $16.95
+mung bean jelly 凉粉 - $11.95
+szechuan pickles 四川泡菜 (外卖/takeout) - $7.95
+bamboo grove trio 竹林三贤 Duck Tongue, Poached Chicken, Bamboo Shoots - $16.95
+
+--- House Signature ---
+la-zi chicken 川山甲辣子鸡 Stir-Fried Diced Chicken With Dried Red Chili Peppers - $21.95
+stone pot green pepper fish 石锅青椒鱼 Stewed Whole Bamboo Fish With Wild Pepper - $48.95
+mao xue wang 金牌毛血旺 Blood Curd, Tripe & Intestine In Spicy Chili Oil Broth - $31.95
+beef slices in spicy sour soup 金针酸汤肥牛 Beef And Enoki Mushroom In Sour Cabbage Soup - $28.95
+spicy frog lover 舌尖上的蛙跳 Frog Meat Braised In a Spicy Chili Broth - $38.95
+ma-po tofu 麻婆豆腐 Silky Tofu & Minced Beef Braised In Spicy Chili Sauce - $16.95
+fish in sour cabbage soup 老坛酸菜鱼 - $32.95+
+green spicy bass 鲜辣韭香鲈鱼 Spicy Steamed Bass With Chinese Leek On Top - $41.95
+pepper lover 小米辣爱上小公鸡 Stir-Fried Diced Chicken With Mixed Chili Peppers - $25.95
+ma-la dungeness crab 川山甲香辣大蟹 Dungeness Crab Stir-Fried With Dried Chili Pepper - $77.95
+house steamed crab 荷香糯米蒸大蟹 Dungeness Crab & Sticky Rice Wrapped In Lotus Leaves - $82.95
+crispy sizzling tofu 包浆脆滑豆腐 Pan-Fried Tofu With Crispy Crust And Tender Inside - $22.95
+
+--- Modernist Cuisine ---
+pickled pepper fish 泡椒跳水鱼 Perch Fish - $34.95
+claypot beef w. potatoes 酒香牛腩小土豆 Claypot Wine Beef With Small Potatoes - $26.95
+diced chicken with lotus roots 藕椒鸡 With Mixed Chili Pepper - $24.95
+fish fillet with crispy rice 冲浪脆米鱼片 Fish filet with Crispy Rice in Chicken Soup - $35.95
+teppan shrimp 铁板蒜香虾 Pan-Fried Shrimp Flavored With Garlic Sauce - $25.95
+house tomato fish stew 番茄酸汤鱼 - $32.95+
+sweet & sour pork 糖醋里脊 Fried Tenderloin With Sweet & Sour Sauce - $21.95
+salted egg yolk corns 咸蛋黄焗玉米粒 Golden Baked Corn Kernels With Salted Egg Yolk - $17.95
+sliced beef with chili sauce 小炒黄牛肉 - $25.95
+hot triple crisp 火爆三脆 - $26.95
+
+--- Traditional Cuisine ---
+traditional beef treasure soup 跷脚牛三宝 Traditional Beef Shank And Entrails Soup - $26.95
+green pepper eel 青椒鳝鱼 - $31.95
+pepper rabbit meat 尖叫的兔子 Stir-Fried Spicy Rabbit Meat With Hot Pepper - $24.95
+pork in garlic sauce 鱼香肉丝 Szechuan Shredded Pork In Spicy Garlic Sauce - $17.95
+ma-la boiled beef 水煮牛肉 Beef Slice With Red Chili Oil & Peppercorn - $25.95
+kung pao chicken 宫保鸡丁 Stir-Fried With Chili Pepper & Peanuts - $17.95
+szechuan double cooked pork 盐菜回锅肉 Pork Belly, Chinese Leek & Chili Pepper - $18.95
+green pepper pork 家乡小炒肉 Sauteed Sliced Pork With Green Pepper - $18.95
+county braised pork 乡土烧白 Pork Belly With Szechuan Dried Pickle - $20.95
+pickled rabbit meat 鲜辣馋嘴兔子 Rabbit Meat Braised In Pickled Pepper Broth - $25.95
+
+--- Ma-La Szechuan ---
+green pepper mao xue wang 青一色毛血旺 Blood Curd, Tripe & Intestine In Green Pepper Broth - $31.95
+ma-po style pork blood & brains 血旺脑花豆腐 Ma-Po Style Pork Blood And Brains - $24.95
+ma-la pork intestine 香辣诱惑肥肠 Stir-Fried Pork Intestine With Dried Chili Pepper - $24.95
+ma-ma hot fish 麻麻藤椒鱼 - $32.95+
+hot spicy pork kidney 麻辣双椒腰花 Stir-Fried Pork Intestine With Dried Chili Pepper - $23.95
+peppercorn beef 花椒牛肉 Beef Tenderloin In Szechuan Peppercorn Broth - $25.95
+signature chicken stew 袍哥拿手烧鸡公 Chicken With Seasonal Vegetables In Spicy Chili Broth - $28.95
+jiang stew fish 江北水煮鱼 - $32.95+
+ma-la lobster 麻辣龙虾 Stir-Fried Lobster With Dried Pepper & Peppercorn - $51.95
+fried shredded eel 干香鳝丝 Deep-Fried Shredded Eel With Chili Pepper & Celery - $31.95
+pickled pepper frog 泡椒田鸡 Frog Meat Braised With Pickled Chili Pepper - $38.95
+ma-la prawns 香辣大虾 Stir-Fried Shell-On Shrimp With Dried Chili & Peppercorn - $24.95
+
+--- Vegetables ---
+stir-fried cabbage 干锅手撕包菜 - $16.95
+stir-fried lotus roots & celery 荷塘翠玉 - $16.95
+sauteed shredded potato 酸辣土豆丝 - $15.95
+sauteed water spinach 清炒空心菜 - $17.95
+sauteed chinese long beans with eggplant 豆角烧茄子 - $16.95
+stir-fried cauliflower 干锅花菜 - $16.95
+stir-fried chinese long beans 干煸四季豆 - $15.95
+stir-fried pea shoot 清炒豆苗 - $20.95
+
+--- Soup ---
+house special pig trotters soup 老妈蹄花汤 - $22.95
+minced beef & egg drop soup 西湖牛肉羹 - $17.95
+seafood hot and sour soup 海鲜酸辣汤 - $19.95
+mix herbal chicken soup 药膳竹荪鸡汤 - $26.95
+
+--- Rice/Noodle ---
+white rice 白饭 - $2.00
+fried rice with szechuan pickles bacon 泡菜腊肉炒饭 - $18.95
+beef fried rice 绝味牛肉饭 - $20.95
+fried rice with szechuan special greens 芽菜蛋炒饭 - $15.95
+szechuan style fried noodle 川西炒面 - $17.95
+dumpling in chili oil 红油抄手 - $11.95
+beef and porcini mushroom bibimbap 牛肝菌拌饭 - $25.95
+
+--- Dessert ---
+sweet drunken jelly 花田醉冰粉 - $9.00
+sesame rice ball in osmanthus soup (vegetarian) 桂花醪糟芝麻汤圆（素） - $11.95
+jasmine farewell 茉离 - $11.00
+
+--- Szechuan Street Food ---
+yibin style ran noodles 宜宾燃面 Freshly Boiled Thin Noodles in Spicy Sauce - $15.95
+dumplings in chili oil 红油抄手 Dumplings in Chili Oil - $11.95
+chicken mushroom wontons 菌菇鸡汤抄手 - $11.95
+
+=== END RAW TEXT ===

@@ -1,0 +1,34 @@
+SOURCE URL: https://www.baohaus.nyc/dinner-1
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Rendered as static HTML text via fetch (site is Squarespace). Page includes an explicit restaurant disclosure for baos: "All baos contain peanuts, but can be served without by request." No other ingredient descriptions given beyond dish names/prices. Address/identity confirmed via homepage + press coverage of 2026 reopening at 97 St Marks Pl.
+
+BAOS (2 per plate)
+Fried Hake 18
+Crispy Duck 21
+Chairman 16
+Birdhaus 16
+Mumbo Bird 17
+Mumbo Eggplant 17
+All baos contain peanuts, but can be served without by request
+
+SMALL
+Taiwanese Chicharron 21
+Silk Road Fritto Misto 23
+Mumbo Fried Cauliflower 18
+Smoked & Pickled Slaw w/ 3 Peppers 16
+Green Tomato & Cucumber Summer Salad 17
+Junghwa (Korean-Chinese) Eggplant 20
+
+MEDIUM
+Taiwanese Prime Beef Noodle Soup 26
+Creamy Fermented Chili Orechiette All'Assassina 30
+Whole Grilled Squid w/ Ink Lo Mein 38
+Ma Po Gnocchi w/ Iberico Pork & Torched Mozzarella 29
+Peanut Sesame Noodles w/ Chicken 25
+
+LARGE
+Linda's #1 Tuna T-Bone Steak 34
+Freaked Out Chicken Thigh Parmesan 30
+Happy Accident Mumbo Hake w/ Soy Bean Crisp 32
+Hand Cut Prime Delmonico Steak w/ Beijing Peanut Chimichurri 50

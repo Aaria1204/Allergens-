@@ -1,0 +1,36 @@
+{
+  "restaurant_name": "Mokyo",
+  "address": "109 St Marks Pl, New York, NY 10009, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.mokyony.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Landing page with links to two PDFs (dinner menu, drink menu); no dish text on the page itself."
+    },
+    {
+      "url": "https://www.mokyony.com/_files/ugd/1d3301_9b4bdbd3d05f4462a7a3257b91ec3d06.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Dish names and prices extracted as two separate ordered blocks; positionally matched (counts align 15 dishes / 15 prices, plus 2 desserts and 1 beverage line). No allergen labels beyond a general allergy-notification disclaimer."
+    },
+    {
+      "url": "https://www.mokyony.com/_files/ugd/1d3301_95968d26ba6f41cf8ba7ee409d562b4f.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Drink menu categories clearly legible (sake, korean spirit, beer, wine, cocktail, non-alcohol); per-item price/row alignment imprecise in places, but sufficient to identify beverage categories, which the project consolidates per category rather than per flavor."
+    }
+  ],
+  "menu_source": {
+    "url": "https://www.mokyony.com/_files/ugd/1d3301_9b4bdbd3d05f4462a7a3257b91ec3d06.pdf",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/mokyo/dinner-menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": false,
+  "status": "complete"
+}

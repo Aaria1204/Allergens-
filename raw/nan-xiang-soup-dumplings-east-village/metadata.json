@@ -1,0 +1,57 @@
+{
+  "restaurant_name": "Nan Xiang Soup Dumplings - East Village",
+  "address": "15 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://nanxiangxiaolongbao.com/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T17:30:00Z",
+      "usable": false,
+      "limitation": "Corporate homepage lists all 9+ Nan Xiang locations (confirmed East Village at 15 St. Marks Place, Tel: 212.970.8788, distinct from Flushing at 39-16 Prince Street and Koreatown at 24 W 33rd St) but provides no itemized, location-specific menu content on this page."
+    },
+    {
+      "url": "https://nanxiangxiaolongbao.com/menu/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T17:31:00Z",
+      "usable": false,
+      "limitation": "Page returned an effectively empty JS shell on fetch; no menu text rendered and no location selector content retrievable via non-browser fetch. Not escalated to browser rendering because a usable ordering-tier source (order.online/DoorDash storefront) was already found with explicit location verification."
+    },
+    {
+      "url": "https://www.grubhub.com/restaurant/nan-xiang-soup-dumplings-15-saint-marks-place-new-york/8568080",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T17:32:00Z",
+      "usable": false,
+      "limitation": "Grubhub page requires JavaScript; fetch returned only a 'No JavaScript' notice with no menu content."
+    },
+    {
+      "url": "https://www.doordash.com/store/nan-xiang-soup-dumplings---east-village-new-york-29697125/",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T17:33:00Z",
+      "usable": true,
+      "limitation": "Non-browser fetch returned category names and a 'Featured Items' price list (partial SSR), but did not expose full per-category item descriptions. Superseded by the mirrored order.online storefront (same store ID 29697125), which was rendered via browser and yielded complete category-by-category item descriptions."
+    },
+    {
+      "url": "https://custom.order.online/store/nan-xiang-soup-dumplings-east-village-29697125",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T18:00:00Z",
+      "usable": true,
+      "limitation": "DoorDash-powered white-label storefront for the same store ID as the DoorDash listing above; required browser rendering (lazy-loaded sections) to extract full menu text. No cross-contact/allergen facility disclosure present."
+    },
+    {
+      "url": "https://www.yelp.com/biz/nan-xiang-soup-dumplings-east-village-new-york-4",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T17:35:00Z",
+      "usable": false,
+      "limitation": "Not needed / not pursued further — fetch returned empty content and a usable ordering-tier source was already secured; kept as last-resort fallback only per source tier order."
+    }
+  ],
+  "menu_source": {
+    "url": "https://custom.order.online/store/nan-xiang-soup-dumplings-east-village-29697125",
+    "tier": "ordering",
+    "accessed_at": "2026-07-14T18:00:00Z",
+    "local_artifact": "raw/nan-xiang-soup-dumplings-east-village/order-online-menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "identity_verification_notes": "Storefront page header/address block reads '15 Saint Marks Pl, New York NY 10003-7842, United States', an exact match to the target address. The chain's official corporate site (nanxiangxiaolongbao.com) separately lists 'Manhattan at East Village Tel: 212.970.8788, 15 St. Marks Place, New York, NY 10003' as a distinct location from Flushing (39-16 Prince Street, Tel: 718.321.3838) and Koreatown (24 W 33rd Street, Tel: 212.970.3888), confirming no cross-location mixup occurred.",
+  "manual_review_flag": false
+}

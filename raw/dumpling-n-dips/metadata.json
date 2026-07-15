@@ -1,0 +1,29 @@
+{
+  "restaurant_name": "Dumpling N' Dips",
+  "address": "5 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.dumplingndips.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "This page is a photo gallery / Instagram tag-and-share page with location and hours only; no menu items or allergen info."
+    },
+    {
+      "url": "https://www.dumplingndips.com/onlinemenu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Complete dish list with explicit per-dish 'Contains' allergen statements and descriptions, but no menu prices shown on this static page (pricing lives behind the embedded Grubhub/dine.online ordering widget, not separately rendered). Some combo/platter items reference component dumplings' allergen declarations rather than restating them directly."
+    }
+  ],
+  "menu_source": {
+    "url": "https://www.dumplingndips.com/onlinemenu",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/dumpling-n-dips/onlinemenu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": false,
+  "status": "complete"
+}

@@ -1,0 +1,80 @@
+SOURCE URL: https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf (linked from official site https://www.cellosnyc.com/)
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: PDF text extraction returned text out of visual layout order (columns/rows flattened into sequential blocks of numbers then names). Pizza section lists 11 pizza names and two blocks of 11 prices each (interpreted as Whole Pie block then Slice block, matched by position/order — exact per-pizza price pairing is a reasonable but not 100% certain reconstruction given the flattened PDF text). No ingredient/allergen disclosures found anywhere in the PDF. No pasta, garlic knots, or dessert sections found on this menu — it appears to be a pizza/salad/beverage-only menu (slice shop style).
+
+RAW EXTRACTED TEXT (as returned by PDF fetch, unedited):
+
+$3.50
+$4.50
+$3.00
+COKE,DIETCOKE,SPRITE,ROOTBEER,CLUBSODA
+Cans
+MEXICANCOKE
+WATER
+Bottles
+BEVERAGES
+$10.00
+$9.00
+$12.00
+ROMAINELETTUCE,
+HOUSEMADECAESARDRESSING
+CaesarSalad
+ICEBERGLETTUCE,ROASTEDPEPPERS,REDONION,
+TOMATO,HOUSEMADEVINAIGRETTE
+HouseSalad
+ICEBERGLETTUCE,ROASTEDPEPPERS,REDONION,
+TOMATO,SALAMI,PROVOLONE,HOUSEMADEVINAIGRETTE
+AntipastiSalad
+SALADS
+$28.00
+$32.00
+$35.00
+$35.00
+$32.00
+$32.00
+$29.00
+$35.00
+$28.00
+$30.00
+$32.00
+$4.00
+$4.50
+$5.00
+$5.00
+$4.50
+$5.00
+$5.00
+$5.00
+$4.00
+$4.50
+$5.00
+Plain
+Pepperoni
+Burrata
+Chicory
+Margherita
+Vodka
+White
+Pepperoni&Jalapeno
+Tomato
+Square
+SquarePepperoni
+PIZZA SLICE WHOLEPIE
+CELLO'SPIZZA
+9174751637
+36STMARKSPLNEWYORK,NY10003
+CELLOSNYC.COM
+
+INTERPRETED PRICE MAPPING (order-matched from PDF, whole-pie price then slice price, both listed in the order names appear):
+Plain: Whole $28.00 / Slice $4.00
+Pepperoni: Whole $32.00 / Slice $4.50
+Burrata: Whole $35.00 / Slice $5.00
+Chicory: Whole $35.00 / Slice $5.00
+Margherita: Whole $32.00 / Slice $4.50
+Vodka: Whole $32.00 / Slice $5.00
+White: Whole $29.00 / Slice $5.00
+Pepperoni & Jalapeno: Whole $35.00 / Slice $5.00
+Tomato: Whole $28.00 / Slice $4.00
+Square: Whole $30.00 / Slice $4.50
+Square Pepperoni: Whole $32.00 / Slice $5.00

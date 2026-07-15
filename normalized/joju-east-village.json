@@ -1,0 +1,494 @@
+[
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Sandwiches, Rice Bowls, Salads - Step 1 Style",
+    "dish_name": "Sandwich (base)",
+    "description": "toasted baguette with mayonnaise, cucumber, pickled daikon-carrot, cilantro",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Served on a toasted baguette, which is wheat bread."
+      }
+    ],
+    "source_text": "SANDWICHES — toasted baguette with mayonnaise, cucumber, pickled daikon-carrot, cilantro",
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Sandwiches, Rice Bowls, Salads - Step 1 Style",
+    "dish_name": "Rice Bowl (base)",
+    "description": "white or brown rice, with pickled red onions, cucumber, pickled daikon-carrot, cilantro, house sauce, fried shallots",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Includes house sauce, which per the menu footnote contains soy sauce; soy sauce commonly contains wheat."
+      }
+    ],
+    "source_text": "RICE BOWLS (WHITE OR BROWN RICE) — with pickled red onions, cucumber, pickled daikon-carrot, cilantro, house sauce*, fried shallots",
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Sandwiches, Rice Bowls, Salads - Step 1 Style",
+    "dish_name": "Thinly Shredded Cabbage Salad (base)",
+    "description": "with pickled red onions, cucumber, pickled daikon-carrot, cilantro, house sauce, fried shallots",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Includes house sauce, which per the menu footnote contains soy sauce; soy sauce commonly contains wheat."
+      }
+    ],
+    "source_text": "THINLY SHREDDED CABBAGE SALAD — with pickled red onions, cucumber, pickled daikon-carrot, cilantro, house sauce*, fried shallots",
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Step 2: Pick a Protein",
+    "dish_name": "The Sweet (JOJU) protein",
+    "description": "classic Vietnamese hams & headcheese, pâté, and caramel pork (sandwiches only)",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "source_text": "THE SWEET (JOJU) (sandwiches only) — classic Vietnamese hams & headcheese, pâté, and caramel pork",
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Step 2: Pick a Protein",
+    "dish_name": "Lemongrass Chicken protein",
+    "description": "24-hour marinated dark meat in lemongrass sauce",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "source_text": "LEMONGRASS CHICKEN — 24-hour marinated dark meat in lemongrass sauce",
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Step 2: Pick a Protein",
+    "dish_name": "BBQ Pork protein",
+    "description": "sliced barbecue pork patties",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "source_text": "BBQ PORK — sliced barbecue pork patties",
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Step 2: Pick a Protein",
+    "dish_name": "Beef Bulgogi protein",
+    "description": "Korean-style, thin cut marinated ribeye beef w/ mild kimchi",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Bulgogi marinade is commonly soy-sauce based; soy sauce commonly contains wheat."
+      }
+    ],
+    "source_text": "BEEF BULGOGI — Korean-style, thin cut marinated ribeye beef w/ mild kimchi",
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Step 2: Pick a Protein",
+    "dish_name": "Vietnamese Caramel Pork protein",
+    "description": "pork glazed w/ sweet & savory Vietnamese caramel pork",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "low",
+        "reason": "Savory caramel glazes in Vietnamese cooking sometimes include fish or soy sauce, but no ingredient is stated; weak clue only."
+      }
+    ],
+    "source_text": "VIETNAMESE CARAMEL PORK — pork glazed w/ sweet & savory Vietnamese caramel pork",
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Step 2: Pick a Protein",
+    "dish_name": "Mock Vegetarian Ginger Beef protein",
+    "description": "sautéed \"beef\" made of soy and tofu (sandwiches only)",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "source_text": "MOCK VEGETARIAN GINGER BEEF (sandwiches only) — sautéed \"beef\" made of soy and tofu",
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Step 2: Pick a Protein",
+    "dish_name": "Mock Vegetarian Ham protein",
+    "description": "slices of mock ham made of tofu (sandwiches only)",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "source_text": "MOCK VEGETARIAN HAM (sandwiches only) — slices of mock ham made of tofu",
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Step 2: Pick a Protein",
+    "dish_name": "The (JOJU) Bowl protein",
+    "description": "bbq pork and sweet & savory vietnamese caramel pork (rice bowls and salad only)",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "source_text": "THE (JOJU) BOWL (rice bowls and salad only) — bbq pork and sweet & savory vietnamese caramel pork",
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Double-Fried Fries",
+    "dish_name": "Plain Fries",
+    "description": "Crispy seasoned double-fried fries",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "source_text": "PLAIN FRIES — Crispy seasoned double-fried fries",
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Double-Fried Fries",
+    "dish_name": "(JOJU) Banh Mi Fries",
+    "description": "fries topped w/ pork house sauce, mild spicy mayo, spicy green sauce, pickled daikon & carrots, chopped cilantro & jalapeños",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Topped with house sauce, which per the menu footnote contains soy sauce; soy sauce commonly contains wheat."
+      }
+    ],
+    "source_text": "(JOJU) BANH MI FRIES — fries topped w/ pork house sauce, mild spicy mayo, spicy green sauce, pickled daikon & carrots, chopped cilantro & jalapeños",
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Double-Fried Fries",
+    "dish_name": "Kimchi Fries",
+    "description": "fries topped w/ mild spicy mayo, mild kimchi, chopped scallions, cilantro, & jalapeños",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "source_text": "KIMCHI FRIES — fries topped w/ mild spicy mayo, mild kimchi, chopped scallions, cilantro, & jalapeños",
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Spring Rolls",
+    "dish_name": "Crunchy Monster Spring Rolls",
+    "description": "fried, pork & vegetable filling wrapped with a 8-inch wheat skin",
+    "price": "",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "source_text": "CRUNCHY MONSTER SPRING ROLLS — fried, pork & vegetable filling wrapped with a 8-inch wheat skin",
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Spring Rolls",
+    "dish_name": "Vegetarian Egg Rolls",
+    "description": "fried, vegetable based filling, wrapped with wheat skin",
+    "price": "",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "source_text": "VEGETARIAN EGG ROLLS — fried, vegetable based filling, wrapped with wheat skin",
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Spring Rolls",
+    "dish_name": "Crispy Chicken Wings",
+    "description": "",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "\"Crispy\" fried wings commonly use a flour or starch dredge/batter, though not stated explicitly."
+      }
+    ],
+    "source_text": "CRISPY CHICKEN WINGS",
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Spring Rolls",
+    "dish_name": "Soy-Garlic Glaze Chicken Wings",
+    "description": "",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Soy-garlic glaze is soy-sauce based; soy sauce commonly contains wheat."
+      }
+    ],
+    "source_text": "SOY-GARLIC GLAZE CHICKEN WINGS",
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Special Drinks",
+    "dish_name": "Vietnamese Iced Coffee",
+    "description": "",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "source_text": "VIETNAMESE ICED COFFEE",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Special Drinks",
+    "dish_name": "Thai Iced Teas (2 variants)",
+    "description": "Thai Iced Tea, Lemon Thai Iced Tea",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "source_text": "THAI ICED TEA / LEMON THAI ICED TEA",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Special Drinks",
+    "dish_name": "JoJu Mojitos (6 flavors)",
+    "description": "Mango Lychee, Lychee Rose, Strawberry Lychee, Passionfruit Rose, Honey Lemonade, Strawberry Lemonade",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "source_text": "JOJU MOJITOS: MANGO LYCHEE / LYCHEE ROSE / STRAWBERRY LYCHEE / PASSIONFRUIT ROSE / HONEY LEMONADE / STRAWBERRY LEMONADE",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "JOJU - East Village",
+    "address": "33 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.jojuny.com/joju-east-village",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/joju-east-village/menu_official.txt"
+    },
+    "menu_section": "Special Drinks",
+    "dish_name": "Green Tea Infusions (7 flavors)",
+    "description": "Plain, Mango Lychee, Lychee Rose, Strawberry Lychee, Passionfruit Rose, Honey Lemonade, Strawberry Lemonade",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses (facility-wide notice): 'products at this location may contain or come into contact with PEANUTS or other allergens.'",
+    "source_text": "GREEN TEA INFUSIONS: PLAIN / MANGO LYCHEE / LYCHEE ROSE / STRAWBERRY LYCHEE / PASSIONFRUIT ROSE / HONEY LEMONADE / STRAWBERRY LEMONADE",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  }
+]

@@ -1,0 +1,79 @@
+SOURCE URL: https://www.baohaus.nyc/drinks
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Rendered as static HTML text via fetch (site is Squarespace). Beverage list only, no ingredient/allergen notes provided beyond names.
+
+Sparkling
+NV Amelie & Charles Sparr, Cremant d'Alsace 'Celebration', Alsace, France 24 gls | 96 btl
+
+Rose
+2025 Borell Diehl, Saint Laurent, Pfalz, Germany 1L 16 gls | 80 btl
+2025 Schlosskellerei Gobelsburg, Cistercien, Kamptal, Germany 60 btl
+
+White
+2023 Selbach-Oster, Pinot Blanc, Mosel, Germany 16 gls | 64 btl
+2023 Jurgen Leiner, Variety White, Pfalz, Germany 64 btl
+2024 Am Stein, Silvaner, Wurzburg, Germany 17 gls | 68
+2024 Domaine Christophe Mittnacht, Pinot Gris, Alsace, France 95 btl
+2023 von Winning, Sauvignon Blanc 'Lime Rift', Pfalz, Germany 20 gls | 100 btl
+
+Riesling
+2024 Stefan Muller, Riesling Feinherb, Mosel, Germany 16 gls | 64 btl
+2024 Gunther Steinmetz, Riesling Trocken, Mosel, Germany 1L 74 btl
+2024 Gunderloch, Riesling Jean-Baptiste Kabinett, Rheinhessen, Germany 16 | 64 btl
+2025 Julian Haart, Riesling 1000L, Mosel, Germany 19 gls | 76 btl
+
+Chilled Red
+2022 Vorspannhof Mayr, Zweigelt, Niederosterreich Austria 1L 15 gls | 75 btl
+2024 Domaine Rolet, Arbois Rouge 'Tradition', Jura, France 98 btl
+
+Red
+2024 Josef Ehmoser, Wagram Zweigelt, Niederosterreich, Austria 80 btl
+2024 Koehler-Ruprecht, Pinot Noir Kabinett Trocken, Pfalz, Germany 19 gls | 76 btl
+
+Reserve
+2024 Gunther Steinmetz, Chenin Blanc, Mosel, Germany 108 btl
+2021 Gunther Steinmetz, Riesling Piesporter Goldtropfchen, 108 btl
+2023 Selbach-Oster, Zeltinger 'Alte Reben' Trocken, Mosel, Germany 96 btl
+2025 Lukas Hammelmann 'Caesslin' Rose Blanc De Noirs Trocken, Pfalz, Germany 80 btl
+2023 Gunther Steinmetz, Pinot Noir, Mosel, Germany 72 btl
+2022, Wachter-Wiesler, Blaufrankisch Eisenberg 'Bela Joska,' Sudburgenland, Austria 80 btl
+2025 Weiser-Kunstler, Riesling Feinherb, Mosel, Germany 80 btl
+
+Draught
+Guinness 10
+Killsboro Chelita 9
+Allagash White 9
+Talea Sun Up Hazy IPA 9
+Threes Gold Rice Lager 9
+Downeast Cider 9
+Lagunitas IPA 9
+Get a pitcher! 32
+
+Bottles & Cans
+Taiwan Gold Medal 8 or 15 XL
+Taiwan Mango or Lychee 8
+Taihu Lemon Sawa 8
+Miller High Life 8
+Get a bucket of six! 40
+
+Zero Proof
+Hey Song Sasparilla 6
+Wang Lao Ji Sweet Tea 6
+Apple Sidra 6
+Iced Tea or Lemonade 7
+Coke, Diet Coke, Sprite 7
+
+Sangrias+
+Lychee White Wine 14
+Watermelon Red Wine 14
+Blood Orange Mimosa 14
+Get a pitcher! 58
+
+Cocktails
+Paper Lantern 16
+Szex on the Beach 16
+Lemon Spritz 16
+John Daly 16
+Glacier Freeze 16
+Get a pitcher! 64

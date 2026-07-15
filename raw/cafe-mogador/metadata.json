@@ -1,0 +1,17 @@
+{
+  "restaurant_name": "Cafe Mogador",
+  "address": "101 St Marks Pl, New York, NY 10009, USA",
+  "menu_source": {
+    "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/cafe-mogador/menu_official.txt",
+    "file_type": "PDF (text extracted)"
+  },
+  "restaurant_identity_verified": true,
+  "limitations": [
+    "Restaurant's official site (cafemogador.com) links two separate PDFs, one labeled 'EV' (East Village) and one 'BK' (Brooklyn); the EV file was used to match the 101 St Marks Pl / Manhattan location.",
+    "Full wine list beyond the by-the-glass/bottle section (a separate 'reserve wine list' tab was linked on the page but not opened) was not captured; unlikely to affect gluten/peanut/tree nut assessment of food dishes."
+  ],
+  "manual_review_flag": false
+}

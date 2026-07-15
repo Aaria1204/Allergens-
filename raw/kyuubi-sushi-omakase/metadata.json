@@ -1,0 +1,51 @@
+{
+  "restaurant_name": "Kyuubi Sushi Omakase",
+  "address": "102 St Marks Pl, New York, NY 10009, USA",
+  "sources_checked": [
+    {
+      "url": "https://kyuubi-sushi-omakase.placejoys.com/",
+      "tier": "other",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "SEO aggregator/decoy domain, not restaurant-controlled; content unverifiable and not used as evidence"
+    },
+    {
+      "url": "https://kyuubi-sushi-omakase.foodjoyy.com/menu",
+      "tier": "other",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "SEO aggregator/decoy domain, not restaurant-controlled; content unverifiable and not used as evidence"
+    },
+    {
+      "url": "https://kyuubi-sushi-omakase.wheree.com/menu",
+      "tier": "other",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "SEO aggregator/decoy domain, not restaurant-controlled; content unverifiable and not used as evidence"
+    },
+    {
+      "url": "https://kyuubi-sushi-omakase.weeblyte.com/",
+      "tier": "other",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "SEO aggregator/decoy domain, not restaurant-controlled; content unverifiable and not used as evidence"
+    },
+    {
+      "url": "https://www.doordash.com/store/kyuubi-omakase-102-saint-marks-pl-new-york-34021721/",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "mcp__workspace__web_fetch returned a near-empty JS shell; escalated once to Claude-in-Chrome rendering, which surfaced Featured Items pricing and a Most Ordered omakase description. Nigiri and Today Special category tabs did not expand into itemized dish lists within the time box. No official restaurant website was located (only decoy SEO domains); no independent PDF menu found."
+    }
+  ],
+  "menu_source": {
+    "url": "https://www.doordash.com/store/kyuubi-omakase-102-saint-marks-pl-new-york-34021721/",
+    "tier": "ordering",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/kyuubi-sushi-omakase/doordash_menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": true,
+  "manual_review_reason": "Menu is a fixed omakase tasting structure (Omakase A $45 / Omakase B $79) plus a short list of a la carte items (A5 Wagyu, Salmon Don, Unagi Don, Chu Toro); no itemized course-by-course dish list or ingredient/allergen disclosures were available from the ordering platform within the time box. Nigiri and Today Special categories exist on the source but were not itemized.",
+  "status": "complete"
+}

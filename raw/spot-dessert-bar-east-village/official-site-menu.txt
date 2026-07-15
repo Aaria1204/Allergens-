@@ -1,0 +1,37 @@
+SOURCE URL: https://www.spotdessertbar.com/menu
+TIER: official (restaurant's own website, Wix-built)
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LOCATION NOTE: This page presents a single combined menu without per-location labeling. It is used here ONLY as a supplementary source to obtain ingredient descriptions for dish names, cross-checked against the location-verified Toast ordering page for 13 St Marks Place (see toast-ordering-13-st-marks.txt), which lists the same item names as being sold at 13 St Marks Place, Basement, New York, NY 10003. Items appearing on this official page that were NOT found on the location-verified Toast listing for 13 St Marks Place (e.g. Nutella Hot Chocolate, Toasty Coconut Matcha, Black Sesame Affogato) were excluded from the normalized dataset for this restaurant to avoid misattributing another location's items to this address.
+LIMITATIONS: No prices listed on this page; ingredient lists given only for "Spring/Summer 26" specials and "Signature Tapas" sections. Cookies, pastries, ice cream flavors and drinks are listed as bare names with no ingredient descriptions.
+
+=== MENU | Spotdessertbar (full page text) ===
+
+SPRING/SUMMER 26
+Tropical Sun: vanilla mascarpone, chiffon cake, pineapple jam, passion fruit paste, passion fruit sorbet, lime zest
+Snow White: fresh watermelon granita, lime, mochi, condensed milk, homemade lychee jelly, diced watermelon
+Yuzu Eclipse: yuzu white chocolate semifreddo, chocolate ganache, oreo crumbs, chocolate pearls, fresh strawberries
+
+SIGNATURE TAPAS
+Matcha Lava: dark chocolate cake, matcha powder, chocolate pearls, cookie crumbs, matcha ice cream
+Golden Toast: honey buttered toast, strawberries, whipped cream, cookie crumbs, condensed milk ice cream
+Harvest: layered soft cheesecake, strawberries, chiffon cake, whipped cream, oreo crumbs, milk tea, raspberry sorbet
+Milky Puff: choux-puff pastry, bruleed bananas, cornflakes, white chocolate honeycomb, condensed milk ice cream
+Cookie Camp: fresh half baked marshmallow cookie, pretzels, cookie crumbs, chocolate sauce, condensed milk ice cream
+
+COOKIES & PASTRIES
+Classic (cruffin), Yuzu (cruffin), Strawberries & Creme (cruffin), Cookies & Creme (cruffin), Oreo Chocolate (cookie), Matcha Lava (cookie), Caramel Miso (cookie), Nutella (cookie), Ube Blueberry
+
+ICE CREAM & SORBETS
+Condensed Milk, Matcha, Jasmine, Taro, Mango, Passion Fruit, Raspberry, Vietnamese Coffee
+
+SPECIALTY DRINKS
+Pineapple Punch, Watermelon Slush, Mango Passion Fruit Soda, Raspberry Lemon Soda, Sparkling Yuzu, Chrysanthemum Goji, Cafe Latte Float, Thai Tea Float, Matcha Latte Float, Strawberry Matcha Latte, Classic Affogato, Black Sesame Affogato, Double Matcha Affogato, Nutella Hot Chocolate, Toasty Coconut Matcha
+
+COFFEE & TEA
+Single Espresso, Double Espresso, Americano, Latte, Cappuccino, Jasmine green tea (jasmine), L'oriental (green tea | passion fruit, peach, strawberry), Jardin Bleu (black tea | rhubarb, strawberry), Earl Grey (black tea | bergamot), Chamomile (herbal tea | chamomile), Matcha Latte, Peppermint (herbal tea | mint notes), Yuja (fruit infusion | honey, yuzu)
+
+BUBBLE MILK TEA & FRUIT TEAS
+Passion Fruit Green Tea, Thai Milk Tea, Classic Milk Tea, Jasmine Milk Tea, Taro Milk Tea, Rose Milk Tea
+
+ALCOHOL
+Mango makku (korean rice wine), Strawberry makku (korean rice wine), Lemon chu-hi (japanese sparkling cocktail), White Peach chu-hi (japanese sparkling cocktail), Fuji Apple chu-hi (japanese sparkling cocktail), Original makku (korean rice wine), Passion Fruit makku (korean rice wine), Matcha IPA, Yuzu Ale, Choya Sparkling Japanese Plum Wine, Kinoene Yuagari Yuzu Sake

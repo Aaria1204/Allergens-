@@ -1,0 +1,38 @@
+{
+  "restaurant_name": "Alison",
+  "address": "110 St Marks Pl, New York, NY 10009, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.alisonny.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Menu is delivered as image links (PNG files) named e.g. 'DinnerAlisonEastHarlem.png' / 'BrunchAlisonEastHarlem.png' for every section, including on the general /menu page. This strongly suggests the posted images are for Alison's East Harlem location (1651 Lexington Ave), not the East Village / St Marks location (110 St Marks Pl) that is the subject restaurant. No East Village-specific menu images or text were found on the official site. Not used as the menu source for this reason."
+    },
+    {
+      "url": "https://www.doordash.com/en/store/alison-st-marks-110-saint-marks-pl-new-york-32657597/55299946/",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "local_artifact": "raw/alison/menu_doordash_appetizers.txt",
+      "limitation": "Storefront listing is explicitly named 'Alison St Marks - 110 Saint Marks Pl' confirming correct location. However DoorDash displayed the store as 'not active' at time of access, and the page's virtualized rendering only surfaced the Lunch-Appetizers category (4 dishes) in this session; Lunch-Sandwiches, Lunch-Sides, Lunch-Fresh Oysters, Lunch-Mains, Lunch-Eggs, Lunch-Salads & Bowls, and Lunch-Coffee category labels were visible but their dish-level content did not load. Treat this restaurant's menu coverage as partial."
+    },
+    {
+      "url": "https://www.seamless.com/menu/alison-st-marks-110-st-marks-pl-new-york/10266832",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Page requires an address to be entered before showing any menu content; no menu text rendered."
+    }
+  ],
+  "menu_source": {
+    "url": "https://www.doordash.com/en/store/alison-st-marks-110-saint-marks-pl-new-york-32657597/55299946/",
+    "tier": "ordering",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/alison/menu_doordash_appetizers.txt"
+  },
+  "restaurant_identity_verified": true,
+  "file_type": "text (rendered page text)",
+  "manual_review_flag": true,
+  "manual_review_reason": "Only 4 of an unknown total number of dishes were recoverable; a fuller pass (e.g. re-checking DoorDash once active, or trying Grubhub/Uber Eats for the same 110 St Marks Pl location) is recommended."
+}

@@ -1,0 +1,36 @@
+source URL: https://nudibranchwinelist.my.canva.site/dinner-menu-04-10-2026 (linked from official site https://nudibranchnyc.com/menu)
+tier: official
+accessed_at: 2026-07-14T00:00:00Z
+limitations: Menu page is a Canva-hosted export ("Dinner Menu 06.29.2026") requiring JS rendering; extracted via Claude-in-Chrome get_page_text after mcp__workspace__web_fetch returned an empty JS shell. Menu is undifferentiated (no explicit section headers like "starters"/"mains"/"dessert" in the rendered text) so section groupings below are inferred from item ordering and dish type, not restaurant-labeled. No allergen disclosures present on the menu itself beyond the standard raw/undercooked food disclaimer. No beverage/wine list content was captured (separate "beverage" link on official site was not fetched; only "food" menu tier was in scope).
+
+--- RAW MENU TEXT (verbatim from rendered page) ---
+"Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness".
+
+3% surcharge fee added to all checks paid by credit card
+
+nudibranch
+
+patatas bravas, sichuan spice, aioli (v) 11
+duck confit croquettes, dijonnaise (2pc) 12
+frog legs, lemongrass, galangal, ginger (4pc) 25
+pan con tomate, anchovy matrimonio 16
+fluke, chamoe aguachile, jasmine granita 26
+crispy chicken sandwich 19
+endive salad, perilla seed, sesame, anchovy 24
+cavatelli, fresno chili, nduja, pecorino 34
+mushroom, egg yolk, shaoxing (v) 27
+soba, salmon roe, shiro dashi, bottarga 24
+jamon iberico de bellota pata negra, chamoe melon 3oz 60
+pork rib chop, gochujang glaze, bokchoy 47
+dorade, mussel beurre blanc, tarragon, mustard greens 44
+denver steak, chimichurri, mushroom jus 8oz 49
+14 day dry aged duck 150
+nori rice 7
+kimchi 7
+scallion pancakes 8
+green apple sorbet, shiso, albariño gelee 15
+basque cheesecake, strawberry 15
+masala chai tres leches, rum caramel whipped cream 15
+
+nudibranch
+1 / 2

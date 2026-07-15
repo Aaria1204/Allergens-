@@ -1,0 +1,90 @@
+SOURCE URL: https://www.grubhub.com/restaurant/udon-stmarks-11-st-marks-pl-new-york/7475136
+TIER: ordering (Grubhub, restaurant-controlled listing)
+ACCESSED_AT: 2026-07-14T18:30:00Z
+METHOD: Rendered in Chrome (Claude-in-Chrome) after direct fetch returned an empty JS shell. Content loads via lazy/virtualized scroll; captured via incremental scroll + accessibility-tree reads.
+LIMITATIONS: "Set Menu" and "Drink" categories did not finish rendering within the sourcing time budget and are NOT captured here (list virtualization required additional scrolling beyond the time box). Some items have no description text on the platform (menu name/price only). Official site (udonstmarks.com/menu) menu content is image-only (photos of a paper menu, not extractable as text) and was checked but rejected as a text source.
+
+Restaurant confirmed: Udon St.Marks, 11 St Marks Pl, New York, NY 10003. Phone (646) 386-7057. Matches target address exactly.
+
+=== BEST SELLERS (Most ordered on Grubhub) ===
+Niku Udon — Simmered beef. — $14.75
+Katsu Don — $18.00
+Ebi-Ten Udon — $14.25
+Kaki-Age Udon — $15.25
+Kara-Age Udon — $14.75
+Gyoza — Pork dumpling. — $9.95
+Gyu Don — Simmered beef over rice. — $13.75+
+
+=== APPETIZER ===
+Croquette — Fried mashed potato. — $10.25
+Gyoza — Pork dumpling. — $9.95
+Kara-Age — Fried chicken. — $10.50
+Takoyaki — Octopus ball. — $9.95
+Edamame — Boiled soy bean. — $7.20
+Kimchee — $6.95
+Chicken Cutlet — $11.75
+Pork Cutlet — $11.75
+Kalbi — Sauteed beef short rib. — $13.75
+Assorted Tempura — 2 Shrimp, 1 each Pumpkin, Carrot, Bell Pepper, Broccoli — $12.00
+Veggie Tempura — 2 each Pumpkin, Carrot, Bell Pepper, Broccoli — $11.45
+Veggie Spring Roll — $10.25
+Maru-Ten — Fish cake tempura. — $7.75
+Beef Hamburg — $11.50
+Pork Sausage — $10.50
+Rice — $3.75+
+Small Salad — $5.25
+Shrimp Tempura — 4 Shrimp — $13.25
+Seaweed Soup — $3.50
+Tofu Steak — $10.50
+Fried Lotus Roots — $7.95
+
+=== HOT UDON (With fish broth.) ===
+Nabeyaki Udon — Shrimp tempura, shitake mushroom. Egg, chicken, spinach. — $19.75
+Chige Udon — Beet, kimchee, egg. spinach in spicy broth. — $20.45
+Niku Udon — Simmered beef. — $14.75 (Best Seller)
+Curry Udon — Curry with ground beef. — $14.25
+Ebi-Ten Udon — Shrimp tempura. — $14.25 (Best Seller)
+Ika-Ten Udon — Squid tempura. — $14.25
+Veggie-Ten Udon — Vegetable tempura. — $13.50
+Kaki-Age Udon — Mixed veggie & shrimp tempura. — $15.25 (Best Seller)
+Maru-Ten Udon — Fish cake tempura. — $14.25
+Kara-Age Udon — $14.75 (Best Seller)
+Plain Udon — $10.25
+
+=== VEGGIE HOT UDON (With veggie broth.) ===
+Sansai Udon — Mountain vegetable. — $14.50
+Kimchee Udon — Spicy kimchee. — $13.25
+Croquette Udon — Fried mashed potato. — $13.50
+Croquette Udon — Potato Croquette. — $14.25
+Mixed Mushroom Udon — Shiitake, Nametake, and Nameko Mushroom. — $14.75
+
+=== COLD UDON ===
+Zaru — Cold dip Udon — $11.75
+Ten Zaru — Cold dip udon with tempura. (2 shrimp + 4 veggies) — $18.95
+Mentai Udon — $16.25
+Bukkake Udon — $15.50
+Tennose Bukkake — $20.50
+Sansai Ume Tama Bukkake — $19.75
+Ponzu Kame Udon — Dried bonito, Crunch, Scallion, Sesame oil with ponzu sauce. — $12.45
+
+=== BOWL ===
+Katsu Don — Cutlet (chicken or pork) with egg over rice. — $18.00 (Best Seller)
+Kalbi Don — Beef short rib over rice. — $20.50
+Ten Don — 2 shrimp & 4 veggie tempura over rice. — $18.00
+Oyako Don — Chicken with egg over rice. — $17.25
+Ika-Ten Don — Squid tempura over rice. — $13.25+
+Negi-Toro Don — Fatty tuna over rice. — $13.75+
+Spicy Tuna Don — Fatty tuna with spicy mayo over, rice. — $13.75+
+Gyu Don — Simmered beef over rice. — $13.75+ (Best Seller)
+
+=== CURRY RICE (Beef.) ===
+Cutlet Curry — Chicken or pork. — $19.25
+Regular Curry — $12.00+
+Gyoza Curry — Pork dumpling. — $16.75
+Croquette Curry — Fried mashed potato. — $16.75
+Karaage Curry — Beef Curry Rice with Karaage. — $18.00
+Hamburg Curry — $19.25
+Niku Curry — $19.25
+
+=== SET MENU === (not captured — did not render within time box)
+=== DRINK === (not captured — did not render within time box)

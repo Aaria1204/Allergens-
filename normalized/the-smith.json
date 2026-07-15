@@ -1,0 +1,1798 @@
+[
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Raw Bar - Oysters",
+    "dish_name": "Oysters (Puffer Petite, Cotuit Bay, East Beach Blonde, Oyster of the Day, Oyster Sampler)",
+    "description": "Raw oysters by region: Wellfleet MA, Cape Cod MA, Charlestown RI, or oyster of the day; sampler is two of each.",
+    "price": "4 each / Sampler 31",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Puffer Petite Wellfleet, MA 4; Cotuit bay Cap Cod, MA 4; East Beach Blonde Charlestown, RI 4; Oyster of the Day 4; Oyster Sampler two of each 31",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Raw Bar - Platters",
+    "dish_name": "The Deluxe",
+    "description": "Eight oysters, four chilled shrimp.",
+    "price": "45",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "The Deluxe eight oysters, four chilled shrimp 45",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Raw Bar - Platters",
+    "dish_name": "The Royale",
+    "description": "Eight oysters, six chilled shrimp, spicy salmon tartare.",
+    "price": "72",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "low",
+        "reason": "includes spicy salmon tartare which contains crispy rice and sriracha that can sometimes contain wheat-based ingredients"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "The Royale eight oysters, six chilled shrimp, spicy salmon tartare 72",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Raw Bar - Platters",
+    "dish_name": "The Grand",
+    "description": "Sixteen oysters, twelve chilled shrimp, spicy salmon tartare.",
+    "price": "128",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "low",
+        "reason": "includes spicy salmon tartare which contains crispy rice and sriracha that can sometimes contain wheat-based ingredients"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "The Grand sixteen oysters, twelve chilled shrimp, spicy salmon tartare 128",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Starters",
+    "dish_name": "Potato Chips",
+    "description": "Blue cheese + onion fondue.",
+    "price": "16",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "cheese fondue is often thickened with a flour-based roux"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "potato chips blue cheese + onion fondue 16",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Starters",
+    "dish_name": "Blistered Shishito Peppers",
+    "description": "Pickled ginger aioli, sesame furikake.",
+    "price": "13",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "blistered shishito peppers pickled ginger aioli, sesame furikake 13",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Starters",
+    "dish_name": "Summer Corn Croquettes",
+    "description": "Truffle aioli.",
+    "price": "15",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "croquettes are traditionally breaded and fried"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "summer corn croquettes truffle aioli 15",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Starters",
+    "dish_name": "Classic Shrimp Cocktail",
+    "description": "",
+    "price": "19",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "classic shrimp cocktail 19",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Starters",
+    "dish_name": "Crispy Calamari",
+    "description": "Feta, zucchini, olives, sesame, lemon aioli.",
+    "price": "21",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "fried calamari preparations are typically flour-dredged before frying"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Crispy calamari feta, zucchini, olives, sesame, lemon aioli 21",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Starters",
+    "dish_name": "Burrata",
+    "description": "Tomato, almond pesto, sesame garlic bread.",
+    "price": "18",
+    "declared_allergens": [
+      "tree nut",
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Burrata tomato, almond pesto, sesame garlic bread 18",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Starters",
+    "dish_name": "Spicy Salmon Tartare",
+    "description": "Crispy rice, avocado, sriracha, nori.",
+    "price": "19",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "low",
+        "reason": "crispy rice preparations and sriracha sauce can sometimes contain wheat-based ingredients"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Spicy Salmon Tartare crispy rice, avocado, sriracha, nori 19",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Starters",
+    "dish_name": "Mac + Cheese",
+    "description": "Skillet roasted.",
+    "price": "21",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "\"mac\" refers to macaroni, a wheat pasta"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Mac + Cheese skillet roasted 21",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Hand Cut Fries",
+    "dish_name": "Hand Cut Fries (Classic Sea Salt, Truffle Parmesan, Spicy Ranch)",
+    "description": "Twice cooked, hand cut daily from Idaho potatoes.",
+    "price": "12 / 15 / 13",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Classic sea salt 12; truffle parmesan 15; spicy ranch 13",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Salads",
+    "dish_name": "Kale + Quinoa",
+    "description": "Sun dried cranberries, ricotta salata, toasted almonds, dijon vinaigrette.",
+    "price": "18",
+    "declared_allergens": [
+      "tree nut"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Kale + Quinoa sun dried cranberries, ricotta salata, toasted almonds, dijon vinaigrette 18",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Salads",
+    "dish_name": "Little Gem Caesar",
+    "description": "Crispy parmesan frico.",
+    "price": "18",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Little Gem Caesar crispy parmesan frico 18",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Salads",
+    "dish_name": "Sugar Snap Salad (with or without Chicken)",
+    "description": "Farro, arugula, snap peas, gouda, fennel, pistachios, mint, lemon vinaigrette; offered with chicken as \"sugar snap chicken.\"",
+    "price": "18 / 27",
+    "declared_allergens": [
+      "gluten",
+      "tree nut"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "sugar snap chicken farro, arugula, snap peas, gouda, fennel, pistachios, mint, lemon vinaigrette 27; sugar snap farro, arugula, snap peas, gouda, fennel, pistachios, mint, lemon vinaigrette 18",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Salads",
+    "dish_name": "The Chopped",
+    "description": "Crispy sesame shrimp, kale, avocado, cucumber, olives, tomato, red onion, spicy ranch.",
+    "price": "29",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "crispy sesame shrimp is a breaded, fried preparation"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "the chopped crispy sesame shrimp, kale, avocado, cucumber, olives, tomato, red onion, spicy ranch 29",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Salads",
+    "dish_name": "Miso Salmon Salad",
+    "description": "Soba noodles, savoy cabbage, cashews, carrots, cucumber, shiitakes, sesame.",
+    "price": "29",
+    "declared_allergens": [
+      "tree nut"
+    ],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "soba noodles are frequently blended with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "miso salmon soba noodles, savoy cabbage, cashews, carrots, cucumber, shiitakes, sesame 29",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Salads - Additions",
+    "dish_name": "Chicken Milanese (salad addition)",
+    "description": "Breaded chicken cutlet added to a salad.",
+    "price": "9",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "milanese preparations are traditionally breaded"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chicken MIlanese 9 (salad addition)",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Salads - Additions",
+    "dish_name": "Other Salad Additions (Avocado, Grilled Chicken, Marinated Shrimp, Roasted Salmon, Sliced Flat Iron Steak)",
+    "description": "Optional protein/topping additions to salads.",
+    "price": "3 / 9 / 11 / 11 / 13",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Avocado 3; Grilled Chicken 9; Marinated Shrimp 11; Roasted Salmon 11; Sliced Flat iron Steak 13",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Vegetables",
+    "dish_name": "Garlic Whipped Potatoes",
+    "description": "",
+    "price": "12",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "garlic whipped potatoes 12",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Vegetables",
+    "dish_name": "Eggplant + Zucchini",
+    "description": "Burst tomatoes, mediterranean vinaigrette, fennel breadcrumbs.",
+    "price": "14",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "eggplant + zucchini burst tomatoes, mediterranean vinaigrette, fennel breadcrumbs 14",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Vegetables",
+    "dish_name": "Brussels Sprouts",
+    "description": "Avocado green goddess, pink peppercorns.",
+    "price": "14",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "brussels sprouts avocado green goddess, pink peppercorns 14",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Vegetables",
+    "dish_name": "Baby Spinach",
+    "description": "",
+    "price": "9",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "baby spinach 9",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Sandwiches",
+    "dish_name": "Breakfast Sandwich",
+    "description": "Black pepper bacon, egg, american cheese, avocado, roasted tomato aioli, brioche.",
+    "price": "23",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Breakfast Sandwich black pepper bacon, egg, american cheese, avocado, roasted tomato aioli, brioche 23",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Sandwiches",
+    "dish_name": "Grilled Chicken Sandwich",
+    "description": "Burrata, tomato jam, basil aioli, toasted ciabatta (toasted sesame bun on Sunset menu).",
+    "price": "25",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Grilled Chicken burrata, tomato jam, basil aioli, toasted ciabatta 25; (sunset: toasted sesame bun)",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Sandwiches",
+    "dish_name": "French Dip",
+    "description": "Slow roasted steak, caramelized onions, gruyère, dijonnaise, baguette, au jus.",
+    "price": "35",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "French Dip slow roasted steak, caramelized onions, gruyère, dijonnaise, baguette, au jus 35",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Sandwiches",
+    "dish_name": "Burger Royale",
+    "description": "American cheese, the works, 50/50 sauce, brioche bun.",
+    "price": "26",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Burger royale american cheese, the works, 50/50 sauce, brioche bun 26",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Sandwiches",
+    "dish_name": "The Smith Burger",
+    "description": "Cheddar, bacon marmalade, crispy onions, dill pickles, TSB sauce, brioche bun (potato bun on Sunset menu).",
+    "price": "28",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "The Smith Burger cheddar, bacon marmalade, crispy onions, dill pickles, TSB sauce, brioche bun 28; (sunset: potato bun 23)",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Pasta",
+    "dish_name": "Ricotta Gnocchi",
+    "description": "Truffle cream. Gluten-free pasta available upon request.",
+    "price": "24",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "traditional gnocchi is made with wheat flour unless a gluten-free substitution is requested"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Ricotta Gnocchi truffle cream 24; menu note: gluten-free pasta available upon request",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Pasta",
+    "dish_name": "Spicy Shrimp Scampi",
+    "description": "Tagliatelle, calabrian chilies, lemony garlic breadcrumbs.",
+    "price": "28",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "spicy shrimp scampi tagliatelle, calabrian chilies, lemony garlic breadcrumbs 28",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Pasta",
+    "dish_name": "Short Rib Mafaldine",
+    "description": "10 hour ragu, burst tomatoes, mascarpone, parmesan.",
+    "price": "27",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "short rib mafaldine 10 hour ragu, burst tomatoes, mascarpone, parmesan 27",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Pasta",
+    "dish_name": "Rigatoni Alla Vodka",
+    "description": "Tomato, stracciatella cheese, sesame.",
+    "price": "25",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "rigatoni alla vodka tomato, stracciatella cheese, sesame 25",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Avocado Toast",
+    "description": "Whole wheat toast, red pepper flakes, lemon, poached eggs.",
+    "price": "23",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Avocado Toast whole wheat, red pepper flakes, lemon, poached eggs 23",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Goat Cheese Omelette",
+    "description": "Baby spinach, shallots, soft herbs, mixed greens.",
+    "price": "23",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Goat Cheese Omelette baby spinach, shallots, soft herbs, mixed greens 23",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Tuna Crudo",
+    "description": "Avocado, daikon, coconut leche de tigre, sunflower, taro chips.",
+    "price": "24",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "tree nut",
+        "confidence": "medium",
+        "reason": "coconut (in the leche de tigre) is classified as a tree nut for allergen labeling purposes"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "tuna crudo avocado, daikon, coconut leche de tigre, sunflower, taro chips 24",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Crispy Chicken Paillard",
+    "description": "Romaine, treviso, corn, tomatoes, baby bell peppers, pecorino, chives, red wine vinaigrette.",
+    "price": "29",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "paillard described as \"crispy\" is typically a breaded, pan-fried cutlet"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "crispy chicken paillard romaine, treviso, corn, tomatoes, baby bell peppers, pecorino, chives, red wine vinaigrette 29",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Pot of Mussels",
+    "description": "Chardonnay broth, dijon, tarragon, fries.",
+    "price": "29",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Pot of Mussels chardonnay broth, dijon, tarragon, fries 29",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Classics",
+    "dish_name": "Vegetable Bibimbap",
+    "description": "Sushi rice, shiitake mushrooms, edamame, spinach, kimchi, sunny up egg, sesame (optional additions: grilled chicken, marinated shrimp, roasted salmon, sliced flat iron steak).",
+    "price": "25 (29-35 with protein)",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "low",
+        "reason": "kimchi is sometimes made with gochujang or seasonings that can contain wheat"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Vegetable Bibimbap sushi rice, shiitake mushrooms, edamame, spinach, kimchi, sunny up egg 25; with grilled chicken 29 | marinated shrimp 31 | roasted salmon 35 | sliced flat iron steak 35",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Steaks",
+    "dish_name": "Steaks (Bar Steak, Skirt, NY Strip, Bone-in Ribeye, Filet Mignon)",
+    "description": "Cedar River Farms steaks served with classic fries or mixed greens, choice of sauce: chimichurri, green peppercorn, or blue cheese.",
+    "price": "39 / 43 / 49 / 54 / 55",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "low",
+        "reason": "cream-based sauces such as green peppercorn are sometimes thickened with a flour-based roux"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "The Smith Bar Steak 39; Skirt 43; NY Strip 49; Bone-in ribeye 54; Filet Mignon 55; choose a sauce: chimichurri, green peppercorn, blue cheese",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Dinner - Classics",
+    "dish_name": "Roasted Salmon",
+    "description": "Roasted corn, snap peas, scallion, tomato vinaigrette, oregano breadcrumbs, mint.",
+    "price": "35",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Roasted Salmon roasted corn, snap peas, scallion, tomato vinaigrette, oregano breadcrumbs, mint 35",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Dinner - Classics",
+    "dish_name": "Grilled Branzino",
+    "description": "Pearl couscous, zucchini, tomatoes, olives, capers, lemon.",
+    "price": "34",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Grilled Branzino pearl couscous, zucchini, tomatoes, olives, capers, lemon 34",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Dinner - Classics",
+    "dish_name": "Brick Pressed Chicken",
+    "description": "Garlic whipped potatoes, baby spinach, chicken jus.",
+    "price": "33",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "pan jus is often thickened with a flour-based roux"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Brick Pressed Chicken garlic whipped potatoes, baby spinach, chicken jus 33",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Dinner - Classics",
+    "dish_name": "Lamb + Short Rib Meatballs",
+    "description": "Green rice, zucchini tzatziki, feta, cucumber pico, sesame, dill.",
+    "price": "29",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "meatballs commonly use breadcrumbs as a binder"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Lamb + Short Rib Meatballs green rice, zucchini tzatziki, feta, cucumber pico, sesame, dill 29",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Brunch - Sides",
+    "dish_name": "Fruit + Yogurt",
+    "description": "Mixed berries, toasted almond granola, sunflower seeds, sesame, peach jam.",
+    "price": "12",
+    "declared_allergens": [
+      "tree nut"
+    ],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "granola typically contains oats often processed with wheat or other gluten-containing grains"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "FRUIT + YOGURT mixed berries, toasted almond granola, sunflower seeds, sesame, peach jam 12",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Brunch - Sides",
+    "dish_name": "Apple Smoked Bacon",
+    "description": "",
+    "price": "5 / 11",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Apple Smoked Bacon 5/11",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Brunch - Sides",
+    "dish_name": "Maple Chicken Sausage",
+    "description": "",
+    "price": "8",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Maple Chicken Sausage 8",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Brunch - Sides",
+    "dish_name": "Jalapeño Cheddar Grits",
+    "description": "",
+    "price": "9",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Jalapeño Cheddar Grits 9",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Brunch - Sides",
+    "dish_name": "Home Fries",
+    "description": "",
+    "price": "9",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Home Fries 9",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Brunch - Sides",
+    "dish_name": "Potato Waffle",
+    "description": "",
+    "price": "9",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "waffles are typically made with a flour-based batter"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Potato Waffle 9",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Brunch - Sides",
+    "dish_name": "Toast",
+    "description": "Whole wheat or ciabatta.",
+    "price": "3",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Toast whole wheat or ciabatta 3",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Brunch - Eggs & Griddle",
+    "dish_name": "Eggs + Bacon",
+    "description": "Cheddar herb omelette, apple smoked bacon, potato waffle.",
+    "price": "23",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "includes a potato waffle, typically a flour-based batter"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Eggs + Bacon cheddar herb omelette, apple smoked bacon, potato waffle 23",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Brunch - Eggs & Griddle",
+    "dish_name": "Baked Eggs Alla Vodka",
+    "description": "Tomato, spinach, stracciatella cheese, sesame, toasted ciabatta.",
+    "price": "21",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "BAKED EGGS ALLA VODKA tomato, spinach, stracciatella cheese, sesame, toasted ciabatta 21",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Brunch - Eggs & Griddle",
+    "dish_name": "Breakfast Sandwich (Brunch)",
+    "description": "Black pepper bacon, egg, american cheese, avocado, roasted tomato aioli, brioche, home fries.",
+    "price": "23",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "BREAKFAST SANDWICH black pepper bacon, egg, american cheese, avocado, roasted tomato aioli, brioche, home fries 23",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Brunch - Eggs & Griddle",
+    "dish_name": "The Smith Eggs Benedict",
+    "description": "Black forest ham, english muffin, hollandaise, poached eggs, home fries.",
+    "price": "24",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "The Smith Eggs Benedict black forest ham, english muffin, hollandaise, poached eggs, home fries 24",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Brunch - Eggs & Griddle",
+    "dish_name": "Smoked Salmon Potato Waffle",
+    "description": "Poached eggs, hollandaise, pickled onion, everything spice.",
+    "price": "26",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "waffles are typically made with a flour-based batter"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Smoked Salmon Potato Waffle poached eggs, hollandaise, pickled onion, everything spice 26",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Brunch - Eggs & Griddle",
+    "dish_name": "Shrimp + Grits",
+    "description": "Jalapeño cheddar grits, poached eggs, blackened shoestring potatoes.",
+    "price": "26",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "shrimp + grits jalapeño cheddar grits, poached eggs, blackened shoestring potatoes 26",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Brunch - Eggs & Griddle",
+    "dish_name": "Ranchero Scramble",
+    "description": "Black beans, avocado, chihuahua cheese, salsa verde, jalapeños, blue corn tortillas, pickled onion.",
+    "price": "24",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ranchero Scramble black beans, avocado, chihuahua cheese, salsa verde, jalapeños, blue corn tortillas, pickled onion 24",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Brunch - Eggs & Griddle",
+    "dish_name": "Benedict Johnny",
+    "description": "Cheddar cornbread, maple chicken sausage, poached eggs, hollandaise.",
+    "price": "24",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "cornbread recipes commonly include wheat flour blended with cornmeal"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Benedict Johnny cheddar cornbread, maple chicken sausage, poached eggs, hollandaise 24",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Brunch - Eggs & Griddle",
+    "dish_name": "Buttermilk Pancakes",
+    "description": "Sticky toffee caramel, pecan maple butter.",
+    "price": "19",
+    "declared_allergens": [
+      "tree nut"
+    ],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "pancake batter is inherently flour-based"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Buttermilk pancakes sticky toffee caramel, pecan maple butter 19",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Brunch - Eggs & Griddle",
+    "dish_name": "Vanilla Bean French Toast",
+    "description": "Crème brûlée battered, caramelized bananas, candied orange mascarpone.",
+    "price": "21",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Vanilla bean French Toast crème brûlée battered, caramelized bananas, candied orange mascarpone 21",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Brunch - Steak + Eggs",
+    "dish_name": "Steak + Eggs (Flat Iron, Skirt, NY Strip, Bone-in Ribeye, Filet Mignon)",
+    "description": "Choice of steak served with sunny up eggs, home fries, and hollandaise.",
+    "price": "35 / 43 / 49 / 54 / 55",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Flat Iron 35; Skirt 43; NY Strip 49; Bone-IN Ribeye 54; Filet Mignon 55",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Dessert",
+    "dish_name": "Devil's Layer Cake",
+    "description": "Nine layer dark chocolate cake, mascarpone mousse, candied cocoa nibs.",
+    "price": "14",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "layer cake is a baked, flour-based cake"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "devil's layer cake nine layer dark chocolate cake, mascarpone mousse, candied cocoa nibs 14",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Dessert",
+    "dish_name": "Strawberry Pie",
+    "description": "Almond shortcake, strawberry ginger jam, lemon crust, whipped vanilla cream.",
+    "price": "14",
+    "declared_allergens": [
+      "tree nut"
+    ],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "pie crust is traditionally made with wheat flour"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "strawberry pie almond shortcake, strawberry ginger jam, lemon crust, whipped vanilla cream 14",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Dessert",
+    "dish_name": "Death by Chocolate",
+    "description": "Chocolate crème brûlée, salted pistachio caramel, orange mascarpone.",
+    "price": "14",
+    "declared_allergens": [
+      "tree nut"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "death by chocolate chocolate crème brûlée, salted pistachio caramel, orange mascarpone 14",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Dessert",
+    "dish_name": "Sticky Toffee Pudding",
+    "description": "Skillet baked, medjool dates, vanilla ice cream.",
+    "price": "14",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "sticky toffee pudding is traditionally a flour-based baked cake"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "sticky toffee pudding skillet baked, medjool dates, vanilla ice cream 14",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Dessert",
+    "dish_name": "Salted Caramel Chocolate Chunk Cookie",
+    "description": "Quarter pounder.",
+    "price": "6",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "cookies are flour-based baked goods"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "salted caramel chocolate chunk cookie quarter pounder 6",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Dessert",
+    "dish_name": "Three Scoops Ice Cream (Coconut, Vanilla, Strawberry)",
+    "description": "",
+    "price": "11",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "tree nut",
+        "confidence": "medium",
+        "reason": "coconut is classified as a tree nut for allergen labeling purposes"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "ice cream coconut, vanilla, strawberry 11",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Dessert",
+    "dish_name": "Three Scoops Sorbet (Raspberry)",
+    "description": "",
+    "price": "11",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "sorbet raspberry 11",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Martini Hour",
+    "dish_name": "Martini Hour Martinis (Salt + Vinegar, Dirty Blue Olive, Italian Martini, Espresso Martini)",
+    "description": "Available weekdays 3-6pm and late night daily from 10pm at the bar.",
+    "price": "12",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "salt + vinegar; dirty blue olive; italian martini; espresso martini 12",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Beverages - Cocktails",
+    "dish_name": "Cocktails (Spritzes, Smashes, Sours, Martinis, Highballs)",
+    "description": "Full cocktail list including The Spritz, Hugo 75, Sparkling Cosmo, The Gatsby, Frozen Pool Party, Spicy Flamingo, Mr. Brightside, Pepper Plane, Yuzu Gimlet, Cucumber Loco, Basil Lemon Drop, Caprese, Dirty Blue Olive, Pickle Rick, Espresso Martini, Negroni, Oaxacan Sunshine, Midtown Manhattan No. 3, The Mule, Sunset Paloma, The Smith Bloody Mary.",
+    "price": "17.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Cocktails 17.50: The Spritz / Hugo 75 / Sparkling Cosmo / The Gatsby / Frozen Pool Party / Spicy Flamingo / Mr. Brightside / Pepper Plane / Yuzu Gimlet / Cucumber Loco / Basil Lemon Drop / Caprese / Dirty Blue Olive / Pickle Rick / Espresso Martini / Negroni / Oaxacan Sunshine / Midtown Manhattan No. 3 / The Mule / Sunset Paloma / The Smith Bloody Mary",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Beverages - Cocktails",
+    "dish_name": "Walnut Old Fashioned",
+    "description": "Bourbon / amaro dell'etna / angostura bitters / walnut bitters.",
+    "price": "17.50",
+    "declared_allergens": [
+      "tree nut"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Walnut Old Fashioned bourbon / amaro dell'etna / angostura bitters / walnut bitters",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Beverages - Zero Proof",
+    "dish_name": "Zero Proof Drinks (All Day Spritz, City Bird, Cucumber Mule, Watermelonade, Pomegranate-Hibiscus Iced Tea, Matcha-Yuzu Arnold Palmer)",
+    "description": "",
+    "price": "8.50-13.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "All Day Spritz 13.50; City Bird 13.50; Cucumber Mule 10; Watermelonade 10; Pomegranate-Hibiscus Iced Tea 8.50; Matcha-Yuzu Arnold Palmer 6.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Beverages - Beer",
+    "dish_name": "Draft Beer (Captain Lawrence, KCBC Kölsch, Singlecut Pilsner, Flagship Stout, Threes Lager, Allagash White, Other Half Green City IPA)",
+    "description": "",
+    "price": "11-13",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "beer is traditionally brewed from malted barley or wheat"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Captain Lawrence Classic Lager 11; KCBC Octo Bräu Kölsch 11; Singlecut Plaintop Pilsner 12; Flagship Wolfhound Nitro Irish Stout 13; Threes Brewing Shapeless Days Lager 12; Allagash White 13; Other half green city ipa 13",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Beverages - Beer",
+    "dish_name": "Bottled & Canned Beer (Night Shift, Athletic Brewing IPA (non-alcoholic), Maine Brewing Lunch IPA, Equilibrium MC2, Singlecut Milk Stout)",
+    "description": "",
+    "price": "10-19",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "beer is traditionally brewed from malted barley or wheat"
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Night Shift Nite Lite Lager 10; Athletic Brewing Run Wild IPA (non-alcoholic) 10; Maine brewing lunch IPA 19; equilibrium mc2 double ipa 15; singlecut eric more cowbell milk stout 12",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Beverages - Beer",
+    "dish_name": "Ghostfish Meteor Shower Pale Lager (GF)",
+    "description": "NY, 4.5%. Menu explicitly labels this beer \"(GF)\".",
+    "price": "11",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ghostfish Meteor Shower Pale Lager (GF) NY / 4.5% 11",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "Beverages - Cider",
+    "dish_name": "Cider (Eden Peak Bloom Cider, Wölffer Dry Rosé Cider)",
+    "description": "",
+    "price": "14-15",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Eden Peak Bloom Cider VT / 6.2% 14; Wölffer Dry Rosé Cider NY / 6.9% 15",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "The Smith",
+    "address": "55 3rd Ave, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://thesmithrestaurant.com/location/east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/the-smith/east-village-official-menu.txt"
+    },
+    "menu_section": "World Cup Special",
+    "dish_name": "Corner Kick Burger + Prosecco",
+    "description": "Double patty, american cheese, horseradish aioli, caramelized onions, pickles, pretzel bun, served with a glass of prosecco. Available June 11 - July 18.",
+    "price": "26",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "World Cup Special $26: Corner Kick Burger double patty, american cheese, horseradish aioli, caramelized onions, pickles, pretzel bun; Glass of Prosecco Ca' Furlan 'Cuvée Beatrice,' Veneto, IT NV",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  }
+]

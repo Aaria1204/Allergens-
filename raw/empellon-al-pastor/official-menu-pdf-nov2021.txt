@@ -1,0 +1,59 @@
+SOURCE URL: https://www.empellon.com/app/uploads/2020/09/empellon-al-pastor-menu-front-nov2021.pdf
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: This PDF filename indicates a Nov 2021 menu version. The current official restaurant page (https://www.empellon.com/restaurants/al-pastor/, last modified 2026-05-28 per page metadata) links to a newer PDF (empellon-al-pastor-menu-3-18-26-1.pdf) which returned "This PDF is empty or contains no machine-readable text" on fetch (likely an image-based/scanned PDF) and could not be extracted via web_fetch or Chrome rendering within the time budget. This Nov 2021 PDF was used as the best available machine-readable official source; dish list/prices may not reflect the very latest menu. Section headers and formatting garbled in raw PDF text extraction (OCR/text-layer artifacts); reconstructed below in reading order. No allergen statements present in source text.
+
+--- RAW EXTRACTED TEXT ---
+AL PASTOR . . . . . . . . . . . . . . . . . . 6
+SPIT ROASTED PORK AND PINEAPPLE
+
+CHEESEBURGER . . . . . . . . . . . . . 6
+AVOCADO AND TOMATO
+
+CHICKEN . . . . . . . . . . . . . . . . . . . 6
+SALSA VERDE AND CREMA
+
+VEGETABLE SPECIAL . . . . . . MP
+SEE OUR SPECIALS BOARD
+
+GUACAMOLE . . . . . . . . . . . . . . . 12
+CHIPS
+
+NACHOS . . . . . . . . . . . . . . . . . . . 12
+ADD RED CHILE PORK OR CHICKEN ($2 EACH)
+
+CORN DOG . . . . . . . . . . . . . . . . . 7
+HUITLACOCHE MUSTARD
+
+BREAKFAST BURRITO . . . . . . . 9
+MODIFIED VALENTINA
+
+QUESO DIP . . . . . . . . . . . . . . . . . 6
+BERBERE SPICES
+
+CHALUPA . . . . . . . . . . . . . . . . . . . 6
+RED CHILE PORK
+
+PORK FRIED RICE . . . . . . . . . . . 5
+SCALLIONS, PEAS AND TROMPO MEAT
+
+DOMINATION BURGER . . . . . . 5
+IT CONSUMES YOU
+
+FRENCH FRIES . . . . . . . . . . . . . . . 8
+ZA'ATAR
+
+CHEF'S SPECIAL . . . . . . . . . . . .
+SEE OUR SPECIALS BOARD
+
+WWW.EMPELLON.COM
+@EMPELLONALPASTOR
+132 ST MARKS PLACE NEW YORK NY 10009
+MONDAY - FRIDAY OPEN AT 4PM
+SATURDAY - SUNDAY OPEN AT 1PM
+$3 ALL DAY SUNDAY!
+
+--- SUPPLEMENTAL CONTEXT (from official restaurant page https://www.empellon.com/restaurants/al-pastor/, accessed 2026-07-14T00:00:00Z) ---
+"The menu consists of mash up bar snacks and tacos served in a hyper casual environment. Weekly food specials are announced on Thursdays and disappear a week later."
+"Empellón Al Pastor's drink menu focuses on margaritas, a rotating selection of 18 beers on tap, and an assortment of cocktails."
+No itemized drink list or allergen disclosures were present on the official page.

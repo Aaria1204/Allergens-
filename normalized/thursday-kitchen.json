@@ -1,0 +1,373 @@
+[
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/food-menu.txt"},
+    "menu_section": "Food",
+    "dish_name": "Soft Shell Crab",
+    "description": "deep fried crab - house made batter, wasabi remoulade - pickled vegetable",
+    "price": "15",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "high", "reason": "deep fried in a house-made batter, which commonly contains wheat flour"}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "soft shell crab 15 / deep fried crab - house made batter / wasabi ramoulade - pickled vegetable",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/food-menu.txt"},
+    "menu_section": "Food",
+    "dish_name": "Korean Popcorn Chicken",
+    "description": "crispy fried, sweet & spicy sauce",
+    "price": "15",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "high", "reason": "crispy fried preparation typically uses a wheat-flour breading/batter"}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "korean popcorn chicken 15 / crispy fried / sweet & spicy sauce",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/food-menu.txt"},
+    "menu_section": "Food",
+    "dish_name": "Heirloom Tomato",
+    "description": "honey ricotta - herb vinaigrette",
+    "price": "11",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "heirloom tomato 11 / honey ricotta - herb vinaigrette",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/food-menu.txt"},
+    "menu_section": "Food",
+    "dish_name": "Kimchi Paella",
+    "description": "(cheesy, risotto texture) white tiger shrimp - saffron - caramelized kimchi",
+    "price": "17",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "medium", "reason": "kimchi is frequently made or served with gochujang/fermented seasonings that commonly contain wheat"}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "kimchi paella 17 / (cheesy, risotto texture) white tiger shrimp -saffron - caramelized kimchi",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/food-menu.txt"},
+    "menu_section": "Food",
+    "dish_name": "Steak",
+    "description": "(medium-rare only) soy-garlic glaze - feta grits, seasonal vegetable",
+    "price": "18",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "medium", "reason": "soy-garlic glaze commonly relies on soy sauce, which typically contains wheat"}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "steak 18 / (medium-rare only) soy-garlic glaze - feta grits / seasonal vegetable",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/food-menu.txt"},
+    "menu_section": "Food",
+    "dish_name": "Plantain",
+    "description": "sriracha goat cheese - cilantro",
+    "price": "12",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "plantain 12 / sriracha goat cheese - cilantro",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/food-menu.txt"},
+    "menu_section": "Food",
+    "dish_name": "Edamame Dumpling",
+    "description": "steamed dumpling - citrus truffle oil, green pepper - parmigiano",
+    "price": "12",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "high", "reason": "dumpling wrappers are conventionally made from wheat flour"}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "edamame dumpling 12 / steamed dumpling - citrus truffle oil / green pepper - parmigiano",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/food-menu.txt"},
+    "menu_section": "Food",
+    "dish_name": "Ugly Potato",
+    "description": "crispy fingerling potato - feta cheese, smoky bbq sauce",
+    "price": "12",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "medium", "reason": "smoky BBQ sauce commonly contains gluten-derived ingredients such as soy sauce or malt vinegar"}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "ugly potato 12 / crispy fingerling potato - feta cheese / smoky bbq sauce",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/food-menu.txt"},
+    "menu_section": "Food",
+    "dish_name": "Asparagus",
+    "description": "hazelnut vinaigrette - crushed red pepper, sun dried tomato",
+    "price": "13",
+    "declared_allergens": ["tree nut"],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "asparagus 13 / hazelnut vinaigrette - crushed red peper / sun dried tomato",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/food-menu.txt"},
+    "menu_section": "Food",
+    "dish_name": "Tuna Tartar Taco",
+    "description": "yellowfin tuna - chipotle mayo - yuzu crème",
+    "price": "15",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "tuna tartar taco 15 / yellowfin tuna - chipotle mayo - yuzu / crème",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/food-menu.txt"},
+    "menu_section": "Food",
+    "dish_name": "Duck Confit Empanada",
+    "description": "dill crème fraîche - cumin, pickled cucumber",
+    "price": "14",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "high", "reason": "empanada dough is conventionally made from wheat flour"}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "duck confit empanada 14 / dill crème fraîche - cumin / pickled cucumber",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/food-menu.txt"},
+    "menu_section": "Food",
+    "dish_name": "Lucky Noodle",
+    "description": "(spicy) hand torn flat noodle, minced beef - lime yogurt - fennel",
+    "price": "14",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "high", "reason": "hand-torn flat noodles are typically made from wheat flour"}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "lucky noodle 14 / (spicy) hand torn flat noodle / minced beef - lime yogurt - fennel",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/food-menu.txt"},
+    "menu_section": "Food",
+    "dish_name": "Bread Pudding",
+    "description": "bourbon sauce - valrhona jivara vanilla bean gelato",
+    "price": "11",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "high", "reason": "bread pudding is made from bread, which is wheat-based"}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "bread pudding 11 / bourbon sauce - valrhona jivara vanilla / bean gelato",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/food-menu.txt"},
+    "menu_section": "Food",
+    "dish_name": "Truffle Mac & Cheese",
+    "description": "broccoli, truffle oil - micro celery",
+    "price": "15",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "high", "reason": "\"mac\" (macaroni) pasta is conventionally made from wheat flour"}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "truffle mac & cheese 15 / broccoli / truffle oil - micro celery",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/food-menu.txt"},
+    "menu_section": "Food",
+    "dish_name": "Popcorn Ice Cream",
+    "description": "vanilla bean gelato - salted caramel",
+    "price": "11",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "popcorn ice cream 11 / vanilla bean gelato - salted caramel",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/food-menu.txt"},
+    "menu_section": "Food",
+    "dish_name": "Gnocchi",
+    "description": "(soupy & spicy) korean chili pepper sauce, garlic aioli - seaweed crunch",
+    "price": "14",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "medium", "reason": "gnocchi recipes often use wheat flour as a binder alongside potato, though flourless versions exist"}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "gnocchi 14 / (soupy & spicy) korean chili pepper sauce / garlic aioli - seaweed crunch",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/food-menu.txt"},
+    "menu_section": "Food",
+    "dish_name": "Chilaquiles",
+    "description": "corn tortilla - mulato chile - avocado",
+    "price": "12",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "chilaquiles 12 / corn tortilla - mulato chile - avocado",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/05/drinkmunu20260527.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/drinks-menu.txt"},
+    "menu_section": "Drinks - Soju Cocktails",
+    "dish_name": "Soju Cocktails (Ms. Cutetini, Ruby the GF, Blah Blah Blue, Pure Strawberry, Lychee Reach Rich, Soju 'Negroni', Soju Sour, Matcha Tea-ni, Espresso Martini, Pomegranate Red Sangria, Sparkling Rosé Sangria, East 9th Spritz, Bok Bun Ja)",
+    "description": "Soju-based cocktails and sangrias with various mixers (cucumber, grapefruit, blue curaçao, pineapple, strawberry, lychee, mango, cappelletti/elderflower, lemon juice, green tea, espresso liqueur/cold brew, red wine blend, prosecco, black raspberry wine)",
+    "price": "13-25",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "MS.CUTETINI 13 / RUBY THE GF 14 / BLAH BLAH BLUE 13 / PURE STRAWBERRY 14 / LYCHEE REACH RICH 14 / SOJU 'NEGRONI' 15 / SOJU SOUR 14 / MATCHA TEA-NI 15 / ESPRESSO MARTINI 15 / POMEGRANATE RED SANGRIA 15 / SPARKING ROSÉ SANGRIA 14 / EAST 9th SPRITZ 15 / BOK BUN JA 25",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/05/drinkmunu20260527.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/drinks-menu.txt"},
+    "menu_section": "Drinks - Non-alcoholic",
+    "dish_name": "Non-alcoholic Drinks (Yuzu Tonic, Golden Punch, Saratoga water, Hot Tea)",
+    "description": "Yuzu tonic, golden punch (lychee/pineapple/lemon/tonic), still/sparkling water, hot tea (K-green, chai, jasmine green, moroccan mint, ginger and turmeric)",
+    "price": "4-8",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "YUZU TONIC 8 / GOLDEN PUNCH 8 / SARATOGA 5 / HOT TEA 4 (K-green / chai / jasmin green / moroccan mint)",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/05/drinkmunu20260527.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/drinks-menu.txt"},
+    "menu_section": "Drinks - Wine",
+    "dish_name": "Wine List (reds, whites, orange, rosé, prosecco)",
+    "description": "Côtes-Du-Rhône, Tempranillo, Cabernet Sauvignon, Melon de Bourgogne (Muscadet), Chardonnay x Sauvignon Blanc blend, Chenin Blanc (Vouvray Sec), Welschriesling pinot gris blend, orange skin-contact white blend, Malbec, sparkling rosé, Prosecco DOC",
+    "price": "11-74 (by glass/bottle)",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Côtes-Du-Rhône 12 55 / Tempranillo 12 55 / Cabernet Sauvignon 13 59 / Melon de bourgogne 12 55 / Chardonnay x Sauvigon blanc 14 61 / Chenin Blanc 16 74 / Welschriesling pinot gris blend 14 61 / Malbec 13 59 / sparklingROSÉ 11 45 / PROSECCO DOC 14 61",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/05/drinkmunu20260527.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/drinks-menu.txt"},
+    "menu_section": "Drinks - Sake",
+    "dish_name": "Sake List (Ozeki, Sesshu Otokoyama, Tozai Nigori, Dassai 50 blue, Suigei, Itami Onigorosi, Soto)",
+    "description": "Junmai, junmai daiginjo, nigori, and tokubetsu junmai sake selections",
+    "price": "12-81 (by glass/bottle)",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "OZEKI 'champion' junmai / SESSHU OTOKOYAMA 'man's mountain' 15 39 73 tokubetsu junmai / TOZAI NIGORI 'snow maiden' nigori / DASSAI 50 blue 'otter festival' junmai daiginjo / SUIGEI 'drunken whale' tokubethsu junmai 43 81 / ITAMI ONIGOROSHI 'demon slayer' junmai / SOTO 76 junmai",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/05/drinkmunu20260527.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/drinks-menu.txt"},
+    "menu_section": "Drinks - Beer",
+    "dish_name": "Beer List (Sapporo Draft, Yuzu Beer, Grapefruit Beer, Terra, Echigo, Kizakura 'Lucky Dog', Tokyo White, Kyoto 'Matcha IPA', Sevenbrau 'Seoul', OB)",
+    "description": "Lagers, pilsners, and IPAs from South Korea and Japan, including fruit-flavored lagers (yuzu, grapefruit)",
+    "price": "6-10",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "medium", "reason": "beer is conventionally brewed from barley/wheat malt"}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "SAPPORO DRAFT 6 lager / YUZU BEER 9 / GRAPEFRUIT BEER 9 / TERRA 7 pilsner / ECHIGO 8 flying IPA / KIZAKURA 'LUCKY DOG' 9 session IPA / TOKYO WHITE 10 saison ale / KYOTO 'MATCHA IPA' 10 japanese ipa / SEVENBRAU 'SEOUL' 9 soul ale / OB 9 pilsner",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Thursday Kitchen",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "menu_source": {"url": "https://thursdaykitchen.com/wp-content/uploads/2026/05/drinkmunu20260527.pdf", "tier": "official", "accessed_at": "2026-07-14T00:00:00Z", "local_artifact": "raw/thursday-kitchen/drinks-menu.txt"},
+    "menu_section": "Drinks - Spirits",
+    "dish_name": "Spirits (Il Poom Jinro, Seol Joong Mae, Iichiko Shochu, Hwayo 23, Makgeolli - Ji Pyeong)",
+    "description": "Rice soju, plum specialty spirit, barley shochu, and unfiltered rice wine (makgeolli)",
+    "price": "10-82",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {"allergen": "gluten", "confidence": "low", "reason": "Iichiko shochu is described as \"100% barley\", a gluten-containing grain, though distillation may reduce protein content"}
+    ],
+    "cross_contact": "unknown",
+    "source_text": "IL POOM JINRO 39 rice soju - 24% ABV / SEOL JOONG MAE 10 25 plum specialty spirit - 14% ABV / IICHIKO SHOCHU japan 100% barley - 20% ABV / HWAYO 23 12 32 rich aroma of rice soju - 23% ABV / MAKGEOLLI - JI PYEONG 11 25 unfiltered rice wine - 5.6% ABV",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  }
+]

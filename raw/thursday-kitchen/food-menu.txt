@@ -1,0 +1,90 @@
+Source URL: https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf
+Tier: official
+Accessed at: 2026-07-14T00:00:00Z
+Limitations: PDF text extraction via automated fetch; layout/column order may be jumbled (categories "VEGGIE SEAFOOD MEAT / STARCH DESSERT" appear as a header row, not per-dish labels); no explicit allergen icons/labels found in text; prices and descriptions appear complete for a la carte dinner menu. Linked from https://thursdaykitchen.com/diningmenu/ (official site, confirmed address 424 E 9th St New York, NY).
+
+--- RAW EXTRACTED TEXT ---
+
+VEGGIE SEAFOOD MEAT
+STARCH DESSERT
+CHEF PROPRIETOR KAY HYUN
+
+soft shell crab 15
+deep fried crab - house made batter
+wasabi ramoulade - pickled vegetable
+
+korean popcorn chicken 15
+crispy fried
+sweet & spicy sauce
+
+heirloom tomato 11
+honey ricotta - herb vinaigrette
+
+kimchi paella 17
+(cheesy, risotto texture)
+white tiger shrimp -saffron -
+ caramelized kimchi
+
+steak 18
+(medium-rare only)
+ soy-garlic glaze - feta grits
+seasonal vegetable
+
+plantain 12
+sriracha goat cheese - cilantro
+
+edamame dumpling 12
+steamed dumpling - citrus truffle oil
+green pepper - parmigiano
+
+ugly potato 12
+crispy fingerling potato - feta cheese
+smoky bbq sauce
+
+asparagus 13
+hazelnut vinaigrette - crushed red peper
+sun dried tomato
+
+tuna tartar taco 15
+yellowfin tuna - chipotle mayo - yuzu
+crème
+
+duck confit empanada 14
+dill crème fraîche - cumin
+pickled cucumber
+
+lucky noodle 14
+(spicy) hand torn flat noodle
+minced beef - lime yogurt - fennel
+
+bread pudding 11
+bourbon sauce - valrhona jivara vanilla
+bean gelato
+
+truffle mac & cheese 15
+broccoli
+truffle oil - micro celery
+
+popcorn ice cream 11
+vanilla bean gelato - salted caramel
+
+gnocchi 14
+(soupy & spicy) korean chili pepper sauce
+garlic aioli - seaweed crunch
+
+chilaquiles 12
+corn tortilla - mulato chile - avocado
+
+NEED TO KNOW:
+TABLE SERVICE IS FOR DINING CUSTOMERS ONLY (PLEASE ORDER MINIMUM ONE DISH PER PERSON)
+IN ORDER TO ALLOW US TO SERVE AS MANY CUSTOMERS TO JOIN US,
+WE ASK THAT YOU PLEASE LIMIT YOUR DINING EXPERIENCE UP TO:
+1.5 HOURS FOR 2-3 PEOPLE / 2 HOURS FOR 4 or more PEOPLE
+*CONSUMING RAW OR UNDERCOOKED MEATS, POULTRY, SEAFOOD, SHELLFISH, OR EGGS MAY INCREASE YOUR RISK OF FOODBORNE ILLNESS*
+Please notify the server if you have any food allergies or dietary restrictions. Although we do not make any substitution on the menu, our server will inform you what dish you may safely enjoy
+** 20% GRATUITY WILL BE ADDED TO LARGER PARTY 6+**
+
+THU-MERCH
+t-shirts cap tote bag 25 black / white black black / natural
+gift card upon request 50/100/150/200
+keychain 2

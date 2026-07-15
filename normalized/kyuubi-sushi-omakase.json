@@ -1,0 +1,152 @@
+[
+  {
+    "restaurant_name": "Kyuubi Sushi Omakase",
+    "address": "102 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.doordash.com/store/kyuubi-omakase-102-saint-marks-pl-new-york-34021721/",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kyuubi-sushi-omakase/doordash_menu.txt"
+    },
+    "menu_section": "Omakase",
+    "dish_name": "Omakase A",
+    "description": "Fixed chef's-choice omakase tasting menu. \"The chef carefully selects and matches to give you the most cost-effective experience.\" No itemized course list disclosed by the source.",
+    "price": "$45.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Omakase sushi/sashimi courses are conventionally served with soy sauce, which commonly contains wheat; no ingredient list is disclosed to confirm or rule this out."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "omakase A — $45.00; Most Ordered: omakase set — \"The chef carefully selects and matches to give you the most cost-effective experience.\"",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Kyuubi Sushi Omakase",
+    "address": "102 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.doordash.com/store/kyuubi-omakase-102-saint-marks-pl-new-york-34021721/",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kyuubi-sushi-omakase/doordash_menu.txt"
+    },
+    "menu_section": "Omakase",
+    "dish_name": "Omakase B",
+    "description": "Higher-tier fixed chef's-choice omakase tasting menu. No itemized course list disclosed by the source.",
+    "price": "$79.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Omakase sushi/sashimi courses are conventionally served with soy sauce, which commonly contains wheat; no ingredient list is disclosed to confirm or rule this out."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "omakase B — $79.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Kyuubi Sushi Omakase",
+    "address": "102 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.doordash.com/store/kyuubi-omakase-102-saint-marks-pl-new-york-34021721/",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kyuubi-sushi-omakase/doordash_menu.txt"
+    },
+    "menu_section": "Featured Items",
+    "dish_name": "A5 Wagyu",
+    "description": "A5 Wagyu beef, no further description disclosed by the source.",
+    "price": "$18.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "A5 wagyu preparations at sushi/omakase restaurants are commonly finished with a soy-based glaze or ponzu, which commonly contains wheat; no ingredient list disclosed."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "A5 Wagyu — $18.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Kyuubi Sushi Omakase",
+    "address": "102 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.doordash.com/store/kyuubi-omakase-102-saint-marks-pl-new-york-34021721/",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kyuubi-sushi-omakase/doordash_menu.txt"
+    },
+    "menu_section": "Featured Items",
+    "dish_name": "Salmon Don",
+    "description": "Salmon donburi (rice bowl), no further description disclosed by the source.",
+    "price": "$30.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Donburi (rice bowl) preparations are commonly dressed with soy sauce, which commonly contains wheat; no ingredient list disclosed."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "salmon Don — $30.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Kyuubi Sushi Omakase",
+    "address": "102 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.doordash.com/store/kyuubi-omakase-102-saint-marks-pl-new-york-34021721/",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kyuubi-sushi-omakase/doordash_menu.txt"
+    },
+    "menu_section": "Featured Items",
+    "dish_name": "Unagi Don",
+    "description": "Unagi (eel) donburi (rice bowl), no further description disclosed by the source.",
+    "price": "$35.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Unagi is conventionally prepared with kabayaki/unagi sauce, a soy-sauce-and-mirin-based glaze brushed onto the eel as an integral part of the dish; this sauce almost always contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Unagi Don — $35.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Kyuubi Sushi Omakase",
+    "address": "102 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.doordash.com/store/kyuubi-omakase-102-saint-marks-pl-new-york-34021721/",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kyuubi-sushi-omakase/doordash_menu.txt"
+    },
+    "menu_section": "Featured Items",
+    "dish_name": "Chu Toro",
+    "description": "Medium fatty tuna, no further description disclosed by the source (nigiri/sashimi preparation typical for this cut at omakase sushi restaurants).",
+    "price": "$11.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Chu Toro — $11.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  }
+]

@@ -1,0 +1,15 @@
+SOURCE URL: https://www.mamouns.com/location/mamouns-east-village-nyc/
+TIER: official
+ACCESSED_AT: 2026-07-14T16:00:00Z
+PURPOSE: Identity/location verification only (not used for menu content).
+LIMITATIONS: None material — confirms exact address match.
+
+RELEVANT EXTRACTED TEXT:
+"East Village, NYC"
+"Hours & Location"
+"30 St. Marks Place, New York, NY 10003"
+"646.870.5785"
+"Monday - Sunday: 11 am - 11 pm"
+"Mamoun's Falafel is an East Village NYC Gem ... You'll find us at 30 St. Marks Place, New York, NY 10003"
+
+CONCLUSION: Confirms this page corresponds exactly to the target restaurant/address (30 St Marks Pl, New York, NY 10003), distinguishing it from other Mamoun's locations (e.g., MacDougal St, West 4th St, etc.).

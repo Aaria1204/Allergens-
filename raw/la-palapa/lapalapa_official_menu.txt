@@ -1,0 +1,185 @@
+SOURCE URL: https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Fetched as rendered HTML text (not JS-shell; full menu content present in initial fetch, no Chrome escalation needed). Some sections (e.g. "Especialidades", brunch a la carte) duplicate dishes found elsewhere on the page with different prices/contexts; both listings preserved where content differs. Ingredient descriptions are as written by the restaurant; no nutrition/allergen ingredient breakdown beyond what is stated. PDF menu links were referenced on page but not separately downloaded/parsed (HTML page contained the equivalent text content for tacos/entrees, brunch, and tamales sections).
+
+IDENTITY CONFIRMATION: Page states address "77 SAINT MARKS PLACE, NEW YORK, NY 10003" and phone 2127772537 — matches target restaurant exactly.
+
+ALLERGEN DISCLOSURE (verbatim, appears at top of Menus page):
+"Allergen Alert - La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy."
+
+=== FULL EXTRACTED MENU TEXT ===
+
+## Menus
+Cocina Mexicana
+
+Allergen Alert - La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.
+
+## Tamales
+Tamales to make an abuela proud.
+Pollo Mole Oaxaqueño
+Pollo Rojos
+Al Pastor
+Rajas con Queso
+~ask for our daily specials~
+
+## Tacos & Quesadillas Mexico City Style
+TACOS soft corn tortilla ~ cilantro and sweet onion
+QUESADILLAS grilled flour tortillas ~ three cheeses
+
+- Taquiza Tacos — Special plate of three soft corn tacos stuffed with your choice of: tender slow braised prime beef rib barbacoa, grilled steak, al pastor pork, chicken tinga, guajillo chorizo, shrimp, hongos wild mushrooms, corn esquites, poblano rajas; two salsas: spicy serrano macha and medium chile de árbol, red tomato rice, slow cooked black beans
+- Tacos de Pescado — three soft corn tacos of achiote rubbed mahi mahi filet, crisped chile pasilla, romaine chipotle crema, avocado-tomatillo salsa, red tomato rice, black beans
+- Tacos Vegan Avocado Corn — three soft corn tacos of avocado, corn esquites, canario pintos, pasilla with two salsas: spicy salsa macha and medium spicy chile de árbol, vegan black beans and pico de gallo
+- Bistec — Char-grilled steak
+- Tinga de Pollo — Chipotle BBQ chicken rib
+- Hongos — wild mushrooms, shallots, epazote
+- Rajas Poblanas — Roasted poblano, sweet onion
+- Al Pastor Pork — Pineapple-chile rubbed
+- Barbacoa Rez — Slow braised beef
+- Chorizo — Housemade chile guajillo
+- Esquites — Sautéed corn
+- Camarones — Shrimp, poblanos, xnipec
+- La Palapa Burrito — giant flour tortilla stuffed with you choice of filling and red tomato rice, black beans, guacamole, pico, queso and crema
+
+## Antojitos (Appetizers)
+- Guacamole por Orden — Hand crushed guacamole made to order for you ~ choose "picante" level; basket of warm corn tortillas or house made cumin spiced corn chips. Available with crudité add $2
+- Tamales — Fresh masa tamales Pollo Mole Oxaqueño, Pollo Rojos, Al Pastor, Rajas con Queso
+- Birria Flautas — crispy tortillas stuffed with beef birria
+- Sopa de La Casa: Pozole Rojo — Hominy corn, chicken, guajillo broth, avocado, radish, oregano, lime
+- Elote del Mercado — Market style corn on the cob with lime, mayo, chile piquín, queso cotija
+- Taquitos De Papa — Crisped potato and chile poblano tacos, crema, chile de árbol salsa, guacamole
+- Chalupas con Chorizo Casero — Little boats of corn masa, housemade guajillo chorizo, guacamole, black beans, queso fresco, crema. Vegetarian at your request
+- Plátanos con Crema — Sweet plantains, crema, housemade queso fresco
+- Calamares — Crisped calamari, guacamole~tomatillo dipping salsa
+
+## Platos Fuertes - Entrees
+- Enchiladas de Pollo-Mole — Chicken enchiladas in rich red black mole, housemade queso fresco, mexican crema, sweet maya onion
+- Enchiladas de Pollo-Verdes — Chicken enchiladas in tomatillo salsa verde, housemade queso fresco, mexican crema, sweet maya onion
+- Enchiladas Fundidas de Carne Asada — Grilled skirt steak enchiladas in árbol salsa, melted queso chihuahua, avocado, romaine, sweet onion, crema, queso fresco, red tomato rice
+- Enchiladas de Huitlacoche — Huitlacoche corn mushrooms baked with queso chihuahua, avocado, lettuce, cilantro, sweet onion, crema, queso fresco, tomatillo salsa verde
+- Arrachera al Tequila con Jalapeños Torreados — Grilled skirt steak marinated in lime and tequila, char grilled onions and jalapeños, red rice, canario pinto beans
+- Pato al Mole Negro Oaxaqueño — Grilled duck breast in rich black mole typical of Oaxaca made from 26 magical ingredients, red tomato rice, swiss chard, tortillas
+- Camarones al Mojo de Ajo — Shrimp sautéed, golden roasted garlic cloves, red tomato rice, slow cooked black beans, tortillas
+- Camarones en Mole Negro — Grilled shrimp, black mole from Oaxaca, red tomato rice, vegetarian canario beans, tortillas
+- Chile Relleno — Vegetarian roasted poblano chile stuffed with queso fresco and queso cotija añejo lightly battered in a spiced tomato sauce, saffron rice, black beans
+- Plato Vegan Tepozteco — vegan plate: huitlacoche corn mushrooms guacamole, pico de gallo, sautéed swiss chard, grilled nopal cactus, canario beans
+- Plato Vegetariano Azteca — vegetarian plate: three potato taquitos, guacamole, salsa de arbol, rice tortita, grilled nopal cactus, black beans
+- Barbacoa de Cordero Catalina — Chile ancho barbecued lamb shank braised with avocado leaves, guacamole, black beans, red tomato rice, tortillas
+- Tacos de Carnitas — Crisp pork carnitas to make your own tacos
+
+## Especialidades (Specialities) — repeats plus additional items
+- Chile Relleno (see above)
+- Camarones Mojo De Ajo — Sautéed shrimp with golden garlic cloves, red tomato rice, black beans
+- Enchiladas de Pollo-Verdes (see above)
+- Enchiladas de Pollo-Mole (see above)
+- Enchiladas de Hongos-Verdes — Vegetarian mushroom enchiladas in tomatillo salsa verde, housemade queso fresco, mexican crema, sweet maya onion
+- Enchiladas de Hongos-Mole Rojo — Vegetarian mushroom enchiladas in rich red mole, housemade queso fresco, mexican crema, sweet maya onion
+- Arrachera al Tequila con Jalapeños Torreados (see above)
+
+## Ensaladas (Salad Add Ons: grilled shrimp, chicken or skirt steak)
+- Romántica — Romaine hearts, avocado, roasted beets, queso fresco, dried cranberries, pine nuts, roasted cumin, lime dressing
+- César Cardini — Invented by Cesar Cardini in Tijuana, Mexico; crisp romaine hearts, toasted pine nuts, queso añejo, anchovy, croutons, lime~anchovy dressing
+- Nopalitos — Grilled nopal cactus, radishes, tender boston lettuce, fresh lime juice, queso fresco
+- Palmitos — Tender boston lettuce, hearts of palm, avocado, tomato, fresh oregano vinaigrette
+
+## Sides
+- Piña asada — grilled pineapple
+- Cebollitas — Grilled spring onions taqueria style
+- Jalapeños Torreados — charred whole jalapeños
+- Charro Bacon Beans — smoky bacon Mexican cowboy beans
+
+## La Palapa Margarita
+Frozen — Hand crafted lime frozen margarita — Glass $18 / Pitcher $39
+Rocks — olmeca altos, fresh lime, agave — Glass $18 / Pitcher $39
+Sabores-Flavors (add $1.95): Jalapeño, Watermelon, Passion fruit, Ginger, Mango, Hibiscus, Guava, Pomegranate, Strawberry, Wild Blueberry, Tamarind, Blood Orange, Coconut
+La Palapa Margarita Tuesdays — $6 Frozen Margaritas all day/night
+Happy Hour at the Bar 4-7 Margaritas — $9
+
+## Micheladas (Beer cocktails)
+- Chelada — Lime juice, salt
+- Michelada — Lime, maggi, valentina, piquín salt
+- Chelada Margarita — XX Lager, frozen margarita, salt
+- Sangrita Roja — Citrus-tomato-chile tequila chaser
+
+## Cerveza (Beer)
+Tecate Can $8 / Modelo Especial Can $8 / Corona $8 / Corona Light $8 / Negra Modelo $8 / Corona Zero 0.0 $8
+
+## Sangría (Small Pitcher $17 / Large Pitcher $34)
+- White Hibiscus Sangría — Chardonnay-hibiscus flower infusion
+- Red Citrus Sangría — Cabernet, orange, lime, lemon
+
+## Aguas Frescas / Non-alcoholic
+- Aguas Frescas — Hibiscus, Mango, Tamarind, Ginger, Limeade, Watermelon
+- La Palapa Iced Tea — Hibiscus infused ceylon black
+- Mexican Coca Cola — $3.50
+- Jarritos Toronja — $3.50
+
+## Cocteles
+- La Doña Margarita — "NYC Top 5 Margaritas" award winner! Milagro Blanco, patronage, hibiscus
+- La Joya — Mezcal Ilegal Joven, Cointreau, Chambord, ginger infusion, agave, lime
+- Zihua Margarita — Hornitos Reposado, Mezcal Pelotón, Cointreau
+- Tulum Twist — Tequila 7 Leguas, XTA Mayan honey liquor, Cointreau, lime
+- La Flaca — Skinny Margarita-Herradura Blanco, fresh lime, agave
+- Restless Poet — Hendricks Gin, Saint Germain, jalapeño, Jarritos grapefruit
+- Tamarind Cosmo — Absolut Mandarin, Cointreau, tamarind
+- Coloradito Blue Sour — Baby Blue, Prize Winning Blue Corn Whisky, ginger, blood orange
+- Mezcalotón — Mezcal Pelotón, Combier, passion fruit
+- Paloma — Tromba Reposado, Cointreau, Jarritos de Toronja
+
+## Mezcal (Distilled once, artisanal agave spirit)
+Del Maguey Minero $14, Del Maguey Chichicapa $14, Del Maguey San Luis Del Río $14, Del Maguey Santo Domingo $14, Del Maguey Tobalá $18, Ilegal Joven $13, Ilegal Reposado $14, Ilegal Añejo $18, El Jolgorio Barril $16, Pelotón $12, Santa Pedrera Espadin $14, Espiritu Lauro Buen Bicho $12, Espiritu Lauro Joven Espadin $16
+
+## Tequila
+Blancos: Herradura $11, Tequila Uno $12, Luchadores 101 $13, Casa Dragones $15, Milagro $13, Casa Amigos $11, Corazón $11, Ocho $15, Patrón $14, Gran Centenario $13, Don Julio $14, Sauza Hornitos $10, Tres Generaciones $13, Partida $13, Casa Noble $13, Cazadores $10, Cobalto Orgánico $12, Corralejo $11, Espolón $11, Campeón $14, 7 Leguas $13, Tromba $11
+Reposados: Tequila Dos $13, Cazadores $12, Corazón $13, Patrón $15, Milagro $14, Casa Amigos $13, Ocho $17, Gran Centenario $14, Herradura $13, Sauza Hornitos $11, Tres Generaciones $14, Partida $15, Cobalto Orgánico $13, Casa Noble $14, Don Julio $15, Corralejo $13, 7 Leguas $14, Tromba $12, Casa Amigos $14
+Añejos y Especiales: Tequila Tres $14, Herradura $14, Casa Amigos $15, Corazón $17, Patrón $16, Don Julio $17, Casa Noble $17, Cazadores $14, Avión $14, Corralejo $14, 7 Leguas $15, Tromba $14
+
+## Cafecitos
+Café de Olla — Coffee slowly brewed with sweet piloncillo cinnamon and orange peel
+Café con Leche, Cappuccino, Espresso (Double), Chocolate Mexicano "La Abuelita" — Steaming mug of cinnamon scented hot chocolate milk
+
+## Bottomless Brunch
+Per Person Includes Fruit, Entrée, Coffee And Beverage. $42 per person includes 90 minutes of Bottomless Boozy Brunch featuring La Palapa's Margaritas & Mimosas! tax and gratuity not included. NYS Law prohibits serving alcohol to intoxicated guests, must be 21 and older, one drink at a time. Last seating for Boozy Brunch is 3:30pm. No substitutions.
+
+## La Palapa Boozy Brunch Options (choose one Entree)
+- Pan Frances Torrejas — Mexican style french toast ~ bolillo mexican bread vanilla batter, piloncillo~cinnamon syrup, bananas
+- Huevos a La Mexicana — Eggs scrambled with tomato, onion and jalapeno, guacamole, black beans and warm corn tortillas
+- Huevos Rancheros Verdes — Two eggs on crisped corn tortillas, black beans, salsa verde, crema, queso fresco and guacamole
+- Molletes — Vegetarian pinto bean open face sandwich, queso fresco, monterrey jack cheese, pico de gallo, mixed greens in fresh oregano vinaigrette
+- Avocado Toast — Avocado bolillo toast, home made natural queso fresco, olive oil, spiced pepitas, mixed greens, fresh oregano vinaigrette
+- Huevos Tulum (keto) — eggs scrambled with collard greens, jalapeño, onion, queso, served with: guacamole, pico
+- Burrito Bowl — Choose One Filling: chicken tinga, al pastor pork, brisket barbacoa, suadero, grilled steak, chorizo, shrimp, poblano rajas, hongos mushrooms or corn esquites; served with: rice, black beans, pico de gallo, guacamole, crema and queso
+- Vegan Bowl — poblano rajas, hongos mushrooms, corn esquites; served with: pinto beans, pico de gallo, guacamole
+- BEC & Avocado Sandwich — on a bolillo roll: bacon, egg, cheese and avocado
+- Breakfast Burrito — flour tortilla, egg, bacon, beans, rice, pico, guacamole, crema
+- Breakfast Tacos — two soft tacos: egg, bacon, beans, cheese, avocado; choose: flour or corn tortilla
+
+## Brunch a la Carte (Egg whites only to any egg dish add for $1.50)
+- Pan Frances Torrejas — Mexican style french toast, piloncillo~cinnamon syrup, fresh fruit
+- Huevos a La Mexicana — Eggs scrambled with tomato, onion, jalapeño, guacamole, black beans
+- Huevos Rancheros Verdes — Two eggs atop crisp corn tortillas, black beans, tomatillo salsas, crema, queso fresco, guacamole
+- Vegan Bowl — poblano rajas, hongos mushrooms, corn esquites, served with: beans, pico de gallo, guacamole
+- Burrito Bowl — Choose: chicken tinga, al pastor pork, brisket, grilled steak, chorizo, shrimp, poblano rajas, mushrooms or corn; with: rice, beans, pico, guacamole, crema, queso
+- Chilaquiles Verdes — Corn tortilla casserole smothered in green tomatillo salsa, sweet onion, epazote and mexican crema and radishes. Options: Two eggs $12, Grilled chicken $14, Steak & Eggs $20
+- Breakfast Burrito — giant flour tortilla stuffed with egg, bacon, beans, rice, pico de gallo, guacamole, crema
+- Breakfast Tacos — three soft tacos of egg, bacon, beans, cheese and avocado, choice of corn or flour tortilla
+- Huevos Choriqueso — Scrambled eggs with guajillo chorizo, queso fresco and monterrey jack cheeses, guacamole, black beans, warm corn tortillas
+
+## Tortas (Sandwiches all on Bolillo Rolls)
+- Avocado Toast — Avocado bolillo toast, home made natural queso fresco, olive oil, spiced pepitas, mixed greens, fresh oregano vinaigrette. Add chorizo $14, Add 2 eggs $14
+- Molletes — Vegetarian pinto bean open face sandwich, queso fresco, monterrey jack cheese, pico de gallo, mixed greens, fresh oregano vinaigrette. Add chorizo $12, Add 2 eggs $12, Add bacon $12
+- Pepito — Grilled skirt steak sandwich, avocado, lettuce, tomato, house made pickled jalapeño, smoky chipotle crema, choice of rice & beans or french fries
+- Torta de Pollo — grilled chicken sandwich, cheese, pico de gallo, guacamole and choice of rice & beans or french fries
+- BEC & Avocado Sandwich — on a bolillo roll: bacon, egg, cheese and avocado
+
+## Cocteles Especiales (Brunch)
+- Bloody María — Silver tequila and spiced tomato juice in a tall chile-piquín rimmed glass, housemade jalapeño pickles
+- Tequila con Sangrita — Tequila silver shot, chile-tomato chaser
+- Prosecco Mimosa — Blood orange, prosecco split
+- Proseccotini Ginger — Fresh ginger, prosecco split
+
+## Micheladas (Brunch — Beer Cocktails, "Cura Crudas" Hangover Cures)
+- Frozen Chelada — XX Lager, frozen margarita, salt
+- Chelada — Lime juice, salt
+- Michelada — Lime, maggi, valentina, piquín salt
+- Aguas Frescas — Tamarind, hibiscus, limeade, watermelon, house made ginger

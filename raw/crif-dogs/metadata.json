@@ -1,0 +1,24 @@
+{
+  "restaurant_name": "Crif Dogs",
+  "address": "113 St Marks Pl, New York, NY 10009, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.crifdogs.com/menu/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Full, complete, current menu with sections and prices. Address confirmed on page (113 St Marks Pl, New York, NY 10009, East Village location). No allergen disclosures present. Beer & Wine / cocktail subcategories lack itemized flavors/brands."
+    }
+  ],
+  "menu_source_used": {
+    "url": "https://www.crifdogs.com/menu/",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/crif-dogs/crifdogs-com-menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": false,
+  "manual_review_reason": null,
+  "status": "complete",
+  "notes": "Only Crif Dogs' own hot dog/tots/burger/drink menu was extracted from the official crifdogs.com/menu page. PDT (the speakeasy hidden inside this same address via phone booth) is a separate concept with its own cocktail menu and was deliberately excluded — no PDT items appear on the crifdogs.com menu page anyway, so no PDT content was captured or needed exclusion in practice."
+}

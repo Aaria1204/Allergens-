@@ -1,0 +1,3419 @@
+[
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Salad",
+    "dish_name": "Green Salad",
+    "description": "",
+    "price": "$3.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Green Salad —  — $3.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Salad",
+    "dish_name": "Hiyashi Tomato",
+    "description": "Sliced Tomato",
+    "price": "$3.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Hiyashi Tomato — Sliced Tomato — $3.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Salad",
+    "dish_name": "Onion Salad",
+    "description": "",
+    "price": "$3.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Onion Salad —  — $3.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Salad",
+    "dish_name": "Potato Salad",
+    "description": "",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Potato Salad —  — $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Salad",
+    "dish_name": "Seaweed salad",
+    "description": "",
+    "price": "$3.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Seaweed salad —  — $3.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Salad",
+    "dish_name": "Pirikara Maguro Salad",
+    "description": "Pirikara maguro salad",
+    "price": "$6.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Pirikara Maguro Salad — Pirikara maguro salad — $6.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Grilled",
+    "dish_name": "Saba No Shioyaki",
+    "description": "Grilled mackerel",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Saba No Shioyaki — Grilled mackerel — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Grilled",
+    "dish_name": "Hamachi No Kamayaki",
+    "description": "Grilled yellow tail neck",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Hamachi No Kamayaki — Grilled yellow tail neck — $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Grilled",
+    "dish_name": "Hamaguri No Shioyaki",
+    "description": "Grilled clams",
+    "price": "$5.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Hamaguri No Shioyaki — Grilled clams — $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Grilled",
+    "dish_name": "Sanma No Shioyaki",
+    "description": "Grilled mackerel pike",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Sanma No Shioyaki — Grilled mackerel pike — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Grilled",
+    "dish_name": "Toro Toro Yaki",
+    "description": "Grilled fatty tuna",
+    "price": "$6.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Toro Toro Yaki — Grilled fatty tuna — $6.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Grilled",
+    "dish_name": "Ika Yaki",
+    "description": "Bbq squid",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ika Yaki — Bbq squid — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Grilled",
+    "dish_name": "Yakitori",
+    "description": "Skewered bbq chicken",
+    "price": "$4.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Yakitori — Skewered bbq chicken — $4.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Grilled",
+    "dish_name": "Ika Geso Kushiyaki",
+    "description": "Skewered squid legs",
+    "price": "$5.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ika Geso Kushiyaki — Skewered squid legs — $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Grilled",
+    "dish_name": "Shake No Hara",
+    "description": "Salmon belies",
+    "price": "$6.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Shake No Hara — Salmon belies — $6.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Grilled",
+    "dish_name": "Hokke No Shioyaki",
+    "description": "Grilled atka mackerel",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Hokke No Shioyaki — Grilled atka mackerel — $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Grilled",
+    "dish_name": "Uzura No Kushiyaki",
+    "description": "Skewered bbq quail",
+    "price": "$6.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Uzura No Kushiyaki — Skewered bbq quail — $6.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Grilled",
+    "dish_name": "Shake No Shioyaki",
+    "description": "Grilled salted salmon",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Shake No Shioyaki — Grilled salted salmon — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Grilled",
+    "dish_name": "Yaki Morokoshi",
+    "description": "Grilled corn on the cob with special sweet sauce",
+    "price": "$2.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Yaki Morokoshi — Grilled corn on the cob with special sweet sauce — $2.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Ochazuke & Porridge",
+    "dish_name": "Ochazuke",
+    "description": "A bowl of rice in fish broth",
+    "price": "$4.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ochazuke — A bowl of rice in fish broth — $4.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Ochazuke & Porridge",
+    "dish_name": "Shake Chazuke",
+    "description": "A bowl of rice with salmon in fish broth",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Shake Chazuke — A bowl of rice with salmon in fish broth — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Ochazuke & Porridge",
+    "dish_name": "Ume Chazuke",
+    "description": "A bowl of rice with plum in fish broth",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ume Chazuke — A bowl of rice with plum in fish broth — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Ochazuke & Porridge",
+    "dish_name": "Konbu Chazuke",
+    "description": "A bowl of rice with konbu seaweed in fish broth",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Konbu Chazuke — A bowl of rice with konbu seaweed in fish broth — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Ochazuke & Porridge",
+    "dish_name": "Mentai Chazuke",
+    "description": "A bowl of rice with spiced cod fish roe in fish broth",
+    "price": "$5.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Mentai Chazuke — A bowl of rice with spiced cod fish roe in fish broth — $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Ochazuke & Porridge",
+    "dish_name": "Tori Zousui",
+    "description": "Porridge of rice and chicken",
+    "price": "$5.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Tori Zousui — Porridge of rice and chicken — $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Ochazuke & Porridge",
+    "dish_name": "Shake Zousui",
+    "description": "Porridge of rice and salmon",
+    "price": "$5.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Shake Zousui — Porridge of rice and salmon — $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Ball",
+    "dish_name": "Onigiri",
+    "description": "Two pieces of rice balls",
+    "price": "$3.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Onigiri — Two pieces of rice balls — $3.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Ball",
+    "dish_name": "Ume Onigiri",
+    "description": "Two pieces of rice balls with plum",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ume Onigiri — Two pieces of rice balls with plum — $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Ball",
+    "dish_name": "Konbu Onigiri",
+    "description": "Two pieces of rice balls with konbu seaweed",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Konbu Onigiri — Two pieces of rice balls with konbu seaweed — $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Ball",
+    "dish_name": "Shake Onigiri",
+    "description": "Two pieces of rice balls with salmon",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Shake Onigiri — Two pieces of rice balls with salmon — $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Ball",
+    "dish_name": "Okaka Onigiri",
+    "description": "Two pieces of rice balls with bonito flakes",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Okaka Onigiri — Two pieces of rice balls with bonito flakes — $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Ball",
+    "dish_name": "Mentai Onigiri",
+    "description": "Two pieces of rice balls with spiced cod fish roe",
+    "price": "$4.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Mentai Onigiri — Two pieces of rice balls with spiced cod fish roe — $4.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Ball",
+    "dish_name": "Miso Yakionigiri",
+    "description": "Two pieces of grilled rice ball with miso paste",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Miso Yakionigiri — Two pieces of grilled rice ball with miso paste — $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Ball",
+    "dish_name": "Yaki Onigiri",
+    "description": "Two pieces of grilled rice ball",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Yaki Onigiri — Two pieces of grilled rice ball — $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Served In The Pot",
+    "dish_name": "Motsu Nabe",
+    "description": "Beef intestines boiled with leeks cabbage and red pepper simmered in special miso soup",
+    "price": "$15.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Motsu Nabe — Beef intestines boiled with leeks cabbage and red pepper simmered in special miso soup — $15.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Served In The Pot",
+    "dish_name": "Buta Nabe",
+    "description": "Pork tofu and vegetables simmered in fish broth",
+    "price": "$15.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Buta Nabe — Pork tofu and vegetables simmered in fish broth — $15.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Served In The Pot",
+    "dish_name": "Ishikari Nabe",
+    "description": "Salmon, tofu, and vegetable simmered in special miso soup",
+    "price": "$15.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Ishikari Nabe — Salmon, tofu, and vegetable simmered in special miso soup — $15.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Served In The Pot",
+    "dish_name": "Tori Nabe",
+    "description": "Chicken, tofu and vegetables simmered in fish broth",
+    "price": "$15.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Tori Nabe — Chicken, tofu and vegetables simmered in fish broth — $15.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Served In The Pot",
+    "dish_name": "Kaisen Nabe",
+    "description": "Clam, squid, salmon, tofu and vegetables simmered in fish broth",
+    "price": "$18.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Kaisen Nabe — Clam, squid, salmon, tofu and vegetables simmered in fish broth — $18.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Served In The Pot",
+    "dish_name": "Kimchee Nabe",
+    "description": "Kimchee pot with pork, chives, beansprouts and tofu",
+    "price": "$15.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Kimchee Nabe — Kimchee pot with pork, chives, beansprouts and tofu — $15.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Served In The Pot",
+    "dish_name": "Chanko Naba",
+    "description": "Chicken, seafood, tofu and vegetables simmered in fish broth",
+    "price": "price not listed",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Chanko Naba — Chicken, seafood, tofu and vegetables simmered in fish broth — price not listed",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Bowl",
+    "dish_name": "Yakiniku Don",
+    "description": "A bowl of rice topped with japanese stir-fried bbq beef and vegetables",
+    "price": "$6.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Yakiniku Don — A bowl of rice topped with japanese stir-fried bbq beef and vegetables — $6.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Bowl",
+    "dish_name": "Konoha Don",
+    "description": "A bowl of rice topped with fish cake, vegetables and eggs",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Japanese fish cake (kamaboko) often contains added wheat starch."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Konoha Don — A bowl of rice topped with fish cake, vegetables and eggs — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Bowl",
+    "dish_name": "Tanin Don",
+    "description": "A bowl of rice topped with beef and eggs",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Tanin Don — A bowl of rice topped with beef and eggs — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Bowl",
+    "dish_name": "Oyako Don",
+    "description": "A bowl of rice topped with chicken and eggs",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Oyako Don — A bowl of rice topped with chicken and eggs — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Bowl",
+    "dish_name": "Katsu Don",
+    "description": "A bowl of rice topped with pork cutlet and eggs",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Breaded, deep-fried preparation; breading commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Katsu Don — A bowl of rice topped with pork cutlet and eggs — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Bowl",
+    "dish_name": "Chuka Don",
+    "description": "A bowl of rice topped with pork, seafood and vegetables with brown sauce",
+    "price": "$6.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chuka Don — A bowl of rice topped with pork, seafood and vegetables with brown sauce — $6.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Bowl",
+    "dish_name": "Yakimeshi",
+    "description": "Japanese style pork fried rice",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Yakimeshi — Japanese style pork fried rice — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Bowl",
+    "dish_name": "Curry Rice",
+    "description": "Japanese curry over rice",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Japanese curry roux commonly contains wheat flour as a thickener."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Curry Rice — Japanese curry over rice — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Bowl",
+    "dish_name": "Omurice",
+    "description": "Chicken fried rice wrapped with egg omelette",
+    "price": "$6.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "low",
+        "reason": "Ketchup-based fried rice dish commonly served with a ketchup or demi-glace sauce that can contain wheat; not stated explicitly."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Omurice — Chicken fried rice wrapped with egg omelette — $6.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Bowl",
+    "dish_name": "Tenshinhan",
+    "description": "A bowl of rice topped with egg omelette (vegetables, crab meat) and sweet sauce",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Tenshinhan — A bowl of rice topped with egg omelette (vegetables, crab meat) and sweet sauce — $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Bowl",
+    "dish_name": "Gyu Don",
+    "description": "A bowl of rice topped with beef",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Gyu Don — A bowl of rice topped with beef — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Rice Bowl",
+    "dish_name": "Una Don",
+    "description": "A bowl of rice topped with grilled eel",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Una Don — A bowl of rice topped with grilled eel — $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Sashimi & Tataki",
+    "dish_name": "Kaibutsu Namagaki",
+    "description": "Fresh monster oyster",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Kaibutsu Namagaki — Fresh monster oyster — $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Sashimi & Tataki",
+    "dish_name": "Katsuo Tataki",
+    "description": "Seared bonito with ponzu sauce",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Katsuo Tataki — Seared bonito with ponzu sauce — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Sashimi & Tataki",
+    "dish_name": "Gyu Tataki",
+    "description": "Rare beef with ponzu sauce",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Gyu Tataki — Rare beef with ponzu sauce — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Sashimi & Tataki",
+    "dish_name": "Negitoro",
+    "description": "Chopped fatty tuna with scallion",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Negitoro — Chopped fatty tuna with scallion — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Sashimi & Tataki",
+    "dish_name": "Ankimo",
+    "description": "Angler liver",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ankimo — Angler liver — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Sashimi & Tataki",
+    "dish_name": "Maguro Yamakake",
+    "description": "Tuna sashimi with grated japanese taro",
+    "price": "$6.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Maguro Yamakake — Tuna sashimi with grated japanese taro — $6.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Sashimi & Tataki",
+    "dish_name": "Maguro",
+    "description": "Tuna",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Maguro — Tuna — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Sashimi & Tataki",
+    "dish_name": "Shime Saba",
+    "description": "Mackerel",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Shime Saba — Mackerel — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Sashimi & Tataki",
+    "dish_name": "Salmon",
+    "description": "",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Salmon —  — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Sashimi & Tataki",
+    "dish_name": "Namagaki",
+    "description": "Fresh oysters",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Namagaki — Fresh oysters — $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Sashimi & Tataki",
+    "dish_name": "Toro Sashimi",
+    "description": "Sashimi fatty tuna",
+    "price": "$7.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Toro Sashimi — Sashimi fatty tuna — $7.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Sashimi & Tataki",
+    "dish_name": "Sashimi Moriawase",
+    "description": "Combination sashimi: tuna, salmon, mackerel, and bonito (9p, 4 kinds)",
+    "price": "$8.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Sashimi Moriawase — Combination sashimi: tuna, salmon, mackerel, and bonito (9p, 4 kinds) — $8.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Noodles",
+    "dish_name": "Curry Udon",
+    "description": "Soba/udon noodle with japanese beef curry soup",
+    "price": "$5.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Udon and ramen noodles are ordinarily made with wheat flour."
+      },
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Japanese curry roux commonly contains wheat flour as a thickener."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Curry Udon — Soba/udon noodle with japanese beef curry soup — $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Noodles",
+    "dish_name": "Ramen",
+    "description": "Ramen noodle soup",
+    "price": "$5.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Udon and ramen noodles are ordinarily made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Ramen — Ramen noodle soup — $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Noodles",
+    "dish_name": "Niku Udon",
+    "description": "Soba/udon noodle soup with beef",
+    "price": "$5.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Udon and ramen noodles are ordinarily made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Niku Udon — Soba/udon noodle soup with beef — $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Noodles",
+    "dish_name": "Yaki Soba",
+    "description": "Fried noodle with pork, squid and vegetables",
+    "price": "$5.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Udon and ramen noodles are ordinarily made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Yaki Soba — Fried noodle with pork, squid and vegetables — $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Noodles",
+    "dish_name": "Yaki Udon",
+    "description": "Fried udon noodle with pork, squid and vegetables",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Udon and ramen noodles are ordinarily made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Yaki Udon — Fried udon noodle with pork, squid and vegetables — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Noodles",
+    "dish_name": "Kitsune Udon",
+    "description": "Soba/udon noodle with fried bean curd",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Udon and ramen noodles are ordinarily made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Kitsune Udon — Soba/udon noodle with fried bean curd — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Noodles",
+    "dish_name": "Su Udon",
+    "description": "Soba/udon noodle soup",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Udon and ramen noodles are ordinarily made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Su Udon — Soba/udon noodle soup — $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Noodles",
+    "dish_name": "Tanuki Udon",
+    "description": "Soba/udon noodle soup with fried crumbs (tenkasu)",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Udon and ramen noodles are ordinarily made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Tanuki Udon — Soba/udon noodle soup with fried crumbs (tenkasu) — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Noodles",
+    "dish_name": "Zaru Udon",
+    "description": "Cold soba/udon noodles",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Soba noodles are traditionally a wheat/buckwheat blend; pure buckwheat soba is less common."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Zaru Udon — Cold soba/udon noodles — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Noodles",
+    "dish_name": "Taiwan Ramen",
+    "description": "Ramen noodle soup with spicy minced pork and chinese chives",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Udon and ramen noodles are ordinarily made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Taiwan Ramen — Ramen noodle soup with spicy minced pork and chinese chives — $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Combination Plate (rice, miso soup, salad)",
+    "dish_name": "Rebanira Teishoku",
+    "description": "Stir-fried chinese chives, beansprouts, and liver",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Rebanira Teishoku — Stir-fried chinese chives, beansprouts, and liver — $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Combination Plate (rice, miso soup, salad)",
+    "dish_name": "Yasai Itame Teishoku",
+    "description": "Stir-fried vegetables",
+    "price": "$6.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Yasai Itame Teishoku — Stir-fried vegetables — $6.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Combination Plate (rice, miso soup, salad)",
+    "dish_name": "Kaki Fry Teishoku",
+    "description": "Deep fried breaded oyster",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Breaded, deep-fried preparation; breading commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Kaki Fry Teishoku — Deep fried breaded oyster — $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Combination Plate (rice, miso soup, salad)",
+    "dish_name": "Tonkatsu Teishoku",
+    "description": "Pork cutlet",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Breaded, deep-fried preparation; breading commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Tonkatsu Teishoku — Pork cutlet — $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Combination Plate (rice, miso soup, salad)",
+    "dish_name": "Ebi Fry Teishoku",
+    "description": "Deep fried breaded shrimp",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Breaded, deep-fried preparation; breading commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Ebi Fry Teishoku — Deep fried breaded shrimp — $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Combination Plate (rice, miso soup, salad)",
+    "dish_name": "Gyouza Teishoku",
+    "description": "Pan-fried pork dumplings",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Wrapped in a wheat-based dumpling/spring-roll skin."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Gyouza Teishoku — Pan-fried pork dumplings — $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Combination Plate (rice, miso soup, salad)",
+    "dish_name": "Yakiniku Teishoku",
+    "description": "Japanese stir-fried bbq beef and vegetables",
+    "price": "$7.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Yakiniku Teishoku — Japanese stir-fried bbq beef and vegetables — $7.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Combination Plate (rice, miso soup, salad)",
+    "dish_name": "Hamburg Teishoku",
+    "description": "Hamburg steak",
+    "price": "$7.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Japanese hamburg steak (hambagu) is commonly bound with breadcrumbs."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Hamburg Teishoku — Hamburg steak — $7.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Combination Plate (rice, miso soup, salad)",
+    "dish_name": "Buta Shouga Teishoku",
+    "description": "Pan-fried pork with ginger",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Buta Shouga Teishoku — Pan-fried pork with ginger — $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Combination Plate (rice, miso soup, salad)",
+    "dish_name": "Kara Age Teishoku",
+    "description": "Fried chicken",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Karaage is typically marinated in soy sauce and dredged in flour or potato starch before frying."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Kara Age Teishoku — Fried chicken — $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Combination Plate (rice, miso soup, salad)",
+    "dish_name": "Ramen Teishoku",
+    "description": "Ramen noodles",
+    "price": "$6.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Udon and ramen noodles are ordinarily made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Ramen Teishoku — Ramen noodles — $6.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Combination Plate (rice, miso soup, salad)",
+    "dish_name": "Sanma Teishoku",
+    "description": "Grilled mackerel pike",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Sanma Teishoku — Grilled mackerel pike — $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Combination Plate (rice, miso soup, salad)",
+    "dish_name": "Shiojake Teishoku",
+    "description": "Grilled salted salmon",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Shiojake Teishoku — Grilled salted salmon — $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Combination Plate (rice, miso soup, salad)",
+    "dish_name": "Saba Teishoku",
+    "description": "Grilled mackerel",
+    "price": "$7.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Saba Teishoku — Grilled mackerel — $7.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Combination Plate (rice, miso soup, salad)",
+    "dish_name": "Okasama Lunch",
+    "description": "Kid's meal",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Okasama Lunch — Kid's meal — $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Stir Fried",
+    "dish_name": "Rebanira Itame",
+    "description": "Liver, chive & beansprouts",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Rebanira Itame — Liver, chive & beansprouts — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Stir Fried",
+    "dish_name": "Buta Kimchee",
+    "description": "Pan-fried pork with kimchee",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Buta Kimchee — Pan-fried pork with kimchee — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Stir Fried",
+    "dish_name": "Horumon Itame",
+    "description": "Pan-fried beef intestines",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Horumon Itame — Pan-fried beef intestines — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Stir Fried",
+    "dish_name": "Yakiniku (Japanese)",
+    "description": "Stir-fried bbq beef & vegetables",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Yakiniku (Japanese) — Stir-fried bbq beef & vegetables — $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Stir Fried",
+    "dish_name": "Yasai Itame",
+    "description": "Stir-fried vegetables",
+    "price": "$5.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Yasai Itame — Stir-fried vegetables — $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Stir Fried",
+    "dish_name": "Shoga Yaki",
+    "description": "Stir-fried pork seasoned with ginger",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Shoga Yaki — Stir-fried pork seasoned with ginger — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Deep Fried",
+    "dish_name": "Aji Fry",
+    "description": "Deep fried breaded horse mackerel",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Breaded, deep-fried preparation; breading commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Aji Fry — Deep fried breaded horse mackerel — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Deep Fried",
+    "dish_name": "Tori Kara",
+    "description": "Age fried chicken wing",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Karaage-style fried chicken is typically dredged in flour or potato starch before frying."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Tori Kara — Age fried chicken wing — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Deep Fried",
+    "dish_name": "Cream Croquette",
+    "description": "Deep fried white sauce with minced crab meat",
+    "price": "$5.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Breaded, deep-fried preparation; breading commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Cream Croquette — Deep fried white sauce with minced crab meat — $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Deep Fried",
+    "dish_name": "Kushi Katsu",
+    "description": "Skewered pork cutlet",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Breaded, deep-fried preparation; breading commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Kushi Katsu — Skewered pork cutlet — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Deep Fried",
+    "dish_name": "Kaki Fry",
+    "description": "Deep fried oyster",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Breaded, deep-fried preparation; breading commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Kaki Fry — Deep fried oyster — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Deep Fried",
+    "dish_name": "Kaeru No Kara Age",
+    "description": "Fried frog",
+    "price": "$8.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Karaage-style fried preparation is typically dredged in flour or potato starch before frying."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Kaeru No Kara Age — Fried frog — $8.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Deep Fried",
+    "dish_name": "Tonkatsu Pork Cutlet",
+    "description": "",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Breaded, deep-fried preparation; breading commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Tonkatsu Pork Cutlet —  — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Deep Fried",
+    "dish_name": "Ebi Fry",
+    "description": "Deep fried breaded shrimp",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Breaded, deep-fried preparation; breading commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Ebi Fry — Deep fried breaded shrimp — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Deep Fried",
+    "dish_name": "Croquette",
+    "description": "Deep fried mashed potato",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Breaded, deep-fried preparation; breading commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Croquette — Deep fried mashed potato — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Deep Fried",
+    "dish_name": "Ika Geso Kara Age",
+    "description": "Fried squid legs",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Karaage-style fried preparation is typically dredged in flour or potato starch before frying."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Ika Geso Kara Age — Fried squid legs — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Deep Fried",
+    "dish_name": "French Fries",
+    "description": "",
+    "price": "$3.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "French Fries —  — $3.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Edamame",
+    "description": "Boiled soy beans",
+    "price": "$1.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Edamame — Boiled soy beans — $1.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Tako Wasabi",
+    "description": "Salted raw octopus with wasabi flavor",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Tako Wasabi — Salted raw octopus with wasabi flavor — $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Kimchee",
+    "description": "Kimchee pickles",
+    "price": "$2.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Kimchee — Kimchee pickles — $2.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Asa Zuke",
+    "description": "Japanese pickles",
+    "price": "$2.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Asa Zuke — Japanese pickles — $2.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Shiokara",
+    "description": "Salted raw squid",
+    "price": "$2.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Shiokara — Salted raw squid — $2.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Shirasu Oroshi",
+    "description": "Dried whitebait with grated radish",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Shirasu Oroshi — Dried whitebait with grated radish — $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Hiya Yakko",
+    "description": "Cold tofu",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Hiya Yakko — Cold tofu — $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Ton Soku",
+    "description": "Steamed pig feet",
+    "price": "$4.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ton Soku — Steamed pig feet — $4.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Buta No Kakuni",
+    "description": "Stewed pork",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Buta No Kakuni — Stewed pork — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Niku Jaga",
+    "description": "Potato and beef stewed with soy sauce",
+    "price": "$4.00",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Niku Jaga — Potato and beef stewed with soy sauce — $4.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Harumaki",
+    "description": "Spring rolls (3p)",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Wrapped in a wheat-based dumpling/spring-roll skin."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Harumaki — Spring rolls (3p) — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Shumai",
+    "description": "Steamed dumplings, choice of pork (4p) or shrimp (5p)",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Wrapped in a wheat-based dumpling/spring-roll skin."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Shumai — Steamed dumplings, choice of pork (4p) or shrimp (5p) — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Gyoza",
+    "description": "Pan-fried dumplings (5p), choice of pork or vegetables",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Wrapped in a wheat-based dumpling/spring-roll skin."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Gyoza — Pan-fried dumplings (5p), choice of pork or vegetables — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Charsu",
+    "description": "Sliced roasted pork",
+    "price": "$5.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Charsu — Sliced roasted pork — $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Agedashi Tofu",
+    "description": "Lightly fried tofu in tempura sauce with bonito flakes",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Tempura-style sauce/batter commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Agedashi Tofu — Lightly fried tofu in tempura sauce with bonito flakes — $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Okonomiyaki",
+    "description": "Japanese pancake w/ pork, squid and vegetables",
+    "price": "$5.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Okonomiyaki batter is ordinarily made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Okonomiyaki — Japanese pancake w/ pork, squid and vegetables — $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Moro Q",
+    "description": "Cucumber with miso dipping",
+    "price": "$3.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Moro Q — Cucumber with miso dipping — $3.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Arabiki Wiener",
+    "description": "Grilled sausage",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Arabiki Wiener — Grilled sausage — $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Mentai Kyuri",
+    "description": "Cucumber with spiced cod fish roe dipping",
+    "price": "$4.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Mentai Kyuri — Cucumber with spiced cod fish roe dipping — $4.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Chawanmushi",
+    "description": "Steamed egg custard with assorted ingredients",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chawanmushi — Steamed egg custard with assorted ingredients — $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Natta",
+    "description": "Fermented soybeans",
+    "price": "$3.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Natta — Fermented soybeans — $3.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Ohitashi",
+    "description": "Boiled spinach with sesame & bonito flakes",
+    "price": "$2.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ohitashi — Boiled spinach with sesame & bonito flakes — $2.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Yaki Nasu",
+    "description": "Eggplant in tempura sauce topped with bonito flakes",
+    "price": "$4.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Tempura-style sauce/batter commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Yaki Nasu — Eggplant in tempura sauce topped with bonito flakes — $4.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Hijiki",
+    "description": "Pan-fried black seaweed with vegetables",
+    "price": "$3.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Hijiki — Pan-fried black seaweed with vegetables — $3.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Oden",
+    "description": "Japanese hotpot",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Oden broth is commonly soy-sauce based and often includes fish cakes containing wheat starch."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Oden — Japanese hotpot — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Satsuma Age",
+    "description": "Grilled fish cake",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Japanese fish cakes (satsuma age) often contain added wheat starch."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Satsuma Age — Grilled fish cake — $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Yu Dofu",
+    "description": "Boiled tofu with soy sauce base dip",
+    "price": "$4.00",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Yu Dofu — Boiled tofu with soy sauce base dip — $4.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Yamaimo Senbongiri",
+    "description": "Julienned japanese taro",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Yamaimo Senbongiri — Julienned japanese taro — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Dengaku",
+    "description": "Grilled tofu with miso paste",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Dengaku — Grilled tofu with miso paste — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Motsu Ni",
+    "description": "Stewed beef intestines in miso flavored soup",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Motsu Ni — Stewed beef intestines in miso flavored soup — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Hotate Butter",
+    "description": "Grilled scallop with butter (2p)",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Hotate Butter — Grilled scallop with butter (2p) — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Namako Su",
+    "description": "Marinated sea cucumber",
+    "price": "$4.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Namako Su — Marinated sea cucumber — $4.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Aspara Bacon",
+    "description": "Asparagus wrapped with bacon",
+    "price": "$4.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Aspara Bacon — Asparagus wrapped with bacon — $4.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Takoyaki",
+    "description": "Japanese grilled flour balls with octopus (6p)",
+    "price": "$5.00",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Takoyaki — Japanese grilled flour balls with octopus (6p) — $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Sparerib Bbq Ribs",
+    "description": "",
+    "price": "$5.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Dish is soy-sauce/miso-based; soy sauce commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Sparerib Bbq Ribs —  — $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Kinoko Butter",
+    "description": "Sauteed mushrooms (shitake, enoki, and oyster mushrooms)",
+    "price": "$5.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Kinoko Butter — Sauteed mushrooms (shitake, enoki, and oyster mushrooms) — $5.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "A La Carte",
+    "dish_name": "Hamburg Hamburg Steak",
+    "description": "",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Japanese hamburg steak (hambagu) is commonly bound with breadcrumbs."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Hamburg Hamburg Steak —  — $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Dessert",
+    "dish_name": "Ice Cream",
+    "description": "Choice of vanilla, green tea, red bean",
+    "price": "$2.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ice Cream — Choice of vanilla, green tea, red bean — $2.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Dessert",
+    "dish_name": "Anmitsu Cubes",
+    "description": "White translucent jelly made from seaweed served with sweet bean paste and vanilla ice cream",
+    "price": "$4.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Anmitsu Cubes — White translucent jelly made from seaweed served with sweet bean paste and vanilla ice cream — $4.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Dessert",
+    "dish_name": "Mochi Ice Cream",
+    "description": "Two pieces of rice cake ice cream, choice of vanilla, green tea, and red bean",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Mochi Ice Cream — Two pieces of rice cake ice cream, choice of vanilla, green tea, and red bean — $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Dessert",
+    "dish_name": "Green Tea Float",
+    "description": "",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Green Tea Float —  — $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "KENKA",
+    "address": "25 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/kenka/menu_yelp.txt"
+    },
+    "menu_section": "Dessert",
+    "dish_name": "Coke Float",
+    "description": "",
+    "price": "$2.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Coke Float —  — $2.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  }
+]

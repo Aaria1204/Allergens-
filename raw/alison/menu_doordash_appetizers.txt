@@ -1,0 +1,34 @@
+Source: DoorDash — Alison St Marks - 110 Saint Marks Pl
+URL: https://www.doordash.com/en/store/alison-st-marks-110-saint-marks-pl-new-york-32657597/55299946/
+Accessed: 2026-07-14T00:00:00Z (exact time not logged)
+Note: storefront banner read "Alison St Marks - 110 Saint Marks Pl is not active / This restaurant you are trying to reach is not available on DoorDash right now."
+Note: page is virtualized/JS-rendered; only the "Lunch-Appetizers" section rendered content in this session. Other listed categories (Lunch-Sandwiches, Lunch-Sides, Lunch-Fresh Oysters, Lunch-Mains, Lunch-Eggs, Lunch-Salads & Bowls, Lunch-Coffee) were present as category labels but their dish contents did not load/extract in this session.
+
+Full Menu
+Lunch-Appetizers
+Mushroom Croquettes
+Mustard cream.
+$11.00
+
+Cheese Croquettes
+Gruyere & mustard cream.
+$11.00
+
+Manchego & Arugula
+Candied walnuts, honey-vinaigrette.
+$14.00
+
+Five Onion Soup
+House bread.
+$10.00
+
+Lunch-Sandwiches
+Lunch-Sides
+Lunch-Fresh Oysters
+Lunch-Mains
+Lunch-Eggs
+Lunch-Salads & Bowls
+Lunch-Coffee
+(categories present but contents not rendered/extracted in this session)
+
+Prices on this menu are set directly by the Merchant.

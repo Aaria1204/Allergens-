@@ -1,0 +1,2597 @@
+[
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Yotsumi",
+    "description": "Chicken chunks.",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Yotsumi - Chicken chunks. - $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Hatsu",
+    "description": "Chicken heart.",
+    "price": "$4.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Hatsu - Chicken heart. - $4.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Teba",
+    "description": "Chicken wing.",
+    "price": "$3.75",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Teba - Chicken wing. - $3.75",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Sunazuri",
+    "description": "Chicken gizzard.",
+    "price": "$3.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Sunazuri - Chicken gizzard. - $3.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Kimo",
+    "description": "Chicken liver.",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Kimo - Chicken liver. - $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Tsukune",
+    "description": "Beef meatball.",
+    "price": "$3.75",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Tsukune - Beef meatball. - $3.75",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Gyutan",
+    "description": "Beef tongue",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Gyutan - Beef tongue - $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Gyu",
+    "description": "Beef.",
+    "price": "$4.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Gyu - Beef. - $4.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Bara",
+    "description": "Pork belly.",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Bara - Pork belly. - $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Shiitake",
+    "description": "Shiitake mushroom.",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Shiitake - Shiitake mushroom. - $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Shishito",
+    "description": "Shishito pepper.",
+    "price": "$3.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Shishito - Shishito pepper. - $3.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Pman",
+    "description": "Green pepper.",
+    "price": "$3.25",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Pman - Green pepper. - $3.25",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Ninniku",
+    "description": "Garlic.",
+    "price": "$2.75",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ninniku - Garlic. - $2.75",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Negi",
+    "description": "Scallion.",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Negi - Scallion. - $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Ebi",
+    "description": "Shrimp.",
+    "price": "$3.75",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ebi - Shrimp. - $3.75",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Uzura",
+    "description": "Quail egg.",
+    "price": "$3.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Uzura - Quail egg. - $3.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Uzura Bacon",
+    "description": "Bacon with quail egg.",
+    "price": "$4.75",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Uzura Bacon - Bacon with quail egg. - $4.75",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "A Set",
+    "description": "Chicken, chicken skin, chicken gizzard, beef meatball, and pork belly. 10 skewers, 2 of each.",
+    "price": "$32.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "A Set - Chicken, chicken skin, chicken gizzard, beef meatball, and pork belly. 10 skewers, 2 of each. - $32.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "B Set",
+    "description": "Beef meat ball, shrimp, chicken, beef, and sausage. 10 skewers, 2 of each.",
+    "price": "$32.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "B Set - Beef meat ball, shrimp, chicken, beef, and sausage. 10 skewers, 2 of each. - $32.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Sausage",
+    "description": "Pork sausage",
+    "price": "$3.25",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Sausage - Pork sausage - $3.25",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Aspara Bacon",
+    "description": "Bacon with asparagus",
+    "price": "$4.75",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Aspara Bacon - Bacon with asparagus - $4.75",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Tako",
+    "description": "Octopus",
+    "price": "$5.25",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Tako - Octopus - $5.25",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Yakitori",
+    "dish_name": "Kawa",
+    "description": "Chicken skin",
+    "price": "$3.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Kawa - Chicken skin - $3.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Grilled",
+    "dish_name": "Honetsuki Kalbi",
+    "description": "Korean style BBQ short rib.",
+    "price": "$16.75",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Korean-style BBQ marinades commonly contain soy sauce (wheat)."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Honetsuki Kalbi - Korean style BBQ short rib. - $16.75",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Grilled",
+    "dish_name": "Saba Shio",
+    "description": "Salted grilled mackerel.",
+    "price": "$12.75",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Saba Shio - Salted grilled mackerel. - $12.75",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Grilled",
+    "dish_name": "BBQ Tori Teriyaki",
+    "description": "Chicken teriyaki.",
+    "price": "$9.75",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Teriyaki sauce is a soy-based glaze that commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "BBQ Tori Teriyaki - Chicken teriyaki. - $9.75",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Grilled",
+    "dish_name": "Tonsoku",
+    "description": "Grilled pork feet.",
+    "price": "$9.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Tonsoku - Grilled pork feet. - $9.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Grilled",
+    "dish_name": "Yaki Morokoshi",
+    "description": "Grilled corn.",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Yaki Morokoshi - Grilled corn. - $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Appetizers",
+    "dish_name": "Mentai Potato",
+    "description": "Taisho's famous and original spicy cod roe mayo dip and french fries.",
+    "price": "$9.75",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Mentai Potato - Taisho's famous and original spicy cod roe mayo dip and french fries. - $9.75",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Appetizers",
+    "dish_name": "Kabocha Tempura",
+    "description": "Pumpkin tempura.",
+    "price": "$9.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Tempura batter is typically made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Kabocha Tempura - Pumpkin tempura. - $9.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Appetizers",
+    "dish_name": "Dashimaki Tamago",
+    "description": "Layered Japanese style classic egg omelette.",
+    "price": "$10.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Dashimaki Tamago - Layered Japanese style classic egg omelette. - $10.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Appetizers",
+    "dish_name": "Agedashi Tofu",
+    "description": "Deep-fried tofu in broth.",
+    "price": "$9.25",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Agedashi tofu is traditionally dusted in flour or starch and deep-fried."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Agedashi Tofu - Deep-fried tofu in broth. - $9.25",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Appetizers",
+    "dish_name": "Potato Salad",
+    "description": "Classic Japanese style potato salad.",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Potato Salad - Classic Japanese style potato salad. - $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Appetizers",
+    "dish_name": "Edamame",
+    "description": "Boiled soybeans.",
+    "price": "$5.75",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Edamame - Boiled soybeans. - $5.75",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Appetizers",
+    "dish_name": "Small Green Salad",
+    "description": "Small mixed green salad.",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Small Green Salad - Small mixed green salad. - $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Appetizers",
+    "dish_name": "Kimchi",
+    "description": "Spicy pickled Korean cabbage.",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Kimchi - Spicy pickled Korean cabbage. - $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Appetizers",
+    "dish_name": "Hiya Yakko",
+    "description": "Chilled tofu.",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Hiya Yakko - Chilled tofu. - $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Appetizers",
+    "dish_name": "Yasai Itame",
+    "description": "Mixed vegetable sautee.",
+    "price": "$9.25",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Yasai Itame - Mixed vegetable sautee. - $9.25",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Appetizers",
+    "dish_name": "Mozukusu",
+    "description": "vinegared mozuku seaweed",
+    "price": "$5.75",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Mozukusu - vinegared mozuku seaweed - $5.75",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Appetizers",
+    "dish_name": "Charshu Avocado",
+    "description": "BBQ pork slices with avocado",
+    "price": "$15.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Charshu Avocado - BBQ pork slices with avocado - $15.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Appetizers",
+    "dish_name": "MenQ",
+    "description": "Fresh cucumber with mentai mayo dip",
+    "price": "$6.75",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "MenQ - Fresh cucumber with mentai mayo dip - $6.75",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Sashimi Seafood",
+    "dish_name": "Spicy Tuna Tartar",
+    "description": "Spicy.",
+    "price": "$10.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Spicy Tuna Tartar - Spicy. - $10.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Sashimi Seafood",
+    "dish_name": "Tako Wasabi",
+    "description": "Raw octopus in wasabi sauce.",
+    "price": "$6.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Tako Wasabi - Raw octopus in wasabi sauce. - $6.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Sashimi Seafood",
+    "dish_name": "Ebi Mayo",
+    "description": "Fried shrimp fritters with special mayo mustard sauce",
+    "price": "$12.75",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Fried/fritter-style preparation is typically coated in a wheat-based batter."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Ebi Mayo - Fried shrimp fritters with special mayo mustard sauce - $12.75",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Sashimi Seafood",
+    "dish_name": "Salmon Carpaccio",
+    "description": "",
+    "price": "$15.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Salmon Carpaccio -  - $15.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Sashimi Seafood",
+    "dish_name": "Tuna Avocado",
+    "description": "Tuna avocado salad",
+    "price": "$16.75",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Tuna Avocado - Tuna avocado salad - $16.75",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Sashimi Seafood",
+    "dish_name": "Iidako Karaage",
+    "description": "Deep-fried baby octopus.",
+    "price": "$10.25",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Karaage-style preparation is traditionally dredged in flour or starch before frying."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Iidako Karaage - Deep-fried baby octopus. - $10.25",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Sashimi Seafood",
+    "dish_name": "Tuna Carpaccio",
+    "description": "",
+    "price": "$15.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Tuna Carpaccio -  - $15.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Sashimi Seafood",
+    "dish_name": "Salmon Avocado Salad",
+    "description": "Salmon avocado salad with wasabi mayo dressing",
+    "price": "$17.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Salmon Avocado Salad - Salmon avocado salad with wasabi mayo dressing - $17.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Ramen",
+    "dish_name": "Classic Tonkotsu Ramen",
+    "description": "Classic Kyushu style pork broth and ramen noodles with roasted pork, sesame, ginger, and scallion.",
+    "price": "$16.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Ramen noodles are traditionally made from wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Classic Tonkotsu Ramen - Classic Kyushu style pork broth and ramen noodles with roasted pork, sesame, ginger, and scallion. - $16.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Ramen",
+    "dish_name": "Negi Ramen",
+    "description": "Spicy pork broth and ramen noodles with roasted pork bits and extra scallion.",
+    "price": "$17.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Ramen noodles are traditionally made from wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Negi Ramen - Spicy pork broth and ramen noodles with roasted pork bits and extra scallion. - $17.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Ramen",
+    "dish_name": "Charsiu Tonkotsu Ramen",
+    "description": "Kyushu style pork broth and ramen noodles with extra roasted pork, sesame, ginger, and scallions.",
+    "price": "$18.75",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Ramen noodles are traditionally made from wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Charsiu Tonkotsu Ramen - Kyushu style pork broth and ramen noodles with extra roasted pork, sesame, ginger, and scallions. - $18.75",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Soups",
+    "dish_name": "Nabeyuki Udon",
+    "description": "Mixed shrimp, veggies, and egg with udon noodles.",
+    "price": "$16.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Udon noodles are traditionally made from wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Nabeyuki Udon - Mixed shrimp, veggies, and egg with udon noodles. - $16.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Soups",
+    "dish_name": "Kimchi Nabe",
+    "description": "Spicy kimchi hotpot with pork and tofu.",
+    "price": "$16.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Kimchi Nabe - Spicy kimchi hotpot with pork and tofu. - $16.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Soups",
+    "dish_name": "Miso Soup",
+    "description": "",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Miso Soup -  - $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho Specials",
+    "dish_name": "Sunagimo Karaage",
+    "description": "Fried chicken gizzards.",
+    "price": "$8.75",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Karaage-style preparation is traditionally dredged in flour or starch before frying."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Sunagimo Karaage - Fried chicken gizzards. - $8.75",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho Specials",
+    "dish_name": "Tatsuta Age",
+    "description": "Japanese style fried chicken.",
+    "price": "$10.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Tatsuta-age chicken is marinated then dredged in flour or starch before frying."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Tatsuta Age - Japanese style fried chicken. - $10.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho Specials",
+    "dish_name": "Chikuwa Cheese",
+    "description": "Deep-fried fishcake with cheese.",
+    "price": "$9.25",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Chikuwa fishcake commonly contains wheat starch and this preparation is deep-fried, likely battered."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chikuwa Cheese - Deep-fried fishcake with cheese. - $9.25",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho Specials",
+    "dish_name": "Gyoza",
+    "description": "Pan-fried pork dumplings.",
+    "price": "$9.75",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Gyoza wrappers are made from a wheat-flour wrapper/batter."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Gyoza - Pan-fried pork dumplings. - $9.75",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho Specials",
+    "dish_name": "Ebi Shumai",
+    "description": "Steamed shrimp dumplings.",
+    "price": "$9.75",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Shumai wrappers are made from a wheat-flour wrapper/batter."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Ebi Shumai - Steamed shrimp dumplings. - $9.75",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho Specials",
+    "dish_name": "Kurobuta Sausage",
+    "description": "Pork sausage.",
+    "price": "$10.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Kurobuta Sausage - Pork sausage. - $10.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho Specials",
+    "dish_name": "Takoyaki",
+    "description": "Octopus dumpling balls.",
+    "price": "$9.75",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Takoyaki batter are made from a wheat-flour wrapper/batter."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Takoyaki - Octopus dumpling balls. - $9.75",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho Specials",
+    "dish_name": "Okonomiyaki",
+    "description": "Pancake with squid, shrimp, and pork.",
+    "price": "$13.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Okonomiyaki batter are made from a wheat-flour wrapper/batter."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Okonomiyaki - Pancake with squid, shrimp, and pork. - $13.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho Specials",
+    "dish_name": "Taisho-Fu Steak",
+    "description": "Signature Taisho steak.",
+    "price": "$22.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Taisho-Fu Steak - Signature Taisho steak. - $22.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho Specials",
+    "dish_name": "Buta To Enoki No Scramble Egg",
+    "description": "Pork and enoki mushroom egg scramble.",
+    "price": "$11.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Buta To Enoki No Scramble Egg - Pork and enoki mushroom egg scramble. - $11.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho Specials",
+    "dish_name": "Butabara Kurozu Itame",
+    "description": "Deep-fried sweet and sour pork belly.",
+    "price": "$11.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Deep-fried preparation is likely dredged in flour or starch."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Butabara Kurozu Itame - Deep-fried sweet and sour pork belly. - $11.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho Specials",
+    "dish_name": "Buta Kimchi",
+    "description": "Kimchi pork sautee. Spicy.",
+    "price": "$11.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Buta Kimchi - Kimchi pork sautee. Spicy. - $11.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho Specials",
+    "dish_name": "Saikoro Steak",
+    "description": "Diced beef steak chunks.",
+    "price": "$13.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Saikoro Steak - Diced beef steak chunks. - $13.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho Specials",
+    "dish_name": "Age Takoyaki",
+    "description": "Deep fried takoyaki octopus balls",
+    "price": "$10.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Takoyaki batter are made from a wheat-flour wrapper/batter."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Age Takoyaki - Deep fried takoyaki octopus balls - $10.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho Specials",
+    "dish_name": "Taisho Shrimp Fried Rice",
+    "description": "Taisho style shrimp and scallions fried rice",
+    "price": "$12.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Taisho Shrimp Fried Rice - Taisho style shrimp and scallions fried rice - $12.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho Specials",
+    "dish_name": "Butamayo",
+    "description": "Sauteed pork with special mayo Sauce",
+    "price": "$11.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Butamayo - Sauteed pork with special mayo Sauce - $11.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho Specials",
+    "dish_name": "Yaki Unagi Sushi Roll",
+    "description": "Lightly grilled eel and avocado sushi roll with special teriyaki sauce",
+    "price": "$13.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Teriyaki sauce is a soy-based glaze that commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Yaki Unagi Sushi Roll - Lightly grilled eel and avocado sushi roll with special teriyaki sauce - $13.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho Specials",
+    "dish_name": "Geso Isobe",
+    "description": "Deep fried squid legs tempura",
+    "price": "$9.75",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Tempura batter is typically made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Geso Isobe - Deep fried squid legs tempura - $9.75",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Stir-Fry Noodles, rice in hot broth (chazuke)",
+    "dish_name": "Salmon Cream Yakisoba",
+    "description": "Yakisoba noodles with salmon cream sauce.",
+    "price": "$17.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Yakisoba noodles are traditionally made from wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Salmon Cream Yakisoba - Yakisoba noodles with salmon cream sauce. - $17.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Stir-Fry Noodles, rice in hot broth (chazuke)",
+    "dish_name": "Yakisoba",
+    "description": "Pan-fried noodles with pork and veggies.",
+    "price": "$15.25",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Yakisoba noodles are traditionally made from wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Yakisoba - Pan-fried noodles with pork and veggies. - $15.25",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Stir-Fry Noodles, rice in hot broth (chazuke)",
+    "dish_name": "Yaki Udon",
+    "description": "Pan-fried udon with pork and veggies.",
+    "price": "$15.25",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Udon noodles are traditionally made from wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Yaki Udon - Pan-fried udon with pork and veggies. - $15.25",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Stir-Fry Noodles, rice in hot broth (chazuke)",
+    "dish_name": "Sake Chazuke",
+    "description": "Rice in hot broth with salmon.",
+    "price": "$10.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Sake Chazuke - Rice in hot broth with salmon. - $10.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Stir-Fry Noodles, rice in hot broth (chazuke)",
+    "dish_name": "Ume Chazuke",
+    "description": "Rice in hot broth with plum.",
+    "price": "$9.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ume Chazuke - Rice in hot broth with plum. - $9.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Stir-Fry Noodles, rice in hot broth (chazuke)",
+    "dish_name": "Mentai Chazuke",
+    "description": "Rice in hot broth with spicy cod roe.",
+    "price": "$11.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Mentai Chazuke - Rice in hot broth with spicy cod roe. - $11.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Stir-Fry Noodles, rice in hot broth (chazuke)",
+    "dish_name": "Tonkotsu Chazuke",
+    "description": "Rice in a pork soup base with sliced pork.",
+    "price": "$14.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Tonkotsu Chazuke - Rice in a pork soup base with sliced pork. - $14.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Stir-Fry Noodles, rice in hot broth (chazuke)",
+    "dish_name": "Kimchi Yaki Udon",
+    "description": "Pan fried kimchi, udon with pork & vegetables. Spicy.",
+    "price": "$16.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Udon noodles are traditionally made from wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Kimchi Yaki Udon - Pan fried kimchi, udon with pork & vegetables. Spicy. - $16.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Stir-Fry Noodles, rice in hot broth (chazuke)",
+    "dish_name": "Tan Tan Udon",
+    "description": "Ground beef with sesame chili sauce (spicy)",
+    "price": "$16.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Udon noodles are traditionally made from wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Tan Tan Udon - Ground beef with sesame chili sauce (spicy) - $16.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Stir-Fry Noodles, rice in hot broth (chazuke)",
+    "dish_name": "Mentai Udon",
+    "description": "Thick udon noodles stir fried with spicy cod roe, topped with chopped green onions and shredded Nori seaweed.",
+    "price": "$16.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Udon noodles are traditionally made from wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Mentai Udon - Thick udon noodles stir fried with spicy cod roe, topped with chopped green onions and shredded Nori seaweed. - $16.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Donburi",
+    "dish_name": "Una Tama Don",
+    "description": "Eel with boiled egg over rice. Served with miso soup.",
+    "price": "$18.75",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Unagi (eel) is traditionally glazed with a soy-based sauce."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Una Tama Don - Eel with boiled egg over rice. Served with miso soup. - $18.75",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Donburi",
+    "dish_name": "Supa Tuna Don",
+    "description": "Spicy tuna tartar and soft boiled egg over rice. Served with miso soup. Spicy.",
+    "price": "$17.75",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Supa Tuna Don - Spicy tuna tartar and soft boiled egg over rice. Served with miso soup. Spicy. - $17.75",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Donburi",
+    "dish_name": "Oh! Taisho Don",
+    "description": "Deep fry of sweet and sour pork belly over rice. Served with miso soup.",
+    "price": "$17.25",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Deep-fried preparation is likely dredged in flour or starch."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Oh! Taisho Don - Deep fry of sweet and sour pork belly over rice. Served with miso soup. - $17.25",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Donburi",
+    "dish_name": "Ebi Tendon",
+    "description": "Shrimp tempura and eggs over rice. Served with miso soup",
+    "price": "$16.25",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Tempura batter is typically made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Ebi Tendon - Shrimp tempura and eggs over rice. Served with miso soup - $16.25",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Donburi",
+    "dish_name": "Taisho Beef Steak Don",
+    "description": "Taisho steak teriyaki over rice. Served with miso soup",
+    "price": "$22.75",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Teriyaki sauce is a soy-based glaze that commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Taisho Beef Steak Don - Taisho steak teriyaki over rice. Served with miso soup - $22.75",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Donburi",
+    "dish_name": "Chicken Teriyaki Don",
+    "description": "Chicken teriyaki over rice. Served with miso soup",
+    "price": "$14.75",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Teriyaki sauce is a soy-based glaze that commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chicken Teriyaki Don - Chicken teriyaki over rice. Served with miso soup - $14.75",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Donburi",
+    "dish_name": "Oyakodon",
+    "description": "Chicken and eggs over rice. Served with miso soup",
+    "price": "$15.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Oyakodon is traditionally simmered in a soy sauce-based dashi broth."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Oyakodon - Chicken and eggs over rice. Served with miso soup - $15.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Rice Balls",
+    "dish_name": "Plain Onigiri",
+    "description": "Rice ball.",
+    "price": "$4.75",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Plain Onigiri - Rice ball. - $4.75",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Rice Balls",
+    "dish_name": "Ume Onigiri",
+    "description": "Rice ball with plum.",
+    "price": "$5.25",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Ume Onigiri - Rice ball with plum. - $5.25",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Rice Balls",
+    "dish_name": "Okaka Onigiri",
+    "description": "Rice ball with bonito.",
+    "price": "$5.25",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Okaka Onigiri - Rice ball with bonito. - $5.25",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Rice Balls",
+    "dish_name": "Sake Onigiri",
+    "description": "Rice ball with salmon.",
+    "price": "$5.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Sake Onigiri - Rice ball with salmon. - $5.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Rice Balls",
+    "dish_name": "Mentai Onigiri",
+    "description": "Rice ball with spicy cod roe.",
+    "price": "$6.25",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Mentai Onigiri - Rice ball with spicy cod roe. - $6.25",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Grilled Rice Balls",
+    "dish_name": "Yaki Onigiri",
+    "description": "Grilled rice ball.",
+    "price": "$5.25",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Yaki onigiri (grilled rice balls) are traditionally brushed with soy sauce before grilling."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Yaki Onigiri - Grilled rice ball. - $5.25",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Grilled Rice Balls",
+    "dish_name": "Yaki Ume Onigiri",
+    "description": "Grilled rice ball with plum.",
+    "price": "$5.75",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Yaki onigiri (grilled rice balls) are traditionally brushed with soy sauce before grilling."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Yaki Ume Onigiri - Grilled rice ball with plum. - $5.75",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Grilled Rice Balls",
+    "dish_name": "Yaki Okaka Onigiri",
+    "description": "Grilled rice ball with bonito.",
+    "price": "$5.75",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Yaki onigiri (grilled rice balls) are traditionally brushed with soy sauce before grilling."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Yaki Okaka Onigiri - Grilled rice ball with bonito. - $5.75",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Grilled Rice Balls",
+    "dish_name": "Yaki Sake Onigiri",
+    "description": "Grilled rice ball with salmon.",
+    "price": "$6.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Yaki onigiri (grilled rice balls) are traditionally brushed with soy sauce before grilling."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Yaki Sake Onigiri - Grilled rice ball with salmon. - $6.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Grilled Rice Balls",
+    "dish_name": "Yaki Mentai Onigiri",
+    "description": "Grilled rice ball with spicy cod roe.",
+    "price": "$6.75",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Yaki onigiri (grilled rice balls) are traditionally brushed with soy sauce before grilling."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Yaki Mentai Onigiri - Grilled rice ball with spicy cod roe. - $6.75",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Rice",
+    "dish_name": "Small White Rice",
+    "description": "",
+    "price": "$3.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Small White Rice -  - $3.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Rice",
+    "dish_name": "Large White Rice",
+    "description": "",
+    "price": "$5.25",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Large White Rice -  - $5.25",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho curry",
+    "dish_name": "Taisho Beef Curry",
+    "description": "",
+    "price": "$12.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Japanese curry is typically thickened with a wheat-based roux."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Taisho Beef Curry -  - $12.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho curry",
+    "dish_name": "Karaage Curry",
+    "description": "Taisho beef curry with fried chicken",
+    "price": "$18.75",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Japanese curry is typically thickened with a wheat-based roux."
+      },
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Karaage-style preparation is traditionally dredged in flour or starch before frying."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Karaage Curry - Taisho beef curry with fried chicken - $18.75",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Taisho curry",
+    "dish_name": "Beef Hamburger Steak With Curry",
+    "description": "",
+    "price": "$21.75",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Japanese curry is typically thickened with a wheat-based roux."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Beef Hamburger Steak With Curry -  - $21.75",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Side order sauces",
+    "dish_name": "Japanese Mayonnaise",
+    "description": "",
+    "price": "$1.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Japanese Mayonnaise -  - $1.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Side order sauces",
+    "dish_name": "Tonkatsu Sauce",
+    "description": "",
+    "price": "$1.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Tonkatsu sauce is a Worcestershire-style sauce that commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Tonkatsu Sauce -  - $1.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Side order sauces",
+    "dish_name": "Extra Japanese Salad Dressing",
+    "description": "",
+    "price": "$1.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Extra Japanese Salad Dressing -  - $1.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Side order sauces",
+    "dish_name": "Spicy Mayonnaise",
+    "description": "",
+    "price": "$2.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Spicy Mayonnaise -  - $2.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Side order sauces",
+    "dish_name": "Mentai Mayo",
+    "description": "Spicy cod roe mayonnaise",
+    "price": "$2.00",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Mentai Mayo - Spicy cod roe mayonnaise - $2.00",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Side order sauces",
+    "dish_name": "Teriyaki Sauce",
+    "description": "",
+    "price": "$1.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Teriyaki sauce is a soy-based glaze that commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Teriyaki Sauce -  - $1.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Side order sauces",
+    "dish_name": "Hot Sauce",
+    "description": "",
+    "price": "$1.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Hot Sauce -  - $1.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Entrees",
+    "dish_name": "Chicken Teriyaki Tei",
+    "description": "Chicken teriyaki served with rice, soup, salad and spaghetti",
+    "price": "$16.50",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Served with spaghetti (wheat pasta); also glazed with teriyaki sauce, a soy-based sauce that commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chicken Teriyaki Tei - Chicken teriyaki served with rice, soup, salad and spaghetti - $16.50",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Entrees",
+    "dish_name": "Saba Shio Tei",
+    "description": "Salted grilled mackerel",
+    "price": "$18.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Saba Shio Tei - Salted grilled mackerel - $18.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Entrees",
+    "dish_name": "Kara Age Tei",
+    "description": "Taisho fried chicken",
+    "price": "$17.25",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Karaage-style preparation is traditionally dredged in flour or starch before frying."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Kara Age Tei - Taisho fried chicken - $17.25",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Yakitori Taisho",
+    "address": "9 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+    },
+    "menu_section": "Entrees",
+    "dish_name": "Yasai Itame Tei",
+    "description": "Vegetables stir fried",
+    "price": "$14.50",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Yasai Itame Tei - Vegetables stir fried - $14.50",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  }
+]

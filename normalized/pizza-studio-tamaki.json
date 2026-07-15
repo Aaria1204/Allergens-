@@ -1,0 +1,656 @@
+[
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Starters",
+    "dish_name": "Green Salad",
+    "description": "mixed greens, radicchio, PST dressing",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Green Salad — mixed greens, radicchio, PST dressing",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Starters",
+    "dish_name": "PST Salad",
+    "description": "green leafy lettuce, bacon, grana padano, PST dressing",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "PST Salad — green leafy lettuce, bacon, grana padano, PST dressing",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Starters",
+    "dish_name": "Prosciutto & Burrata",
+    "description": "24-month prosciutto, burrata, EVOO",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Prosciutto & Burrata — 24-month prosciutto, burrata, EVOO",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Starters",
+    "dish_name": "Caprese",
+    "description": "tomato, fresh mozzarella, basil, EVOO",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Caprese — tomato, fresh mozzarella, basil, EVOO",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Starters",
+    "dish_name": "Zeppole",
+    "description": "fried dough, sea lettuce, anchovy and garlic dip",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Fried dough is ordinarily made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Zeppole — fried dough, sea lettuce, anchovy and garlic dip",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Starters",
+    "dish_name": "Wagyu Meatballs",
+    "description": "DOP san marzano, grana padano",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Meatballs are commonly bound with breadcrumbs, though alternatives are plausible."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Wagyu Meatballs — DOP san marzano, grana padano",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Starters",
+    "dish_name": "Broccoli",
+    "description": "calabrian chili, garlic chips, EVOO",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Broccoli — calabrian chili, garlic chips, EVOO",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Starters",
+    "dish_name": "Arancini",
+    "description": "fresh mozzarella, bolognese",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Arancini are breaded, deep-fried rice balls; breading commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Arancini — fresh mozzarella, bolognese",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Pizza",
+    "dish_name": "Marinara",
+    "description": "DOP san marzano, garlic, oregano, basil",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Neapolitan-style pizza dough is made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Marinara — DOP san marzano, garlic, oregano, basil",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Pizza",
+    "dish_name": "Margherita",
+    "description": "DOP san marzano, fresh mozzarella, basil",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Neapolitan-style pizza dough is made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Margherita — DOP san marzano, fresh mozzarella, basil",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Pizza",
+    "dish_name": "Olive",
+    "description": "DOP san marzano, olives, capers, cherry tomatoes, garlic, basil",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Neapolitan-style pizza dough is made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Olive — DOP san marzano, olives, capers, cherry tomatoes, garlic, basil",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Pizza",
+    "dish_name": "Romana",
+    "description": "DOP san marzano, fresh mozzarella, anchovy, olive, garlic, oregano, basil",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Neapolitan-style pizza dough is made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Romana — DOP san marzano, fresh mozzarella, anchovy, olive, garlic, oregano, basil",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Pizza",
+    "dish_name": "Tamaki",
+    "description": "DOP san marzano, cherry tomatoes, smoked mozzarella, pecorino romano, basil",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Neapolitan-style pizza dough is made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Tamaki — DOP san marzano, cherry tomatoes, smoked mozzarella, pecorino romano, basil",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Pizza",
+    "dish_name": "Diavola",
+    "description": "DOP san marzano, fresh mozzarella, sausage, olive, red pepper, basil",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Neapolitan-style pizza dough is made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Diavola — DOP san marzano, fresh mozzarella, sausage, olive, red pepper, basil",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Pizza",
+    "dish_name": "Salami",
+    "description": "DOP san marzano, fresh smoked mozzarella, salami, red pepper, basil",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Neapolitan-style pizza dough is made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Salami — DOP san marzano, fresh smoked mozzarella, salami, red pepper, basil",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Pizza",
+    "dish_name": "Arrabbiata",
+    "description": "DOP san marzano, cherry tomatoes, fresh mozzarella, nduja, black pepper, garlic",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Neapolitan-style pizza dough is made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Arrabbiata — DOP san marzano, cherry tomatoes, fresh mozzarella, nduja, black pepper, garlic",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Pizza",
+    "dish_name": "5 Formaggi",
+    "description": "smoked mozzarella, gorgonzola, taleggio, grana padano, mascarpone, honey",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Neapolitan-style pizza dough is made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "5 Formaggi — smoked mozzarella, gorgonzola, taleggio, grana padano, mascarpone, honey",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Pizza",
+    "dish_name": "Nduja",
+    "description": "fresh mozzarella, nduja, sausage, basil",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Neapolitan-style pizza dough is made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Nduja — fresh mozzarella, nduja, sausage, basil",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Pizza",
+    "dish_name": "Oltrana",
+    "description": "fresh mozzarella, mascarpone, pecorino romano, cherry tomatoes, seasonal vegetables",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Neapolitan-style pizza dough is made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Oltrana — fresh mozzarella, mascarpone, pecorino romano, cherry tomatoes, seasonal vegetables",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Pizza",
+    "dish_name": "Bismarck",
+    "description": "fresh mozzarella, mushrooms, sausage, pecorino romano, egg",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Neapolitan-style pizza dough is made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Bismarck — fresh mozzarella, mushrooms, sausage, pecorino romano, egg",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Pizza",
+    "dish_name": "Cacciatore",
+    "description": "fresh mozzarella, homemade chicken sausage, olive, onions, basil",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Neapolitan-style pizza dough is made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Cacciatore — fresh mozzarella, homemade chicken sausage, olive, onions, basil",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Pizza",
+    "dish_name": "Black Truffle Bianca Speciale",
+    "description": "fresh burrata, fresh buffalo mozzarella, mascarpone, shaved black truffle",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Neapolitan-style pizza dough is made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Black Truffle Bianca Speciale — fresh burrata, fresh buffalo mozzarella, mascarpone, shaved black truffle",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Beer",
+    "dish_name": "Rice Lager / Aperitif Pilsner / Yuzu Lager / Daidai Pilsner / Sudachi Lager / Orange Blossom Belgian Blonde / Citron Belgian Wit / Cherry Berliner Weisse / Juiced Lychee IPA / Allstar Peach Wild Ale / Framboise / Cerise / Bubblegum Plum Wild Ale / Cassis / English Ale / Cherry Oud Bruin / Orion Lager",
+    "description": "assorted beers (Moody Tongue Brewing Company)",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Beer is traditionally brewed from barley or wheat; gluten-free status not stated on the menu."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Rice Lager / Aperitif Pilsner / Yuzu Lager / Daidai Pilsner / Sudachi Lager / Orange Blossom Belgian Blonde / Citron Belgian Wit / Cherry Berliner Weisse / Juiced Lychee IPA / Allstar Peach Wild Ale / Framboise / Cerise / Bubblegum Plum Wild Ale / Cassis / English Ale / Cherry Oud Bruin / Orion Lager — assorted beers (Moody Tongue Brewing Company)",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Cocktails",
+    "dish_name": "Sake Bomb",
+    "description": "frozen mug of Rice Lager with Yuzu Sake / Pomegranate Sake / Cold Brew Sake",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Contains Rice Lager, which is beer and traditionally brewed from barley or wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Sake Bomb — frozen mug of Rice Lager with Yuzu Sake / Pomegranate Sake / Cold Brew Sake",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Spritz Bar",
+    "dish_name": "Aperol Spritz / Hugo Spritz / Plum Spritz / Melon Spritz",
+    "description": "prosecco-based spritz cocktails",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Aperol Spritz / Hugo Spritz / Plum Spritz / Melon Spritz — prosecco-based spritz cocktails",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Fizz Bar",
+    "dish_name": "Guava Fizz / Strawberry Fizz / Mango Fizz / White Peach Fizz",
+    "description": "fruit, montanaro, club soda, lime",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Guava Fizz / Strawberry Fizz / Mango Fizz / White Peach Fizz — fruit, montanaro, club soda, lime",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Pizza Studio Tamaki",
+    "address": "123 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.pizzapst.com/menus/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+    },
+    "menu_section": "Wine",
+    "dish_name": "Sparkling / White / Orange / Sake / Chilled Red / Rosé / Red / Reserve list",
+    "description": "wine and sake selections; no allergen-relevant ingredients beyond grape/rice variety stated",
+    "price": "",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Sparkling / White / Orange / Sake / Chilled Red / Rosé / Red / Reserve list — wine and sake selections; no allergen-relevant ingredients beyond grape/rice variety stated",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  }
+]

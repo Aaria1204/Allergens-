@@ -1,0 +1,50 @@
+SOURCE URL: http://klongthainyc.com/Lunch.pdf
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: PDF text extraction via web fetch; layout order jumbled (columns interleaved for curry/noodle/rice sections); dish-to-ingredient-line mapping approximated from adjacency in raw text; treat as best-effort reconstruction.
+
+---RAW EXTRACTED TEXT---
+LUNCH SPECIAL 11.30AM-3.30AM $12.95
+Complementary 1 App: Thai Salad / Spring Roll / Seaweed Soup
+Choice Of Protein: Veggies or Tofu : Chicken or Pork : Shrimp or Beef (+5 for shrimp/beef)
+
+Fried Rice options:
+Rail Road Fried Rice - Long hot chili, string beans, basil, onion, egg
+Basil Fried Rice - Shallot, sweet radish, scallion, egg
+
+Noodle options:
+Pad Thai - Chinese broccoli, egg
+See-Euw - Long hot chili, onion, basil, Finger Root, egg
+Drunken noodle - Long hot chili, onion, basil
+
+Curry options:
+Basil Sauce - Fried garlic, cucumber with sriracha sauce
+Garlic Sauce - Sauteed onion, peanut, fried shallot
+Massaman Curry - Bamboo, long hot chili, fingerroot, basil, eggplant
+Green Curry - Long hot chili, string beans
+Panang Curry - (curry, no further description given)
+
+Extra Appetizer:
+Edamame +5
+Crab Ragoons (2 pcs) +5
+Ch&Sh Dumpling (2pcs) +5
+Klong Chicken Wing (2pcs) +6
+
+Extra Drink:
+Thai Iced Tea +4
+Thai Iced Coffee +4
+Hot Tea: Lychee / Green tea / Ginger / Jasmine / Mint +5
+
+KLONG SIGNATURE
+Khao Pad Pu 25
+Eggs, scallion, onions, butter, crab meat
+Pork Sukiyaki 22
+Pork, glass noodle, sesame oil, vegetables
+Khao Soi Noodle soup 22
+Egg noodle, chicken leg, shallot, chili oil, green mustard
+Bamii Ped 23
+Duck breast, mushroom, chinese broccoli, egg noodle
+Bamii Road Side Noodle 24
+Roasted pork, crab meat, egg noodle, chinese broccoli, peanut
+
+Gratuities will be applied for a group of 4 people or more. Please inform us any of your allergies

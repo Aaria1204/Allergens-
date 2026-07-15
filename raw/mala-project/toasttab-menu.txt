@@ -1,0 +1,86 @@
+SOURCE URL: https://www.toasttab.com/local/order/mala-project/r-431df7b3-26cb-4244-9d81-67a1704f4852
+TIER: ordering (Toast, restaurant-controlled ordering platform)
+ACCESSED_AT: 2026-07-14T00:00:00Z
+RESTAURANT: MaLa Project East Village
+LOCATION ON PAGE: 122 1st Avenue, New York, NY 10009
+LIMITATIONS: Menu fetched via direct HTML/text fetch of Toast ordering page (no JS-shell issue encountered, full menu text rendered on first fetch). Some allergen/dietary notes appear as free-text asterisked tags (e.g. "*Spicy, nuts", "*gluten free") appended to item descriptions by the restaurant itself. Modifier-level detail (e.g. individual dry pot combo ingredient options) not fully expanded beyond the general "MáLà Dry Pot (Your Combo)" description. Beverage list consolidated into categories per project rules. Prices as listed at access time; subject to change.
+
+=== ALL-DAY SPECIALS! ===
+Classic BènBèn — Eye of Round, Potato, Cauliflower, Five Spice Firm Tofu — $19.00
+Beef Please — Beef Tenderloin, Broccoli, Lotus Root, Enoki Mushroom — $19.00
+Lucky Chicken — Chicken Breast, Crabstick, Pineapple, Bok Choy — $19.00
+Year of the Pork Belly — Pork Belly, Wood Ear Mushroom, Cauliflower, Potato — $19.00
+Little Prince Lamb — Sliced Lamb, Baby Bamboo Shoot, Cauliflower, Enoki Mushroom — $19.00
+Gone Fishing — Fish Fillet, Broccoli, Wood Ear Mushroom, Bean Curd Sheet — $19.00
+BènBèn's Garden — Broccoli, Sweet Potato, Firm Tofu, Lotus Root — $17.00
+
+=== MÁLÀ DRY POT ===
+MáLà Dry Pot (Your Combo) — MáLà Project specialty. Dry wok-fried dish with our MáLà sauce made from 24 medicinal herbs & spices. Umami, spicy, numbing, fragrant. *Contains soy, sesame seeds, garlic, scallion, & ginger — (price varies by combo)
+
+=== APPETIZERS ===
+MáLà Peanuts — Fried peanuts with green peppers, onions, chili Oil, black vinegar, & soy sauce. *Vegan, spicy, nuts — $7.00
+MáLà Fries — Waffle Fries, 5-Spice, Cumin, Peppercorn. Served with Ketchup *spicy, vegan, gluten free* — $12.00
+MáLà Pickles — Cabbage, carrots, turnip, celery, bell pepper, pickled green pepper, chili oil *Spicy, vegan — $7.00
+Marinated Cucumbers — Aged Vinegar, Sesame, Bird Eye Chili. Served chilled *spicy, vegan, allium, sesame* — $12.00
+Crispy Duck Salad — Roasted duck, microgreens, mandarin oranges, soy dressing — $26.00
+Eggplant with Roasted Garlic — Steamed eggplant, soy sauce, garlic, sesame oil, scallion, garlic. Served chilled. *Vegan, sesame, soy — $12.00
+1,000 Year Egg — Preserved duck egg, fried cubanelle pepper, eggplant, soy sauce *Vegetarian, spicy — $14.00
+LiángFěn of Happy Tears — Mung bean, pistachios, cucumbers, chili oil, soy vinegar, scallion *Vegan, spicy, nuts — $12.00
+Pig Ear in Chili Oil — Pig Ear, shredded potato, chili oil, soy vinegar, sesame seeds. Served chilled. *Spicy, sesame — $14.00
+Spicy Chicken With Cucumber — Shredded chicken thigh, cucumber, peanuts, tofu skin, chili oil, black vinegar. Served chilled *Spicy, nuts — $15.00
+Husband & Wife Lung Slices — Beef tendon, beef stomach, shredded potato, chili sauce, soy vinegar, sesame seeds. Served chilled *Spicy, sesame seeds — $15.00
+Sweet & Sour Pork Ribs — Soy plum glaze, dried plums, sesame seeds *Sesame — $14.00
+
+=== DIM SUM ===
+Vegetable Dumplings — (6 Pieces) Glass noodles, wood ear, five spice firm tofu, carrot, Chinese cabbage. *Vegan — $12.00
+Beef Dumplings — (6 Pieces) Minced beef, scallion — $12.00
+Silky Egg Custard — Minced pork, scallion, sesame oil, soy sauce *Sesame — $15.00
+Scallion Pancake — Served with sweet bean sauce — $11.00
+MáLà Wings — 5-Spice Marinade, Spicy Rice Crackers, Chili Crunch (6 pieces) *spicy, nuts, sesame, allium* — $15.00
+Beef Wrap — Scallion pancake, beef shank, cucumbers, sweet bean sauce — $15.00
+Duck Tacos — (3 pieces) Roasted duck with homemade guacamole — $18.00
+Spicy Popcorn Chicken — Side of sweet & sour bean sauce *Spicy — $15.00
+Sweet Lotus Root — Sticky rice, osmanthus flower syrup. Served chilled *Vegan, gluten free — $11.00
+
+=== NOODLES, RICE, & ENTRÉES ===
+White Rice — *Vegan, gluten free — $2.00
+Purple Rice — Natural purple grain, dates, & goji berries — $3.00
+House Fried Noodle! — Wheat noodles, egg, shiitake mushroom, bok choy, oyster sauce. Choose a protein *Shellfish, soy — $18.00
+DànDàn Noodles — Wheat noodles, minced pork, pickled mustard greens, bok choy, chili oil *Spicy, vegetarian optional — $15.00
+Cold Noodles! — Soba noodle, cucumbers, pickled vegetables, chili oil, soy sauce, black vinegar. Served chilled *Spicy, vegan — $14.00
+Beef Noodle Soup — Wheat noodles, beef shank, bok choy, pickled mustard greens, chili oil, cilantro *Spicy — $18.00
+Hot & Sour Noodle Soup — Glass noodles, eye of round, lobster balls, tofu pocket, bok choy, pickled green beans, peanuts, cilantro *Spicy, nuts — $18.00
+Beijing ChǎoBǐng! — Wok-fried sliced pancake, chicken breast, egg, Chinese cabbage, scallion *Vegetarian option — $16.00
+Leftover Fried Rice! — Pork belly, egg, Chinese cabbage, scallion, soy sauce — $16.00
+XiāngXī Fried Rice! — Chinese bacon, egg, pickled green beans, bird's eye chili pepper, scallion, soy sauce *Spicy, vegetarian option — $16.00
+MáPó Tofu — Tofu, minced beef, chili sauce, scallion *Spicy, vegan option — $18.00
+Pork Belly With Preserved Mustard Greens — Braised with sweet, savory soy sauce. Served with 4 steamed buns on the side — $24.00
+Chinese Fried Chicken — Fried garlic chips, cumin, chili powder *Spicy — $22.00
+Fish With Pickled Peppers & Mushrooms — Steamed fish fillet pickled peppers, enoki mushrooms, scallion, soy sauce *Pescatarian, spicy — $24.00
+
+=== SWEETS ===
+Herbal Jelly — Silky herbal jelly, mango pudding, tapioca pearls, taro balls, sweetened red bean, hazelnut milk *Dairy, nut-free — $9.00
+Gold & Silver Mántòu — (6 Soft buns) Half steamed & half fried. Condensed milk on the side for dipping. *Dairy — $8.00
+Coconut Milk Pudding — (6 Pieces) Coconut cream, coconut flakes. Served chilled. *Vegan, gluten-free — $9.00
+Crispy Mochi — (4 Pieces) Fried purple yam, glutinous rice, tempura flakes *Vegetarian, dairy — $9.00
+
+=== SOFT DRINKS ===
+Chinese Herbal Tea — Can help relieve heat, reduce internal heat, quench thirst, and refresh your body *Non-caffeinated — $3.50
+Coca-Cola — 12 oz — $3.50
+Diet Coke — 12 oz — $3.50
+Sprite — 12 oz — $3.50
+Fentiman's Ginger Beer — $3.50
+Fentimans Rose Lemonade — A carbonated beverage with a blend of a small amount of pure Otto rose oil with lemon juice. 9.3 oz — $3.50
+Plum Juice — Osmanthus Plum Juice is a traditional Chinese beverage made with smoked plums, rock sugar and infused with sweet osmanthus. 10.1 oz — $4.00
+San Pellegrino — Sparkling mineral water. 16.9 oz — $7.00
+Sweet Milk (a.k.a first aid for heat) — Sweet & creamy milk drink. 8.3 oz *Dairy — $3.50
+
+=== BEER ===
+Tsingtao, 12oz bottle beer (4.7% ABV) — Chinese Pale Ale Lager — $9.00
+Hitachino Yuzu & Ginger Ale (Non-Alcoholic), 11.83oz can N/A beer (0.05% ABV) — Non-Alcoholic Malt Ale — OUT OF STOCK — $9.00
+Purple Rice Lager, 19.2 oz can beer (5% ABV) — Evil Twin Brewery x MáLà Project — OUT OF STOCK — $12.00
+
+=== RESTAURANT INFO ===
+"MáLà Project is a restaurant brand founded with a mission to deliver joy through neo-Sichuanese cuisine. From fiery MáLà Dry Pots to comforting Northern Chinese classics, it's a cozy place to gather round with your friends and family."
+Location: 122 1st Avenue, New York, NY 10009
+Phone: (212) 353-8880

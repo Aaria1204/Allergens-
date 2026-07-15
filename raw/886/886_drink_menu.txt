@@ -1,0 +1,48 @@
+SOURCE URL: https://eighteightsix.com/s/886_Menu_Drinking_12_18_25-1.pdf
+(linked from official site https://eighteightsix.com/menu, labeled "Drink Menu")
+TIER: official
+ACCESSED_AT: 2026-07-14T15:00:00Z
+LIMITATIONS: Extracted as plain text from PDF via web fetch; column/table layout collapsed to linear text, prices and item names are interleaved and required interpretation to group. Individual cocktail/spirit ingredient lists are minimal (name-only), no allergen detail provided by restaurant beyond ingredient names shown.
+
+--- RAW TEXT ---
+BEER
+Taiwan Beer (Can)/ Bottle (Large) 8/glass 35/bottle
+Taiwan Beer Flavored 7/14
+Seasonal Draft 8
+
+WINE
+Seasonal Red, White, Orange 7
+
+SAKE & SOJU
+Shirokabe Sake 16 (11/glass, 35/carafe, 60/bottle, 120/1.8L)
+Jinro Soju - Zero Sugar, Green Grape
+Sake Bomb 10
+Flavored Sake Bomb 11
+Baijiu Kaiju 12
+
+WINE GAME RULES: 2 people each with one regulation house straw have 6 seconds to finish the bowl. If completed within the time limit, you get 2 sake bombs on the house! Single player will be given a boba straw.
+
+COCKTAILS 14/glass 28/carafe
+Pink Venom - Vodka, Lychee, Campari, Lemon, Seltzer
+Mojito - White Rum, Lime, Mint (Add Mango or Passionfruit +1)
+
+HIGHBALLS 11
+Whisky With Soda
+Taiwan Tea - Vodka, Tequila, Rum, Gin, Grand Marnier, Coke
+Whiskey Winter Melon - Toki Whiskey, Housemade Winter Melon Oolong Tea
+
+SHOTS
+Whisky, Vodka, Tequila, Mezcal, Rum, Gin, Baijou 6
+
+BOMBS / SPRITZ
+Flavored Oolong Tea Spritz - Mango / Passionfruit / Lychee, Oolong 5/11
+Mango / Passionfruit / Lychee, Lime Spritz 4/9
+
+THE BAD IDEA CHALLENGE 餿主意挑戰 30
+Seltzer, Coke, Diet Coke, Apple Sidra
+
+NON-ALCOHOLIC BEVERAGES
+Hey Song Sarsaparilla, Guava Juice 3
+Iced Oolong Tea 3/8
+House Made Winter Melon Tea 4/9
+Hot Tea (Black / Oolong) 5

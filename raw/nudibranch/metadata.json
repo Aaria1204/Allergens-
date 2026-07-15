@@ -1,0 +1,37 @@
+{
+  "restaurant_name": "Nudibranch",
+  "address": "125 1st Ave, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://nudibranchnyc.com/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Homepage confirms restaurant identity and address (125 first ave, new york, ny 10003) but contains no menu content; links to a separate 'food' menu page."
+    },
+    {
+      "url": "https://nudibranchnyc.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Menu page confirms hours/location/identity but embeds the actual food menu as an external link to a Canva-hosted site rather than inline content."
+    },
+    {
+      "url": "https://nudibranchwinelist.my.canva.site/dinner-menu-04-10-2026",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Canva export page returned an empty JS shell via mcp__workspace__web_fetch; required Claude-in-Chrome rendering (navigate + get_page_text) to extract visible text. Once rendered, produced a complete, dated (06.29.2026) dinner menu with prices, matching a modern small-plates/Korean-Spanish fine dining format. Only the 'food' menu tier was fetched; the separate 'beverage' link was not fetched (out of scope per instructions to consolidate beverages into one record, and no beverage-specific dish detail was needed)."
+    }
+  ],
+  "menu_source": {
+    "url": "https://nudibranchwinelist.my.canva.site/dinner-menu-04-10-2026",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/nudibranch/dinner-menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": false,
+  "status": "complete",
+  "notes": "Menu appears to be an a la carte small-plates format rather than a fixed tasting menu; no restaurant-labeled section headers were present in the rendered text so menu_section groupings (Small Plates, Mains, Sides, Desserts) were inferred from item type/ordering. No explicit allergen disclosures were present on the menu beyond the standard raw/undercooked food safety disclaimer; all gluten flags are inferred (likely), none declared. No peanut or tree nut ingredients were named anywhere on the menu, so no peanut/tree nut flags were generated for any dish."
+}

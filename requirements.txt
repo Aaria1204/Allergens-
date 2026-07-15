@@ -1,0 +1,6 @@
+python-dotenv
+sqlalchemy
+anthropic
+scipy
+fastapi
+uvicorn

@@ -1,0 +1,1577 @@
+[
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Tacos & Quesadillas Mexico City Style",
+    "dish_name": "Taquiza Tacos",
+    "description": "Special plate of three soft corn tacos stuffed with choice of protein/filling, two salsas: spicy serrano macha and medium chile de árbol, red tomato rice, slow cooked black beans",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "peanut",
+        "confidence": "medium",
+        "reason": "Salsa macha is a Mexican chili-oil condiment that commonly contains peanuts and/or sesame seeds; not itemized on menu"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Special plate of three soft corn tacos stuffed with your choice of: tender slow braised prime beef rib barbacoa, grilled steak, al pastor pork, chicken tinga, guajillo chorizo, shrimp, hongos wild mushrooms, corn esquites, poblano rajas two salsas: spicy serrano macha and medium chile de árbol, red tomato rice, slow cooked black beans",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Tacos & Quesadillas Mexico City Style",
+    "dish_name": "Tacos de Pescado",
+    "description": "Three soft corn tacos of achiote rubbed mahi mahi filet, crisped chile pasilla, romaine chipotle crema, avocado-tomatillo salsa, red tomato rice, black beans",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Tacos de Pescado — Three soft corn tacos of achiote rubbed mahi mahi filet, crisped chile pasilla, romaine chipotle crema, avocado-tomatillo salsa, red tomato rice, black beans",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Tacos & Quesadillas Mexico City Style",
+    "dish_name": "Tacos Vegan Avocado Corn",
+    "description": "Three soft corn tacos of avocado, corn esquites, canario pintos, pasilla with two salsas: spicy salsa macha and medium spicy chile de árbol, vegan black beans and pico de gallo",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "peanut",
+        "confidence": "medium",
+        "reason": "Salsa macha is a Mexican chili-oil condiment that commonly contains peanuts and/or sesame seeds; not itemized on menu"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Tacos Vegan Avocado Corn — Three soft corn tacos of avocado, corn esquites, canario pintos, pasilla with two salsas: spicy salsa macha and medium spicy chile de árbol, vegan black beans and pico de gallo",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Tacos & Quesadillas Mexico City Style",
+    "dish_name": "Bistec",
+    "description": "Char-grilled steak (taco/quesadilla filling)",
+    "price": "per filling choice",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Bistec — Char-grilled steak (taco/quesadilla filling)",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Tacos & Quesadillas Mexico City Style",
+    "dish_name": "Tinga de Pollo",
+    "description": "Chipotle BBQ chicken rib (taco/quesadilla filling)",
+    "price": "per filling choice",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Tinga de Pollo — Chipotle BBQ chicken rib (taco/quesadilla filling)",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Tacos & Quesadillas Mexico City Style",
+    "dish_name": "Hongos",
+    "description": "Wild mushrooms, shallots, epazote (taco/quesadilla filling)",
+    "price": "per filling choice",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Hongos — Wild mushrooms, shallots, epazote (taco/quesadilla filling)",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Tacos & Quesadillas Mexico City Style",
+    "dish_name": "Rajas Poblanas",
+    "description": "Roasted poblano, sweet onion (taco/quesadilla filling)",
+    "price": "per filling choice",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Rajas Poblanas — Roasted poblano, sweet onion (taco/quesadilla filling)",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Tacos & Quesadillas Mexico City Style",
+    "dish_name": "Al Pastor Pork",
+    "description": "Pineapple-chile rubbed (taco/quesadilla filling)",
+    "price": "per filling choice",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Al Pastor Pork — Pineapple-chile rubbed (taco/quesadilla filling)",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Tacos & Quesadillas Mexico City Style",
+    "dish_name": "Barbacoa Rez",
+    "description": "Slow braised beef (taco/quesadilla filling)",
+    "price": "per filling choice",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Barbacoa Rez — Slow braised beef (taco/quesadilla filling)",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Tacos & Quesadillas Mexico City Style",
+    "dish_name": "Chorizo",
+    "description": "Housemade chile guajillo (taco/quesadilla filling)",
+    "price": "per filling choice",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Chorizo — Housemade chile guajillo (taco/quesadilla filling)",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Tacos & Quesadillas Mexico City Style",
+    "dish_name": "Esquites",
+    "description": "Sautéed corn (taco/quesadilla filling)",
+    "price": "per filling choice",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Esquites — Sautéed corn (taco/quesadilla filling)",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Tacos & Quesadillas Mexico City Style",
+    "dish_name": "Camarones",
+    "description": "Shrimp, poblanos, xnipec (taco/quesadilla filling)",
+    "price": "per filling choice",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Camarones — Shrimp, poblanos, xnipec (taco/quesadilla filling)",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Tacos & Quesadillas Mexico City Style",
+    "dish_name": "La Palapa Burrito",
+    "description": "Giant flour tortilla stuffed with choice of filling and red tomato rice, black beans, guacamole, pico, queso and crema",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Menu explicitly names flour tortilla, which is wheat-based"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "La Palapa Burrito — Giant flour tortilla stuffed with choice of filling and red tomato rice, black beans, guacamole, pico, queso and crema",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Antojitos",
+    "dish_name": "Guacamole por Orden",
+    "description": "Hand crushed guacamole made to order, choose picante level; basket of warm corn tortillas or house made cumin spiced corn chips. Available with crudité add $2",
+    "price": "add $2 for crudité option",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Guacamole por Orden — Hand crushed guacamole made to order, choose picante level; basket of warm corn tortillas or house made cumin spiced corn chips. Available with crudité add $2",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Antojitos",
+    "dish_name": "Tamales",
+    "description": "Fresh masa tamales: Pollo Mole Oaxaqueño, Pollo Rojos, Al Pastor, Rajas con Queso",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "peanut",
+        "confidence": "medium",
+        "reason": "Oaxacan-style black mole (mole negro) traditionally includes ground peanuts and/or seeds; not itemized on menu"
+      },
+      {
+        "allergen": "tree nut",
+        "confidence": "medium",
+        "reason": "Oaxacan-style black mole (mole negro) traditionally includes almonds and/or other nuts; not itemized on menu"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Fresh masa tamales Pollo Mole Oxaqueño, Pollo Rojos, Al Pastor, Rajas con Queso (mole flavor only)",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Antojitos",
+    "dish_name": "Birria Flautas",
+    "description": "Crispy tortillas stuffed with beef birria",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Birria Flautas — Crispy tortillas stuffed with beef birria",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Antojitos",
+    "dish_name": "Sopa de la Casa: Pozole Rojo",
+    "description": "Hominy corn, chicken, guajillo broth, avocado, radish, oregano, lime",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Sopa de la Casa: Pozole Rojo — Hominy corn, chicken, guajillo broth, avocado, radish, oregano, lime",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Antojitos",
+    "dish_name": "Elote del Mercado",
+    "description": "Market style corn on the cob with lime, mayo, chile piquín, queso cotija",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Elote del Mercado — Market style corn on the cob with lime, mayo, chile piquín, queso cotija",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Antojitos",
+    "dish_name": "Taquitos De Papa",
+    "description": "Crisped potato and chile poblano tacos, crema, chile de árbol salsa, guacamole",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Taquitos De Papa — Crisped potato and chile poblano tacos, crema, chile de árbol salsa, guacamole",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Antojitos",
+    "dish_name": "Chalupas con Chorizo Casero",
+    "description": "Little boats of corn masa, housemade guajillo chorizo, guacamole, black beans, queso fresco, crema. Vegetarian at your request",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Chalupas con Chorizo Casero — Little boats of corn masa, housemade guajillo chorizo, guacamole, black beans, queso fresco, crema. Vegetarian at your request",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Antojitos",
+    "dish_name": "Plátanos con Crema",
+    "description": "Sweet plantains, crema, housemade queso fresco",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Plátanos con Crema — Sweet plantains, crema, housemade queso fresco",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Antojitos",
+    "dish_name": "Calamares",
+    "description": "Crisped calamari, guacamole~tomatillo dipping salsa",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Battered/breaded preparation commonly uses wheat flour"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Calamares — Crisped calamari, guacamole~tomatillo dipping salsa",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Platos Fuertes - Entrees",
+    "dish_name": "Enchiladas de Pollo-Mole",
+    "description": "Chicken enchiladas in rich red black mole, housemade queso fresco, mexican crema, sweet maya onion",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "peanut",
+        "confidence": "medium",
+        "reason": "Oaxacan-style black mole (mole negro) traditionally includes ground peanuts and/or seeds; not itemized on menu"
+      },
+      {
+        "allergen": "tree nut",
+        "confidence": "medium",
+        "reason": "Oaxacan-style black mole (mole negro) traditionally includes almonds and/or other nuts; not itemized on menu"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Enchiladas de Pollo-Mole — Chicken enchiladas in rich red black mole, housemade queso fresco, mexican crema, sweet maya onion",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Platos Fuertes - Entrees",
+    "dish_name": "Enchiladas de Pollo-Verdes",
+    "description": "Chicken enchiladas in tomatillo salsa verde, housemade queso fresco, mexican crema, sweet maya onion",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Enchiladas de Pollo-Verdes — Chicken enchiladas in tomatillo salsa verde, housemade queso fresco, mexican crema, sweet maya onion",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Platos Fuertes - Entrees",
+    "dish_name": "Enchiladas Fundidas de Carne Asada",
+    "description": "Grilled skirt steak enchiladas in árbol salsa, melted queso chihuahua, avocado, romaine, sweet onion, crema, queso fresco, red tomato rice",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Enchiladas Fundidas de Carne Asada — Grilled skirt steak enchiladas in árbol salsa, melted queso chihuahua, avocado, romaine, sweet onion, crema, queso fresco, red tomato rice",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Platos Fuertes - Entrees",
+    "dish_name": "Enchiladas de Huitlacoche",
+    "description": "Huitlacoche corn mushrooms baked with queso chihuahua, avocado, lettuce, cilantro, sweet onion, crema, queso fresco, tomatillo salsa verde",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Enchiladas de Huitlacoche — Huitlacoche corn mushrooms baked with queso chihuahua, avocado, lettuce, cilantro, sweet onion, crema, queso fresco, tomatillo salsa verde",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Platos Fuertes - Entrees",
+    "dish_name": "Arrachera al Tequila con Jalapeños Torreados",
+    "description": "Grilled skirt steak marinated in lime and tequila, char grilled onions and jalapeños, red rice, canario pinto beans",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Arrachera al Tequila con Jalapeños Torreados — Grilled skirt steak marinated in lime and tequila, char grilled onions and jalapeños, red rice, canario pinto beans",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Platos Fuertes - Entrees",
+    "dish_name": "Pato al Mole Negro Oaxaqueño",
+    "description": "Grilled duck breast in rich black mole typical of Oaxaca made from 26 magical ingredients, red tomato rice, swiss chard, tortillas",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "peanut",
+        "confidence": "medium",
+        "reason": "Oaxacan-style black mole (mole negro) traditionally includes ground peanuts and/or seeds; not itemized on menu"
+      },
+      {
+        "allergen": "tree nut",
+        "confidence": "medium",
+        "reason": "Oaxacan-style black mole (mole negro) traditionally includes almonds and/or other nuts; not itemized on menu"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Pato al Mole Negro Oaxaqueño — Grilled duck breast in rich black mole typical of Oaxaca made from 26 magical ingredients, red tomato rice, swiss chard, tortillas",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Platos Fuertes - Entrees",
+    "dish_name": "Camarones al Mojo de Ajo",
+    "description": "Shrimp sautéed, golden roasted garlic cloves, red tomato rice, slow cooked black beans, tortillas",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Camarones al Mojo de Ajo — Shrimp sautéed, golden roasted garlic cloves, red tomato rice, slow cooked black beans, tortillas",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Platos Fuertes - Entrees",
+    "dish_name": "Camarones en Mole Negro",
+    "description": "Grilled shrimp, black mole from Oaxaca, red tomato rice, vegetarian canario beans, tortillas",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "peanut",
+        "confidence": "medium",
+        "reason": "Oaxacan-style black mole (mole negro) traditionally includes ground peanuts and/or seeds; not itemized on menu"
+      },
+      {
+        "allergen": "tree nut",
+        "confidence": "medium",
+        "reason": "Oaxacan-style black mole (mole negro) traditionally includes almonds and/or other nuts; not itemized on menu"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Camarones en Mole Negro — Grilled shrimp, black mole from Oaxaca, red tomato rice, vegetarian canario beans, tortillas",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Platos Fuertes - Entrees",
+    "dish_name": "Chile Relleno",
+    "description": "Vegetarian roasted poblano chile stuffed with queso fresco and queso cotija añejo lightly battered in a spiced tomato sauce, saffron rice, black beans",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Battered/breaded preparation commonly uses wheat flour"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Chile Relleno — Vegetarian roasted poblano chile stuffed with queso fresco and queso cotija añejo lightly battered in a spiced tomato sauce, saffron rice, black beans",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Platos Fuertes - Entrees",
+    "dish_name": "Plato Vegan Tepozteco",
+    "description": "Vegan plate: huitlacoche corn mushrooms guacamole, pico de gallo, sautéed swiss chard, grilled nopal cactus, canario beans",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Plato Vegan Tepozteco — Vegan plate: huitlacoche corn mushrooms guacamole, pico de gallo, sautéed swiss chard, grilled nopal cactus, canario beans",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Platos Fuertes - Entrees",
+    "dish_name": "Plato Vegetariano Azteca",
+    "description": "Vegetarian plate: three potato taquitos, guacamole, salsa de arbol, rice tortita, grilled nopal cactus, black beans",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Plato Vegetariano Azteca — Vegetarian plate: three potato taquitos, guacamole, salsa de arbol, rice tortita, grilled nopal cactus, black beans",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Platos Fuertes - Entrees",
+    "dish_name": "Barbacoa de Cordero Catalina",
+    "description": "Chile ancho barbecued lamb shank braised with avocado leaves, guacamole, black beans, red tomato rice, tortillas",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Barbacoa de Cordero Catalina — Chile ancho barbecued lamb shank braised with avocado leaves, guacamole, black beans, red tomato rice, tortillas",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Platos Fuertes - Entrees",
+    "dish_name": "Tacos de Carnitas",
+    "description": "Crisp pork carnitas to make your own tacos",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Tacos de Carnitas — Crisp pork carnitas to make your own tacos",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Especialidades",
+    "dish_name": "Camarones Mojo De Ajo",
+    "description": "Sautéed shrimp with golden garlic cloves, red tomato rice, black beans",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Camarones Mojo De Ajo — Sautéed shrimp with golden garlic cloves, red tomato rice, black beans",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Especialidades",
+    "dish_name": "Enchiladas de Hongos-Verdes",
+    "description": "Vegetarian mushroom enchiladas in tomatillo salsa verde, housemade queso fresco, mexican crema, sweet maya onion",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Enchiladas de Hongos-Verdes — Vegetarian mushroom enchiladas in tomatillo salsa verde, housemade queso fresco, mexican crema, sweet maya onion",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Especialidades",
+    "dish_name": "Enchiladas de Hongos-Mole Rojo",
+    "description": "Vegetarian mushroom enchiladas in rich red mole, housemade queso fresco, mexican crema, sweet maya onion",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "peanut",
+        "confidence": "medium",
+        "reason": "Oaxacan-style black mole (mole negro) traditionally includes ground peanuts and/or seeds; not itemized on menu"
+      },
+      {
+        "allergen": "tree nut",
+        "confidence": "medium",
+        "reason": "Oaxacan-style black mole (mole negro) traditionally includes almonds and/or other nuts; not itemized on menu"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Enchiladas de Hongos-Mole Rojo — Vegetarian mushroom enchiladas in rich red mole, housemade queso fresco, mexican crema, sweet maya onion",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Ensaladas",
+    "dish_name": "Romántica",
+    "description": "Romaine hearts, avocado, roasted beets, queso fresco, dried cranberries, pine nuts, roasted cumin, lime dressing",
+    "price": "single",
+    "declared_allergens": [
+      "tree nut"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Romántica — Romaine hearts, avocado, roasted beets, queso fresco, dried cranberries, pine nuts, roasted cumin, lime dressing",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Ensaladas",
+    "dish_name": "César Cardini",
+    "description": "Invented by Cesar Cardini in Tijuana, Mexico; crisp romaine hearts, toasted pine nuts, queso añejo, anchovy, croutons, lime~anchovy dressing",
+    "price": "single",
+    "declared_allergens": [
+      "tree nut"
+    ],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Croutons are made from wheat bread"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "César Cardini — Invented by Cesar Cardini in Tijuana, Mexico; crisp romaine hearts, toasted pine nuts, queso añejo, anchovy, croutons, lime~anchovy dressing",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Ensaladas",
+    "dish_name": "Nopalitos",
+    "description": "Grilled nopal cactus, radishes, tender boston lettuce, fresh lime juice, queso fresco",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Nopalitos — Grilled nopal cactus, radishes, tender boston lettuce, fresh lime juice, queso fresco",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Ensaladas",
+    "dish_name": "Palmitos",
+    "description": "Tender boston lettuce, hearts of palm, avocado, tomato, fresh oregano vinaigrette",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Palmitos — Tender boston lettuce, hearts of palm, avocado, tomato, fresh oregano vinaigrette",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "Piña asada",
+    "description": "Grilled pineapple",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Piña asada — Grilled pineapple",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "Cebollitas",
+    "description": "Grilled spring onions taqueria style",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Cebollitas — Grilled spring onions taqueria style",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "Jalapeños Torreados",
+    "description": "Charred whole jalapeños",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Jalapeños Torreados — Charred whole jalapeños",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "Charro Bacon Beans",
+    "description": "Smoky bacon Mexican cowboy beans",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Charro Bacon Beans — Smoky bacon Mexican cowboy beans",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Brunch",
+    "dish_name": "Pan Frances Torrejas",
+    "description": "Mexican style french toast ~ bolillo mexican bread vanilla batter, piloncillo~cinnamon syrup, bananas/fresh fruit",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Bolillo is a wheat-flour bread roll named explicitly in the dish"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Pan Frances Torrejas — Mexican style french toast ~ bolillo mexican bread vanilla batter, piloncillo~cinnamon syrup, bananas/fresh fruit",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Brunch",
+    "dish_name": "Huevos a La Mexicana",
+    "description": "Eggs scrambled with tomato, onion and jalapeno, guacamole, black beans and warm corn tortillas",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Huevos a La Mexicana — Eggs scrambled with tomato, onion and jalapeno, guacamole, black beans and warm corn tortillas",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Brunch",
+    "dish_name": "Huevos Rancheros Verdes",
+    "description": "Two eggs on crisped corn tortillas, black beans, salsa verde, crema, queso fresco and guacamole",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Huevos Rancheros Verdes — Two eggs on crisped corn tortillas, black beans, salsa verde, crema, queso fresco and guacamole",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Brunch",
+    "dish_name": "Molletes",
+    "description": "Vegetarian pinto bean open face sandwich (on bolillo roll), queso fresco, monterrey jack cheese, pico de gallo, mixed greens in fresh oregano vinaigrette",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Bolillo is a wheat-flour bread roll named explicitly in the dish"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Molletes — Vegetarian pinto bean open face sandwich (on bolillo roll), queso fresco, monterrey jack cheese, pico de gallo, mixed greens in fresh oregano vinaigrette",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Brunch",
+    "dish_name": "Avocado Toast",
+    "description": "Avocado bolillo toast, home made natural queso fresco, olive oil, spiced pepitas, mixed greens, fresh oregano vinaigrette",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Bolillo is a wheat-flour bread roll named explicitly in the dish"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Avocado Toast — Avocado bolillo toast, home made natural queso fresco, olive oil, spiced pepitas, mixed greens, fresh oregano vinaigrette",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Brunch",
+    "dish_name": "Huevos Tulum (keto)",
+    "description": "Eggs scrambled with collard greens, jalapeño, onion, queso, served with guacamole, pico",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Huevos Tulum (keto) — Eggs scrambled with collard greens, jalapeño, onion, queso, served with guacamole, pico",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Brunch",
+    "dish_name": "Burrito Bowl",
+    "description": "Choose one filling (chicken tinga, al pastor pork, brisket barbacoa, suadero, grilled steak, chorizo, shrimp, poblano rajas, hongos mushrooms or corn esquites) served with rice, black beans, pico de gallo, guacamole, crema and queso",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Burrito Bowl — Choose one filling (chicken tinga, al pastor pork, brisket barbacoa, suadero, grilled steak, chorizo, shrimp, poblano rajas, hongos mushrooms or corn esquites) served with rice, black beans, pico de gallo, guacamole, crema and queso",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Brunch",
+    "dish_name": "Vegan Bowl",
+    "description": "Poblano rajas, hongos mushrooms, corn esquites served with pinto beans, pico de gallo, guacamole",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Vegan Bowl — Poblano rajas, hongos mushrooms, corn esquites served with pinto beans, pico de gallo, guacamole",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Brunch",
+    "dish_name": "BEC & Avocado Sandwich",
+    "description": "On a bolillo roll: bacon, egg, cheese and avocado",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Bolillo is a wheat-flour bread roll named explicitly in the dish"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "BEC & Avocado Sandwich — On a bolillo roll: bacon, egg, cheese and avocado",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Brunch",
+    "dish_name": "Breakfast Burrito",
+    "description": "Flour tortilla, egg, bacon, beans, rice, pico, guacamole, crema",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Menu explicitly names flour tortilla, which is wheat-based"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Breakfast Burrito — Flour tortilla, egg, bacon, beans, rice, pico, guacamole, crema",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Brunch",
+    "dish_name": "Breakfast Tacos",
+    "description": "Two/three soft tacos: egg, bacon, beans, cheese, avocado; choice of flour or corn tortilla",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Flour tortilla is offered as one of two tortilla choices; gluten present only if flour option selected"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Breakfast Tacos — Two/three soft tacos: egg, bacon, beans, cheese, avocado; choice of flour or corn tortilla",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Brunch",
+    "dish_name": "Chilaquiles Verdes",
+    "description": "Corn tortilla casserole smothered in green tomatillo salsa, sweet onion, epazote and mexican crema and radishes (options: two eggs, grilled chicken, or steak & eggs)",
+    "price": "$12 / $14 / $20",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Chilaquiles Verdes — Corn tortilla casserole smothered in green tomatillo salsa, sweet onion, epazote and mexican crema and radishes (options: two eggs, grilled chicken, or steak & eggs)",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Brunch",
+    "dish_name": "Huevos Choriqueso",
+    "description": "Scrambled eggs with guajillo chorizo, queso fresco and monterrey jack cheeses, guacamole, black beans, warm corn tortillas",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Huevos Choriqueso — Scrambled eggs with guajillo chorizo, queso fresco and monterrey jack cheeses, guacamole, black beans, warm corn tortillas",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Tortas",
+    "dish_name": "Pepito",
+    "description": "Grilled skirt steak sandwich (on bolillo roll), avocado, lettuce, tomato, house made pickled jalapeño, smoky chipotle crema, choice of rice & beans or french fries",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Bolillo is a wheat-flour bread roll named explicitly in the dish"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Pepito — Grilled skirt steak sandwich (on bolillo roll), avocado, lettuce, tomato, house made pickled jalapeño, smoky chipotle crema, choice of rice & beans or french fries",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Tortas",
+    "dish_name": "Torta de Pollo",
+    "description": "Grilled chicken sandwich (on bolillo roll), cheese, pico de gallo, guacamole and choice of rice & beans or french fries",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Bolillo is a wheat-flour bread roll named explicitly in the dish"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Torta de Pollo — Grilled chicken sandwich (on bolillo roll), cheese, pico de gallo, guacamole and choice of rice & beans or french fries",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Beverages",
+    "dish_name": "La Palapa Margarita",
+    "description": "Frozen or Rocks margarita (olmeca altos, fresh lime, agave); many optional flavors (Jalapeño, Watermelon, Passion fruit, Ginger, Mango, Hibiscus, Guava, Pomegranate, Strawberry, Wild Blueberry, Tamarind, Blood Orange, Coconut)",
+    "price": "Glass $18 / Pitcher $39",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "La Palapa Margarita — Frozen or Rocks margarita (olmeca altos, fresh lime, agave); many optional flavors (Jalapeño, Watermelon, Passion fruit, Ginger, Mango, Hibiscus, Guava, Pomegranate, Strawberry, Wild Blueberry, Tamarind, Blood Orange, Coconut)",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Beverages",
+    "dish_name": "Micheladas (beer cocktails)",
+    "description": "Chelada, Michelada, Chelada Margarita (with XX Lager), Frozen Chelada — lime, salt, maggi/valentina/piquín salt and beer-based preparations; also Sangrita Roja tequila chaser",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Beer is typically brewed from barley/wheat and contains gluten"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Chelada / Michelada / Chelada Margarita (XX Lager, frozen margarita, salt) / Frozen Chelada (XX Lager) / Sangrita Roja",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Beverages",
+    "dish_name": "Cerveza (Beer)",
+    "description": "Tecate Can, Modelo Especial Can, Corona, Corona Light, Negra Modelo, Corona Zero 0.0",
+    "price": "$8 each",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Beer is typically brewed from barley/wheat and contains gluten"
+      }
+    ],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Cerveza (Beer) — Tecate Can, Modelo Especial Can, Corona, Corona Light, Negra Modelo, Corona Zero 0.0",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Beverages",
+    "dish_name": "Sangría",
+    "description": "White Hibiscus Sangría (Chardonnay-hibiscus flower infusion), Red Citrus Sangría (Cabernet, orange, lime, lemon)",
+    "price": "Small Pitcher $17 / Large Pitcher $34",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Sangría — White Hibiscus Sangría (Chardonnay-hibiscus flower infusion), Red Citrus Sangría (Cabernet, orange, lime, lemon)",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Beverages",
+    "dish_name": "Aguas Frescas / Non-alcoholic beverages",
+    "description": "Hibiscus, Mango, Tamarind, Ginger, Limeade, Watermelon aguas frescas; La Palapa Iced Tea; Mexican Coca Cola; Jarritos Toronja",
+    "price": "$3.50 (soda) / market price (aguas frescas)",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Aguas Frescas / Non-alcoholic beverages — Hibiscus, Mango, Tamarind, Ginger, Limeade, Watermelon aguas frescas; La Palapa Iced Tea; Mexican Coca Cola; Jarritos Toronja",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Beverages",
+    "dish_name": "Cocteles (specialty cocktails)",
+    "description": "La Doña Margarita, La Joya, Zihua Margarita, Tulum Twist, La Flaca, Restless Poet, Tamarind Cosmo, Coloradito Blue Sour, Mezcalotón, Paloma — tequila/mezcal/gin-based specialty cocktails",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Cocteles (specialty cocktails) — La Doña Margarita, La Joya, Zihua Margarita, Tulum Twist, La Flaca, Restless Poet, Tamarind Cosmo, Coloradito Blue Sour, Mezcalotón, Paloma — tequila/mezcal/gin-based specialty cocktails",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Beverages",
+    "dish_name": "Mezcal",
+    "description": "Selection of Del Maguey, Ilegal, El Jolgorio, Pelotón, Santa Pedrera, and Espiritu Lauro mezcals",
+    "price": "$12-$18",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Mezcal — Selection of Del Maguey, Ilegal, El Jolgorio, Pelotón, Santa Pedrera, and Espiritu Lauro mezcals",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Beverages",
+    "dish_name": "Tequila",
+    "description": "Blancos, Reposados, and Añejos y Especiales tequila selections from multiple brands",
+    "price": "$10-$17",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Tequila — Blancos, Reposados, and Añejos y Especiales tequila selections from multiple brands",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Beverages",
+    "dish_name": "Cafecitos",
+    "description": "Café de Olla, Café con Leche, Cappuccino, Espresso (Double), Chocolate Mexicano \"La Abuelita\"",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Cafecitos — Café de Olla, Café con Leche, Cappuccino, Espresso (Double), Chocolate Mexicano \"La Abuelita\"",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "La Palapa",
+    "address": "77 St Marks Pl, New York, NY 10003, USA",
+    "menu_source": {
+      "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/la-palapa/lapalapa_official_menu.txt"
+    },
+    "menu_section": "Beverages",
+    "dish_name": "Cocteles Especiales (Brunch)",
+    "description": "Bloody María (silver tequila, spiced tomato juice), Tequila con Sangrita, Prosecco Mimosa (blood orange, prosecco split), Proseccotini Ginger (fresh ginger, prosecco split)",
+    "price": "single",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "Restaurant discloses: \"La Palapa cooks with peanuts, tree nuts, shellfish and legumes. Most of our menu is gluten free but our kitchen contains items with gluten. Please let us know if you have an allergy.\"",
+    "source_text": "Cocteles Especiales (Brunch) — Bloody María (silver tequila, spiced tomato juice), Tequila con Sangrita, Prosecco Mimosa (blood orange, prosecco split), Proseccotini Ginger (fresh ginger, prosecco split)",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  }
+]

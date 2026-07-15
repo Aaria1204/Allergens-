@@ -1,0 +1,30 @@
+{
+  "restaurant_name": "Café Maud",
+  "address": "132 2nd Ave, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.cafemaud.com/eastvillage",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Location/identity confirmation page only (address, hours, links); no menu items. Confirms East Village location at 132 2nd Ave, New York, NY 10002 (note: site lists zip 10002, task provided 10003 — same street address/city, treated as the same location)."
+    },
+    {
+      "url": "https://www.cafemaud.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Fetched via mcp__workspace__web_fetch first, which returned an empty JS shell (nav/social links only, no menu text) because the menu is a JS-rendered tabbed interface. Escalated once to Claude-in-Chrome (rendered browser) which successfully extracted the full 'Weekday' tab (Breakfast, Sides, Shareables, Salads & Bowls, Pizzas, Plates, Desserts — 48 dishes). Attempted to click into the 'Drinks' tab for beverage consolidation, but the extracted page text did not update within the time box, so Drinks/cocktails/wine/beer/coffee items were not captured. Other tabs (Weekend Brunch, Happy Hour, Vegetarian, Vegan, Gluten-Free) also not captured — likely overlapping subsets of the Weekday items rather than distinct dishes."
+    }
+  ],
+  "menu_source": {
+    "url": "https://www.cafemaud.com/menu",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/cafe-maud/cafemaud-menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": true,
+  "manual_review_reason": "Beverage/drinks menu tab could not be extracted within the sourcing time box (JS tab click did not refresh captured text); if beverage allergen data (e.g., beer gluten flag) is required for this restaurant, a follow-up visit to https://www.cafemaud.com/menu (Drinks tab) or an ordering platform is needed. Also note the official site lists the East Village location zip as 10002 rather than the 10003 given in the task; street address and city match exactly and this is treated as the correct location.",
+  "status": "complete"
+}

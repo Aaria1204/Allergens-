@@ -1,0 +1,25 @@
+SOURCE URL: http://klongthainyc.com/dessert.pdf
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: PDF text extraction via web fetch; prices listed at bottom of extraction, order matched to dish list sequentially (Ayudhya Rice pudding 6, Green tea ice cream 6.5, Coconut ice cream 6.5, Khao-Tom-Mud 6.5, Warm truffle chocolate cake with green tea ice cream 7.5) — approximate mapping.
+
+---RAW EXTRACTED TEXT---
+Dessert
+Ayudhya Rice pudding
+Sweet coconut cream and sesame seeds
+6
+
+Green tea ice cream
+Palm seeds and peanuts
+6.5
+
+Coconut ice cream
+Pineapple chutney and peanuts
+6.5
+
+Khao-Tom-Mud
+Steamed sweet sticky rice with banana with coconut ice cream
+6.5
+
+Warm truffle chocolate cake with green tea ice cream
+7.5

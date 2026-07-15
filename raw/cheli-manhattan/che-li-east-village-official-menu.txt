@@ -1,0 +1,159 @@
+SOURCE URL: https://www.che-li.com/location/che-li-east-village/
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Page contains both a "Catering" menu section (Half Tray/Full Tray items, family-style bulk portions) and the regular a la carte dining menu for the East Village location. Some items appear in both catering and a la carte form with different Chinese/English naming variants (e.g. "浙里红烧肉" appears as both "Braised Pork Belly" in catering and "Che Li's Pork Belly" a la carte). No explicit allergen labels or allergen menu found on this page; only "spicy" and "vegan" icons are marked inline. No cross-contact/facility disclosure present. Beverage menu (sake, wine, beer, soft drinks) consolidated into categories per project rules rather than per-item. Address confirmed on page: 19 St Marks Pl, New York, NY 10003. Restaurant identity confirmed (Che Li / Cheli Manhattan 浙里, East Village location).
+
+=== FULL PAGE TEXT (menu-relevant excerpt) ===
+
+Hours & Location: 19 St Marks Pl, New York, NY 10003. (646) 858-1866.
+
+--- CATERING MENU (Half Tray / Full Tray) ---
+Appetizers:
+- Sliced Chilled Chicken 白斩鸡 — Half Tray $70 / Full Tray $130
+- Smoked Fish 桂花熏鱼 — Half Tray $89 / Full Tray $175
+- Hangzhou Braised Duck 杭州酱鸭 — Half Tray $100 / Full Tray $190
+- Sixi Wheat Gluten 四喜烤麸 — Half Tray $70 / Full Tray $130
+
+Dim Sum:
+- Xiao Long Bao 鲜肉小笼包 — 24 pcs $35 / 48 pcs $65
+- Xiao Long Bao with Crab Meat 蟹粉小笼包 — 24 pcs $40 / 48 pcs $75
+- Xiao Long Bao with Black Truffle 黑松露小笼包 — 24 pcs $45 / 48 pcs $85
+- Pan-Fried Wontons 油煎馄饨 — 36 pcs $54 / 72 pcs $99
+- Chinese Crispy Lava 墨色流沙酥 — 15 pcs $58 / 30 pcs $110
+- Song Dynasty Steamed Bun 古法米酿馒头 — 5 pcs $45 / 10 pcs $85
+- Sweet Osmanthus Rice Cake 桂花拉糕 — 15 pcs $50 / 30 pcs $95
+- Vegetable Spring Rolls 素春卷 (Vegetarian) — 15 pcs $48 / 30 pcs $92
+
+Mains:
+- Braised Pork Belly 浙里红烧肉 — Half Tray $125 / Full Tray $240
+- Stir Fried Prawns with Scallion 香葱油爆虾 — Half Tray $120 / Full Tray $230
+- Garlic Steamed Prawns Over Glass Noodles 蒜蓉粉丝开片虾 — Half Tray $130 / Full Tray $250
+- Garlic Shredded Eel 响油鳝丝 — Half Tray $150 / Full Tray $280
+- Pork Intestine & Chicken in Casserole 鲜椒石锅肥肠鸡 — Half Tray $120 / Full Tray $230
+- Pine Nut Fish Fillet 松子鱼片 — Half Tray $120 / Full Tray $230
+- Crispy Duck 西塘古法香酥鸭 — Half Tray $145 / Full Tray $280
+- Kung Pao Chicken 宫保鸡丁 — Half Tray $95 / Full Tray $180
+- House Special Lobster 浙里蒜香龙虾 — Half Tray $200 / Full Tray $380
+- Stir-Fried Spicy Lobster 香辣龙虾 — Half Tray $200 / Full Tray $380
+- Fried Pork Tenderloin with Sweet and Sour Sauce 糖醋里脊 — Half Tray $95 / Full Tray $180
+- White Pepper Beef with Soft Tofu 豆花嫩牛肉 — Half Tray $150 / Full Tray $280
+- Shredded Beef with Ginger and Bell Peppers 小椒牛肉丝 — Half Tray $120 / Full Tray $230
+- Hunan Style Stir Fried Sliced Beef 湘西炒牛肉 — Half Tray $135 / Full Tray $260
+- Grilled Beef Ribs with Black Pepper 黑椒牛肋骨 — Half Tray $155 / Full Tray $300
+- Mapo Tofu 麻婆豆腐 — Half Tray $75 / Full Tray $140
+- Stir Fried String Bean 干煸四季豆 — Half Tray $75 / Full Tray $140
+- Moonlight Vegetables 荷塘小炒 — Half Tray $75 / Full Tray $130
+- Eggplant in Garlic Sauce 鱼香茄子 — Half Tray $75 / Full Tray $140
+
+Rice & Noodles (catering):
+- Golden Egg Fried Rice 松仁金丝炒饭 — Half Tray $85 / Full Tray $160
+- Fried Rice Cakes 荠菜肉丝炒年糕 — Half Tray $75 / Full Tray $140
+- Shanghai Lo Mein 上海炒面 — Half Tray $80 / Full Tray $150
+- Salted Ham Fried Rice 老妈咸肉炒饭 — Half Tray $70 / Full Tray $130
+- White Rice 白米饭 — Half Tray $30 / Full Tray $55
+
+--- A LA CARTE MENU ---
+
+Appetizers:
+- 竹林花雕醉鸡 Wine Soaked Chicken — $17 — Marinated chicken in Chinese yellow wine & goji berries (served chilled)
+- 白斩鸡 Sliced Poached Chicken — $15 — Scallion soy sweet sauce (served chilled)
+- 杭州酱鸭 Hangzhou Braised Half Duck — $22 — Half duck
+- 桂花熏鱼 Crispy Smoked Fish — $16 — Osmanthus & thick braising sauce
+- 苏杭卤鱿鲍 Braised Abalone & Calamari — $25
+- 糖醋小排 Sweet & Sour Pork Riblets — $15
+- 四喜烤麸 Sixi Kaofu — $12 — Marinated wheat gluten & braised vegetables (served chilled)
+- 麻味腰片 Spicy Sliced Pork Kidney — $12 — Chili, Szechuan peppercorn & bean sprouts (served chilled)
+- 灵隐素烧鹅 'Vegetarian Goose' — $16 — Julienned vegetables in braised & fried tofu skin rolls (served chilled)
+- 秋菊花雕醉蟹 Wine Soaked Blue Crab — $14 — Chinese yellow wine (served chilled)
+- 桂花山药 Osmanthus Chinese Yam — $10 — Diced (served chilled)
+
+Homemade Dim Sum:
+- 鲜肉小笼 四个 Pork Soup Dumplings — $7 (4 Pieces)
+- 蟹粉小笼 四个 Crab Meat Pork Soup Dumplings — $8 (4 Pieces)
+- 黑松露小笼 四个 Black Truffle Pork Soup Dumplings — $10 (4 Pieces)
+- 黑色流沙酥 Chinese Crispy Lava — $12 — Black crispy pastry with duck egg yolk custard (3 pieces)
+- 油煎馄饨 Pan Fried Wontons — $9 (6 Pieces)
+- 古道水乡品三酥 Black Swan Durian Crisps — $15 (3 Pieces) [vegan]
+- 古法米酿馒头 Song Dynasty Steamed Buns — $8 — Steamed & sweet osmanthus sauce [vegan]
+- 红糖麻糍 Brown Sugar Sticky Rice Rolls — $12 — Pan fried pinwheels with peanut
+- 抹茶奶沙糯米糕 Matcha Milky Rice Cakes — $18
+- 心太软 Stuffed Red Dates — $15 — Sticky rice center [vegan]
+- 桂花拉糕 Osmanthus Rice Cakes — $10 (3 Pieces) [vegan]
+
+Jiang Nan Reminisce / Taste of Che Li section (large combined section on page, includes these dishes):
+- 蛋羹蟹粉蒸大蟹 Steamed Dungeness Crab — M.P — Steamed egg & minced crab meat
+- 香煎带鱼 Fried Ribbonfish — $19 — Chili salt & vinegar sauce
+- 乾隆鱼头 Qianlong's Favorite Fish Head — $33 — Braised with fresh peppers [spicy]
+- 花雕酒酿蒸黄鱼 Steamed Yellow Croaker — $32 — Fermented rice, salted ham, mushrooms in yellow wine sauce
+- 响油鳝丝 Garlic Shredded Eel — $32 — Oil poached with garlic & bamboo shoots
+- 鲜椒石锅肥肠鸡 Hot Stone Spicy Chicken & Pork Intestine — $26 — Fresh chilis & vegetables [spicy]
+- 松子鱼片 Sweet & Sour Fish Fillet — $25 — Whitefish, pine nuts
+- 西塘古法香酥鸭 Crispy Duck — $32 — Half duck
+- 宫保鸡丁 Kung Pao Chicken — $17 — Peanuts & Szechuan chilis [spicy]
+- 本帮毛血旺 Shanghai Style Mao Xue Wang — $32 — Spicy stewed offals [spicy]
+- 鸡汁杭三鲜 Salted Ham & Bamboo Shoot Stew — $25 — Pork skin & egg
+- 香辣龙虾 Stir-Fried Spicy Lobster — $39 — Szechuan chilis [spicy]
+- 小椒牛肉丝 Green Chili Shredded Beef — $26 — Green bell pepper [spicy]
+- 九香兔肉 Nine-Spice Rabbit — $28 [spicy]
+- 橙香蟹粉蒸蛋 Tangerine Crab Meat & Steamed Egg — (单人9) $26 — Black fish roe
+- 海胆豆腐 Uni Tofu Stew — $32
+- 浙里也有酸菜鱼 Pickled Cabbage Fish Stew — $32 — Boneless fillets, chili & Szechuan peppercorns [spicy]
+- 湘西炒牛肉 Hunan Stir Fried Spicy Beef — $28 — Cilantro, chilis [spicy]
+- 干煸四季豆 Stir-Fried String Beans — $17 — Dry fried [spicy]
+- 鱼香茄子 Eggplant in Garlic Sauce — $16 [spicy]
+
+Jiang Nan Reminisce (explicit section):
+- 西塘香辣猪蹄 Spicy Crispy Pork Knuckles — $27 — Crispy fried, red chilis [spicy]
+- 浙里红烧肉 Che Li's Pork Belly — $27 — Quail eggs & braising sauce
+- 江南脆鳝 Sweet & Sour Crispy Eel — $32 — Shredded eel strips in sweet & sour sauce
+- 西湖醋鱼 Chinese Crispy Lava (menu label as printed) — $36 — Dark vinegar sauce [note: name/translation appears mismatched on source page, likely West Lake Vinegar Fish, preserved as printed]
+- 龙井虾仁 Longjing Shrimp — $27 — Tender poached shrimp in tea sauce
+- 香葱油爆虾 Stir Fried Prawns — $25 — Scallion & ginger
+- 鲳鱼烧年糕 Braised Pomfret & Rice Cake — $32
+- 豆花嫩牛肉 Yellow Lantern Beef Over Silken Tofu — $33 — Habanero, scallion & white pepper sauce [spicy]
+- 咸蛋黄大蟹 Golden Crust Dungeness Crab — $75 — Salted duck egg yolk
+- 扬州狮子头 Yang Zhou Meatball — $14 — Pork, clay pot soup
+- 锅仔羊肉 Spicy Lamb Stew — $30 — Fresh peppers, and scallions in cast iron pot [spicy]
+
+Taste of Che-Li:
+- 南宋叫花鸡 Flaming Beggar's Chicken — $36 — Smoked chicken stuffed & wrapped in lotus leaves, flour clay
+- 乾隆吃鳝丝 Qianlong's Favorite Eel — $30 — Scallion, cucumber, Chinese crepes
+- 蟹粉豆腐 Crab Meat Tofu Stew — $23
+- 咸蛋黄南瓜 Salted Yolk Fried Pumpkin — $19 — Cubed pumpkin rice cakes
+- 铁锅仔姜牛蛙 Ginger & Chili Frog — $34 [spicy]
+- 浙里蒜香龙虾 Garlic Butter Lobster — $29 — With garlic & butter sauce [spicy]
+- 浙里松鼠鱼 Che Li 'Squirrel' Fish — $42 — Crosscut & deboned striped bass, sweet & sour glaze
+- 糖醋里脊 Sweet & Sour Tenderloin — $20 — With sweet & sour sauce
+- 麻婆豆腐 Mapo Tofu — $16 — Minced pork and spicy pepper sauce [spicy]
+- 黑椒牛肋骨 Grilled Beef Ribs & Peppers — $32 — Flame-broiled tableside in black pepper sauce
+- 蒜蓉粉丝开片虾 Garlic Steamed Butterfly Prawns — $28 — Over glass noodles
+
+Vegetables:
+- 玉带丝瓜 Sautéed Sponge Gourd — $19 [vegan]
+- 清炒空心菜 Sautéed Water Spinach — $16 — Garlic [vegan]
+- 酒香豆苗 Pea Shoots in Chinese Wine Sauce — $20 [vegan]
+- 荷塘小炒 Lotus Pond Stir Fry — $16 — Sliced lotus root, carrots, snow peas, asparagus, wood ear mushrooms [vegan]
+
+Rice & Noodles (a la carte):
+- 牛肝菌焖饭 Hot Stone Braised Rice — $26 — Boletus mushroom and green pepper [spicy]
+- 松仁金丝炒饭 Golden Egg Fried Rice — $18 — Seafood, ham & pine nuts
+- 海胆茶香泡饭 Uni & Pu'Er Tea Soaked Rice — $18 — With sea urchin
+- 荠菜肉丝炒年糕 Stir Fried Rice Cakes — $16 — Shredded pork & shepherd's purse
+- 上海炒面 Shanghai Stir Fried Noodles — $17 — Shallots & shredded pork
+- 老妈鲜肉菜炒饭 Salted Ham Mixed Rice — $15 — Mixed vegetables
+- 白米饭 White Rice — $2
+
+Soup:
+- 西湖牛肉羹 West Lake Minced Beef Soup — $18 — Chinese water shield
+- 羊肚菌老鸡汤 Chicken & Morel Mushroom Stew — $26 — Shredded lamb, wood ear mushroom & egg in vinegar sauce
+- 养生野生菌 Herbal Mushroom Soup — $19
+- 腌笃鲜 'Yan Du Xian' — $24 — Fresh & salted pork, tofu skin & bamboo shoots soup
+
+Dessert:
+- 核桃露 Walnut Puree — $8 [vegan]
+- 浙里 美龄粥 Meiling Congee — $12 — Sweet rice porridge & goji berries [vegan]
+- 西湖藕粉圆子 Black Sesame Sticky Rice Balls — $8 — In lotus root starch
+- 江南酥酪 Osmanthus Milk Pudding — $8
+- 红枣银耳桃胶 Peach Resin, Red Dates & White Wood Ear — $8 — Stewed & served chilled with coconut milk
+
+Drinks (Sake, Ginjo, Daiginjo, Honjozo, Nigori, Shochu, House Special Drinks, Beer, Yellow Rice Wine, Soft Drinks, Sparkling Wine, Red Wine, White Wine, Rosé) — long alcohol/beverage list, consolidated by category per project normalization rules. Beer list includes Tsingtao, Kronenbourg 1664 Blanc, Sapporo, Orion, Kyoto Yuzu Ale, Kyoto Matcha IPA, Kyoto IPA, Rydeen IPA.

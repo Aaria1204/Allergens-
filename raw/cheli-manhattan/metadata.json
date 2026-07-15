@@ -1,0 +1,30 @@
+{
+  "restaurant_name": "CHELI MANHATTAN 浙里",
+  "address": "19 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.che-li.com/location/che-li-east-village/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Full a la carte and catering menu with prices and short descriptions; no explicit allergen labeling beyond 'spicy'/'vegan' icons; no cross-contact disclosure present."
+    },
+    {
+      "url": "https://www.che-li.com/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Homepage only; links to location pages, no menu content itself. Confirmed East Village location exists at 19 St Marks Pl and directed to the location page used as the actual source."
+    }
+  ],
+  "menu_source": {
+    "url": "https://www.che-li.com/location/che-li-east-village/",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/cheli-manhattan/che-li-east-village-official-menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": false,
+  "status": "complete",
+  "notes": "Official restaurant website (che-li.com) location page for the East Village outpost at 19 St Marks Pl, New York, NY 10003 returned a complete, current, full-text menu on first fetch (no Chrome escalation needed). Both a catering (Half Tray/Full Tray) menu and the regular a la carte dining menu were present on the same page; catering items are largely bulk-portion duplicates of a la carte dishes and catering-only entries were not separately normalized as distinct dish records to avoid redundant near-duplicate entries (their allergen profile mirrors the corresponding a la carte dish where one exists). Beverage lists (sake, shochu, beer, wine, soft drinks, etc.) were consolidated into one record per category per project normalization rules rather than per individual flavor/label."
+}

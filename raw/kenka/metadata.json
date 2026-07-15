@@ -1,0 +1,38 @@
+{
+  "restaurant_name": "KENKA",
+  "address": "25 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://kenkanewyork.com/menu/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Content is sparse (6 items only) and contains an apparent data error (an item priced '100.00 JPY' on a US menu), consistent with a low-quality auto-generated/SEO placeholder site rather than a genuine, complete restaurant-maintained menu page. Its alias domain mykenkanyc.com redirects to the same content."
+    },
+    {
+      "url": "https://kenkanewyork.mybistro.online/",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Page states 'Our menu is under update' (no menu content) and is explicitly labeled 'unofficial site' in its own footer."
+    },
+    {
+      "url": "https://www.yelp.com/menu/kenka-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "local_artifact": "raw/kenka/menu_yelp.txt",
+      "limitation": "Yelp's own page disclaimer: 'Menu may not be up to date.' Used as last-resort source per sourcing tiers since no usable official or ordering-platform menu could be found for this location."
+    }
+  ],
+  "menu_source": {
+    "url": "https://www.yelp.com/menu/kenka-new-york",
+    "tier": "yelp",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/kenka/menu_yelp.txt"
+  },
+  "restaurant_identity_verified": true,
+  "file_type": "text (rendered page text)",
+  "manual_review_flag": true,
+  "manual_review_reason": "Menu sourced from Yelp (tier 3, last resort) rather than an official or ordering source, and Yelp itself warns the listing may be outdated. Recommend re-checking official channels (phone, in-person, or a working delivery-platform listing) to confirm current dishes and prices."
+}

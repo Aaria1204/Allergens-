@@ -1,0 +1,30 @@
+{
+  "restaurant_name": "Mountain House East Village",
+  "address": "23 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://szechuanmountainhouse.com",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Official Wix site (szechuanmountainhouse.com / www.szechuanmountainhouse.com) rendered only nav links (Home, About Us, Menu, Event & Catering, Contact Us) with no inline menu content in the static fetch; the /menu subpage was not independently confirmed to contain full itemized menu text within the time box, so it was not used as the source of record."
+    },
+    {
+      "url": "https://pos.chowbus.com/online-ordering/store/Mountain-House-East-Village-NEW/22942",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Restaurant-controlled Chowbus POS ordering page for the exact address (23 Saint Marks Place, New York, NY 10003). Rendered fully on first non-JS fetch (no Chrome escalation needed) with complete itemized menu across all sections (Cold Dish, House Signature, Modernist Cuisine, Traditional Cuisine, Ma-La Szechuan, Vegetables, Soup, Rice/Noodle, Dessert, Szechuan Street Food). A separate 'Drink Menu' tab exists on the page but its contents were not expanded/fetched within the time box, so no beverage items are included in the normalized output."
+    }
+  ],
+  "menu_source": {
+    "url": "https://pos.chowbus.com/online-ordering/store/Mountain-House-East-Village-NEW/22942",
+    "tier": "ordering",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/mountain-house-east-village/chowbus-menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": false,
+  "status": "complete",
+  "notes": "Identity confirmed via exact address match (23 Saint Marks Place, New York, NY 10003) on the Chowbus ordering page and cross-referenced against Yelp/Grubhub/Seamless listings for the same address under the related name 'Szechuan Mountain House'. Menu is Sichuan/Chinese cuisine as expected. Drink Menu tab not expanded within time box; no beverage records included (not invented)."
+}

@@ -1,0 +1,115 @@
+SOURCE URL: http://klongthainyc.com/menus/dinnerMenu.pdf
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: PDF text extraction via web fetch; layout/column order may not reflect original visual arrangement; GF/VG icon markers appear as a block of "GF"/"VG GF" text near the end of sections and could not be reliably re-mapped to each dish; treat GF/VG designations as approximate/unconfirmed per dish. Prices appear as leading numbers before dish names.
+
+---RAW EXTRACTED TEXT---
+KLONG'S
+SIGNATURE
+27 Goong Kratiem Sauteed garlic with contain eggs, prawn
+26 Pla Meuk Kai Kem
+Stir fried Squid with salted egg yolk, onions, chili, celery, garlic
+28 Goong Ob Woonsen Prawn, crab meat, glass noodle,
+ginger, pork, celery, sesame oil
+24 Hor Mok Grilled fish & crab meat steamed into
+Thai coconut red curry custard
+25 Seafood Sukiyaki Aromatic glass noodle with shrimp,
+squid, mussel, vegetables, egg, sesame oil
+35 Tom Som Pla Tod Fried branzino, mixed vegetable
+28 Mango fish Salsa Fried fillet fish, mango, shallot, cashew nut, chili paste
+23 Pad Dok Gui Chai Garlic sauce stir fried with chive flower,
+Choice of pork liver or shrimp
+33 Pla Tod Fried branzino, shallot, lemongrass,
+fig, chili, garlic, cashew nut
+25 Kang Kua Southern Thai spices crab curry with betel and Puff ball mushroom
+22 Cauliflower Massaman Roasted tri cauliflower, potato, peanut, shallot (VG GF)
+32 Beef Short Rib Green Curry
+Beef, bamboo, basil, long hot chili, eggplant and finger root
+23 Siamese Cassia Curry Grilled pork Jowl with bier cassia flower/ leaves,
+finger root, Kiffir lime leave
+28 Duck Fig Curry Aromatic herbs & spices, seared duck breast, fig,
+tomatoes, pineapple
+
+Gratuities will be applied for a group of 4 people or more. Please inform us any of your allergies
+
+Small Dish
+Taro Spring Rolls 12
+Taro, vegetables, glass noodle, plum sauce
+Fried Gyoza 12
+Pork & chicken, scallion
+Coconut Calamari 14
+With sriracha mayo sauce
+
+Salad
+Chicken Skin Nam Prick Kee Ga 12
+Served in room temperature, Thai chili relish
+Crab Rangoons 12
+Cream cheese, celery, kani, sweet chili sauce
+Klong Chicken Wings 14
+With Signature Klong home-made sauce sweet chili glazed
+Larb Mhoo Tod 14
+Fried pork, mint, shallots, rice powder, chili
+Edamame 8
+Soybean with sea salt
+Chicken & Shrimp Dumpling 12
+Sesame oil with Vinaigrette soy sauce
+Sao-Nam 16
+Stream rice roll, shrimp, coconut, pineapple, ginger, garlic
+Ong Pu 16
+Baked egg custard with crab roe, chili, roasted sticky rice
+Grilled Squid leg 14
+With chili lime sauce
+Kor Moo Yang 16
+Grilled pork jowl, Thai herb with tamarind sauce
+Thai Coconut Salad 12
+Green salad, tomatoes, carrot, radish, coconut, lime dressing
+Papaya Salad 14
+Chili, lime, fish sauce, tomatoes, string beans, dry shrimp, peanut
+Yum Makuer 16
+Roasted eggplant, chili, lemongrass, mint, fried shallot
+Yum Naem 16
+Crispy rice tossed with sour pork, ginger, shallot, chili, scallion, mint
+Yum Kai Dao 16
+Fried eggs, minced pork, onions, celery, tomatoes, cilantro, chili
+Yum Pu Dong 20
+Marinated raw blue crab, chili, fermented fish sauce, culantro
+
+Soup
+Tom Kha Gai 12
+Chicken, coconut milk, mushroom, cilantro
+Tom Yum Prawn River S 12 / L 24
+Prawn, lemongrass, shallot, culantro, chili, mushroom
+
+Klong Noodle / Rice & Wok
+Kapi Fried Rice 24
+Shrimp paste fried rice, pork belly, dried shrimp, pork sausage, shallot, egg
+Khao Pad Pu 25
+Crab meat fried rice with eggs, scallion, onions, butter
+Klong Pad Thai 26
+Seafood, poach egg, glass noodle, shallot, peanut, scallion
+Beef See Euw 20
+Beef, flat noodle, chinese broccoli, egg, garlic
+Kua Gai Noodle 18
+Sauteed flat noodle, egg, chicken, lettuce
+Chicken Drunken Noodle 18
+Chicken breast, flat noodle, chili, onions, black pepper corn, basil
+Krapow Nuer 24
+Braised beef, Thai basil, garlic, chili, fried duck egg
+Bamii Road Side Noodle 24
+Roasted pork, crab meat, egg noodle, chinese broccoli, peanut
+Bamii Ped 23
+Duck breast, mushroom, chinese broccoli, egg noodle, ginger
+Khao Soi Noodle Soup 22
+Egg noodle, chicken leg, shallot, chili, green mustard
+
+Side order
+Pea shoots 14
+Stir fried pea shoots, Garlic
+Lotus Roots 14
+Wok fried Lotus root, Thai chili, garlic
+Rice 4
+Sticky Rice 4
+Coconut Rice 5
+Fried Egg 5
+
+Gratuities will be applied for a group of 4 people or more. Please inform us any of your allergies

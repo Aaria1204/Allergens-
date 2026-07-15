@@ -1,0 +1,1027 @@
+[
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mezze",
+    "dish_name": "Hummus",
+    "description": "",
+    "price": "9.5",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Hummus —  — 9.5",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mezze",
+    "dish_name": "Falafel and Tahini",
+    "description": "",
+    "price": "9.5",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Falafel is sometimes bound with flour; alternatives (chickpea/breadcrumb-free) are plausible."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Falafel and Tahini —  — 9.5",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mezze",
+    "dish_name": "Marinated Beets",
+    "description": "",
+    "price": "9.5",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Marinated Beets —  — 9.5",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mezze",
+    "dish_name": "Labne with Za'atar",
+    "description": "",
+    "price": "9.5",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Labne with Za'atar —  — 9.5",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mezze",
+    "dish_name": "Matbucha",
+    "description": "slow roasted tomato and jalapeño dip",
+    "price": "9.5",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Matbucha — slow roasted tomato and jalapeño dip — 9.5",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mezze",
+    "dish_name": "Roasted Eggplant and Tahini",
+    "description": "",
+    "price": "9.5",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Roasted Eggplant and Tahini —  — 9.5",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mezze",
+    "dish_name": "Babaganoush",
+    "description": "",
+    "price": "9.5",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Babaganoush —  — 9.5",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mezze",
+    "dish_name": "Spicy Carrots",
+    "description": "",
+    "price": "9.5",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Spicy Carrots —  — 9.5",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mezze",
+    "dish_name": "Tabouli",
+    "description": "",
+    "price": "9.5",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Traditional tabouli is made with bulgur wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Tabouli —  — 9.5",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mezze",
+    "dish_name": "Olives and Pickles",
+    "description": "",
+    "price": "9.5",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Olives and Pickles —  — 9.5",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mezze",
+    "dish_name": "Cucumber Yogurt",
+    "description": "",
+    "price": "9.5",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Cucumber Yogurt —  — 9.5",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mezze note",
+    "dish_name": "Pita (served with all Mezze)",
+    "description": "",
+    "price": "",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Pita (served with all Mezze)",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Appetizers",
+    "dish_name": "Hummus Platter",
+    "description": "with chickpeas and schug (+ falafel 5)",
+    "price": "14",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "low",
+        "reason": "Optional falafel add-on may be flour-bound; base hummus platter itself has no wheat evidence."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Hummus Platter — with chickpeas and schug (+ falafel 5) — 14",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Appetizers",
+    "dish_name": "Seared Halloumi Cheese",
+    "description": "with a vegetable skewer and za'atar pita",
+    "price": "15",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Seared Halloumi Cheese — with a vegetable skewer and za'atar pita — 15",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Salads",
+    "dish_name": "Greek Salad",
+    "description": "with feta cheese, za'atar croutons (+ avocado 6 | chicken 8 | salmon 11)",
+    "price": "16",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Greek Salad — with feta cheese, za'atar croutons (+ avocado 6 | chicken 8 | salmon 11) — 16",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Salads",
+    "dish_name": "Salmon Niçoise Salad",
+    "description": "seared salmon, greens, haricot vert, beets, potatoes, tomatoes, egg",
+    "price": "24",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Salmon Niçoise Salad — seared salmon, greens, haricot vert, beets, potatoes, tomatoes, egg — 24",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mains",
+    "dish_name": "Mogador Couscous",
+    "description": "with seven vegetables, chickpeas, caramelized onions, raisins (Vegetable 22 / Chicken 25 / Merguez Sausage 26 / Lamb Shank 29)",
+    "price": "22-29",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Mogador Couscous — with seven vegetables, chickpeas, caramelized onions, raisins (Vegetable 22 / Chicken 25 / Merguez Sausage 26 / Lamb Shank 29) — 22-29",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mains",
+    "dish_name": "Moroccan Tagine - Chicken",
+    "description": "served with rice or couscous, choice of sauce (Stewed Apricot and Prunes / Casablanca / Preserved Lemon and Olives / Charmoulla)",
+    "price": "25",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "low",
+        "reason": "Only likely if couscous (wheat) is chosen over rice; dish itself does not declare wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Moroccan Tagine - Chicken — served with rice or couscous, choice of sauce (Stewed Apricot and Prunes / Casablanca / Preserved Lemon and Olives / Charmoulla) — 25",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mains",
+    "dish_name": "Moroccan Tagine - Lamb Shank",
+    "description": "served with rice or couscous, choice of sauce (Stewed Apricot and Prunes / Casablanca / Preserved Lemon and Olives / Charmoulla)",
+    "price": "29",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "low",
+        "reason": "Only likely if couscous (wheat) is chosen over rice; dish itself does not declare wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Moroccan Tagine - Lamb Shank — served with rice or couscous, choice of sauce (Stewed Apricot and Prunes / Casablanca / Preserved Lemon and Olives / Charmoulla) — 29",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mains",
+    "dish_name": "Kefta Kebab (From the Grill)",
+    "description": "with herbed rice, vegetable skewer, pickled red cabbage, cucumber yogurt",
+    "price": "25",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Kefta Kebab (From the Grill) — with herbed rice, vegetable skewer, pickled red cabbage, cucumber yogurt — 25",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mains",
+    "dish_name": "Chicken Kebab (From the Grill)",
+    "description": "with herbed rice, vegetable skewer, pickled red cabbage, cucumber yogurt",
+    "price": "25",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Chicken Kebab (From the Grill) — with herbed rice, vegetable skewer, pickled red cabbage, cucumber yogurt — 25",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mains",
+    "dish_name": "Bastilla",
+    "description": "festive Moroccan filo pastry with chicken, almonds, and spiced onions, served with casablanca sauce and green salad",
+    "price": "28",
+    "declared_allergens": [
+      "gluten",
+      "tree nut"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Bastilla — festive Moroccan filo pastry with chicken, almonds, and spiced onions, served with casablanca sauce and green salad — 28",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mains",
+    "dish_name": "Soup of the Day",
+    "description": "",
+    "price": "12",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Soup of the Day —  — 12",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mains",
+    "dish_name": "Mixed Grill",
+    "description": "",
+    "price": "30",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Mixed Grill —  — 30",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Mains",
+    "dish_name": "Merguez Sausage (Main)",
+    "description": "",
+    "price": "26",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Merguez Sausage (Main) —  — 26",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "Couscous with chickpeas, raisins, onions",
+    "description": "",
+    "price": "7",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Couscous with chickpeas, raisins, onions —  — 7",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "Herbed Basmati Rice",
+    "description": "",
+    "price": "7",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Herbed Basmati Rice —  — 7",
+    "verification_status": "unverified",
+    "guidance_tier": "Unknown"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "Green Salad with marinated beets",
+    "description": "",
+    "price": "8",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Green Salad with marinated beets —  — 8",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "Fries with harissa ketchup",
+    "description": "",
+    "price": "8",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Fries with harissa ketchup —  — 8",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "Za'atar Fries with harissa ketchup",
+    "description": "",
+    "price": "10",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Za'atar Fries with harissa ketchup —  — 10",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "Harissa / Schug / Amba / Harissa Aioli",
+    "description": "condiments",
+    "price": "3",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Harissa / Schug / Amba / Harissa Aioli — condiments — 3",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Sides",
+    "dish_name": "Moroccan Sauce",
+    "description": "spicy stewed tomatoes",
+    "price": "6",
+    "declared_allergens": [],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Moroccan Sauce — spicy stewed tomatoes — 6",
+    "verification_status": "unverified",
+    "guidance_tier": "No allergens flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Moroccan Eggs",
+    "description": "poached eggs in a spicy tomato and pepper sauce, served with za'atar pita (+ merguez sausage 5)",
+    "price": "15",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Moroccan Eggs — poached eggs in a spicy tomato and pepper sauce, served with za'atar pita (+ merguez sausage 5) — 15",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Country Breakfast",
+    "description": "herb omelette with labne and Arabic salad, served with za'atar pita",
+    "price": "17",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Country Breakfast — herb omelette with labne and Arabic salad, served with za'atar pita — 17",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Buttermilk Pancakes",
+    "description": "Plain | Banana, warm berry syrup, maple syrup",
+    "price": "14 | 16",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Buttermilk pancakes are ordinarily made with wheat flour."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Buttermilk Pancakes — Plain | Banana, warm berry syrup, maple syrup — 14 | 16",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Halloumi Eggs",
+    "description": "poached eggs over roasted tomato and seared halloumi cheese, green salad, served with za'atar pita",
+    "price": "17",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Halloumi Eggs — poached eggs over roasted tomato and seared halloumi cheese, green salad, served with za'atar pita — 17",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "Middle Eastern Breakfast",
+    "description": "eggs any style with hummus, tabouli, Arabic salad, served with za'atar pita",
+    "price": "17",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Middle Eastern Breakfast — eggs any style with hummus, tabouli, Arabic salad, served with za'atar pita — 17",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Breakfast",
+    "dish_name": "French Toast",
+    "description": "warm berry syrup, maple syrup",
+    "price": "16",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "French toast is made from bread, which is ordinarily wheat-based."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "French Toast — warm berry syrup, maple syrup — 16",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Sandwiches",
+    "dish_name": "Falafel Sandwich",
+    "description": "Arabic salad, tahini, pickles, red cabbage, amba",
+    "price": "16",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Served as a sandwich, implying a wheat bread roll or pita; falafel itself may also contain a flour binder."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Falafel Sandwich — Arabic salad, tahini, pickles, red cabbage, amba — 16",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Sandwiches",
+    "dish_name": "Sabich (roasted eggplant)",
+    "description": "Arabic salad, egg, tahini, pickles, amba",
+    "price": "16",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Sabich is traditionally served in pita bread."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Sabich (roasted eggplant) — Arabic salad, egg, tahini, pickles, amba — 16",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Sandwiches",
+    "dish_name": "Seared Salmon Cake",
+    "description": "on a brioche bun with romaine, tomato, onion, cucumber, harissa aioli",
+    "price": "17",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Seared Salmon Cake — on a brioche bun with romaine, tomato, onion, cucumber, harissa aioli — 17",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Sandwiches",
+    "dish_name": "Chicken Kebab Sandwich",
+    "description": "grilled tomato and onion, tahini, pickles, schug, red cabbage",
+    "price": "17",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Served as a sandwich, implying a wheat bread roll or pita."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Chicken Kebab Sandwich — grilled tomato and onion, tahini, pickles, schug, red cabbage — 17",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Sandwiches",
+    "dish_name": "Merguez Sausage Sandwich",
+    "description": "grilled tomato and onion, tahini, pickles, schug, red cabbage",
+    "price": "17",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Served as a sandwich, implying a wheat bread roll or pita."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Merguez Sausage Sandwich — grilled tomato and onion, tahini, pickles, schug, red cabbage — 17",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Sandwiches",
+    "dish_name": "Kefta Kebab Sandwich",
+    "description": "grilled tomato and onion, tahini, pickles, schug, red cabbage",
+    "price": "17",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Served as a sandwich, implying a wheat bread roll or pita."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Kefta Kebab Sandwich — grilled tomato and onion, tahini, pickles, schug, red cabbage — 17",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Sandwiches",
+    "dish_name": "Mogador Smash Burger",
+    "description": "double patty with white cheddar, harissa aioli, pickles, onion",
+    "price": "17",
+    "declared_allergens": [
+      "gluten"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Mogador Smash Burger — double patty with white cheddar, harissa aioli, pickles, onion — 17",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Cafe Mogador",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/cafe-mogador/menu_official.txt"
+    },
+    "menu_section": "Beer",
+    "dish_name": "Peroni / Back Home IPA / Casablanca Moroccan Lager / Persian Blue Lager / Duvel",
+    "description": "assorted beers",
+    "price": "8-10",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "medium",
+        "reason": "Beer is traditionally brewed from barley or wheat; gluten-free status not stated on the menu."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Peroni / Back Home IPA / Casablanca Moroccan Lager / Persian Blue Lager / Duvel — assorted beers — 8-10",
+    "verification_status": "unverified",
+    "guidance_tier": "Could modify"
+  }
+]

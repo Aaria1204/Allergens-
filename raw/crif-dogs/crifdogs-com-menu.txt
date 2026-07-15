@@ -1,0 +1,143 @@
+SOURCE URL: https://www.crifdogs.com/menu/
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Fetched as rendered/static HTML text via web_fetch (no JS-shell issue encountered, page returned full content directly). Address confirmed on page as 113 St Marks Pl, New York, NY 10009 (East Village location). Menu does not include PDT (speakeasy hidden in phone booth) items — this page is Crif Dogs' own hot dog/food/drink menu only, which is correct scope for this task. "Beer & Wine" and "Frozen Cocktails" / "Bottled Cocktails" sections have no itemized flavors/brands listed on page (just category headers with price for some). No allergen disclosures/statements found anywhere on the page.
+
+=== MENU CONTENT (verbatim extracted text) ===
+
+## Signature Hot Dogs
+
+- B.L.T
+    Bacon-wrapped crif dog, lettuce, tomato, mayo
+    $7.55
+
+- Chihuahua
+    Bacon-wrapped crif dog, sour cream, avocado
+    $7.95
+
+- Chili Dog
+    Crif dog, chili, diced onion, mustard
+    $6.95
+
+- Everything Dog
+    Crif dog, cream cheese, scallions, everything bagel seasoning
+    $6.25
+
+- Good Morning
+    Bacon-wrapped crif dog, fried egg, american cheese
+    $8.25
+
+- Spicy Redneck
+    Bacon-wrapped crif dog, chili, cole slaw, pickled jalapeños
+    $8.95
+
+- Tsunami
+    Bacon-wrapped crif dog, diced pineapple, teriyaki, scallions
+    $7.75
+
+- Veggie Special
+    Vegetarian hot dog, hummus, pickles, pepperoncini
+    $7.75
+
+- Philly Tubesteak
+    Crif Dog, Cheese Sauce, Sautéed Onions
+    $6.95
+
+- Elote Dog
+    Bacon-wrapped Crif Dog, Chipotle Mayo, Corn, Cotija Cheese
+    $7.50
+
+- Corn Dog
+    Crif Dog, Dipped in batter and fried golden brown
+    $7.25
+
+- Lil Ma
+    Bacon-wrapped Crif Dog, pickles, peanut butter, potato chips
+    $7.75
+
+## Make It a Crif Combo
+
+- Add tots & a soft drink
+    $5.95
+
+- Add tots & a bottled cocktail
+    $14.95
+
+## Tots
+
+- Plain
+    $4.95
+
+- East Village Tots
+    Cheese sauce, pickled jalapeños
+    $5.95
+
+- Truffle Shuffle
+    Parmesan cheese, truffle oil, herbs
+    $7.95
+
+- Nacho Tots
+    Chili, avocado, sour cream, cheese sauce, scallions, tomato, pickled jalapeños
+    $9.95
+
+## Burgers
+
+- Crif Burger
+    Pat lafreida short rib patty, crif sauce, american cheese, lettuce, tomato, pickles
+    $9.95
+
+- Veggie Burger
+    Impossible patty, crif sauce, american cheese, lettuce, tomato, pickles
+    $11.55
+
+- Bacon Cheeseburger
+    Same as Crif Burger, but with two strips of bacon
+    $11.95
+
+## Build Your Own
+
+- Crif Dog
+    Pork and beef frank
+    $4.75
+
+- New Yorker
+    All beef frank
+    $4.75
+
+- Veggie Dog
+    $5.95
+
+- Bacon-Wrapped Crif Dog
+    $5.95
+
+## Toppings
+
+- American Cheese $1.25
+- Avocado $1.45
+- Cheese Sauce $1.65
+- Chili $1.85
+- Chipotle Mayo $0.55
+- Cole Slaw $1.55
+- Cream Cheese $0.75
+- Diced Onion $0.45
+- Fried Egg $1.95
+- Hummus $0.75
+- Lettuce $0.35
+- Parmesan Cheese $1.25
+- Pepperoncini $0.45
+- Pickled Jalapeños $0.55
+- Pickles $0.45
+- Potato Chips $0.55
+- Sauerkraut $0.75
+- Sautéed Onion $0.55
+- Scallions $0.35
+- Sour Cream $0.55
+- Swiss Cheese $1.25
+- Tomatoes $0.55
+
+## Drinks
+
+- Soft Drinks $3.50
+- Frozen Cocktails $12.95
+- Beer & Wine (no price/itemization listed)
+- Bottled Cocktails $13.95

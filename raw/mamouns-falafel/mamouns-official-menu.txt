@@ -1,0 +1,74 @@
+SOURCE URL: https://www.mamouns.com/menu/
+TIER: official
+ACCESSED_AT: 2026-07-14T16:00:00Z
+LOCATION VERIFICATION SOURCE: https://www.mamouns.com/location/mamouns-east-village-nyc/ (confirms "30 St. Marks Place, New York, NY 10003")
+LIMITATIONS: This is Mamoun's Falafel's national/chain-wide menu page (shared across NY/NJ/CT locations), not a location-specific menu filtered to 30 St Marks Pl. Items marked with an asterisk (*) on the source are noted by the restaurant as "only available at select locations" — availability at the 30 St Marks Pl location specifically for those asterisked items is not separately confirmed. No prices are listed on this page. No explicit "contains allergen" statements are provided anywhere on the page; a "gluten-free" icon/tag is applied to certain items (noted below as [GF-tag]) by the restaurant itself — presence of this tag is restaurant-asserted absence of gluten for that item; ABSENCE of the tag is not treated as evidence of presence of gluten, it is only used together with other ingredient text to infer likely gluten content conservatively. No peanut or tree-nut specific icons exist on this menu.
+
+=== MENU (as rendered on https://www.mamouns.com/menu/) ===
+
+--- SANDWICHES ---
+(header note) "all sandwiches are served in a pita pocket with lettuce, tomatoes, onions, and tahineh sauce"
+
+Traditional Sandwiches:
+- Falafel — finely ground chickpeas, onions, parsley, garlic, and spices; deep fried into semi circles
+- Shawarma — thinly sliced lamb made with signature spices and cooked slowly on a stand up rotisserie
+- Chicken Kebob — marinated cubes of chicken breast; skewered and grilled
+
+Signature Sandwiches (header note: "served in a pita with lettuce, tomatoes, onions, and tahineh sauce"):
+- Classic — falafel and hummus
+- West 4th — shawarma and hummus
+- Manhattan — falafel, hummus, baba ganouj, tabbouleh, pickles, pickled turnips, and olives
+- West Village — falafel, baba ganouj, and pickles
+- Macdougal — shawarma and falafel
+- Sullivan — chicken kebob, hummus, and tabbouleh
+- East Village — falafel, hummus, tabbouleh, and olives
+- Bleecker — chicken kebob and falafel
+(* = item only available at select locations)
+
+--- PLATES ---
+(header note) "served over a choice of salad or seasoned rice (or both for an additional charge) with tahineh sauce and a pita on the side"
+- Falafel — finely ground chickpeas, onions, parsley, garlic, and spices; deep fried into semi circles
+- Combo — a la carte plate with falafel, hummus, and baba ganouj; substitute any vegetarian item at no additional cost; add meat for an additional charge (lamb, chicken, beef)
+- Shawarma — thinly sliced lamb made with signature spices and cooked slowly on a stand up rotisserie
+- Hummus Bowl* — home-made hummus topped with tangy pickles, vibrant turnips, briny olives, fresh onions, and juicy tomatoes; drizzled with rich olive oil and served with two crispy falafel balls, warm pita, and crunchy croutons (add seasoned rice for an additional charge; no salad option)
+- Chicken Kebob — marinated cubes of chicken breast; skewered and grilled
+(* = item only available at select locations)
+
+--- SIDES ---
+- Falafel [GF-tag] — finely ground chickpeas, onions, parsley, garlic, and spices; deep fried (4 pieces)
+- Seasoned Fries* — served with choice of garlic dipping sauce or ketchup (note: garlic dipping sauce is not vegan)
+- Lentil Soup — served with pita chips
+- Mamoun's Salad* [GF-tag] — lettuce, tomatoes, onions, pickles, pickled turnips, olives, feta cheese, and tahineh sauce
+- Hummus — chickpea spread made with lemon, garlic, and tahineh; topped with olive oil and paprika
+- Tabbouleh — bulgur wheat salad mixed with finely chopped mint, parsley, garlic, onions, and peppers
+- Pita Chips* — seasoned with salt and pepper
+- Pickled Veggies* [GF-tag] — pickles, pickled turnips, and olives
+- Bag of Pita Bread* — 6 pieces; baked fresh in-house daily
+- Baba Ganouj — roasted eggplant spread made with parsley, garlic, and tahineh; topped with olive oil and paprika
+- Seasoned Rice* [GF-tag] — made with our own blend of spices
+- Grape Leaves [GF-tag] — stuffed with white rice and spices (4 pieces)
+- Pita Bread* — baked fresh in-house daily
+
+Pastries:
+- Baklava* — fillo dough stuffed with walnuts
+
+Sauces:
+- Hot [GF-tag] — spicy sauce made from the finest, imported hot pepper spices
+- Tahineh [GF-tag] — smooth sesame seed-based sauce
+- Garlic [GF-tag] — savory, garlic infused sauce
+(* = item only available at select locations)
+
+--- DRINKS ---
+Specialty Drinks (all marked [GF-tag]):
+- Mint Lemonade — sweet lemonade infused with fresh flakes of mint
+- Mamoun's Iced Tea — freshly brewed, unsweetened black tea infused with cardamom
+- Mango — sweet mango puree
+- Tamarind* — tart and refreshing juice from the tamarind fruit
+
+Regular Drinks (all marked [GF-tag]):
+- Soda* — choice of Coke, Diet Coke, Coke Zero, Cherry Coke, Sprite, Sprite Zero, Orange Fanta, Ginger Ale, Selzer, Powerade Mountain Berry Blast, Vitamin Water Acai Pomegranate
+- Bottled Water
+
+(* = item only available at select locations)
+
+=== END OF MENU TEXT ===

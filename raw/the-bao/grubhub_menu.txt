@@ -1,0 +1,24 @@
+SOURCE URL: https://www.grubhub.com/restaurant/the-bao-13-st-marks-pl-new-york/309601
+TIER: ordering (Grubhub)
+ACCESSED_AT: 2026-07-14T18:10:00Z
+LIMITATIONS: Rendered via Chrome (JS-heavy SPA; raw fetch returned empty shell). Only the "Best Sellers" tab of the menu was successfully captured before a browser tab-state conflict (page navigated away to an unrelated restaurant, "kyuubi omakase", likely due to a shared/concurrent browser session with sibling agents processing other restaurants in parallel) interrupted further category navigation. Other listed categories on this restaurant's Grubhub page (Small Dishes, Dim Sum, Rice/Noodles, Soup, Hot Dishes, Vegetable, Lunch Special Rice, Lunch Special Noodles, Soda) were NOT captured due to this interruption and time-box constraints. Additional items below were captured from tooltip previews surfaced alongside customer reviews on the same page (also genuine rendered menu data, not search snippets).
+
+Restaurant confirmed: The Bao, 13 St. Marks Pl, New York, NY 10003, (212) 388-9238. Cuisine tags: Asian, Chinese, Dim Sum (Grubhub); "Malaysian" per Grubhub FAQ. Rating 4.8, 1.6k ratings.
+
+=== BEST SELLERS (Most ordered on Grubhub) ===
+Shanghai Pan Fried Noodles(w/pork) — $16.50
+Roast Pork Egg Fried Rice — $18.00
+Pan Fried Dumplings (pork) — $13.00 — 6 Pieces. 生煎鍋貼(6)
+General Tso's Chicken — $17.00
+Chicken w. Broccoli — $17.00
+Sesame Chicken — $17.00 — 芝麻雞
+Scallion Pancake(V) — $8.00 — 蔥油餅
+Kung Fu Xiao Long Bao(pork) — $12.00 — 6 Pieces. 功夫小籠包(6)
+White Rice — $2.00
+
+=== ADDITIONAL ITEMS (from review tooltips, same page) ===
+Veggie Spring Rolls — $7.00 — 3 Pieces. 素春卷(3)
+Crispy Beef — $33.00 — 脆皮牛
+Scallion Pancake w. Sliced Beef — $13.00 — 牛肉夾餅
+
+No allergen disclosures, "contains" statements, or cross-contact/facility-wide warnings were present anywhere on the rendered page.

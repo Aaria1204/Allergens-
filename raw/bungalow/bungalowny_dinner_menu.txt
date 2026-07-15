@@ -1,0 +1,151 @@
+SOURCE URL: https://www.bungalowny.com/menu
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Rendered via browser (Claude-in-Chrome) after initial fetch returned static shell text without full menu content; captured accessibility-tree/page-text extraction of the "Dinner Menu" section only. A "Drinks Menu" tab/link exists on the page but was not reachable within the time box (no separate URL found, and the tab toggle mechanism was not located in the interactive elements list); drinks are NOT included in this extraction. Menu items below include the restaurant's own bracketed allergen/dietary tags (e.g., [Dairy, Gluten, Vegetarian]) which are treated as declared allergen info where they name gluten, peanut ("Peanuts"), or tree nut ("Tree Nut"). Address confirmed in page footer: "24 First Avenue, New York, NY 10009" matching target restaurant identity (Bungalow, East Village Indian restaurant by chef Vikas Khanna, opened 2024) — distinguishing it from other same-named "Bungalow" venues elsewhere.
+
+--- RAW EXTRACTED TEXT ---
+
+Dinner Menu
+Starter
+
+BANARASI PURI | 12
+Semolina Puffs, Beetroot Raita, Pineapple, Green Papaya Ribbon
+[Dairy, Gluten, Vegetarian]
+
+SMOKED SWEET POTATO CHAAT | 13
+Whole Wheat Crisps, Green Mango Sauce, Chickpea Droplets
+[Dairy, Gluten, Vegetarian]
+
+CAULIFLOWER 101 | 22
+Chipotle Aioli, Chili Oil, Radish
+[Dairy, Vegetarian]
+
+ACHARI STUFFED PANEER | 20
+Passion Fruit Chili Chutney, Jackfruit Pickle
+[Dairy, Vegetarian]
+
+YOGURT KABAB | 22
+Kataifi, Purple Cabbage, Ginger, Spicy Mango Coulis
+[Dairy, Gluten, Vegetarian]
+
+MALWANI FISH TIKKA | 24
+Salmon, Spicy Banana Ketchup, Lotus Root
+[Dairy]
+
+NILGIRI TANDOORI PRAWNS | 26
+Green Chilli, Mint, Curry Leaves
+[Shellfish]
+
+ANARKALI CHICKEN | 24
+Pomegranate-Chili, Cilantro Chutney, Watermelon Radish
+[Dairy, Tree Nut]
+
+AMMI'S LAMB CHOPS | 39
+Cashew Butter, Poppy Seed, Kumquat Pickle
+[Tree Nut]
+
+Entrée
+
+SPICE ROASTED PINEAPPLE | 26
+Coconut, Tamarind, Mustard Seed, Curry Leaves
+[Vegan]
+
+EGGPLANT BHARTA | 28
+Japanese Eggplant, Smoked Onion, Peas, Tomato, Cilantro
+[Vegan]
+
+STUFFED OKRA | 28
+Roasted Tomato, Peanut Masala, Fennel Seeds
+[Dairy, Vegetarian, Tree Nut]
+
+PUDINA ALOO | 26
+Crispy Potato, Mint, Chili Pickle
+[Dairy, Vegetarian]
+
+PANEER LAZEEZ | 30
+Homemade Paneer, Cashew, Cardamom
+[Dairy, Tree Nut, Vegetarian]
+
+ALLEPPEY SHRIMP CURRY | 34
+Coconut, Tamarind, Green Mango
+[Shellfish, Sesame, Peanuts]
+
+CHICKEN AMRITSARI | 29
+Charred Tomato, Tandoori Spice Mix, Fenugreek, Cashew
+[Dairy, Tree Nut]
+
+RAILWAY CHICKEN CURRY | 32
+Shallots, Tomatoes, Homemade Garam Masala
+
+CHICKEN BIRYANI | 34
+Saffron, Crispy Onion, Mint
+[Dairy]
+
+RAJASTHANI PULLED LAMB | 34
+Caramelized Onion, Black Pepper, Ghee, Pickled Chilli
+[Dairy]
+
+LAMB TELLICHERRY FRY | 36
+Coconut Chips, Black Pepper, Curry Leaves
+
+Bread
+
+PLAIN / BUTTER TANDOORI ROTI | 6
+Whole Wheat, Butter
+[Dairy, Gluten, Vegetarian]
+
+MINT LACCHA PARATHA | 8
+Whole Wheat, Ghee, Mint
+[Dairy, Gluten, Vegetarian]
+
+FARMERS SATTU ROTI | 8
+Roasted Chickpea Flour, Ghee, Flaky Salt
+[Dairy, Low-Gluten]
+
+PLAIN / BUTTER NAAN | 7
+Milk, Homemade Butter
+[Dairy, Egg, Gluten]
+
+GARLIC NAAN | 8
+Nigella Seeds, Milk, Cilantro
+[Dairy, Egg, Gluten]
+
+FIVE CHEESE KULCHA | 14
+Cheddar, Amul Cheese, Mozzarella, Cilantro Chutney, Za'atar Spice Mix
+[Dairy, Egg, Gluten, Sesame]
+
+Sides
+
+DAAL BUNGALOW | 24
+Black Lentil, Kidney Beans, Homemade Butter, Chili Oil
+[Dairy, Vegetarian]
+
+OLD DELHI CHOLE | 24
+Chickpea, Indian Gooseberry, Garlic, Spiced Onion
+[Vegan]
+
+CUCUMBER RAITA | 7
+Homemade Yogurt, Grapes, Roasted Cumin
+[Dairy]
+
+STEAMED BASMATI RICE | 9
+[Vegan]
+
+Dessert
+
+ROSE KULFI FALOODA | 16
+Candied Rose Petals, Butterfly Pea Rabdi, White Chocolate Bark, Sweet Vermicelli
+[Dairy, Tree Nut, Vegetarian]
+
+MOLTEN CHOCOLATE CAKE | 16
+Gulab Jamun Ice Cream, Cherry Compote
+[Dairy, Egg, Gluten]
+
+MANGO THREE WAY | 16
+Homemade Mango Ice Cream, Raspberry Coulis, Candied Fruits
+[Dairy]
+
+--- FOOTER (identity confirmation) ---
+Location and Contact
+24 First Avenue, New York, NY 10009
+Hours: Tuesday – Sunday: 5:00 pm – 11:00 pm (Last seating at 10:00 pm); Monday: Closed. Effective May 26th.

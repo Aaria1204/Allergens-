@@ -1,0 +1,477 @@
+{
+  "generated_at": "2026-07-14T00:00:00Z",
+  "restaurants": [
+    {
+      "restaurant_name": "Alison",
+      "address": "110 St Marks Pl, New York, NY 10009, USA",
+      "status": "partial - manual review recommended",
+      "menu_source": {
+        "url": "https://www.doordash.com/en/store/alison-st-marks-110-saint-marks-pl-new-york-32657597/55299946/",
+        "tier": "ordering",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/alison",
+      "normalized_file": "normalized/alison.json"
+    },
+    {
+      "restaurant_name": "JOJU - East Village",
+      "address": "33 St Marks Pl, New York, NY 10003, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://www.jojuny.com/joju-east-village",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/joju-east-village",
+      "normalized_file": "normalized/joju-east-village.json"
+    },
+    {
+      "restaurant_name": "KENKA",
+      "address": "25 St Marks Pl, New York, NY 10003, USA",
+      "status": "complete - sourced via last-resort tier, manual review recommended",
+      "menu_source": {
+        "url": "https://www.yelp.com/menu/kenka-new-york",
+        "tier": "yelp",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/kenka",
+      "normalized_file": "normalized/kenka.json"
+    },
+    {
+      "restaurant_name": "Cafe Mogador",
+      "address": "101 St Marks Pl, New York, NY 10009, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/69e9680ae110ee01e6402f14/1776904202038/Cafe+Mogador+EV+Menu+4.22.26.pdf",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/cafe-mogador",
+      "normalized_file": "normalized/cafe-mogador.json"
+    },
+    {
+      "restaurant_name": "Pizza Studio Tamaki",
+      "address": "123 St Marks Pl, New York, NY 10009, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://www.pizzapst.com/menus/",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/pizza-studio-tamaki",
+      "normalized_file": "normalized/pizza-studio-tamaki.json"
+    },
+    {
+      "restaurant_name": "Crispiano",
+      "address": "130 St Marks Pl, New York, NY 10009, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://crispiano.com/mainmenu",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/crispiano",
+      "normalized_file": "normalized/crispiano.json"
+    },
+    {
+      "restaurant_name": "Nan Xiang Soup Dumplings - East Village",
+      "address": "15 St Marks Pl, New York, NY 10003, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://custom.order.online/store/nan-xiang-soup-dumplings-east-village-29697125",
+        "tier": "ordering",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/nan-xiang-soup-dumplings-east-village",
+      "normalized_file": "normalized/nan-xiang-soup-dumplings-east-village.json"
+    },
+    {
+      "restaurant_name": "Loong Noodles",
+      "address": "28 St Marks Pl, New York, NY 10003, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://loongnoodle.com/menu",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/loong-noodles",
+      "normalized_file": "normalized/loong-noodles.json"
+    },
+    {
+      "restaurant_name": "Soothr",
+      "address": "204 E 13th St, New York, NY 10003, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://soothrnyc.com/",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/soothr",
+      "normalized_file": "normalized/soothr.json"
+    },
+    {
+      "restaurant_name": "Spot Dessert Bar East Village",
+      "address": "13 St Marks Pl, New York, NY 10003, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://spotdessertbar-a479r1z2.toast.site/order/spotdessertbar",
+        "tier": "ordering",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/spot-dessert-bar-east-village",
+      "normalized_file": "normalized/spot-dessert-bar-east-village.json"
+    },
+    {
+      "restaurant_name": "Café Maud",
+      "address": "132 2nd Ave, New York, NY 10003, USA",
+      "status": "complete - manual review recommended",
+      "menu_source": {
+        "url": "https://www.cafemaud.com/menu",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/cafe-maud",
+      "normalized_file": "normalized/cafe-maud.json"
+    },
+    {
+      "restaurant_name": "CHELI MANHATTAN 浙里",
+      "address": "19 St Marks Pl, New York, NY 10003, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://www.che-li.com/location/che-li-east-village/",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/cheli-manhattan",
+      "normalized_file": "normalized/cheli-manhattan.json"
+    },
+    {
+      "restaurant_name": "Empellon Al Pastor",
+      "address": "132 St Marks Pl, New York, NY 10009, USA",
+      "status": "complete - manual review recommended",
+      "menu_source": {
+        "url": "official Empellon menu PDF (Nov 2021)",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/empellon-al-pastor",
+      "normalized_file": "normalized/empellon-al-pastor.json"
+    },
+    {
+      "restaurant_name": "Mokyo",
+      "address": "109 St Marks Pl, New York, NY 10009, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://mokyony.com/menu",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/mokyo",
+      "normalized_file": "normalized/mokyo.json"
+    },
+    {
+      "restaurant_name": "The Rhymers' Club",
+      "address": "37 1/2 St Marks Pl, New York, NY 10003, USA",
+      "status": "complete - manual review recommended",
+      "menu_source": {
+        "url": "https://www.therhymersclub.com/menu",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/the-rhymers-club",
+      "normalized_file": "normalized/the-rhymers-club.json"
+    },
+    {
+      "restaurant_name": "Hanoi House",
+      "address": "119 St Marks Pl, New York, NY 10009, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://www.hanoihousenyc.com/menu-hanoi-house/",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/hanoi-house",
+      "normalized_file": "normalized/hanoi-house.json"
+    },
+    {
+      "restaurant_name": "886",
+      "address": "26 St Marks Pl, New York, NY 10003, USA",
+      "status": "complete - manual review recommended",
+      "menu_source": {
+        "url": "https://eighteightsix.com/menu",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/886",
+      "normalized_file": "normalized/886.json"
+    },
+    {
+      "restaurant_name": "Baohaus",
+      "address": "97 St Marks Pl, New York, NY 10009, USA",
+      "status": "complete - manual review recommended",
+      "menu_source": {
+        "url": "https://baohaus.nyc/dinner",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/baohaus",
+      "normalized_file": "normalized/baohaus.json"
+    },
+    {
+      "restaurant_name": "Little Kirin",
+      "address": "81 St Marks Pl, New York, NY 10003, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://www.eatlittlekirin.com/",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/little-kirin",
+      "normalized_file": "normalized/little-kirin.json"
+    },
+    {
+      "restaurant_name": "Kimura",
+      "address": "31 St Marks Pl, New York, NY 10003, USA",
+      "status": "needs_revisit - no usable menu sourced yet",
+      "menu_source": null,
+      "raw_dir": "raw/kimura",
+      "normalized_file": "normalized/kimura.json"
+    },
+    {
+      "restaurant_name": "Dumpling N' Dips",
+      "address": "5 St Marks Pl, New York, NY 10003, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://www.dumplingndips.com/onlinemenu",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/dumpling-n-dips",
+      "normalized_file": "normalized/dumpling-n-dips.json"
+    },
+    {
+      "restaurant_name": "Udon St Marks",
+      "address": "11 St Marks Pl, New York, NY 10003, USA",
+      "status": "complete - manual review recommended",
+      "menu_source": {
+        "url": "https://www.grubhub.com/restaurant/udon-stmarks-11-st-marks-pl-new-york/7475136",
+        "tier": "ordering",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/udon-st-marks",
+      "normalized_file": "normalized/udon-st-marks.json"
+    },
+    {
+      "restaurant_name": "Thursday Kitchen",
+      "address": "424 E 9th St, New York, NY 10009, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://thursdaykitchen.com/diningmenu/",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/thursday-kitchen",
+      "normalized_file": "normalized/thursday-kitchen.json"
+    },
+    {
+      "restaurant_name": "Anytime Street",
+      "address": "34 St Marks Pl, New York, NY 10003, USA",
+      "status": "needs_revisit - no usable menu sourced yet",
+      "menu_source": null,
+      "raw_dir": "raw/anytime-street",
+      "normalized_file": "normalized/anytime-street.json"
+    },
+    {
+      "restaurant_name": "Crif Dogs",
+      "address": "113 St Marks Pl, New York, NY 10009, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://www.crifdogs.com/menu/",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/crif-dogs",
+      "normalized_file": "normalized/crif-dogs.json"
+    },
+    {
+      "restaurant_name": "Yakitori Taisho",
+      "address": "9 St Marks Pl, New York, NY 10003, USA",
+      "status": "complete - manual review recommended",
+      "menu_source": {
+        "url": "https://yakitori-taisho.grubbio.com/menu",
+        "tier": "google_maps",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/yakitori-taisho",
+      "normalized_file": "normalized/yakitori-taisho.json"
+    },
+    {
+      "restaurant_name": "Mountain House East Village",
+      "address": "23 St Marks Pl, New York, NY 10003, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://pos.chowbus.com/online-ordering/store/Mountain-House-East-Village-NEW/22942",
+        "tier": "ordering",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/mountain-house-east-village",
+      "normalized_file": "normalized/mountain-house-east-village.json"
+    },
+    {
+      "restaurant_name": "Mamoun's Falafel",
+      "address": "30 St Marks Pl, New York, NY 10003, USA",
+      "status": "complete - manual review recommended",
+      "menu_source": {
+        "url": "https://www.mamouns.com/menu/",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/mamouns-falafel",
+      "normalized_file": "normalized/mamouns-falafel.json"
+    },
+    {
+      "restaurant_name": "Cello's Pizzeria",
+      "address": "36 St Marks Pl, New York, NY 10003, USA",
+      "status": "complete - manual review recommended",
+      "menu_source": {
+        "url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/cellos-pizzeria",
+      "normalized_file": "normalized/cellos-pizzeria.json"
+    },
+    {
+      "restaurant_name": "Butter Smashburgers",
+      "address": "17 St Marks Pl, New York, NY 10003, USA",
+      "status": "complete - manual review recommended",
+      "menu_source": {
+        "url": "https://www.buttersmashburgers.com/our-menu",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/butter-smashburgers",
+      "normalized_file": "normalized/butter-smashburgers.json"
+    },
+    {
+      "restaurant_name": "Birria LES",
+      "address": "34 St Marks Pl #12, New York, NY 10003, USA",
+      "status": "complete - manual review recommended",
+      "menu_source": {
+        "url": "https://order.online/en-US/store/birria-les-new-york-31345181",
+        "tier": "ordering",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/birria-les",
+      "normalized_file": "normalized/birria-les.json"
+    },
+    {
+      "restaurant_name": "The Bao",
+      "address": "13 St Marks Pl, New York, NY 10003, USA",
+      "status": "partial - needs revisit for full menu coverage",
+      "menu_source": {
+        "url": "https://www.grubhub.com (Chrome-rendered, Best Sellers tab only)",
+        "tier": "ordering",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/the-bao",
+      "normalized_file": "normalized/the-bao.json"
+    },
+    {
+      "restaurant_name": "Kyuubi Sushi Omakase",
+      "address": "102 St Marks Pl, New York, NY 10009, USA",
+      "status": "complete - manual review recommended",
+      "menu_source": {
+        "url": "https://www.doordash.com/store/kyuubi-omakase-102-saint-marks-pl-new-york-34021721/",
+        "tier": "ordering",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/kyuubi-sushi-omakase",
+      "normalized_file": "normalized/kyuubi-sushi-omakase.json"
+    },
+    {
+      "restaurant_name": "Klong",
+      "address": "7 St Marks Pl, New York, NY 10003, USA",
+      "status": "complete - manual review recommended",
+      "menu_source": {
+        "url": "https://klongthainyc.com",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/klong",
+      "normalized_file": "normalized/klong.json"
+    },
+    {
+      "restaurant_name": "Veselka",
+      "address": "144 2nd Ave, New York, NY 10003, USA",
+      "status": "complete - manual review recommended",
+      "menu_source": {
+        "url": "https://order.online/store/veselka-new-york-999047",
+        "tier": "ordering",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/veselka",
+      "normalized_file": "normalized/veselka.json"
+    },
+    {
+      "restaurant_name": "Bungalow",
+      "address": "24 1st Ave, New York, NY 10009, USA",
+      "status": "complete - manual review recommended",
+      "menu_source": {
+        "url": "https://www.bungalowny.com/menu",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/bungalow",
+      "normalized_file": "normalized/bungalow.json"
+    },
+    {
+      "restaurant_name": "The Smith",
+      "address": "55 3rd Ave, New York, NY 10003, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://thesmithrestaurant.com/location/east-village/",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/the-smith",
+      "normalized_file": "normalized/the-smith.json"
+    },
+    {
+      "restaurant_name": "La Palapa",
+      "address": "77 St Marks Pl, New York, NY 10003, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://www.lapalapa.com/menu/la-palapa-cocina-mexicana/",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/la-palapa",
+      "normalized_file": "normalized/la-palapa.json"
+    },
+    {
+      "restaurant_name": "Nudibranch",
+      "address": "125 1st Ave, New York, NY 10003, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://nudibranchnyc.com (Canva-hosted dinner menu)",
+        "tier": "official",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/nudibranch",
+      "normalized_file": "normalized/nudibranch.json"
+    },
+    {
+      "restaurant_name": "MáLà Project",
+      "address": "122 1st Ave, New York, NY 10009, USA",
+      "status": "complete",
+      "menu_source": {
+        "url": "https://www.toasttab.com/local/order/mala-project/r-431df7b3-26cb-4244-9d81-67a1704f4852",
+        "tier": "ordering",
+        "accessed_at": "2026-07-14T00:00:00Z"
+      },
+      "raw_dir": "raw/mala-project",
+      "normalized_file": "normalized/mala-project.json"
+    }
+  ]
+}

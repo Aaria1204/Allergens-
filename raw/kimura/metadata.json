@@ -1,0 +1,32 @@
+{
+  "restaurant_name": "Kimura",
+  "address": "31 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.kimuranyc.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Menu page is an image gallery only (Wix site); no extractable dish text. Confirms restaurant identity (address, phone) but no menu content."
+    },
+    {
+      "url": "https://www.seamless.com/menu/kimura-31-st-marks-pl-new-york/6374680",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Empty JS-shell on initial fetch (no-JS placeholder); not escalated to Chrome since Grubhub (same underlying menu data source, sister platform) was tried instead."
+    },
+    {
+      "url": "https://www.grubhub.com/restaurant/kimura-31-st-marks-pl-new-york/6374680",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Escalated to Chrome rendering (initial web_fetch not attempted directly, navigated in browser). Confirmed restaurant identity (name, address, phone, hours match). Only a 'Best Sellers' module rendered with 5 dish names + prices, no descriptions. Full category tabs (Donburi, Hotpot, Sushi teishoku, Rice & noodle, etc.) are present in the page but their itemized contents did not render/expand in the accessibility tree within the time box (likely lazy-loaded on scroll/click with additional interaction not achieved in time). Rejected as incomplete for full-menu extraction; partial best-seller list saved to raw/kimura/grubhub_bestsellers_partial.txt for future revisit but NOT used for normalized dish records due to lack of descriptions and lack of coverage of most menu sections."
+    }
+  ],
+  "menu_source": null,
+  "restaurant_identity_verified": true,
+  "manual_review_flag": true,
+  "manual_review_reason": "Only a partial 'Best Sellers' list (5 items, no descriptions) could be rendered from the Grubhub ordering page within the sourcing time box; the official website menu is image-only with no extractable text; full itemized menu (14 categories including Hotpot, which is the restaurant's specialty and allergen-relevant) was not retrievable. Needs revisit with either: (a) more patient/scrolled Chrome rendering of Grubhub category tabs, (b) OCR of the official site's menu photo images, or (c) checking the Lunch Menu / Drinks sub-pages on kimuranyc.com.",
+  "status": "needs_revisit"
+}

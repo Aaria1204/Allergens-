@@ -1,0 +1,63 @@
+SOURCE URL: https://www.mokyony.com/_files/ugd/1d3301_95968d26ba6f41cf8ba7ee409d562b4f.pdf
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: PDF text extraction interleaved item names, ABV, glass/bottle size labels, and prices out of strict row order; category groupings (sake, korean spirit, beer, wine, cocktail, non-alcohol) are legible but exact per-item price attribution is uncertain in places. Used only to identify beverage categories, not per-flavor detail (per project instructions beverages are consolidated per category).
+
+--- RAW EXTRACTED TEXT ---
+sake sampler
+sake:
+kitaya kansansui 'cold mountain water' junmai daiginjo
+sesshu otokoyama 'man's mountain' tokubetsu junmai
+tozai 'snow maiden' nigori
+suigei 'drunken whale' tokubetsu junmai
+dassai 45 'otter festival' junmai daiginjo
+tenryo koshu 'imperial landing' junmai daiginjo
+itami onigoroshi 'demon slayer' junmai
+hakutsuru organic 'white crane' organic junmai
+ozeki 'champion' junmai ginjo
+soto junmai
+(glass / 360ml / 720ml pricing tiers, various prices)
+
+korean spirit:
+makgeolli - unfiltered rice wine, South Korea - 5.6% abv
+IL poom jinro rice soju - 24% abv
+lee gang ju25 pear, ginger soju - 25% abv
+hwayo premium 100% korean rice soju - 23% abv
+seol joong mae plum specialty spirit - 14% abv
+jangsu omijaju omija wine - 16.5% abv
+iichiko shochu
+
+beer (12oz unless noted):
+sapporo draft lager, japan, 4.9% ABV
+OB pilsner, south korea, 4.6% ABV
+terra pilsner, south korea, 4.6% ABV
+echigo flying ipa, japan, 6% ABV
+kyoto matcha ipa, japan, 8.5% ABV, 11oz
+daepyo wheat craft beer, south korea, 4.5% ABV, 11.2oz
+seoul soul ale, pale ale, south korea, 5% ABV, 11.2oz
+yuzu beer, yuzu & honey, sapporo, japan, 4.9% ABV, 16oz
+tokyo white saison ale, japan, 5% ABV
+lucky dog session ipa, japan, 5% ABV
+
+wine:
+white: melon de bourgogne 'clos des morinieres', loire valley, france; chardonnay sauvignon blanc blend 'dragon', piedmont, italy; chenin blanc 'ammonite', loire valley, france; white blend 'naked white', burgenland, austria; welschriesling pinot gris blend 'meinklang', burgenland, austria
+red: malbec 'le pur fruit du causse', cahors, france; tempranillo 'cubillo crianza', rioja; pinot noir 'irancy', burgundy, france; cabernet franc 'chinon', loire valley, france
+
+cocktail:
+soju sour - soju, fresh lemon juice & tonic
+soju negroni - soju, cappelletti, elderflower & orange bitter — 15
+ruby - the gf soju, sparkling rose & grapefruit juice
+lychee reach - rich soju, lychee & mango
+blah blah blue - soju, blue curaçao, pineapple & lime juice
+pure strawberry - soju, muddled strawberry & yuzu
+matcha tea-ni - sencha infused soju, lemon juice & mint — 15
+makgeolli mojito - unfiltered rice wine, fresh lime juice & mint — 13
+espresso martini - soju, espresso & coffee liqueur — 15
+
+non-alcohol:
+soda: coke, diet coke, sprite — 3
+hot tea: green sencha, matcha, chai, jasmine green, moroccan mint, decaf carroll gardens, ginger and turmeric — 4
+saratoga sparkling water 750ml — 8
+acqua panna spring water 750ml — 8
+yuzu strawberry - strawberry, yuzu, tonic, lemon-lime soda — 8
+golden punch - lychee, pineapple, lemon juice, tonic — 8

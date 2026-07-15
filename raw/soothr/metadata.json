@@ -1,0 +1,23 @@
+{
+  "restaurant_name": "Soothr",
+  "address": "204 E 13th St, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://soothrnyc.com/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Homepage renders full food and drink menu inline (no separate PDF); no dedicated allergen disclosure page found on the site."
+    }
+  ],
+  "final_menu_source": {
+    "url": "https://soothrnyc.com/",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/soothr/soothrnyc-official-menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": false,
+  "manual_review_reason": null,
+  "notes": "Official site address (204 E 13th St, New York, NY 10003) matches target exactly. Michelin Guide badge and Pete Wells NYT quote confirm this is the correct, current Soothr location (there is no other Soothr location referenced). Full menu (foods + drinks) was complete and current (includes '2026 Summer Chef's Specials' and 'World Cup 26 Special' sections), so no need to consult ordering platforms (Grubhub/Seamless/Caviar) or Yelp/Google Maps."
+}

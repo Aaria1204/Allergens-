@@ -1,0 +1,50 @@
+{
+  "restaurant_name": "Thursday Kitchen",
+  "address": "424 E 9th St, New York, NY 10009, USA",
+  "sources_checked": [
+    {
+      "url": "https://thursdaykitchen.com",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Homepage only; confirms identity (address 424 E 9th St, chef bio, East Village/Tapas), links to Menu page and delivery platforms."
+    },
+    {
+      "url": "https://thursdaykitchen.com/diningmenu/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Menu landing page confirms address and links to FOOD and DRINKS PDF menus plus a general allergy-notification disclaimer (cannot accommodate vegan, vegetarian, dairy, soy, seafood, or allium restrictions; ask server about allergies)."
+    },
+    {
+      "url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Full dinner/food a la carte menu, PDF text extracted successfully; used as primary menu source."
+    },
+    {
+      "url": "https://thursdaykitchen.com/wp-content/uploads/2026/05/drinkmunu20260527.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Full drinks menu (cocktails, wine, sake, beer, spirits, non-alcoholic), PDF text extracted with some column-order jumbling but content complete; used as secondary source, consolidated by beverage category per project rules."
+    }
+  ],
+  "menu_source": {
+    "url": "https://thursdaykitchen.com/wp-content/uploads/2026/03/tkdinner-3.27.26-keychain.pdf",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/thursday-kitchen/food-menu.txt"
+  },
+  "additional_source": {
+    "url": "https://thursdaykitchen.com/wp-content/uploads/2026/05/drinkmunu20260527.pdf",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/thursday-kitchen/drinks-menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": false,
+  "status": "complete",
+  "notes": "Official site menu page (WordPress.com hosted) linked directly to current dated PDF menus (food menu dated 3.27.26, drinks menu dated 5.27.26) confirming address 424 E 9th St, New York, NY 10009. Both PDFs fetched and extracted as text without needing Chrome escalation. General allergy disclaimer found on menu page ('please inform your server with any allergies or dietary restrictions'; restaurant states it cannot accommodate vegan/vegetarian/dairy/soy/seafood/allium restrictions) is not specific to gluten, peanut, or tree nut, so not applied as a per-dish cross_contact disclosure."
+}

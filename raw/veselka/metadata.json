@@ -1,0 +1,37 @@
+{
+  "restaurant_name": "Veselka",
+  "address": "144 2nd Ave, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://veselka.com/blogs/menu-list/main-location-specials",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Blog/article-style page on official Shopify site with no actual dish listings, prices, or descriptions — only 'Latest Posts' recipe blog teasers and shop navigation. Rejected as an SEO/placeholder-style page, not a real menu."
+    },
+    {
+      "url": "https://veselka.com/blogs/menu-list/lunch-dinner",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Same official-site blog template as above; no dish listings, only recipe blog post teasers and shop navigation. Rejected."
+    },
+    {
+      "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Restaurant-controlled DoorDash Storefront ordering page linked directly from veselka.com's own 'Order Online' navigation for the East Village (144 2nd Ave) location. Confirmed identity and address match. Contains full menu with sections, item names, most descriptions, and prices, but omits any beer/wine/liquor items (common for delivery platforms) and does not include an explicit allergen key. Some items (e.g. side dishes, EV Classic Egg Sandwich, Salad - Grilled Chicken & Greens) have no description beyond name+price."
+    }
+  ],
+  "menu_source": {
+    "url": "https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true",
+    "tier": "ordering",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/veselka/order-online-storefront.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": true,
+  "manual_review_reason": "Large, long-running menu with several items lacking descriptions (e.g., 'EV Classic Egg Sandwich', 'Salad - Grilled Chicken & Greens', various sides) — these were marked 'Unknown' guidance tier and should be verified against the printed in-house menu or an allergen guide if the restaurant publishes one. No alcohol/beer items were captured from this ordering-platform source (platform does not sell alcohol), so if the sit-down menu includes beer this dataset does not reflect it. No explicit restaurant-provided allergen or cross-contact statement was found on this source.",
+  "status": "complete"
+}

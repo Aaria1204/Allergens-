@@ -1,0 +1,198 @@
+SOURCE URL: https://www.cafemaud.com/menu
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Menu page is a JavaScript-rendered tabbed interface (Weekday, Weekend Brunch, Drinks, Happy Hour, Events, Vegetarian, Vegan, Gluten-Free). Fetched via mcp__workspace__web_fetch first, which returned an empty JS shell with no menu text (only nav/social links); escalated to Claude-in-Chrome rendered browser to extract visible text. Successfully captured full "Weekday" tab content (Breakfast, Sides, Shareables, Salads & Bowls, Pizzas, Plates, Desserts). Attempted to click through to "Drinks" tab for beverage consolidation, but the rendered page text did not change after the click (tab switch did not register in extracted text within the time box), so Drinks/cocktails/wine/beer/coffee items are NOT captured in this artifact. No prices/descriptions beyond what is shown below were available. Location identity note: page confirms address "132 2nd Ave, New York, NY 10002" for the East Village location (zip differs from the 10003 provided in the task, but street address and city match exactly; this is the same East Village location referenced in the task, confirmed via https://www.cafemaud.com/eastvillage location page).
+
+=== WEEKDAY MENU (as rendered, full text capture) ===
+
+Breakfast (Served Until 3PM)
+
+Mauds Scone
+Homemade Scones made fresh daily, served with Honey Butter & Jam (Make it a pair +6)
+$9.00
+
+Breakfast Bowl (Top Pick)
+Avocado, Prosciutto Di Parma, Whipped Ricotta, Edamame, Poached Egg, Rustic Sourdough
+$18.00
+
+Eggs Benedict
+Braised Short Rib, English Muffin, Béarnaise, Poblano Dust, Smashed Breakfast Potatoes
+$21.00
+
+Elote Avocado Toast
+Smashed Avocado, Roasted Corn, Tri-Color Cherry Tomato, Queso Fresco, Sour Cream, Poblano Dust, Field Greens, Cilantro (Add Bacon Bites +4, Poached Egg +3)
+$18.00
+
+New York Bagel
+Smoked Nova Salmon, Everything Bagel, Scallions, Cream Cheese, Red Onion, Dill, Lemon Zest, EVOO, Capers
+$17.00
+
+Açaí Bowl
+Chia Seeds, Pineapple, Blueberries, Toasted Coconut Flakes, Organic Granola
+$17.00
+
+Lemon Ricotta Pancakes
+Whipped Cream, Lemon Zest, Vermont Maple Syrup
+$18.00
+
+Sunrise Oats Bowl
+Room Temperature Oats, Chia Greek Yoghurt, Mango, Raspberries, Pomegranate Seeds, Honey, Dark Chocolate Chips
+$17.00
+
+Breakfast Burrito
+Scrambled Eggs, Vermont Cheddar, Pinto Bean Sauce, Pico De Gallo, Guacamole, Tomatillo Sauce, Hash Brown, Thick Cut Bacon Or Chicken Sausage, Smashed Potatoes
+$18.00
+
+Chia Yoghurt Power Bowl
+Greek Yoghurt, Chia Seeds, Coconut, Organic Granola, Mixed Fruits, Honey
+$15.00
+
+Steak & Eggs
+6 oz Cedar River Farms Flat Iron Steak, Smashed Breakfast Potatoes, Field Greens, Scrambled Eggs
+$29.00
+
+Breakfast Platter (Top Pick)
+2 Eggs Any Style, Rustic Sourdough, Field Greens, Smashed Breakfast Potatoes, Chicken Sausage, Heritage Thick Cut Bacon Or Avocado
+$23.00
+
+Sides
+
+Bowl Of Fries — $10.00
+Avocado — $4.00
+Thick Cut Bacon — $8.00
+Chicken Sausage — $8.00
+Sourdough Bread — $2.00
+
+Shareables
+
+Crispy Rice Spicy Tuna
+Truffle Yuzu Citrus Infusion, Spicy Mayo, Tuxedo Sesame Seeds, Chives, Pickled Red Onions, Hoisin
+$21.00
+
+Garlic & Parmesan Flatbread (Top Pick)
+Rosemary, Garlic Oil, Sea Salt, Shredded Parmesan
+$14.00
+
+Chicken Lollipops
+Asian BBQ Sauce, Tuxedo Sesame Seed, Scallions
+$19.00
+
+Steamed Chicken Dumplings Buffalo Style
+Blue Cheese & Apple Frisee Salad
+$21.00
+
+Whipped Roasted Eggplant
+Sicilian Cold Pressed Olive Oil, House Made Bread
+$16.00
+
+Yellowtail Crudo
+Yuzu Citrus Oil, Citrus Supreme, Chili Oil, Maldon Salt, Tobiko
+$20.00
+
+Sweet & Sour Chicken Bites
+House Made Sweet & Sour, Sesame Seeds, Fried Chicken
+$18.00
+
+Shrimp Ceviche
+Citrus Cure, Tri-Color Bell Pepper, Red Onion, Serrano Chili, Avocado
+$20.00
+
+Salads & Bowls
+
+Pesto & Prosciutto Panuzzo
+Prosciutto, Tomato, Mozzarella, Pesto, Arugula, Lemon Truffle Vinaigrette on Pizza Dough, Served with Side Salad
+$18.00
+
+Crispy Goat Cheese Bowl
+Tri-Color Quinoa Topped With Crispy Goat Cheese, Chickpeas, Asparagus, Radicchio, Pomegranate Seeds
+$19.00
+
+Grilled Chicken Wrap
+Little Gem Greens, Shaved Parmesan, Romano Dressing, Toasted Sesame Breadcrumbs, Cherry Tomatoes, Grilled Chicken (Crispy Chicken +$1)
+$19.00
+
+Beet Salad
+Roasted Red & Golden Beets, Pickled Red Onion, Herbed Goat Cheese, Toasted Pistachios, Sherry Vinaigrette
+$17.00
+
+The Rhymers Club Salad
+Toasted Sesame Breadcrumbs, Shaved Parmesan, Romano Dressing, Little Gem Greens (Add Grilled Chicken +6, Add Crispy Chicken +6)
+$19.00
+
+Malibu Bowl
+Edamame, Wild Rice, Miso Yuzu Vinaigrette, Pickled Red Onion, Avocado, Mixed Greens (Add Grilled Chicken +6, Add Crispy Chicken +6)
+$17.00
+
+Mexican Bowl
+Wild Rice, Pico De Gallo, Guacamole, Black Beans, Charred Corn, Cotija Cheese, Cilantro Lime Vinaigrette, Sour Cream, Poblano (Add Grilled Chicken +6, Add Crispy Chicken +6)
+$16.00
+
+Pizzas
+
+Soppressata
+Tomato, Mozzarella, Oregano, EVOO, Soppressata
+$22.00
+
+Burrata
+Tomato, Basil, Truffle Oil, Black Pepper, Burrata
+$22.00
+
+Crushed Tomato
+"Marg" Basil, Olive Oil, Buffalo Mozzarella, Blistered Tri Color Cherry Tomato
+$20.00
+
+Bianca (Top Pick)
+Pecorino, Whipped Ricotta, Prosciutto, Arugula, Lemon Truffle Vinaigrette, Chipotle Honey
+$22.00
+
+The Fun Guy
+Vodka Sauce, Mushrooms, Fontina Cheese, Truffle Oil
+$22.00
+
+Sweet & Salty
+Guanciale, Stracciatella, Scallion, Honey Sambal, Smoked Sea Salt
+$24.00
+
+Plates
+
+Smash Burger
+(2) 3oz Angus Beef Patties, American Cheese, Party Sauce, Fried Onions, Iceberg Lettuce, Pickles, Fries, Sesame Bun
+$19.00
+
+Southern Fried Chicken Sandwich
+Alabama "White Lightning" BBQ Sauce, Shredded Iceberg, Pickles, Sesame Bun, Side of Fries
+$19.00
+
+Chicken Caesar Schnitzel
+little gems, Shaved parmesan, Radish, Cherry tomato, Romano Dressing
+$21.00
+
+Short Rib Fried Rice
+Slow Roasted Short Rib, Jasmine Rice, Egg, Soy, Sesame, Scallions, Chiles, Cilantro
+$23.00
+
+Steak Frites
+8oz Grass Fed Steak, Homemade Fries, Peppercorn Sauce
+$32.00
+
+Pesto Rigatoni
+Spinach Basil Pesto, Pine Nuts, Roasted Garlic, Lemon Zest, Pistachio, Shaved Locatelli
+$24.00
+
+Short Rib Ragu
+Braised Short Rib Ragu, Toasted Fennel, Burrata, Black Pepper, fusilli (Add Grilled Chicken +6)
+$21.00
+
+Desserts
+
+Chocolate Mousse
+Homemade Chocolate Mousse, Pistachios, Wild Berries
+$14.00
+
+Key Lime Pie
+House made Key Lime Pie, Toasted Pillowed Marshmallow, Vanilla Ice Cream
+$14.00
+
+Deep Fried Oreo (Top Pick)
+Oreos Fried In Batter Drenched in Dulce De Leche Sauce and Powdered Sugar
+$14.00

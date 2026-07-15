@@ -1,0 +1,44 @@
+{
+  "restaurant_name": "The Bao",
+  "address": "13 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.thebaony.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T18:00:00Z",
+      "usable": false,
+      "limitation": "Menu content is two embedded JPG images with no extractable text; no OCR performed. Confirmed identity/address only."
+    },
+    {
+      "url": "https://www.seamless.com/menu/the-bao-13-st-marks-pl-new-york/309601",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T18:05:00Z",
+      "usable": false,
+      "limitation": "Raw fetch returned an empty JavaScript-shell page (no server-rendered content)."
+    },
+    {
+      "url": "https://www.grubhub.com/restaurant/the-bao-13-st-marks-pl-new-york/309601",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T18:05:00Z",
+      "usable": false,
+      "limitation": "Raw fetch (non-browser) returned an empty JavaScript-shell page; escalated to Claude-in-Chrome rendering per policy."
+    },
+    {
+      "url": "https://www.grubhub.com/restaurant/the-bao-13-st-marks-pl-new-york/309601",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T18:10:00Z",
+      "usable": true,
+      "limitation": "Rendered via Chrome. Only the 'Best Sellers' tab (9 items) plus items surfaced in review tooltips (3 more items) were captured — 12 dishes total. A tab-state conflict (the browser tab unexpectedly navigated to an unrelated restaurant page, 'kyuubi omakase', consistent with a shared browser session being used concurrently by sibling agents processing other restaurants) interrupted attempts to click through the remaining menu category tabs (Small Dishes, Dim Sum, Rice/Noodles, Soup, Hot Dishes, Vegetable, Lunch Special Rice, Lunch Special Noodles, Soda). Within the 5-minute sourcing time box, further retries were not attempted. Menu is therefore PARTIAL, not the full restaurant menu."
+    }
+  ],
+  "menu_source": {
+    "url": "https://www.grubhub.com/restaurant/the-bao-13-st-marks-pl-new-york/309601",
+    "tier": "ordering",
+    "accessed_at": "2026-07-14T18:10:00Z",
+    "local_artifact": "raw/the-bao/grubhub_menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": true,
+  "manual_review_reason": "Menu is confirmed genuine and location-matched (The Bao is a distinct, real, currently-operating Chinese/dim-sum restaurant at 13 St Marks Pl, separate from Spot Dessert Bar at the same building), but only a partial menu (12 of an estimated 60+ items across 9 unlisted categories) was captured before a browser session conflict interrupted further sourcing within the time box. Recommend a follow-up pass to capture the remaining Grubhub categories (Small Dishes, Dim Sum, Rice/Noodles, Soup, Hot Dishes, Vegetable, Lunch Specials, Soda) or to OCR the official site's menu images.",
+  "status": "needs_revisit"
+}

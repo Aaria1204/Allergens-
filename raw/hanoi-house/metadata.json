@@ -1,0 +1,36 @@
+{
+  "restaurant_name": "Hanoi House",
+  "address": "119 St Marks Pl, New York, NY 10009, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.hanoihousenyc.com/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Homepage only, confirms identity/address (119 Saint Marks Place, New York, NY 10009) but no menu content; used to locate the menu page link."
+    },
+    {
+      "url": "https://www.hanoihousenyc.com/menu-hanoi-house/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Full dinner, brunch, happy hour, cocktails, beer, and wine menu extracted via static HTML fetch. Wine list has many individual bottles; consolidated per project rules for beverage categories."
+    },
+    {
+      "url": "https://order.toasttab.com/online/hanoi-house-119-st-marks-pl",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Correct address confirmed (119 St. Marks Pl., New York, NY) but page states 'Currently not accepting online orders' / 'Online ordering is currently unavailable' — no menu items rendered. Not needed since official site menu was usable."
+    }
+  ],
+  "menu_source": {
+    "url": "https://www.hanoihousenyc.com/menu-hanoi-house/",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/hanoi-house/hanoihousenyc-menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": false,
+  "status": "complete"
+}

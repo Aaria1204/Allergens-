@@ -1,0 +1,168 @@
+SOURCE URL: https://thesmithrestaurant.com/location/east-village/
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Rendered/fetched HTML page text (menu content loads server-side, no JS escalation needed). Page confirms identity ("We have a special place in our hearts for The Smith in the East Village, the location that started it all in 2007"), address "55 third avenue (between 10th & 11th Street)", phone 212.420.9800. Menu includes Weekday Lunch, Dinner, Weekend Brunch, Sunset, Dessert, Martini Hour, Drinks, and a limited-time World Cup Special section. No explicit allergen/GF legend beyond scattered "(GF)" tags and "gluten-free pasta available upon request" notes and one item's "(d)" tag (dairy, on teas) which is not one of the three assessed allergens. Prices as listed in USD. Full page text captured below (menu portion only, condensed from full fetch).
+
+=== East Village Menu (thesmithrestaurant.com) ===
+
+## Weekday Lunch (Mon-Fri, 11:30am-5pm)
+
+### Raw Bar - Oysters
+Puffer Petite (Wellfleet, MA) - 4
+Cotuit bay (Cape Cod, MA) - 4
+East Beach Blonde (Charlestown, RI) - 4
+Oyster of the Day - 4
+Oyster Sampler (two of each) - 31
+
+### Raw Bar - Platters
+The Deluxe - eight oysters, four chilled shrimp - 45
+The Royale - eight oysters, six chilled shrimp, spicy salmon tartare - 72
+The Grand - sixteen oysters, twelve chilled shrimp, spicy salmon tartare - 128
+
+### Starters
+potato chips - blue cheese + onion fondue - 16
+blistered shishito peppers - pickled ginger aioli, sesame furikake - 13
+summer corn croquettes - truffle aioli - 15
+classic shrimp cocktail - 19
+Crispy calamari - feta, zucchini, olives, sesame, lemon aioli - 21
+Burrata - tomato, almond pesto, sesame garlic bread - 18
+Spicy Salmon Tartare - crispy rice, avocado, sriracha, nori - 19
+Mac + Cheese - skillet roasted - 21
+
+### Hand Cut Fries (twice cooked, hand cut daily from Idaho's finest)
+Classic sea salt - 12
+truffle parmesan - 15
+spicy ranch - 13
+
+### Salads
+Kale + Quinoa - sun dried cranberries, ricotta salata, toasted almonds, dijon vinaigrette - 18
+Little Gem Caesar - crispy parmesan frico - 18
+sugar snap chicken - farro, arugula, snap peas, gouda, fennel, pistachios, mint, lemon vinaigrette - 27
+the chopped - crispy sesame shrimp, kale, avocado, cucumber, olives, tomato, red onion, spicy ranch - 29
+miso salmon - soba noodles, savoy cabbage, cashews, carrots, cucumber, shiitakes, sesame - 29
+Salad additions: Avocado 3, Grilled Chicken 9, Chicken Milanese 9, Marinated Shrimp 11, Roasted Salmon 11, Sliced Flat iron Steak 13
+
+### Vegetables
+garlic whipped potatoes - 12
+eggplant + zucchini - burst tomatoes, mediterranean vinaigrette, fennel breadcrumbs - 14
+brussels sprouts - avocado green goddess, pink peppercorns - 14
+baby spinach - 9
+
+### Sandwiches (served with classic fries or mixed greens)
+Breakfast Sandwich - black pepper bacon, egg, american cheese, avocado, roasted tomato aioli, brioche - 23
+Grilled Chicken - burrata, tomato jam, basil aioli, toasted ciabatta - 25
+French Dip - slow roasted steak, caramelized onions, gruyère, dijonnaise, baguette, au jus - 35
+Burger royale - american cheese, the works, 50/50 sauce, brioche bun - 26
+The Smith Burger - cheddar, bacon marmalade, crispy onions, dill pickles, TSB sauce, brioche bun - 28
+
+### Pasta (Gluten-free pasta available upon request)
+Ricotta Gnocchi - truffle cream - 24
+spicy shrimp scampi - tagliatelle, calabrian chilies, lemony garlic breadcrumbs - 28
+short rib mafaldine - 10 hour ragu, burst tomatoes, mascarpone, parmesan - 27
+rigatoni alla vodka - tomato, stracciatella cheese, sesame - 25
+
+### Classics
+Avocado Toast - whole wheat, red pepper flakes, lemon, poached eggs - 23
+Goat Cheese Omelette - baby spinach, shallots, soft herbs, mixed greens - 23
+tuna crudo - avocado, daikon, coconut leche de tigre, sunflower, taro chips - 24
+crispy chicken paillard - romaine, treviso, corn, tomatoes, baby bell peppers, pecorino, chives, red wine vinaigrette - 29
+Pot of Mussels - chardonnay broth, dijon, tarragon, fries - 29
+Vegetable Bibimbap - sushi rice, shiitake mushrooms, edamame, spinach, kimchi, sunny up egg - 25 (with grilled chicken 29 | marinated shrimp 31 | roasted salmon 35 | sliced flat iron steak 35)
+
+### Steaks (Cedar River Farms, served with classic fries or mixed greens, choice of sauce)
+The Smith Bar Steak - flat iron, baby spinach, fries, green peppercorn - 39
+Skirt - 43
+NY Strip - 49
+Bone-in ribeye - 54
+Filet Mignon - 55
+Choose a sauce: chimichurri, green peppercorn, blue cheese
+
+## Dinner (Daily, 5pm-close)
+(Raw Bar, Starters, Fries, Salads, Pasta sections identical/near-identical to lunch; additional items below)
+
+### Steaks + Burgers
+Burger royale - american cheese, the works, 50/50 sauce, brioche bun, fries - 26
+The Smith Burger - cheddar, bacon marmalade, crispy onions, dill pickles, TSB sauce, brioche bun, fries - 28
+French Dip - slow roasted steak, caramelized onions, gruyère, dijonnaise, baguette, au jus, fries - 35
+
+### Classics (Dinner)
+Roasted Salmon - roasted corn, snap peas, scallion, tomato vinaigrette, oregano breadcrumbs, mint - 35
+Crispy Chicken Paillard - romaine, treviso, corn, tomatoes, baby bell peppers, pecorino, chives, red wine vinaigrette - 29
+Grilled Branzino - pearl couscous, zucchini, tomatoes, olives, capers, lemon - 34
+Pot of Mussels - chardonnay broth, dijon, tarragon, fries - 29
+Brick Pressed Chicken - garlic whipped potatoes, baby spinach, chicken jus - 33
+Lamb + Short Rib Meatballs - green rice, zucchini tzatziki, feta, cucumber pico, sesame, dill - 29
+Vegetable Bibimbap - sushi rice, shiitake mushrooms, edamame, spinach, kimchi, sunny up egg - 25
+
+## Weekend Brunch (Sat & Sun, open-4pm)
+### Starters (brunch-specific)
+CINNAMON SUGAR DOUGHNUTS - hot fudge dipping sauce - 14
+(other starters same as lunch)
+
+### Sides
+FRUIT + YOGURT - mixed berries, toasted almond granola, sunflower seeds, sesame, peach jam - 12
+Apple Smoked Bacon - 5/11
+Maple Chicken Sausage - 8
+Jalapeño Cheddar Grits - 9
+Home Fries - 9
+Potato Waffle - 9
+Toast - whole wheat or ciabatta - 3
+
+### Eggs & Griddle
+Eggs + Bacon - cheddar herb omelette, apple smoked bacon, potato waffle - 23
+BAKED EGGS ALLA VODKA - tomato, spinach, stracciatella cheese, sesame, toasted ciabatta - 21
+BREAKFAST SANDWICH - black pepper bacon, egg, american cheese, avocado, roasted tomato aioli, brioche, home fries - 23
+The Smith Eggs Benedict - black forest ham, english muffin, hollandaise, poached eggs, home fries - 24
+Smoked Salmon Potato Waffle - poached eggs, hollandaise, pickled onion, everything spice - 26
+Goat Cheese Omelette - baby spinach, shallots, soft herbs, mixed greens - 23
+shrimp + grits - jalapeño cheddar grits, poached eggs, blackened shoestring potatoes - 26
+Ranchero Scramble - black beans, avocado, chihuahua cheese, salsa verde, jalapeños, blue corn tortillas, pickled onion - 24
+Avocado Toast - whole wheat, red pepper flakes, lemon, poached eggs - 23
+Benedict Johnny - cheddar cornbread, maple chicken sausage, poached eggs, hollandaise - 24
+Buttermilk pancakes - sticky toffee caramel, pecan maple butter - 19
+Vanilla bean French Toast - crème brûlée battered, caramelized bananas, candied orange mascarpone - 21
+
+### Steak + Eggs (choice of steak, sunny up eggs, home fries, hollandaise)
+Flat Iron - 35, Skirt - 43, NY Strip - 49, Bone-in Ribeye - 54, Filet Mignon - 55
+
+## Sunset Menu (Sat & Sun, 4pm-5pm)
+Same format as lunch/dinner starters/salads/sandwiches/steaks with minor bun variations (toasted sesame bun on grilled chicken sandwich; potato bun on Smith Burger)
+
+## Dessert
+devil's layer cake - nine layer dark chocolate cake, mascarpone mousse, candied cocoa nibs - 14
+strawberry pie - almond shortcake, strawberry ginger jam, lemon crust, whipped vanilla cream - 14
+death by chocolate - chocolate crème brûlée, salted pistachio caramel, orange mascarpone - 14
+sticky toffee pudding - skillet baked, medjool dates, vanilla ice cream - 14
+salted caramel chocolate chunk cookie (quarter pounder) - 6
+Three Scoops ice cream (coconut, vanilla, strawberry) - 11
+Three Scoops sorbet (raspberry) - 11
+
+## Martini Hour (weekdays 3-6pm, late night daily 10pm)
+Martinis 12: salt + vinegar, dirty blue olive, italian martini, espresso martini
+Raw Bar Special $20: Salt + Vinegar Martini and three oysters
+Snacks: half dozen oysters 15, potato chips 10, classic shrimp cocktail 12, summer corn croquettes 10, fries (classic sea salt 9 | parmesan truffle 12 | spicy ranch 10), the royale platter 39
+
+## Drinks
+### Cocktails 17.50
+Bubbly + Bright: The Spritz, Hugo 75, Sparkling Cosmo, The Gatsby
+Frozen Pool Party
+Smashes + Sours: Spicy Flamingo, Mr. Brightside, Pepper Plane, Yuzu Gimlet, Cucumber Loco, Basil Lemon Drop
+Martinis: Caprese, Dirty Blue Olive, Pickle Rick, Espresso Martini
+Boozy + Classic: Walnut Old Fashioned (bourbon / amaro dell'etna / angostura bitters / walnut bitters), Negroni, Oaxacan Sunshine, Midtown Manhattan No. 3
+Highballs + Fizzes: The Mule, Sunset Paloma, The Smith Bloody Mary
+
+### Zero Proof
+All Day Spritz 13.50, City Bird 13.50, Cucumber Mule 10, Watermelonade 10, Pomegranate-Hibiscus Iced Tea 8.50, Matcha-Yuzu Arnold Palmer 8.50
+
+### Beer and Cider
+Draft: Captain Lawrence Classic Lager (NY, 4.2%) 11, KCBC Octo Bräu Kölsch (NY, 4.6%) 11, Singlecut Plaintop Pilsner (NY, 5.2%) 12, Flagship Wolfhound Nitro Irish Stout (NY, 4.2%) 13, Threes Brewing Shapeless Days Lager (NY, 5%) 12, Allagash White (ME, 6.1%) 13, Other half green city ipa (NY, 7%) 13
+Bottled & Canned: Night Shift Nite Lite Lager (MA, 4.3%) 10, Ghostfish Meteor Shower Pale Lager (GF) (NY, 4.5%) 11, Athletic Brewing Run Wild IPA non-alcoholic (CT) 10, Maine brewing lunch IPA (ME, 7%) 19, equilibrium mc2 double ipa (NY, 8%) 15, singlecut eric more cowbell milk stout (NY, 6%) 12, Eden Peak Bloom Cider (VT, 6.2%) 14, Wölffer Dry Rosé Cider (NY, 6.9%) 15
+
+## 2026 World Cup Special ($26, available June 11 - July 18)
+Corner Kick Burger - double patty, american cheese, horseradish aioli, caramelized onions, pickles, pretzel bun
+Glass of Prosecco - Ca' Furlan 'Cuvée Beatrice,' Veneto, IT NV
+
+## Location Confirmation
+55 third avenue (between 10th & 11th Street), New York
+212.420.9800
+"We have a special place in our hearts for The Smith in the East Village, the location that started it all in 2007."

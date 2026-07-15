@@ -1,0 +1,17 @@
+{
+  "restaurant_name": "Pizza Studio Tamaki",
+  "address": "123 St Marks Pl, New York, NY 10009, USA",
+  "menu_source": {
+    "url": "https://www.pizzapst.com/menus/",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/pizza-studio-tamaki/menu_official.txt"
+  },
+  "restaurant_identity_verified": true,
+  "file_type": "text (rendered page text)",
+  "limitations": [
+    "Official page does not list prices for Starters or Pizza items (menu is presented without prices in this rendering).",
+    "Full wine list captured but not normalized into dish records (no allergen-relevant ingredient text beyond grape/region names)."
+  ],
+  "manual_review_flag": false
+}

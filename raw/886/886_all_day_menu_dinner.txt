@@ -1,0 +1,90 @@
+SOURCE URL: https://eighteightsix.com/s/886_Menu_Dinner_12_18_25.pdf
+(linked from official site https://eighteightsix.com/menu, labeled "All Day Menu")
+TIER: official
+ACCESSED_AT: 2026-07-14T15:00:00Z
+LIMITATIONS: Extracted as plain text from PDF via web fetch; layout/columns collapsed to linear text; icon-based allergen markers referenced in the legend (e.g. "Contains Peanuts", "Contains Shellfish") did not reliably carry through the text extraction as attached to specific dishes, so those specific icon placements could not be confirmed per-dish. Legend abbreviations (v, vg, vga, gf) did extract attached to dish names and are trusted as restaurant-declared.
+
+--- RAW TEXT ---
+Starters
+前菜
+Pickled Cucumber Salad vg,gf 8
+涼拌小黃瓜
+pineapple juice, sichuan pepper, garlic, sesame oil
+Crispy Silken Tofu vg 14
+老皮嫩肉
+chili oil vinaigrette, grated daikon, lime wedge
+Hot and Sour Soup 8/15
+酸辣湯
+wood ear mushroom, carrot, soft tofu, black vinegar
+
+Stir Fry Classics
+快炒
+Three Cup Chicken 19
+三杯雞
+bone in chicken leg, baijiu, thai basil, black sugar, ginger
+Peashoots with Tofu Skin vg,gf 18
+豆苗百葉
+shaoxing wine, garlic
+Tomato and Egg v 15
+番茄炒蛋
+furu, san marzano tomatoes, cilantro
+Add Shrimp +5
+Sacha Black Pepper Beef 19
+沙茶牛肉
+ribeye, a choy, onion
+Loofah Garlic Stir Fry 15
+清炒絲瓜
+taiwan beer, garlic, ginger
+Add Clams +4
+Fly's Head vga 17
+蒼蠅頭
+garlic chive, ground pork, chili, fermented black bean
+
+Rice & etc.
+主食
+Lo Ba Beng 15
+滷肉飯
+shredded tender braised pork belly, soft egg, mustard green, cilantro, peanut butter, koshihikari rice
+Beef Noodle Soup 18
+牛肉麵
+roasted grass fed beef broth, wing heung thin wheat noodle, mustard green, cilantro
+Add Extra Beef +4
+Dry Beef Noodles 19
+牛油乾拌麵
+spicy beef fat butter, shredded beef shank, sunny side up egg
+Add Extra Beef +4
+Lily Flemming Fried Rice v,gf 15
+粒粒分明炒飯
+koshihikari rice, egg, cabbage, scallion
+Add House Made Taiwanese Sausage +4
+Add Shrimp +5
+Sesame Noodles v (choice of Hot or Cold) 16
+麻醬麵（熱/冷）
+woodear mushroom, cucumber, carrot, egg ribbon, housemade sesame peanut sauce
+Add Beef Fat Chili Oil +1
+Notorious TFC Sandwich 18
+臺式椒麻雞堡
+tofu battered chicken thigh, sichuan pepper citrus slaw
+Add Shaky Fries +5
+Scallion Pancake Beef Wrap 16
+牛肉捲餅
+scallion pancake, shredded beef shank, chili oil mayonnaise, hoisin, cucumber
+Koshihikari White Rice 2
+越光米飯
+Honey Glazed Popcorn Chicken 14
+蜂蜜鹽酥雞
+szedaddy honey, taiwan dust, fried thai basil
+Taiwanese Sausage 8
+台灣香腸
+housemade gaoliang sausage, cilantro aioli, garlic
+Shaky Fries 8
+搖搖薯條
+choice of Taiwan Dust / Seaweed / Curry / Plain w/ chili oil mayo
+
+886 TO TAKE HOME
+886 Chili Sauce 辣椒油 14
+886 Chili Caramel Popcorn 香辣焦糖爆米花 6
+886 Shot Glass 嚇杯 13
+
+Legend: v Vegetarian, vg Vegan, vga Vegan Available, gf Gluten-free; Spicy; Contains Peanuts; Contains Shellfish icons noted in legend but not reliably attached per-dish in extracted text.
+Notes: Please let us know of any allergies or dietary restrictions. Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness. Personal bottles of beer, wine will incur a $25 per bottle corkage fee. 20% gratuity will be added to parties of 5 or more.

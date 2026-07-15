@@ -1,0 +1,102 @@
+[
+  {
+    "restaurant_name": "Alison",
+    "address": "110 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.doordash.com/en/store/alison-st-marks-110-saint-marks-pl-new-york-32657597/55299946/",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/alison/menu_doordash_appetizers.txt"
+    },
+    "menu_section": "Lunch-Appetizers",
+    "dish_name": "Mushroom Croquettes",
+    "description": "Mustard cream.",
+    "price": "$11.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Croquettes are a breaded, deep-fried preparation; breading commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Mushroom Croquettes — Mustard cream. — $11.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Alison",
+    "address": "110 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.doordash.com/en/store/alison-st-marks-110-saint-marks-pl-new-york-32657597/55299946/",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/alison/menu_doordash_appetizers.txt"
+    },
+    "menu_section": "Lunch-Appetizers",
+    "dish_name": "Cheese Croquettes",
+    "description": "Gruyere & mustard cream.",
+    "price": "$11.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Croquettes are a breaded, deep-fried preparation; breading commonly contains wheat."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Cheese Croquettes — Gruyere & mustard cream. — $11.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Alison",
+    "address": "110 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.doordash.com/en/store/alison-st-marks-110-saint-marks-pl-new-york-32657597/55299946/",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/alison/menu_doordash_appetizers.txt"
+    },
+    "menu_section": "Lunch-Appetizers",
+    "dish_name": "Manchego & Arugula",
+    "description": "Candied walnuts, honey-vinaigrette.",
+    "price": "$14.00",
+    "declared_allergens": [
+      "tree nut"
+    ],
+    "likely_allergens": [],
+    "cross_contact": "unknown",
+    "source_text": "Manchego & Arugula — Candied walnuts, honey-vinaigrette. — $14.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  },
+  {
+    "restaurant_name": "Alison",
+    "address": "110 St Marks Pl, New York, NY 10009, USA",
+    "menu_source": {
+      "url": "https://www.doordash.com/en/store/alison-st-marks-110-saint-marks-pl-new-york-32657597/55299946/",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/alison/menu_doordash_appetizers.txt"
+    },
+    "menu_section": "Lunch-Appetizers",
+    "dish_name": "Five Onion Soup",
+    "description": "House bread.",
+    "price": "$10.00",
+    "declared_allergens": [],
+    "likely_allergens": [
+      {
+        "allergen": "gluten",
+        "confidence": "high",
+        "reason": "Served with house bread, which is ordinarily wheat-based."
+      }
+    ],
+    "cross_contact": "unknown",
+    "source_text": "Five Onion Soup — House bread. — $10.00",
+    "verification_status": "unverified",
+    "guidance_tier": "Flagged"
+  }
+]

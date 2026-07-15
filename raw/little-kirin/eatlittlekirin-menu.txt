@@ -1,0 +1,83 @@
+SOURCE URL: https://www.eatlittlekirin.com/
+TIER: official
+ACCESSED_AT: 2026-07-14T00:00:00Z
+LIMITATIONS: Rendered via web_fetch (static HTML render, homepage embeds full menu content, no separate /menu page needed - content matched homepage extract). No ingredient-level allergen disclosures beyond "gluten-free upon request" note on Sweet Chili Tofu Bowl. Prices/descriptions as displayed on site; some items list "Full/Half" or size-tier pricing (S/M/L). Footer address confirms 81 St. Marks Place, NY NY, 10003, matching target restaurant.
+
+--- RAW EXTRACTED TEXT ---
+
+BADASS ASIAN FOOD - SANDWICHES/RICE BOWLS/SALADS
+
+SANDWICHES
+(Add a fried egg + $2.49)
+
+The Pho Sandwich — Full $19.49 / Half $11.95
+Six-hour braised brisket, onions, scallions, cilantro, Thai basil, thinly sliced jalapeno, crispy shallots, and hoisin on ciabatta. For the full experience, dip it in Pho Broth! +3.49
+
+Grandma's Braised Pork — Full $15.95 / Half $9.95
+Five-spice braised pork, pickled red onions, shaved cabbage, sesame aioli on ciabatta
+
+Crispy Fried Chicken — Full $15.49 / Half $8.95
+Buttermilk fried chicken, shaved lettuce, pickled carrot and daikon, ginger scallion aioli, on a brioche bun
+
+Salmon Katsu Po'Boy — Full $17.95 / Half $10.95
+Panko-crusted salmon, shaved lettuce, tomato, pickles, cajun tartar sauce on ciabatta
+
+RICE BOWLS
+(Add a fried egg + $2.49 | Make it a salad + $1.49)
+
+The Pho Bowl — $19.49
+Six-hour braised brisket, onions, scallions, cilantro, thai basil, thinly sliced jalapeno, crispy shallots, and hoisin over white rice
+
+Kirin BBQ Chicken — $15.95
+Grilled chicken, romaine, kimchi, and sesame aioli on white rice
+
+Firecracker Chicken — $15.95
+Sweet and spicy grilled chicken, romaine, pickeled veggies, cilantro
+
+Sweet Chili Tofu Bowl — $14.95
+Pan-seared tofu in a sweet chili sauce with cabbage, pickled red onions, pickled carrot and daikon (gluten-free upon request)
+
+Grandma's Braised Pork — $15.95
+Five-spice braised pork, pickled red onions, shaved cabbage, and sesame aioli over white rice
+
+Crispy Fried Chicken — $15.95
+Buttermilk fried chicken, shaved lettuce, pickled carrot and daikon, ginger scallion aioli, over white rice
+
+Salmon Katsu Bowl — $17.95
+Panko-crusted salmon, shaved lettuce, tomato, pickles, and cajun tartar sauce on white rice
+
+SNACKS
+
+Crispy Kirin Tots — $6.49(m) / $7.95(l)
+With your choice of sauce
+
+Loaded Kirin Tots — $7.95(m) / $11.95(l)
+Tots, sesame aioli, ginger scallion aioli, scallions, pickled red onions. Add Crispy Chicken (5.95), Braised Pork (6.95), Braised Beef (7.95), Panko Salmon (8.95)
+
+Fried Mantou Buns — $6.49
+Three fried mantou buns served with condensed milk
+
+Chilled Cucumber Salad — $6.49
+Cucumbers marinated in a house-made dressing. Sweet, savory, tangy, and a little spicy.
+
+Veggie Spring Roll — $6.49
+Four vegetarian spring rolls with sweet chili sauce
+
+Macaroni Salad — $6.49
+Korean banchan-inspired macaroni salad with green peas and sweet corn kernels
+
+Pho Broth — S $5.49 / L $10.95
+Vietnamese style bone marrow pho broth served with thinly sliced onions & scallions
+
+Sauces — +$0.95
+Sesame Aioli, Cajun Tartar, Ginger Scallion Aioli, Zesty
+
+BREAKFAST (Served all day)
+
+The Bodega — $8.49
+Your choice of bacon or spam, two runny eggs, american cheese, sesame aioli on a brioche bun
+
+The Hangover Cure — $11.95
+Bacon, spam, two runny eggs, hash brown, american cheese, sesame aioli, ginger scallion aioli on a brioche bun
+
+FOOTER: 81 St. Marks Place, NY NY, 10003 • (646) 398-9733 • littlekirin@eatlittlekirin.com

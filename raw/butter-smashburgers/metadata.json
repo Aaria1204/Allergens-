@@ -1,0 +1,23 @@
+{
+  "restaurant_name": "Butter Smashburgers",
+  "address": "17 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.buttersmashburgers.com/our-menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Plain fetch returned empty JS shell; rendered via Chrome successfully. Shared menu page covers both locations (17 St Marks Pl and 106 MacDougal St) without per-location distinction; explicitly confirms the St Marks Pl address, phone, and hours. No prices listed for any item. Monthly Specials section has bare dish names only, no descriptions/prices."
+    }
+  ],
+  "menu_source": {
+    "url": "https://www.buttersmashburgers.com/our-menu",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/butter-smashburgers/official-site-our-menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": true,
+  "manual_review_reason": "No prices are published anywhere on the official menu page; 'price' field is left as 'not listed' for all dishes. Monthly Specials list (11 of 12 months, including current July entry) contains only bare dish names with no descriptions, so those were excluded from normalization except for a minimal 'Unknown' record for the current-month special.",
+  "status": "complete"
+}

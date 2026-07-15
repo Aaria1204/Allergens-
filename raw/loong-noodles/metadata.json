@@ -1,0 +1,55 @@
+{
+  "restaurant_name": "Loong Noodles",
+  "address": "28 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://loongnoodle.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Rendered/static content extracted successfully via web fetch; no JS-shell issue. Address confirmed as 28 St Marks Pl, New York, NY directly on page. No cross-contact disclosure found."
+    },
+    {
+      "url": "https://www.loongnoodles.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Fetch returned empty content (likely a decoy/parked or misconfigured domain distinct from the actual official site loongnoodle.com, which is singular 'noodle' not plural 'noodles'). Not used."
+    },
+    {
+      "url": "https://order.toasttab.com/online/loong-noodles-28-saint-marks-place",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Used only as a corroborating cross-check; address matches (28 Saint Marks Place, New York, NY 10003) and menu content matches official site verbatim for core items. Additional combo-tier items and one extra out-of-stock item noted but not separately normalized due to lack of distinct description."
+    },
+    {
+      "url": "https://www.yelp.com/biz/loong-noodle-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Not fetched/used as menu evidence — search snippet only, superseded by higher-tier official source; per project rules snippets are not usable artifacts."
+    },
+    {
+      "url": "https://www.grubhub.com/restaurant/loong-noodle-28-st-marks-pl-new-york/8887088",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Not fetched — official site (loongnoodle.com) and Toast already provided a complete, current, location-matched menu, so lower-priority ordering platform duplicate was not pursued."
+    }
+  ],
+  "final_menu_source": {
+    "url": "https://loongnoodle.com/menu",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/loong-noodles/loongnoodle-com-menu.txt"
+  },
+  "secondary_corroborating_source": {
+    "url": "https://order.toasttab.com/online/loong-noodles-28-saint-marks-place",
+    "tier": "ordering",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/loong-noodles/toasttab-loong-noodles.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": false
+}

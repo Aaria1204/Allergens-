@@ -1,0 +1,26 @@
+{
+  "restaurant_name": "Anytime Street",
+  "address": "34 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://anytime-street-stmarks.res-menu.com/menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Fetched via mcp__workspace__web_fetch: empty HTML shell (no menu content in initial fetch). Escalated once to Claude-in-Chrome per policy; page rendered with fully empty body (read_page returned no elements after full JS execution). Site appears to be a defunct/abandoned res-menu.com template with no menu data ever loaded."
+    },
+    {
+      "url": "https://www.grubhub.com/restaurant/anytime-street-stmarks-34-st-marks-pl-new-york/3109669",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Fetched via mcp__workspace__web_fetch: JS shell requiring JavaScript (no content). Escalated to Claude-in-Chrome (same escalation budget as official-site attempt, per time-box policy allowing one escalation total). Page rendered and confirmed restaurant identity (name 'Anytime Street St.Marks', address '34 St Marks Pl, New York, NY 10003', phone (646) 329-5007 match target). However, only the 'Best Sellers' tab (3 combo items, prices only, no descriptions for 2 of 3) rendered by default; the 'Cupbop', 'Side Menu', and 'Soda' category tabs did not expand additional items within the time box, and clicking the Cupbop tab did not change the visible content. A handful of additional dish names/descriptions/prices were incidentally visible inside customer-review 'ordered:' tooltips (Fried Shrimp Cup-bop, Spicy Pork cup-bop, Chicken Teriyaki Cup-bop, Chicken Katsu Cup-bop, Combo 1), but this is not a genuinely complete menu extraction and was not used as menu evidence per the search-snippet/incomplete-source rejection rule."
+    }
+  ],
+  "menu_source": null,
+  "restaurant_identity_verified": true,
+  "manual_review_flag": true,
+  "manual_review_reason": "Identity confirmed (name, address, phone match on Grubhub listing) but no complete, current menu could be extracted within the 5-minute sourcing time box. Official site is an empty/defunct JS shell; Grubhub ordering page only partially rendered (Best Sellers category only, other categories did not expand).",
+  "status": "needs_revisit",
+  "status_reason": "No complete menu source obtained within time box: official site is a dead JS shell; Grubhub page partially rendered (Best Sellers only, other category tabs did not expand)."
+}

@@ -1,0 +1,73 @@
+Source URL: https://thursdaykitchen.com/wp-content/uploads/2026/05/drinkmunu20260527.pdf
+Tier: official
+Accessed at: 2026-07-14T00:00:00Z
+Limitations: PDF text extraction via automated fetch; layout/column order jumbled (prices, ABV, and region info interleaved oddly with drink names due to multi-column PDF layout); no explicit allergen labeling. Linked from https://thursdaykitchen.com/diningmenu/ (official site).
+
+--- RAW EXTRACTED TEXT ---
+
+Soju cocktails:
+MS.CUTETINI 13 - soju, muddled cucumber, lime juice
+RUBY THE GF 14 - soju, sparkling rose, grapefruit juice
+BLAH BLAH BLUE 13 - soju, blue curaçao, pineapple, lime juice
+PURE STRAWBERRY 14 - soju, muddled strawberry, yuzu
+LYCHEE REACH RICH 14 - soju, lychee, mango juice
+SOJU 'NEGRONI' 15 - soju, cappelletti, elderflower
+SOJU SOUR 14 - soju, fresh lemon juice, simple syrup tonic
+MATCHA TEA-NI 15 - soju, green tea, mint syrup, lemon juice
+ESPRESSO MARTINI 15 - soju, espresso liqueur, cold brew coffee concentrate
+POMEGRANATE RED SANGRIA 15 - pomegranate, cappelletti, red wine blend
+SPARKLING ROSÉ SANGRIA 14 - lychee, elderflower, soju, sparkling rose
+BOK BUN JA 25 - black raspberry wine 15% ABV
+EAST 9th SPRITZ 15 - lemon, yuzu, prosecco
+
+Non-alcoholic:
+YUZU TONIC 8 - strawberry, yuzu, tonic, lemon-lime soda
+GOLDEN PUNCH 8 - lychee, pineapple, lemon juice, tonic
+SARATOGA 5 - Still / Sparkling water NY - 12oz
+HOT TEA 4 - K-green / chai / jasmin green / moroccan mint; def ginger and turmeric, carroll gardens
+
+Wine (glass/half bottle/bottle or glass/375ml/750ml, various regions - France, Italy, Spain, Austria, California):
+Côtes-Du-Rhône (cuvee prestige) 12/55
+Tempranillo (venta morales) 12/55
+Cabernet Sauvignon (grayson) 13/59
+Melon de bourgogne (Muscadet Sevre-et-maine) 12/55
+Chardonnay x Sauvignon blanc (Langhe Bianco 'Dragon' blend) 14/61
+Chenin Blanc (Vouvray Sec Ammonite, Chateau Gaudrelle) 16/74
+Welschriesling pinot gris blend (Österreich Weisser Mulatschak, Meinklang) 14/61
+Orange skin-contact white blend (weinland 'naked white', Weingut Heinrich) 15/65
+Malbec (le pur fruit du causse, wilfrid rousse) 13/59
+sparkling ROSÉ (Pol Clément, los dos) 11/45
+PROSECCO DOC (trecase) 14/61
+Domaine du jas (southern rhone, france) - listed with glass/bottle pricing
+Pepiere (loire valley, france) - listed with glass/bottle pricing
+
+Sake (glass/1-2 bottle/bottle pricing varies):
+OZEKI 'champion' junmai
+SESSHU OTOKOYAMA 'man's mountain' 15/39/73 - tokubetsu junmai
+TOZAI NIGORI 'snow maiden' - nigori
+DASSAI 50 blue 'otter festival' - junmai daiginjo
+SUIGEI 'drunken whale' - tokubetsu junmai - 43/81
+ITAMI ONIGOROSHI 'demon slayer' - junmai
+SOTO - 76 - junmai
+
+Beer:
+SAPPORO DRAFT 6 - lager, south korea, 4.6% ABV, 12oz
+YUZU BEER 9 - yuzu, honey, lager
+GRAPEFRUIT BEER 9 - grapefruit, honey, lager
+TERRA 7 - pilsner, japan, 4.9% ABV, 12oz
+ECHIGO 8 - flying IPA, japan, 4.9% ABV, 16oz
+KIZAKURA 'LUCKY DOG' 9 - session IPA, japan, 4.9% ABV, 16oz
+TOKYO WHITE 10 - saison ale, niigata, japan, 6% ABV, 12oz
+KYOTO 'MATCHA IPA' 10 - japanese ipa, kyoto, japan, 8.5% ABV, 11oz
+SEVENBRAU 'SEOUL' 9 - soul ale, south korea, 5.5% ABV, 17oz
+OB 9 - pilsner, south korea, 4.6% ABV, 12oz
+
+Spirits/other:
+IL POOM JINRO 39 - rice soju, 24% ABV
+SEOL JOONG MAE 10/25 - plum specialty spirit, 14% ABV
+IICHIKO SHOCHU - japan 100% barley, 20% ABV
+HWAYO 23 12/32 - rich aroma of rice soju, 23% ABV
+MAKGEOLLI - JI PYEONG 11/25 - unfiltered rice wine, 5.6% ABV
+
+Please notify the server if you have any food allergies or dietary restrictions. Although we do not make any substitution on the menu, our server will inform you what dish you may safely enjoy.
+**20% GRATUITY WILL BE ADDED TO LARGER PARTY 6+**

@@ -1,0 +1,182 @@
+Source: Yelp — Kenka menu tab
+URL: https://www.yelp.com/menu/kenka-new-york
+Accessed: 2026-07-14T00:00:00Z
+Yelp disclaimer on page: "Menu may not be up to date. Submit corrections."
+
+Salad
+Green Salad — $3.00
+Hiyashi Tomato — Sliced Tomato — $3.00
+Onion Salad — $3.00
+Potato Salad — $3.50
+Seaweed salad — $3.00
+Pirikara Maguro Salad — Pirikara maguro salad — $6.50
+
+Grilled
+Saba No Shioyaki — Grilled mackerel — $5.50
+Hamachi No Kamayaki — Grilled yellow tail neck — $7.00
+Hamaguri No Shioyaki — Grilled clams — $5.00
+Sanma No Shioyaki — Grilled mackerel pike — $5.50
+Toro Toro Yaki — Grilled fatty tuna — $6.50
+Ika Yaki Bbq Squid — $5.50
+Yakitori — Skewered bbq chicken — $4.00
+Ika Geso Kushiyaki — Skewered squid legs — $5.00
+Shake No Hara — Salmon belies — $6.50
+Hokke No Shioyaki — Grilled atka mackerel — $7.00
+Uzura No Kushiyaki — Skewered bbq quail — $6.50
+Shake No Shioyaki — Grilled salted salmon — $5.50
+Yaki Morokoshi — Grilled corn on the cob with special sweet sauce — $2.50
+
+Ochazuke & Porridge
+Ochazuke — A bowl of rice in fish broth — $4.00
+Shake Chazuke — A bowl of rice with salmon in fish broth — $4.50
+Ume Chazuke — A bowl of rice with plum in fish broth — $4.50
+Konbu Chazuke — A bowl of rice with konbu seaweed in fish broth — $4.50
+Mentai Chazuke — A bowl of rice with spiced cod fish roe in fish broth — $5.00
+Tori Zousui — Porridge of rice and chicken — $5.00
+Shake Zousui — Porridge of rice and salmon — $5.00
+
+Rice Ball
+Onigiri — Two pieces of rice balls — $3.00
+Ume Onigiri — Two pieces of rice balls with plum — $3.50
+Konbu Onigiri — Two pieces of rice balls with konbu seaweed — $3.50
+Shake Onigiri — Two pieces of rice balls with salmon — $3.50
+Okaka Onigiri — Two pieces of rice balls with bonito flakes — $3.50
+Mentai Onigiri — Two pieces of rice balls with spiced cod fish roe — $4.00
+Miso Yakionigiri — Two pieces of grilled rice ball with miso paste — $3.50
+Yaki Onigiri — Two pieces of grilled rice ball — $3.50
+
+Served In The Pot
+(Nabe dishes: hearty wintertime specialty, prepared from chicken or meat and vegetables in a bubbling cauldron)
+Motsu Nabe — Beef intestines boiled with leeks cabbage and red pepper simmered in special miso soup — $15.00
+Buta Nabe — Pork tofu and vegetables simmered in fish broth — $15.00
+Ishikari Nabe — Salmon, tofu, and vegetable simmered in special miso soup — $15.00
+Tori Nabe — Chicken, tofu and vegetables simmered in fish broth — $15.00
+Kaisen Nabe — Clam, squid, salmon, tofu and vegetables simmered in fish broth — $18.00
+Kimchee Nabe — Kimchee pot with pork, chives, beansprouts and tofu — $15.00
+Chanko Naba — Chicken, seafood, tofu and vegetables simmered in fish broth — price not listed
+
+Rice Bowl
+Yakiniku Don — A bowl of rice topped with japanese stir-fried bbq beef and vegetables — $6.50
+Konoha Don — A bowl of rice topped with fish cake, vegetables and eggs — $5.50
+Tanin Don — A bowl of rice topped with beef and eggs — $5.50
+Oyako Don — A bowl of rice topped with chicken and eggs — $5.50
+Katsu Don — A bowl of rice topped with pork cutlet and eggs — $5.50
+Chuka Don — A bowl of rice topped with pork, seafood and vegetables with brown sauce — $6.50
+Yakimeshi — Japanese style pork fried rice — $5.50
+Curry Rice — Japanese curry over rice — $5.50
+Omurice — Chicken fried rice wrapped with egg omelette — $6.50
+Tenshinhan — A bowl of rice topped with egg omelette (vegetables, crab meat) and sweet sauce — $6.00
+Gyu Don — A bowl of rice topped with beef — $5.50
+Una Don — A bowl of rice topped with grilled eel — $6.00
+
+Sashimi & Tataki
+Kaibutsu Namagaki — Fresh monster oyster — $7.00
+Katsuo Tataki — Seared bonito with ponzu sauce — $5.50
+Gyu Tataki — Rare beef with ponzu sauce — $5.50
+Negitoro — Chopped fatty tuna with scallion — $5.50
+Ankimo — Angler liver — $5.50
+Maguro Yamakake — Tuna sashimi with grated japanese taro — $6.50
+Maguro Tuna — $5.50
+Shime Saba — Mackerel — $4.50
+Salmon — $5.50
+Namagaki — Fresh oysters — $6.00
+Toro Sashimi — Sashimi fatty tuna — $7.50
+Sashimi Moriawase — Combination sashimi, basically tuna, salmon, mackerel, and bonito (9p 4 kind of sashimi) — $8.50
+
+Noodles
+Curry Udon, Soba Udon — Soba noodle with japanese beef curry soup — $5.00
+Ramen — Ramen noodle soup — $5.00
+Niku Udon, Soba Udon — Soba noodle soup with beef — $5.00
+Yaki Soba — Fried noodle with pork, squid and vegetables — $5.00
+Yaki Udon — Fried udon noodle with pork, squid and vegetables — $5.50
+Kitsune Udon, Soba Udon — Soba noodle with fried bean curd — $4.50
+Su Udon, Soba Udon — Soba noodle soup — $3.50
+Tanuki Udon, Soba Udon — Soba noodle soup with fried crumbs — $4.50
+Zaru Udon, Soba Cold Udon — Soba noodles — $4.50
+Taiwan Ramen — Ramen noodle soup with spicy minced pork and chinese chives — $6.00
+
+Combination Plate (served with rice, miso soup and salad)
+Rebanira Teishoku — Stir-fried chinese chives, beansprouts, and liver — $7.00
+Yasai Itame Teishoku — Stir-fried vegetables — $6.50
+Kaki Fry Teishoku — Deep fried breaded oyster — $7.00
+Tonkatsu Teishoku — Pork cutlet — $7.00
+Ebi Fry Teishoku — Deep fried breaded shrimp — $7.00
+Gyouza Teishoku — Pan-fried pork dumplings — $6.00
+Yakiniku Teishoku — Japanese stir-fried bbq beef and vegetables — $7.50
+Hamburg Teishoku — Hamburg steak — $7.50
+Buta Shouga Teishoku — Pan-fried pork with ginger — $7.00
+Kara Age Teishoku — Fried chicken — $6.00
+Ramen Teishoku — Ramen noodles — $6.50
+Sanma Teishoku — Grilled mackerel pike — $7.00
+Shiojake Teishoku — Grilled salted salmon — $7.00
+Saba Teishoku — Grilled mackerel — $7.00
+Okasama Lunch — Kid's meal — $6.00
+
+Stir Fried
+Rebanira Itame — Liver, chive & beansprouts — $5.50
+Buta Kimchee — Pan-fried pork with kimchee — $5.50
+Horumon Itame — Pan-fried beef intestines — $5.50
+Yakiniku Japanese — Stir-fried bbq beef & vegetables — $6.00
+Yasai Itame — Stir-fried vegetables — $5.00
+Shoga Yaki — Stir-fried pork seasoned with ginger — $5.50
+
+Deep Fried
+Aji Fry — Deep fried breaded horse mackerel — $4.50
+Tori Kara — Age fried chicken wing — $4.50
+Cream Croquette — Deep fried white sauce with minced crab meat — $5.00
+Kushi Katsu — Skewered pork cutlet — $4.50
+Kaki Fry — Deep fried oyster — $5.50
+Kaeru No Kara Age — Fried frog — $8.00
+Tonkatsu Pork Cutlet — $5.50
+Ebi Fry — Deep fried breaded shrimp — $5.50
+Croquette — Deep fried mashed potato — $4.50
+Ika Geso Kara Age — Fried squid legs — $4.50
+French Fries — $3.00
+
+A La Carte / Speed Menu
+Edamame — Boiled soy beans — $1.00
+Tako Wasabi — Salted raw octopus with wasabi flavor — $3.50
+Kimchee — Kimchee pickles — $2.50
+Asa Zuke — Japanese pickles — $2.50
+Shiokara — Salted raw squid — $2.50
+Shirasu Oroshi — Dried whitebait with grated radish — $3.50
+Hiya Yakko — Cold tofu — $3.50
+Ton Soku — Steamed pig feet — $4.00
+Buta No Kakuni — Stewed pork — $4.50
+Niku Jaga — Potato and beef stewed with soy sauce — $4.00
+Harumaki — Spring rolls (3p) — $4.50
+Shumai — Steamed dumplings, choice of pork (4p) or shrimp (5p) — $4.50
+Gyoza — Pan-fried dumplings (5p), choice of pork or vegetables — $4.50
+Charsu — Sliced roasted pork — $5.00
+Agedashi Tofu — Lightly fried tofu in tempura sauce with bonito flakes — $3.50
+Okonomiyaki — Japanese pancake w/ pork squid and vegetables — $5.00
+Moro Q — Cucumber with miso dipping — $3.00
+Arabiki Wiener — Grilled sausage — $3.50
+Mentai Kyuri — Cucumber with spiced cod fish roe dipping — $4.00
+Chawanmushi — Steamed egg custard with assorted ingredients — $5.50
+Natta — Fermented soybeans — $3.00
+Ohitashi — Boiled spinach with sesame & bonito flakes — $2.50
+Yaki Nasu — Eggplant in tempura sauce topped with bonito flakes — $4.00
+Hijiki — Pan-fried black seaweed with vegetables — $3.00
+Oden — Japanese hotpot — $4.50
+Satsuma Age — Grilled fish cake — $3.50
+Yu Dofu — Boiled tofu with soy sauce base dip — $4.00
+Yamaimo Senbongiri — Julienned japanese taro — $4.50
+Dengaku — Grilled tofu with miso paste — $4.50
+Motsu Ni — Stewed beef intestines in miso flavored soup — $4.50
+Hotate Butter — Grilled scallop with butter (2p) — $4.50
+Namako Su — Marinated sea cucumber — $4.50
+Aspara Bacon — Asparagus wrapped with bacon — $4.00
+Takoyaki — Japanese grilled flour balls with octopus (6p) — $5.00
+Sparerib Bbq Ribs — $5.00
+Kinoko Butter — Sauteed mushrooms (shitake, enoki, and oyster mushrooms) — $5.00
+Hamburg Hamburg Steak — $6.00
+
+Dessert
+Ice Cream — Choice of vanilla, green tea, red bean — $2.50
+Anmitsu Cubes — White translucent jelly made from seaweed served with sweet bean paste and vanilla ice cream — $4.00
+Mochi Ice Cream — Two pieces of rice cake ice cream, choice of vanilla, green tea, and red bean — $3.50
+Green Tea Float — $3.50
+Coke Float — $2.50
+
+(Note: page also displayed an "Okonomiyaki" entry at $100.00 JPY on the restaurant's own kenkanewyork.com site, which appears to be a data error / low-quality auto-generated placeholder; kenkanewyork.com and its alias mykenkanyc.com were not used as the menu source for this reason — see metadata.json.)

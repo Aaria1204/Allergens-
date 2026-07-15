@@ -1,0 +1,72 @@
+{
+  "restaurant_name": "Crispiano",
+  "address": "130 St Marks Pl, New York, NY 10009, USA",
+  "restaurant_identity_verified": true,
+  "manual_review_flag": false,
+  "sources_checked": [
+    {
+      "url": "https://crispiano.com/mainmenu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "JS-rendered page; empty via plain HTTP fetch, required browser rendering to extract visible text. No allergen/cross-contact disclosures present."
+    },
+    {
+      "url": "https://crispiano.com/happy-hour-menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "JS-rendered page; empty via plain HTTP fetch, required browser rendering to extract visible text. No allergen/cross-contact disclosures present. Supplements main menu with a few happy-hour-only pizza/pasta variants and consolidated beverage list."
+    },
+    {
+      "url": "https://www.crispianopizzabar.com/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Not fetched; appears to be an SEO/aggregator-style domain distinct from the restaurant's actual official site (crispiano.com). crispiano.com provided a complete, current, location-matched menu, so this was not needed."
+    },
+    {
+      "url": "https://slicelife.com/restaurants/ny/new-york/10009/crispiano-pizza-bar/menu",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Not fetched; official site menu was complete and current, so lower-tier ordering source was not needed."
+    },
+    {
+      "url": "https://www.grubhub.com/restaurant/crispiano-130-st-marks-pl-new-york/3314615",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Not fetched; official site menu was complete and current, so lower-tier ordering source was not needed."
+    },
+    {
+      "url": "https://www.seamless.com/menu/crispiano-130-st-marks-pl-new-york/3314615",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Not fetched; official site menu was complete and current, so lower-tier ordering source was not needed."
+    },
+    {
+      "url": "https://www.yelp.com/biz/crispiano-pizza-bar-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Not fetched; last-resort tier, not needed since official site was complete."
+    }
+  ],
+  "final_menu_source": [
+    {
+      "url": "https://crispiano.com/mainmenu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/crispiano/main_menu.txt"
+    },
+    {
+      "url": "https://crispiano.com/happy-hour-menu",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/crispiano/happy_hour_menu.txt"
+    }
+  ],
+  "notes": "Address 130 St Marks Pl, New York, NY 10009 confirmed consistent across official site, Yelp, Grubhub, and Seamless listings. No decoy/wrong-location menu encountered for this restaurant. Both crispiano.com pages required browser rendering (plain HTTP fetch returned empty JS shell)."
+}

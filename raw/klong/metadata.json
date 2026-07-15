@@ -1,0 +1,71 @@
+{
+  "restaurant_name": "Klong",
+  "address": "7 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "http://klongthainyc.com/menu.html",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Landing page linking to 4 PDF menus (Lunch, Dinner, Drink, Dessert); address on page matches (7 Saint Mark's Place, New York, NY 10003)."
+    },
+    {
+      "url": "http://klongthainyc.com/menus/dinnerMenu.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "PDF text extraction flattened layout; GF/VG icon markers could not be reliably mapped to specific dishes so were not relied upon for allergen determinations."
+    },
+    {
+      "url": "http://klongthainyc.com/Lunch.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "PDF text extraction jumbled column order for lunch special protein/noodle/curry options; reconstructed via adjacency, treated as best-effort."
+    },
+    {
+      "url": "http://klongthainyc.com/drink.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Straightforward drink list extraction."
+    },
+    {
+      "url": "http://klongthainyc.com/dessert.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Prices listed separately from dish names at bottom of extraction; matched sequentially, approximate mapping."
+    }
+  ],
+  "menu_source": {
+    "url": "http://klongthainyc.com/menus/dinnerMenu.pdf",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/klong/dinner_menu.txt"
+  },
+  "additional_menu_sources": [
+    {
+      "url": "http://klongthainyc.com/Lunch.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/klong/lunch_menu.txt"
+    },
+    {
+      "url": "http://klongthainyc.com/drink.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/klong/drink_menu.txt"
+    },
+    {
+      "url": "http://klongthainyc.com/dessert.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "local_artifact": "raw/klong/dessert_menu.txt"
+    }
+  ],
+  "restaurant_identity_verified": true,
+  "manual_review_flag": true,
+  "manual_review_reason": "Lunch menu PDF text extraction had jumbled column ordering for the lunch-special protein/noodle/curry option groupings; dish-to-description mapping in dinner and dessert menus is reconstructed from adjacency in flattened PDF text and should be spot-checked against the visual PDF layout. Panang Curry and Massaman Curry appear without explicit ingredient lists in some spots.",
+  "status": "complete"
+}

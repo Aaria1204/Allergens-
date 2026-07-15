@@ -1,0 +1,51 @@
+{
+  "restaurant_name": "Yakitori Taisho",
+  "address": "9 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d522730-Reviews-Yakitori_Taisho-New_York_City_New_York.html",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Only a search-result snippet was reviewed (not fetched/rendered); not used as menu evidence per policy."
+    },
+    {
+      "url": "https://www.yelp.com/biz/yakitori-taisho-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Search result title indicates this Yelp listing (5 St Marks Pl, not 9 St Marks Pl) is marked 'YAKITORI TAISHO - CLOSED'. Wrong address for this restaurant and marked closed; not fetched further."
+    },
+    {
+      "url": "https://www.yelp.com/biz/oh-taisho-new-york",
+      "tier": "yelp",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Search result shows an active Yelp listing for 'OH TAISHO' at 9 St Marks Pl (the correct address), suggesting the business at this address may now operate under the name 'Oh Taisho'. Not fetched in detail; noted as an identity-verification signal only, not used as menu source."
+    },
+    {
+      "url": "https://www.grubhub.com/restaurant/oh-taisho-9-st-marks-pl-new-york/1216586",
+      "tier": "ordering",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": false,
+      "limitation": "Grubhub page for 'Oh Taisho' at this address returned an empty JavaScript-shell page on fetch (no menu content rendered); would require Chrome escalation to render, which was not pursued given time-box and because an already-usable detailed source (grubbio.com) was found."
+    },
+    {
+      "url": "https://yakitori-taisho.grubbio.com/menu",
+      "tier": "google_maps",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Third-party menu aggregator/directory site (grubbio.com), not the restaurant's own site or a restaurant-controlled ordering platform. Content is detailed and internally consistent (116 items across 15 categories with prices), and the listed address (9 St Marks Pl, New York, NY 10003) matches the target restaurant exactly. No allergen disclosures or cross-contact statements present on the page."
+    }
+  ],
+  "menu_source": {
+    "url": "https://yakitori-taisho.grubbio.com/menu",
+    "tier": "google_maps",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/yakitori-taisho/grubbio-menu.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": true,
+  "manual_review_reason": "Web search shows a Yelp listing for 'YAKITORI TAISHO' marked CLOSED (at a different address, 5 St Marks Pl), while an active Yelp listing for 'OH TAISHO' exists at the target address (9 St Marks Pl). This suggests the restaurant at 9 St Marks Pl may have been renamed/rebranded from Yakitori Taisho to Oh Taisho. The menu source used (grubbio.com aggregator) lists the business under the name 'Yakitori Taisho' at the correct address with a menu that itself references 'Oh! Taisho Don' as a specialty dish, consistent with a naming transition. Address match is exact and menu content appears genuine, but the name discrepancy should be manually verified (e.g., is this restaurant now operating as 'Oh Taisho', and if so is the sourced menu still current?).",
+  "status": "complete"
+}

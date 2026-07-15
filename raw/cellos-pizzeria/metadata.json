@@ -1,0 +1,30 @@
+{
+  "restaurant_name": "Cello's Pizzeria",
+  "address": "36 St Marks Pl, New York, NY 10003, USA",
+  "sources_checked": [
+    {
+      "url": "https://www.cellosnyc.com/",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "Landing page itself has no menu content; linked to menu PDF."
+    },
+    {
+      "url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf",
+      "tier": "official",
+      "accessed_at": "2026-07-14T00:00:00Z",
+      "usable": true,
+      "limitation": "PDF text extraction flattened the visual table layout; pizza whole-pie/slice prices were reconstructed by positional order-matching rather than confirmed cell-by-cell. Confirms address 36 St Marks Pl New York NY 10003 and phone/site match. No allergen or ingredient disclosures present beyond salad ingredient lists."
+    }
+  ],
+  "menu_source_used": {
+    "url": "https://www.cellosnyc.com/s/Cellos-Pizza-Menu.pdf",
+    "tier": "official",
+    "accessed_at": "2026-07-14T00:00:00Z",
+    "local_artifact": "raw/cellos-pizzeria/cellosnyc-menu-pdf.txt"
+  },
+  "restaurant_identity_verified": true,
+  "manual_review_flag": true,
+  "manual_review_reason": "Pizza whole-pie vs. slice price pairing was reconstructed from a flattened PDF text extraction (two blocks of 11 numbers matched by order to 11 pizza names); recommend re-verifying against a rendered/visual view of the PDF if precision on pricing matters.",
+  "status": "complete"
+}
