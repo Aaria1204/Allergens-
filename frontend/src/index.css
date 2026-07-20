@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --font-heading: "Unbounded", sans-serif;
+  --font-body: "Karla", sans-serif;
+
+  --color-ink: #4a2c1d;
+  --color-muted: #8b6b5a;
+  --color-brand: #16452a;
+  --color-accent: #c33e00;
+  --color-cream: #fff7f2;
+  --color-hairline: #f2e6e0;
+  --color-surface: #fffdfb;
+  --color-selected: #4a2b1c;
+  --color-map: #ebedf0;
+  --color-tag: rgba(241, 203, 184, 0.5);
+  --color-tag-ink: #6e2920;
+}
+
+body {
+  margin: 0;
+}
