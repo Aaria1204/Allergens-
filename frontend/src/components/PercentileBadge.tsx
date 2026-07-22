@@ -15,10 +15,11 @@ export function PercentileBadge({ percentile }: { percentile: number | null }) {
 
   return (
     <span
-      className="inline-flex w-fit items-center rounded-md px-2.5 py-1 font-body text-xs font-bold"
+      className="inline-flex w-fit flex-col items-center rounded-md px-2.5 py-1 font-body leading-none"
       style={{ backgroundColor: badgeBg, color: badgeText }}
     >
-      {Math.round(percentile)}% Safe Match for You
+      <span className="text-lg font-bold">{Math.round(percentile)}%</span>
+      <span className="mt-0.5 text-[10px] font-bold uppercase tracking-wide">Safe</span>
     </span>
   )
 }

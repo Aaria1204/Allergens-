@@ -1,5 +1,15 @@
+import { lazy, Suspense } from 'react'
 import type { Allergen, Restaurant, RestaurantMenu } from '../api/restaurants'
-import { MenuPanel } from './MenuPanel'
+
+const MenuPanel = lazy(() => import('./MenuPanel').then((m) => ({ default: m.MenuPanel })))
+
+function MenuPanelFallback() {
+  return (
+    <div className="flex h-full items-center justify-center px-6 text-center">
+      <p className="font-body text-[13px] text-muted">Loading…</p>
+    </div>
+  )
+}
 
 function StatRow({ label, value }: { label: string; value: string }) {
   return (
@@ -61,15 +71,17 @@ export function RightPanel({
     <>
       <aside className="hidden w-[330px] shrink-0 overflow-x-hidden overflow-y-auto border-l border-hairline bg-surface md:block">
         {menuRestaurant ? (
-          <MenuPanel
-            restaurant={menuRestaurant}
-            menu={menuData}
-            loading={menuLoading}
-            error={menuError}
-            activeAllergens={activeAllergens}
-            onExit={onExitMenu}
-            onRetry={onRetryMenu}
-          />
+          <Suspense fallback={<MenuPanelFallback />}>
+            <MenuPanel
+              restaurant={menuRestaurant}
+              menu={menuData}
+              loading={menuLoading}
+              error={menuError}
+              activeAllergens={activeAllergens}
+              onExit={onExitMenu}
+              onRetry={onRetryMenu}
+            />
+          </Suspense>
         ) : (
           <NoSelectionPanel restaurants={restaurants} />
         )}
@@ -81,15 +93,17 @@ export function RightPanel({
         }`}
       >
         {menuRestaurant && (
-          <MenuPanel
-            restaurant={menuRestaurant}
-            menu={menuData}
-            loading={menuLoading}
-            error={menuError}
-            activeAllergens={activeAllergens}
-            onExit={onExitMenu}
-            onRetry={onRetryMenu}
-          />
+          <Suspense fallback={<MenuPanelFallback />}>
+            <MenuPanel
+              restaurant={menuRestaurant}
+              menu={menuData}
+              loading={menuLoading}
+              error={menuError}
+              activeAllergens={activeAllergens}
+              onExit={onExitMenu}
+              onRetry={onRetryMenu}
+            />
+          </Suspense>
         )}
       </div>
     </>

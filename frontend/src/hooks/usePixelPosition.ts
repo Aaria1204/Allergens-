@@ -11,7 +11,12 @@ export function usePixelPosition(
   map: google.maps.Map | null,
   position: google.maps.LatLngLiteral | null,
 ) {
-  const [pixel, setPixel] = useState<{ x: number; y: number } | null>(null)
+  const [pixel, setPixel] = useState<{
+    x: number
+    y: number
+    containerWidth: number
+    containerHeight: number
+  } | null>(null)
   const overlayRef = useRef<google.maps.OverlayView | null>(null)
 
   useEffect(() => {
@@ -60,6 +65,8 @@ export function usePixelPosition(
       setPixel({
         x: point.x + container.clientWidth / 2,
         y: point.y + container.clientHeight / 2,
+        containerWidth: container.clientWidth,
+        containerHeight: container.clientHeight,
       })
     }
 

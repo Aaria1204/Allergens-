@@ -41,7 +41,7 @@ function FilterChip({
     <button
       type="button"
       onClick={onClick}
-      className={`inline-flex items-center gap-1 rounded-full border px-3 py-1.5 font-body text-[13px] font-bold ${
+      className={`inline-flex shrink-0 items-center gap-0.5 rounded-full border px-2 py-1.5 font-body text-xs font-bold whitespace-nowrap ${
         active ? 'border-transparent text-white' : 'border-hairline bg-white text-ink'
       }`}
       style={active ? { backgroundColor: color } : undefined}
@@ -141,24 +141,30 @@ export function MenuPanel({
       </div>
 
       <div className="shrink-0 border-b border-hairline px-6 py-4">
-        <h2 className="font-heading text-lg font-bold break-words text-ink">{restaurant.name}</h2>
-        <div className="mt-1 flex flex-wrap items-center gap-2">
-          <span className="flex items-center gap-1">
-            {restaurant.google_rating != null && <GoogleMapsLogo className="h-3.5 w-auto shrink-0" />}
-            <span className="font-body text-[13px] text-ink">
-              {restaurant.google_rating != null
-                ? `${restaurant.google_rating.toFixed(1)} stars`
-                : 'Rating unavailable'}
-            </span>
-          </span>
-          {restaurant.vibe_tag && (
-            <span className="rounded-md bg-hairline px-2 py-0.5 font-body text-xs text-ink">
-              {restaurant.vibe_tag}
-            </span>
-          )}
-        </div>
-        <div className="mt-2">
-          <PercentileBadge percentile={restaurant.allergen_percentile} />
+        <div className="flex items-start justify-between gap-3">
+          <div className="min-w-0">
+            <h2 className="font-heading text-lg font-bold break-words text-ink">{restaurant.name}</h2>
+            <div className="mt-1 flex flex-wrap items-center gap-2">
+              <span className="flex items-center gap-1">
+                {restaurant.google_rating != null && (
+                  <GoogleMapsLogo className="h-3.5 w-auto shrink-0" />
+                )}
+                <span className="font-body text-[13px] text-ink">
+                  {restaurant.google_rating != null
+                    ? `${restaurant.google_rating.toFixed(1)} stars`
+                    : 'Rating unavailable'}
+                </span>
+              </span>
+              {restaurant.vibe_tag && (
+                <span className="rounded-md bg-hairline px-2 py-0.5 font-body text-xs text-ink">
+                  {restaurant.vibe_tag}
+                </span>
+              )}
+            </div>
+          </div>
+          <div className="shrink-0">
+            <PercentileBadge percentile={restaurant.allergen_percentile} />
+          </div>
         </div>
       </div>
 
@@ -193,7 +199,7 @@ export function MenuPanel({
 
       {menu && !loading && !error && menu.dishes.length > 0 && (
         <>
-          <div className="flex shrink-0 flex-wrap items-center gap-2 border-b border-hairline px-6 py-4">
+          <div className="flex shrink-0 flex-nowrap items-center gap-1 overflow-x-auto border-b border-hairline px-6 py-4">
             {FILTERS.map(({ key, label, color }) => (
               <FilterChip
                 key={key}

@@ -29,13 +29,18 @@ export function Navbar({
         </button>
         <div className="flex flex-col leading-tight">
           <span className="font-heading text-[22px] font-bold text-brand">peínao</span>
-          <span className="font-body text-[11px] text-muted">A safer way to eat out</span>
+          <span className="hidden font-body text-[11px] text-muted md:block">
+            A safer way to eat out
+          </span>
         </div>
       </div>
 
-      <div className="flex items-center gap-2 rounded-full border border-hairline bg-cream px-4 py-2">
+      <div className="flex shrink-0 items-center gap-2 rounded-full border border-hairline bg-cream px-4 py-2">
         <LocationDot />
-        <span className="font-body text-[13px] font-bold text-ink">Saint Marks, New York</span>
+        <span className="font-body text-[13px] font-bold whitespace-nowrap text-ink">
+          <span className="md:hidden">Saint Marks, NY</span>
+          <span className="hidden md:inline">Saint Marks, New York</span>
+        </span>
       </div>
     </header>
   )
