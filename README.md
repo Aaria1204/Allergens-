@@ -3,7 +3,7 @@
 # Overview
 When my friends and I would go out to eat, we never went to a Thai place, because we didn't know if they could accommodate peanut allergies. We always picked from the same narrow list of restaurants we already trusted, and I no longer wanted to do that. Peináo helps people with food allergies figure out which restaurants are actually safe for them, not just the small handful they already know are safe. It started as a small tool for Claremont Village and grew into a project covering St. Marks Place in New York, combining menu classification, allergen risk scoring, and Google reviews into one simple score per restaurant.
 
-#Prototype 1: Claremont Village
+# Prototype 1: Claremont Village
 
 What I built
 Manually downloaded menus from restaurant websites and cleaned up the formatting so the LLM could parse them accurately.
